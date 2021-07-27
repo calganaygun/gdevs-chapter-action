@@ -12,8 +12,8 @@ chapterTypes.forEach(async (chapterType) => {
     let chapters = [];
     allRegionsData.forEach(regionData => {
         Array.prototype.push.apply(chapters, regionData.chapters);
-        fs.writeFile(`${chapterType}_chapters.json`, JSON.stringify(chapters), (err) => { if(err){ console.error(err);  return;}});
+        fs.writeFile(`${chapterType}_chapters.json`, JSON.stringify(chapters, null, 1), (err) => { if(err){ console.error(err);  return;}});
     });
-    index.clearObjects();
+    chapters = chapters.map(obj => {return {objectID: obj.id, ...obj}})
     index.saveObjects(chapters, { autoGenerateObjectIDIfNotExist: true });
 })
