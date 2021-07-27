@@ -20,7 +20,7 @@ chapterTypes.forEach(async (chapterType) => {
   allRegionsData.forEach((regionData) => {
     Array.prototype.push.apply(chapters, regionData.chapters);
     fs.writeFile(
-      `${chapterType}_chapters.json`,
+      `chapters_data/${chapterType}_chapters.json`,
       JSON.stringify(chapters, null, 1),
       (err) => {
         if (err) {
