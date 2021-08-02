@@ -9002,7 +9002,14 @@
   "latitude": 37.07,
   "logo": {},
   "longitude": 37.39,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Gaziantep%2520Light%2520Horizontal-Logo.png",
+   "path": "chapter_banners/GDG Gaziantep Light Horizontal-Logo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Gaziantep%2520Light%2520Horizontal-Logo.png"
+  },
   "state": "",
   "title": "GDG Gaziantep",
   "relative_url": "/gdg-gaziantep/",
@@ -13987,12 +13994,12 @@
   },
   "longitude": -4.0082563,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Google%2520Developer%2520Groups%2520Chapter_%2520Facebook%2520Banners.png",
-   "path": "chapter_banners/Google Developer Groups Chapter_ Facebook Banners.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Google%2520Developer%2520Groups%2520Chapter_%2520Homepage%2520Image.png",
+   "path": "chapter_banners/Google Developer Groups Chapter_ Homepage Image.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Google%2520Developer%2520Groups%2520Chapter_%2520Facebook%2520Banners.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Google%2520Developer%2520Groups%2520Chapter_%2520Homepage%2520Image.png"
   },
   "state": "Abidjan Autonomous District",
   "title": "GDG Cloud Abidjan",

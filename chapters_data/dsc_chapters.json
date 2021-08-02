@@ -24619,7 +24619,14 @@
   "latitude": 27.1465064,
   "logo": {},
   "longitude": 93.71939359999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/LRM_EXPORT_525174686052937-E.jpeg",
+   "path": "chapter_banners/LRM_EXPORT_525174686052937-E.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/LRM_EXPORT_525174686052937-E.jpeg"
+  },
   "state": "",
   "title": "National Institute of Technology (NIT), Arunachal Pradesh",
   "relative_url": "/national-institute-of-technology-nit-arunachal-pradesh/",
@@ -27048,7 +27055,14 @@
   "latitude": 40.2042051,
   "logo": {},
   "longitude": -87.14778629999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%25202021-08-02%2520at%252010.44.29%2520AM.png",
+   "path": "chapter_banners/Screenshot 2021-08-02 at 10.44.29 AM.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%25202021-08-02%2520at%252010.44.29%2520AM.png"
+  },
   "state": "",
   "title": "Sister Nivedita University",
   "relative_url": "/sister-nivedita-university/",
