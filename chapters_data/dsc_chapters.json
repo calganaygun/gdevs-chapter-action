@@ -119,7 +119,14 @@
   "latitude": 42.3732216,
   "logo": {},
   "longitude": -72.5198537,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Amherst%2520College%2520Logo%2520x1.png",
+   "path": "chapter_banners/DSC Amherst College Logo x1.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Amherst%2520College%2520Logo%2520x1.png"
+  },
   "state": "",
   "title": "Amherst College",
   "relative_url": "/amherst-college/",
@@ -2455,20 +2462,6 @@
   "title": "St. John's University",
   "relative_url": "/st-johns-university/",
   "url": "https://gdsc.community.dev/st-johns-university/"
- },
- {
-  "active": true,
-  "city": "Stanford",
-  "country": "US",
-  "id": 1320,
-  "latitude": 37.4274745,
-  "logo": {},
-  "longitude": -122.169719,
-  "picture": {},
-  "state": "",
-  "title": "Stanford university",
-  "relative_url": "/stanford-university/",
-  "url": "https://gdsc.community.dev/stanford-university/"
  },
  {
   "active": true,
@@ -4968,9 +4961,23 @@
   "country": "HN",
   "id": 1507,
   "latitude": 15.5038827,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UNAH.png",
+   "path": "chapter_banners/GDSC UNAH.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UNAH.png"
+  },
   "longitude": -88.01386190000001,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Sticker%2520-%2520Grid%2520Border_tQSFntD.png",
+   "path": "chapter_banners/Google Developer Student Clubs Chapter_ Sticker - Grid Border_tQSFntD.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Sticker%2520-%2520Grid%2520Border_tQSFntD.png"
+  },
   "state": "",
   "title": "UNAH Universidad Nacional Autónoma de Honduras",
   "relative_url": "/unah-universidad-nacional-autonoma-de-honduras/",
@@ -5005,7 +5012,14 @@
   "latitude": 25.7493469,
   "logo": {},
   "longitude": -100.2868973,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/facebook_banner.png",
+   "path": "chapter_banners/facebook_banner.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/facebook_banner.png"
+  },
   "state": "",
   "title": "Universidad Autonoma de Nuevo León",
   "relative_url": "/universidad-autonoma-de-nuevo-leon/",
@@ -5278,7 +5292,14 @@
   "latitude": -16.489689,
   "logo": {},
   "longitude": -68.11929359999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/encabezado01.jpeg",
+   "path": "chapter_banners/encabezado01.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/encabezado01.jpeg"
+  },
   "state": "",
   "title": "Universidad Mayor de San Andres",
   "relative_url": "/universidad-mayor-de-san-andres/",
@@ -25957,12 +25978,12 @@
   "logo": {},
   "longitude": 144.9630576,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Geeky%2520Google%2520Tech%2520Talks%2520Background.png",
-   "path": "chapter_banners/Geeky Google Tech Talks Background.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GCP%2520Workshop%2520Background%2520Image.png",
+   "path": "chapter_banners/GCP Workshop Background Image.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Geeky%2520Google%2520Tech%2520Talks%2520Background.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GCP%2520Workshop%2520Background%2520Image.png"
   },
   "state": "",
   "title": "RMIT University, Melbourne",
