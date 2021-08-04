@@ -49,7 +49,14 @@
   "latitude": 32.3792233,
   "logo": {},
   "longitude": -86.3077368,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dscfacebookbanner.png",
+   "path": "chapter_banners/dscfacebookbanner.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dscfacebookbanner.png"
+  },
   "state": "",
   "title": "Alabama State University",
   "relative_url": "/alabama-state-university/",
@@ -1650,9 +1657,23 @@
   "country": "CA",
   "id": 1502,
   "latitude": 47.5615096,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%25284j%2529.png",
+   "path": "chapter_banners/Untitled design(4j).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%25284j%2529.png"
+  },
   "longitude": -52.7125768,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520are%2520community%2520groups%2520for%2520college%2520and%2520university%2520students%2520interested%2520in%2520Google%2520developer%2520technologies.%2520Students%2520from%2520all%2520undergraduate%2520or%2520graduate%2520programs%2520with%2520an%2520interest%2520in%2520growing%2520as.png",
+   "path": "chapter_banners/Google Developer Student Clubs are community groups for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520are%2520community%2520groups%2520for%2520college%2520and%2520university%2520students%2520interested%2520in%2520Google%2520developer%2520technologies.%2520Students%2520from%2520all%2520undergraduate%2520or%2520graduate%2520programs%2520with%2520an%2520interest%2520in%2520growing%2520as.png"
+  },
   "state": "",
   "title": "Memorial University of Newfoundland",
   "relative_url": "/memorial-university-of-newfoundland/",
@@ -1881,9 +1902,23 @@
   "country": "US",
   "id": 1386,
   "latitude": 47.6062095,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/download%2520%25281%2529_lF5NdEj.jpeg",
+   "path": "chapter_banners/download (1)_lF5NdEj.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/download%2520%25281%2529_lF5NdEj.jpeg"
+  },
   "longitude": -122.3320708,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/corner.jpeg",
+   "path": "chapter_banners/corner.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/corner.jpeg"
+  },
   "state": "",
   "title": "North Seattle College",
   "relative_url": "/north-seattle-college/",
@@ -4082,12 +4117,12 @@
   "logo": {},
   "longitude": -71.0588801,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WIT%2520DSC%2520Logo.png",
-   "path": "chapter_banners/WIT DSC Logo.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Wentworth%2520Institute%2520of%2520Technology%2520Light%2520Vertical-Logo.png",
+   "path": "chapter_banners/DSC Wentworth Institute of Technology Light Vertical-Logo.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WIT%2520DSC%2520Logo.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Wentworth%2520Institute%2520of%2520Technology%2520Light%2520Vertical-Logo.png"
   },
   "state": "",
   "title": "Wentworth Institute of Technology",
@@ -18989,16 +19024,16 @@
   "country": "IN",
   "id": 936,
   "latitude": 20.2960587,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design_NdTvMT8.jpg",
-   "path": "chapter_banners/Untitled design_NdTvMT8.jpg",
+  "logo": {},
+  "longitude": 85.8245398,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc_N6jQU3l.jpg",
+   "path": "chapter_banners/dsc_N6jQU3l.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design_NdTvMT8.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc_N6jQU3l.jpg"
   },
-  "longitude": 85.8245398,
-  "picture": {},
   "state": "",
   "title": "C. V. Raman Global University",
   "relative_url": "/c-v-raman-global-university/",
@@ -22279,9 +22314,23 @@
   "country": "IN",
   "id": 1371,
   "latitude": 20.2960587,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo4.png",
+   "path": "chapter_banners/GDSC Logo4.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo4.png"
+  },
   "longitude": 85.8245398,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1503643027phpehvmXY.jpeg",
+   "path": "chapter_banners/1503643027phpehvmXY.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1503643027phpehvmXY.jpeg"
+  },
   "state": "",
   "title": "International Institute of Information Technology",
   "relative_url": "/international-institute-of-information-technology/",
