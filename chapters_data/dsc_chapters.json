@@ -1890,7 +1890,14 @@
   "latitude": 35.9382103,
   "logo": {},
   "longitude": -77.7905339,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520North%2520Carolina%2520Wesleyan%2520College%2520Logo%2520x1.png",
+   "path": "chapter_banners/DSC North Carolina Wesleyan College Logo x1.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520North%2520Carolina%2520Wesleyan%2520College%2520Logo%2520x1.png"
+  },
   "state": "",
   "title": "North Carolina Wesleyan College",
   "relative_url": "/north-carolina-wesleyan-college/",
@@ -3030,21 +3037,21 @@
   "id": 572,
   "latitude": 40.0149856,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSCFinalLogo.png",
-   "path": "chapter_banners/DSCFinalLogo.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/icon_quSxyAC.png",
+   "path": "chapter_banners/icon_quSxyAC.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSCFinalLogo.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/icon_quSxyAC.png"
   },
   "longitude": -105.2705456,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSCBackground_FN4p8ZE.jpg",
-   "path": "chapter_banners/DSCBackground_FN4p8ZE.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Campus%2520Header%25202_VIP4QBz.jpg",
+   "path": "chapter_banners/Campus Header 2_VIP4QBz.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSCBackground_FN4p8ZE.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Campus%2520Header%25202_VIP4QBz.jpg"
   },
   "state": "",
   "title": "University of Colorado Boulder",
@@ -3484,9 +3491,23 @@
   "country": "US",
   "id": 370,
   "latitude": 43.15657789999999,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC_zfmwsqj.png",
+   "path": "chapter_banners/DSC_zfmwsqj.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC_zfmwsqj.png"
+  },
   "longitude": -77.6088465,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/2019-01-04_Rush_Rhees_Library_0137.jpg",
+   "path": "chapter_banners/2019-01-04_Rush_Rhees_Library_0137.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2019-01-04_Rush_Rhees_Library_0137.jpg"
+  },
   "state": "",
   "title": "University of Rochester",
   "relative_url": "/university-of-rochester/",
