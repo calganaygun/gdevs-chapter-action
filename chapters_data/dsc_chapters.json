@@ -565,9 +565,23 @@
   "country": "CA",
   "id": 1579,
   "latitude": 45.4215296,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/ChapterLogo.png",
+   "path": "chapter_banners/ChapterLogo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/ChapterLogo.png"
+  },
   "longitude": -75.69719309999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/imgonline-com-ua-resize-8LAzR6RPhn.jpeg",
+   "path": "chapter_banners/imgonline-com-ua-resize-8LAzR6RPhn.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/imgonline-com-ua-resize-8LAzR6RPhn.jpeg"
+  },
   "state": "",
   "title": "Carleton University",
   "relative_url": "/carleton-university/",
@@ -700,7 +714,14 @@
   "latitude": 40.5852602,
   "logo": {},
   "longitude": -105.084423,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/csuimage.jpeg",
+   "path": "chapter_banners/csuimage.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/csuimage.jpeg"
+  },
   "state": "",
   "title": "Colorado State University",
   "relative_url": "/colorado-state-university/",
@@ -796,9 +817,23 @@
   "country": "CA",
   "id": 1347,
   "latitude": 44.64876350000001,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Centered%2520GDSC%2520Dalhousie%2520Logo.png",
+   "path": "chapter_banners/Centered GDSC Dalhousie Logo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Centered%2520GDSC%2520Dalhousie%2520Logo.png"
+  },
   "longitude": -63.5752387,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520Dal.png",
+   "path": "chapter_banners/Logo Dal.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520Dal.png"
+  },
   "state": "",
   "title": "Dalhousie University",
   "relative_url": "/dalhousie-university/",
@@ -810,9 +845,23 @@
   "country": "US",
   "id": 1408,
   "latitude": 32.7766642,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520logo_HEjIK05.jpeg",
+   "path": "chapter_banners/DSC logo_HEjIK05.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520logo_HEjIK05.jpeg"
+  },
   "longitude": -96.79698789999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002.png",
+   "path": "chapter_banners/Copy of Google Developer Student Clubs Chapter _ Blog Post Image 02.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002.png"
+  },
   "state": "",
   "title": "Dallas Baptist University",
   "relative_url": "/dallas-baptist-university/",
@@ -3605,7 +3654,14 @@
   "latitude": 35.0456297,
   "logo": {},
   "longitude": -85.3096801,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520University%2520of%2520Tennessee%252C%2520Chattanooga%2520Logo%2520x1_6yiVgHt.png",
+   "path": "chapter_banners/DSC University of Tennessee, Chattanooga Logo x1_6yiVgHt.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520University%2520of%2520Tennessee%252C%2520Chattanooga%2520Logo%2520x1_6yiVgHt.png"
+  },
   "state": "",
   "title": "University of Tennessee at Chattanooga",
   "relative_url": "/university-of-tennessee-at-chattanooga/",
@@ -4578,7 +4634,14 @@
   "latitude": 19.7059504,
   "logo": {},
   "longitude": -101.1949825,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/portada%2520web.png",
+   "path": "chapter_banners/portada web.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/portada%2520web.png"
+  },
   "state": "",
   "title": "Instituto Tecnológico de Morelia",
   "relative_url": "/instituto-tecnologico-de-morelia/",
@@ -4793,9 +4856,23 @@
   "country": "AR",
   "id": 1509,
   "latitude": -31.42008329999999,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/UTNFRC.jpg",
+   "path": "chapter_banners/UTNFRC.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/UTNFRC.jpg"
+  },
   "longitude": -64.1887761,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/UTN.Jpg",
+   "path": "chapter_banners/UTN.Jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/UTN.Jpg"
+  },
   "state": "",
   "title": "National Technological University",
   "relative_url": "/national-technological-university/",
@@ -5103,7 +5180,14 @@
   "latitude": 30.8406338,
   "logo": {},
   "longitude": -115.2837585,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/ensenada-big.jpg",
+   "path": "chapter_banners/ensenada-big.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/ensenada-big.jpg"
+  },
   "state": "",
   "title": "Universidad Autónoma de Baja California",
   "relative_url": "/universidad-autonoma-de-baja-california/",
@@ -11172,7 +11256,14 @@
   "latitude": 51.62144,
   "logo": {},
   "longitude": -3.943645999999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/VOD-banner-feature-image.jpg",
+   "path": "chapter_banners/VOD-banner-feature-image.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/VOD-banner-feature-image.jpg"
+  },
   "state": "",
   "title": "Swansea",
   "relative_url": "/swansea/",
@@ -19698,7 +19789,14 @@
   "latitude": 9.682108399999999,
   "logo": {},
   "longitude": 76.60799329999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cover%2520photo_7mKLN33.png",
+   "path": "chapter_banners/cover photo_7mKLN33.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cover%2520photo_7mKLN33.png"
+  },
   "state": "",
   "title": "College of Engineering, Kidangoor",
   "relative_url": "/college-of-engineering-kidangoor/",
@@ -22489,16 +22587,16 @@
   "country": "IN",
   "id": 884,
   "latitude": 26.9124336,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc_WW3snQG.png",
-   "path": "chapter_banners/dsc_WW3snQG.png",
+  "logo": {},
+  "longitude": 75.7872709,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520BANNER%25203.png",
+   "path": "chapter_banners/DSC BANNER 3.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc_WW3snQG.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520BANNER%25203.png"
   },
-  "longitude": 75.7872709,
-  "picture": {},
   "state": "",
   "title": "JECRC University",
   "relative_url": "/jecrc-university/",
@@ -23449,12 +23547,12 @@
   "id": 841,
   "latitude": 31.3260152,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC-LPU%2520Logo.jpeg",
-   "path": "chapter_banners/DSC-LPU Logo.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC-LPU.png",
+   "path": "chapter_banners/GDSC-LPU.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC-LPU%2520Logo.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC-LPU.png"
   },
   "longitude": 75.57618289999999,
   "picture": {
@@ -23924,15 +24022,22 @@
   "country": "IN",
   "id": 836,
   "latitude": 28.4089123,
-  "logo": {},
-  "longitude": 77.3177894,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/0%2520%25282%2529.jpg",
-   "path": "chapter_banners/0 (2).jpg",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520MRIIRS%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC MRIIRS vertical color.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/0%2520%25282%2529.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520MRIIRS%2520vertical%2520color.png"
+  },
+  "longitude": 77.3177894,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1549873824675_K1JRZSB.jpg",
+   "path": "chapter_banners/1549873824675_K1JRZSB.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1549873824675_K1JRZSB.jpg"
   },
   "state": "",
   "title": "Manav Rachna International Institute of Research & Studies",
@@ -24330,9 +24435,23 @@
   "country": "IN",
   "id": 1369,
   "latitude": 19.0759837,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201%25404x_hj6WfFF.png",
+   "path": "chapter_banners/Artboard 1@4x_hj6WfFF.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201%25404x_hj6WfFF.png"
+  },
   "longitude": 72.8776559,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_eafxPEK.png",
+   "path": "chapter_banners/Copy of Copy of dsc-ecosystem-banners-linkedin-blue_eafxPEK.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_eafxPEK.png"
+  },
   "state": "",
   "title": "Mukesh Patel School of Technology, Management and Engineering",
   "relative_url": "/mukesh-patel-school-of-technology-management-and-engineering/",
@@ -27300,7 +27419,14 @@
   "latitude": 13.0826802,
   "logo": {},
   "longitude": 80.2707184,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner2_a3e0Sc9.jpg",
+   "path": "chapter_banners/banner2_a3e0Sc9.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner2_a3e0Sc9.jpg"
+  },
   "state": "",
   "title": "Sri Sairam Institute of Technology",
   "relative_url": "/sri-sairam-institute-of-technology/",
@@ -29792,7 +29918,14 @@
   "latitude": 17.385044,
   "logo": {},
   "longitude": 78.486671,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520We%2520are%2520recruiting_CLb2bmF.png",
+   "path": "chapter_banners/Copy of We are recruiting_CLb2bmF.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520We%2520are%2520recruiting_CLb2bmF.png"
+  },
   "state": "",
   "title": "Vidya Jyothi Institute of Technology",
   "relative_url": "/vidya-jyothi-institute-of-technology/",
