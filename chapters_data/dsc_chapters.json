@@ -845,14 +845,7 @@
   "country": "US",
   "id": 1408,
   "latitude": 32.7766642,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520logo_HEjIK05.jpeg",
-   "path": "chapter_banners/DSC logo_HEjIK05.jpeg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520logo_HEjIK05.jpeg"
-  },
+  "logo": {},
   "longitude": -96.79698789999999,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/fff.jpeg",
@@ -1589,7 +1582,14 @@
   "latitude": 29.7604267,
   "logo": {},
   "longitude": -95.3698028,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/94D75997-9D15-4BB3-9760-57B50417D5AE.jpeg",
+   "path": "chapter_banners/94D75997-9D15-4BB3-9760-57B50417D5AE.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/94D75997-9D15-4BB3-9760-57B50417D5AE.jpeg"
+  },
   "state": "",
   "title": "Lonestar college",
   "relative_url": "/lonestar-college/",
@@ -3171,7 +3171,14 @@
   "latitude": 33.9519347,
   "logo": {},
   "longitude": -83.357567,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/arch.jpeg",
+   "path": "chapter_banners/arch.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/arch.jpeg"
+  },
   "state": "",
   "title": "University of Georgia",
   "relative_url": "/university-of-georgia/",
@@ -10625,12 +10632,12 @@
   "id": 99,
   "latitude": 24.1576043,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Follow_us_on_Twitter_-removebg-preview.png",
-   "path": "chapter_banners/Follow_us_on_Twitter_-removebg-preview.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc-sticker-files-chapter-rectangle%252011%2520tw.png",
+   "path": "chapter_banners/dsc-sticker-files-chapter-rectangle 11 tw.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Follow_us_on_Twitter_-removebg-preview.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc-sticker-files-chapter-rectangle%252011%2520tw.png"
   },
   "longitude": 47.3247876,
   "picture": {},
@@ -12612,9 +12619,23 @@
   "country": "GB",
   "id": 1590,
   "latitude": 51.5073509,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/EmbeddedImage.png",
+   "path": "chapter_banners/EmbeddedImage.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/EmbeddedImage.png"
+  },
   "longitude": -0.1277583,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Colorful%2520Motivational%2520LinkedIn%2520Banner.png",
+   "path": "chapter_banners/Colorful Motivational LinkedIn Banner.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Colorful%2520Motivational%2520LinkedIn%2520Banner.png"
+  },
   "state": "",
   "title": "University of London",
   "relative_url": "/university-of-london/",
@@ -12657,12 +12678,12 @@
   },
   "longitude": -2.2426305,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Background_rGF8x9E.jpg",
-   "path": "chapter_banners/Background_rGF8x9E.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1544096841164.jfif",
+   "path": "chapter_banners/1544096841164.jfif",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Background_rGF8x9E.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1544096841164.jfif"
   },
   "state": "",
   "title": "University of Manchester",
@@ -20552,7 +20573,14 @@
   "latitude": 21.1458004,
   "logo": {},
   "longitude": 79.0881546,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520banner.png",
+   "path": "chapter_banners/GDSC banner.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520banner.png"
+  },
   "state": "",
   "title": "G H Raisoni College of Engineering",
   "relative_url": "/g-h-raisoni-college-of-engineering/",
@@ -22344,14 +22372,7 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc-full%2520logo.png"
   },
   "longitude": 88.36389500000001,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner1_uL6cT1Z.png",
-   "path": "chapter_banners/banner1_uL6cT1Z.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner1_uL6cT1Z.png"
-  },
+  "picture": {},
   "state": "",
   "title": "Institute of Engineering & Management",
   "relative_url": "/institute-of-engineering-management/",
@@ -24283,7 +24304,14 @@
   "latitude": 22.7195687,
   "logo": {},
   "longitude": 75.8577258,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/190329021446_Academic_Block__Campus_View2.jpg",
+   "path": "chapter_banners/190329021446_Academic_Block__Campus_View2.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/190329021446_Academic_Block__Campus_View2.jpg"
+  },
   "state": "",
   "title": "Medi-Caps University",
   "relative_url": "/medi-caps-university/",
@@ -25471,9 +25499,23 @@
   "country": "IN",
   "id": 1079,
   "latitude": 12.9715987,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo-2.png",
+   "path": "chapter_banners/logo-2.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo-2.png"
+  },
   "longitude": 77.5945627,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520NMIT%2520Bangalore%2520Light%2520Vertical-Logo.png",
+   "path": "chapter_banners/DSC NMIT Bangalore Light Vertical-Logo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520NMIT%2520Bangalore%2520Light%2520Vertical-Logo.png"
+  },
   "state": "",
   "title": "Nitte Meenakshi Institute Of Technology",
   "relative_url": "/nitte-meenakshi-institute-of-technology/",
@@ -25795,7 +25837,14 @@
   "latitude": 19.0330488,
   "logo": {},
   "longitude": 73.0296625,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Google-dev-computer-science-education-week-social.png",
+   "path": "chapter_banners/Google-dev-computer-science-education-week-social.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Google-dev-computer-science-education-week-social.png"
+  },
   "state": "",
   "title": "Pillai HOC College of Engineering and Technology",
   "relative_url": "/pillai-hoc-college-of-engineering-and-technology/",
@@ -29041,7 +29090,14 @@
   "country": "IN",
   "id": 753,
   "latitude": 28.6139391,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo_lbROYpN.jpg",
+   "path": "chapter_banners/logo_lbROYpN.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo_lbROYpN.jpg"
+  },
   "longitude": 77.2090212,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Invite.png",
@@ -30009,7 +30065,14 @@
   "latitude": 19.0759837,
   "logo": {},
   "longitude": 72.8776559,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_pE5MSWJ.png",
+   "path": "chapter_banners/Copy of Copy of dsc-ecosystem-banners-linkedin-blue_pE5MSWJ.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_pE5MSWJ.png"
+  },
   "state": "",
   "title": "Vidyalankar Institute of Technology, Mumbai",
   "relative_url": "/vidyalankar-institute-of-technology-mumbai/",
