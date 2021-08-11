@@ -3451,7 +3451,14 @@
   "latitude": 29.95106579999999,
   "logo": {},
   "longitude": -90.0715323,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/upd-hero%2520%25281%2529.jpg",
+   "path": "chapter_banners/upd-hero (1).jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/upd-hero%2520%25281%2529.jpg"
+  },
   "state": "",
   "title": "University of New Orleans",
   "relative_url": "/university-of-new-orleans/",
@@ -4192,12 +4199,12 @@
   "id": 485,
   "latitude": 42.2935733,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/_W%2520DSC%2520Logo%2520vertical.png",
-   "path": "chapter_banners/_W DSC Logo vertical.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo_HuFjLkK.png",
+   "path": "chapter_banners/logo_HuFjLkK.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/_W%2520DSC%2520Logo%2520vertical.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo_HuFjLkK.png"
   },
   "longitude": -71.3059277,
   "picture": {
@@ -4410,7 +4417,14 @@
   "latitude": 19.8039297,
   "logo": {},
   "longitude": -99.0930528,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-green.png",
+   "path": "chapter_banners/Copy of Copy of dsc-ecosystem-banners-linkedin-green.png",
+   "thumbnail_width": 1280,
+   "thumbnail_height": 720,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-green.png"
+  },
   "state": "",
   "title": "Autonomous University of the State of Mexico",
   "relative_url": "/autonomous-university-of-the-state-of-mexico/",
@@ -4455,10 +4469,10 @@
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Centro%2520Universitario%2520de%2520Tonal%25C3%25A1%2520-%2520Universidad%2520de%2520Guadalajara%2520Light%2520Vertical-Logo.png",
    "path": "chapter_banners/DSC Centro Universitario de Tonalá - Universidad de Guadalajara Light Vertical-Logo.png",
-   "thumbnail_width": 1280,
-   "thumbnail_height": 720,
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Centro%2520Universitario%2520de%2520Tonal%25C3%25A1%2520-%2520Universidad%2520de%2520Guadalajara%2520Light%2520Vertical-Logo.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Centro%2520Universitario%2520de%2520Tonal%25C3%25A1%2520-%2520Universidad%2520de%2520Guadalajara%2520Light%2520Vertical-Logo.png"
   },
   "state": "",
   "title": "Centro Universitario de Tonalá - Universidad de Guadalajara",
@@ -4709,9 +4723,23 @@
   "country": "DO",
   "id": 1398,
   "latitude": 18.4546037,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_jklJva2.png",
+   "path": "chapter_banners/Copy of dsc-ecosystem-profilepicture-linkedin_jklJva2.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_jklJva2.png"
+  },
   "longitude": -69.6725027,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_DR5rU2I.png",
+   "path": "chapter_banners/Copy of Copy of dsc-ecosystem-banners-linkedin-blue_DR5rU2I.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_DR5rU2I.png"
+  },
   "state": "",
   "title": "Instituto Tecnológico de las Américas",
   "relative_url": "/instituto-tecnologico-de-las-americas/",
@@ -5285,7 +5313,14 @@
   "latitude": -16.489689,
   "logo": {},
   "longitude": -68.11929359999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Ucb_k.jpg",
+   "path": "chapter_banners/Ucb_k.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Ucb_k.jpg"
+  },
   "state": "",
   "title": "Universidad Católica Boliviana San Pablo",
   "relative_url": "/universidad-catolica-boliviana-san-pablo/",
@@ -9464,7 +9499,14 @@
   "latitude": 51.5073509,
   "logo": {},
   "longitude": -0.1277583,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/teahub.io-london-wallpaper-52995.png",
+   "path": "chapter_banners/teahub.io-london-wallpaper-52995.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/teahub.io-london-wallpaper-52995.png"
+  },
   "state": "",
   "title": "London School of Hygiene and Tropical Medicine",
   "relative_url": "/london-school-of-hygiene-and-tropical-medicine/",
@@ -19801,9 +19843,23 @@
   "country": "IN",
   "id": 1356,
   "latitude": 20.2960587,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520logo_W3Iu6BL.png",
+   "path": "chapter_banners/gdsc logo_W3Iu6BL.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520logo_W3Iu6BL.png"
+  },
   "longitude": 85.8245398,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/LRM_EXPORT_20210811_231619.jpg",
+   "path": "chapter_banners/LRM_EXPORT_20210811_231619.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/LRM_EXPORT_20210811_231619.jpg"
+  },
   "state": "",
   "title": "College of Engineering & Technology",
   "relative_url": "/college-of-engineering-technology/",
@@ -20230,7 +20286,14 @@
   "latitude": 28.6139391,
   "logo": {},
   "longitude": 77.2090212,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1611241945445.jpeg",
+   "path": "chapter_banners/1611241945445.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1611241945445.jpeg"
+  },
   "state": "",
   "title": "Department of Computer Science",
   "relative_url": "/department-of-computer-science/",
@@ -21288,12 +21351,12 @@
   "logo": {},
   "longitude": 74.8722642,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520GNDU%2520Logo.jpg",
-   "path": "chapter_banners/DSC GNDU Logo.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520GNDU%2520center%2520banner.jpg",
+   "path": "chapter_banners/GDSC GNDU center banner.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520GNDU%2520Logo.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520GNDU%2520center%2520banner.jpg"
   },
   "state": "",
   "title": "Guru Nanak Dev University",
@@ -27203,12 +27266,12 @@
   },
   "longitude": 75.8577258,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520%2520%25281%2529_my8xj0j.png",
-   "path": "chapter_banners/DSC  (1)_my8xj0j.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners.png",
+   "path": "chapter_banners/Google Developer Student Clubs Chapter_ Twitter Banners.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520%2520%25281%2529_my8xj0j.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners.png"
   },
   "state": "",
   "title": "Shri Vaishnav Vidyapeeth Vishwavidyalaya",
