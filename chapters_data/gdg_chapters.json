@@ -11375,7 +11375,14 @@
   "latitude": 43.9303475,
   "logo": {},
   "longitude": 10.9078587,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Logo%2520Horizontal%2520Color2%25404x_uNxo7nZ.png",
+   "path": "chapter_banners/Logo Horizontal Color2@4x_uNxo7nZ.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Logo%2520Horizontal%2520Color2%25404x_uNxo7nZ.png"
+  },
   "state": "Tuscany",
   "title": "GDG Pistoia",
   "relative_url": "/gdg-pistoia/",
