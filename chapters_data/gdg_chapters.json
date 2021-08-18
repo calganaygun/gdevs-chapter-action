@@ -3947,7 +3947,14 @@
   "latitude": -23.6200504,
   "logo": {},
   "longitude": -45.4120869,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Caraguatatuba%2520Light%2520Horizontal-Logo_ytKSiET.png",
+   "path": "chapter_banners/GDG Caraguatatuba Light Horizontal-Logo_ytKSiET.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Caraguatatuba%2520Light%2520Horizontal-Logo_ytKSiET.png"
+  },
   "state": "SP",
   "title": "GDG Caraguatatuba",
   "relative_url": "/gdg-caraguatatuba/",

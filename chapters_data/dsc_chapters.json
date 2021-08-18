@@ -7007,12 +7007,12 @@
   "logo": {},
   "longitude": 29.9187387,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-chapterbanners-facebook-01_3upjkOi.png",
-   "path": "chapter_banners/Copy of dsc-chapterbanners-facebook-01_3upjkOi.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-chapterbanners-facebook-01_mRTV8ho.png",
+   "path": "chapter_banners/Copy of dsc-chapterbanners-facebook-01_mRTV8ho.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-chapterbanners-facebook-01_3upjkOi.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-chapterbanners-facebook-01_mRTV8ho.png"
   },
   "state": "",
   "title": "Alexandria Higher Institute of Engineering and Technology",
@@ -12206,12 +12206,12 @@
   },
   "longitude": 54.3773438,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/purple-box.jpg",
-   "path": "chapter_banners/purple-box.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/class-of-2021-zoom-background-06_1JqJ2qZ.jpg",
+   "path": "chapter_banners/class-of-2021-zoom-background-06_1JqJ2qZ.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/purple-box.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/class-of-2021-zoom-background-06_1JqJ2qZ.jpg"
   },
   "state": "",
   "title": "New York University Abu Dhabi",
@@ -12240,9 +12240,23 @@
   "id": 175,
   "hide_country_info": false,
   "latitude": 29.9285429,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Final%2520pic%2520_RiDqb5A.png",
+   "path": "chapter_banners/Final pic _RiDqb5A.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Final%2520pic%2520_RiDqb5A.png"
+  },
   "longitude": 30.9187827,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-chapterbanners-facebooknile.png",
+   "path": "chapter_banners/Copy of dsc-chapterbanners-facebooknile.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-chapterbanners-facebooknile.png"
+  },
   "state": "",
   "title": "Nile University",
   "relative_url": "/nile-university/",
@@ -21510,12 +21524,12 @@
   },
   "longitude": 78.0880129,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/MVIMG_20190928_160552-PANO-01-01.jpeg",
-   "path": "chapter_banners/MVIMG_20190928_160552-PANO-01-01.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520template_ChqZaSS.png",
+   "path": "chapter_banners/Copy of Copy of GDSC Logo chapter lockup template_ChqZaSS.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/MVIMG_20190928_160552-PANO-01-01.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520template_ChqZaSS.png"
   },
   "state": "",
   "title": "Aligarh Muslim University",
@@ -21856,15 +21870,15 @@
  },
  {
   "active": true,
-  "city": "Jalukbari",
+  "city": "Guwahati",
   "country": "IN",
   "id": 1691,
   "hide_country_info": false,
-  "latitude": 26.1425976,
+  "latitude": 26.1445169,
   "logo": {},
-  "longitude": 91.64353589999999,
+  "longitude": 91.7362365,
   "picture": {},
-  "state": "",
+  "state": "AS",
   "title": "Assam Engineering College",
   "relative_url": "/assam-engineering-college/",
   "url": "https://gdsc.community.dev/assam-engineering-college/"
@@ -21887,9 +21901,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Assam%2520Enginnering%2520College%2520Logo%2520x1_1zb8Chu.png"
   },
   "state": "",
-  "title": "Assam Engineering College, Jalukbari",
-  "relative_url": "/assam-engineering-college-jalukbari/",
-  "url": "https://gdsc.community.dev/assam-engineering-college-jalukbari/"
+  "title": "Assam Engineering College - Guwahati",
+  "relative_url": "/assam-engineering-college-guwahati-1/",
+  "url": "https://gdsc.community.dev/assam-engineering-college-guwahati-1/"
  },
  {
   "active": true,
@@ -22250,24 +22264,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202020-09-08%2520at%252018.58.52.jpeg"
   },
   "state": "",
-  "title": "Banasthali University",
-  "relative_url": "/banasthali-university/",
-  "url": "https://gdsc.community.dev/banasthali-university/"
- },
- {
-  "active": true,
-  "city": "Vanasthali",
-  "country": "IN",
-  "id": 1678,
-  "hide_country_info": false,
-  "latitude": 26.389791,
-  "logo": {},
-  "longitude": 75.8708242,
-  "picture": {},
-  "state": "",
-  "title": "Banasthali Vidyapith",
-  "relative_url": "/banasthali-vidyapith/",
-  "url": "https://gdsc.community.dev/banasthali-vidyapith/"
+  "title": "Banasthali Vidyapith - Jaipur",
+  "relative_url": "/banasthali-vidyapith-jaipur/",
+  "url": "https://gdsc.community.dev/banasthali-vidyapith-jaipur/"
  },
  {
   "active": true,
@@ -23471,12 +23470,12 @@
   "logo": {},
   "longitude": 120.6736482,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/X05_0018.JPG",
-   "path": "chapter_banners/X05_0018.JPG",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/119448753_140259261109393_3414530338864836641_n.png",
+   "path": "chapter_banners/119448753_140259261109393_3414530338864836641_n.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/X05_0018.JPG"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/119448753_140259261109393_3414530338864836641_n.png"
   },
   "state": "",
   "title": "Chung Shan Medical University",
@@ -27036,7 +27035,14 @@
   "id": 1326,
   "hide_country_info": false,
   "latitude": 20.2960587,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo-2_cgGBD6X.png",
+   "path": "chapter_banners/Logo-2_cgGBD6X.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo-2_cgGBD6X.png"
+  },
   "longitude": 85.8245398,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/SOA.jpg",
@@ -28352,9 +28358,23 @@
   "id": 1874,
   "hide_country_info": false,
   "latitude": 35.8714354,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/KNG%2520GDSC%2520LOGO_1.png",
+   "path": "chapter_banners/KNG GDSC LOGO_1.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/KNG%2520GDSC%2520LOGO_1.png"
+  },
   "longitude": 128.601445,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/9121141f-ae24-4bba-8d18-4bbdb70433ae.jpg",
+   "path": "chapter_banners/9121141f-ae24-4bba-8d18-4bbdb70433ae.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/9121141f-ae24-4bba-8d18-4bbdb70433ae.jpg"
+  },
   "state": "",
   "title": "Kyungpook National University",
   "relative_url": "/kyungpook-national-university/",
@@ -29502,14 +29522,7 @@
   "id": 1369,
   "hide_country_info": false,
   "latitude": 19.0759837,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201%25404x_hj6WfFF.png",
-   "path": "chapter_banners/Artboard 1@4x_hj6WfFF.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201%25404x_hj6WfFF.png"
-  },
+  "logo": {},
   "longitude": 72.8776559,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_eafxPEK.png",
@@ -37183,7 +37196,14 @@
   "id": 1889,
   "hide_country_info": false,
   "latitude": 36.815129,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/%25E1%2584%2585%25E1%2585%25A9%25E1%2584%2580%25E1%2585%25A9.png",
+   "path": "chapter_banners/로고.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/%25E1%2584%2585%25E1%2585%25A9%25E1%2584%2580%25E1%2585%25A9.png"
+  },
   "longitude": 127.1138939,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/kzQyWVEUTUxvAZGLNlEZ.jpeg",
