@@ -157,22 +157,7 @@
   "longitude": -111.9400054,
   "picture": {},
   "state": "",
-  "title": "Arizona State University",
-  "relative_url": "/arizona-state-university/",
-  "url": "https://gdsc.community.dev/arizona-state-university/"
- },
- {
-  "active": true,
-  "city": "Tempe",
-  "country": "US",
-  "id": 1542,
-  "hide_country_info": false,
-  "latitude": 33.4255104,
-  "logo": {},
-  "longitude": -111.9400054,
-  "picture": {},
-  "state": "",
-  "title": "Arizona State University, Tempe",
+  "title": "Arizona State University - Tempe",
   "relative_url": "/arizona-state-university-tempe/",
   "url": "https://gdsc.community.dev/arizona-state-university-tempe/"
  },
@@ -443,6 +428,21 @@
  },
  {
   "active": true,
+  "city": "Fresno",
+  "country": "US",
+  "id": 1389,
+  "hide_country_info": false,
+  "latitude": 36.7377981,
+  "logo": {},
+  "longitude": -119.7871247,
+  "picture": {},
+  "state": "",
+  "title": "California State University - Fresno",
+  "relative_url": "/california-state-university-fresno/",
+  "url": "https://gdsc.community.dev/california-state-university-fresno/"
+ },
+ {
+  "active": true,
   "city": "Garden Grove",
   "country": "US",
   "id": 613,
@@ -465,21 +465,6 @@
  },
  {
   "active": true,
-  "city": "Camarillo",
-  "country": "US",
-  "id": 327,
-  "hide_country_info": false,
-  "latitude": 34.2163937,
-  "logo": {},
-  "longitude": -119.0376023,
-  "picture": {},
-  "state": "",
-  "title": "California State University Channel Islands",
-  "relative_url": "/california-state-university-channel-islands/",
-  "url": "https://gdsc.community.dev/california-state-university-channel-islands/"
- },
- {
-  "active": true,
   "city": "Long Beach",
   "country": "US",
   "id": 578,
@@ -496,7 +481,7 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/campus_-_walter_pyramid%2520%25281%2529.jpg"
   },
   "state": "",
-  "title": "California State University Long Beach",
+  "title": "California State University - Long Beach",
   "relative_url": "/california-state-university-long-beach/",
   "url": "https://gdsc.community.dev/california-state-university-long-beach/"
  },
@@ -518,24 +503,24 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Chalkboard%2520Welcome%2520Google%2520Classroom%2520Header.png"
   },
   "state": "",
-  "title": "California State University San Marcos",
+  "title": "California State University - San Marcos",
   "relative_url": "/california-state-university-san-marcos/",
   "url": "https://gdsc.community.dev/california-state-university-san-marcos/"
  },
  {
   "active": true,
-  "city": "Fresno",
+  "city": "Camarillo",
   "country": "US",
-  "id": 1389,
+  "id": 327,
   "hide_country_info": false,
-  "latitude": 36.7377981,
+  "latitude": 34.2163937,
   "logo": {},
-  "longitude": -119.7871247,
+  "longitude": -119.0376023,
   "picture": {},
   "state": "",
-  "title": "California State University, Fullerton",
-  "relative_url": "/california-state-university-fullerton-1/",
-  "url": "https://gdsc.community.dev/california-state-university-fullerton-1/"
+  "title": "California State University Channel Islands",
+  "relative_url": "/california-state-university-channel-islands/",
+  "url": "https://gdsc.community.dev/california-state-university-channel-islands/"
  },
  {
   "active": true,
@@ -739,21 +724,6 @@
  },
  {
   "active": true,
-  "city": "Ewing Township",
-  "country": "US",
-  "id": 1526,
-  "hide_country_info": false,
-  "latitude": 40.2599864,
-  "logo": {},
-  "longitude": -74.79091249999999,
-  "picture": {},
-  "state": "",
-  "title": "College of New Jersey",
-  "relative_url": "/college-of-new-jersey/",
-  "url": "https://gdsc.community.dev/college-of-new-jersey/"
- },
- {
-  "active": true,
   "city": "Fort Collins",
   "country": "US",
   "id": 1322,
@@ -829,7 +799,7 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/campus.jpg"
   },
   "state": "",
-  "title": "Conestoga College Waterloo Campus",
+  "title": "Conestoga College - Waterloo Campus",
   "relative_url": "/conestoga-college-waterloo-campus/",
   "url": "https://gdsc.community.dev/conestoga-college-waterloo-campus/"
  },
@@ -1390,7 +1360,7 @@
  },
  {
   "active": true,
-  "city": "Mineola",
+  "city": "Hempstead",
   "country": "US",
   "id": 543,
   "hide_country_info": false,
@@ -1694,7 +1664,7 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner_sOuBrae_JhBLvS0.png"
   },
   "state": "",
-  "title": "Lonestar college",
+  "title": "Lonestar College",
   "relative_url": "/lonestar-college/",
   "url": "https://gdsc.community.dev/lonestar-college/"
  },
@@ -1951,7 +1921,7 @@
  },
  {
   "active": true,
-  "city": "Beltsville",
+  "city": "Baltimore",
   "country": "US",
   "id": 776,
   "hide_country_info": false,
@@ -2135,6 +2105,36 @@
  },
  {
   "active": true,
+  "city": "Boston",
+  "country": "US",
+  "id": 1314,
+  "hide_country_info": false,
+  "latitude": 42.3600825,
+  "logo": {},
+  "longitude": -71.0588801,
+  "picture": {},
+  "state": "MA",
+  "title": "Northeastern University - Boston",
+  "relative_url": "/northeastern-university-boston/",
+  "url": "https://gdsc.community.dev/northeastern-university-boston/"
+ },
+ {
+  "active": true,
+  "city": "Portland",
+  "country": "US",
+  "id": 1542,
+  "hide_country_info": false,
+  "latitude": 43.6590993,
+  "logo": {},
+  "longitude": -70.2568189,
+  "picture": {},
+  "state": "ME",
+  "title": "Northeastern University - Portland",
+  "relative_url": "/northeastern-university-portland/",
+  "url": "https://gdsc.community.dev/northeastern-university-portland/"
+ },
+ {
+  "active": true,
   "city": "San Jose",
   "country": "US",
   "id": 585,
@@ -2144,9 +2144,9 @@
   "longitude": -121.8863286,
   "picture": {},
   "state": "",
-  "title": "Northeastern University",
-  "relative_url": "/northeastern-university/",
-  "url": "https://gdsc.community.dev/northeastern-university/"
+  "title": "Northeastern University - San Francisco Bay Area",
+  "relative_url": "/northeastern-university-san-francisco-bay-area/",
+  "url": "https://gdsc.community.dev/northeastern-university-san-francisco-bay-area/"
  },
  {
   "active": true,
@@ -2166,24 +2166,31 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/NUSeattleFrontDesk.jpg"
   },
   "state": "",
-  "title": "Northeastern University (Seattle)",
+  "title": "Northeastern University - Seattle",
   "relative_url": "/northeastern-university-seattle/",
   "url": "https://gdsc.community.dev/northeastern-university-seattle/"
  },
  {
   "active": true,
-  "city": "San Jose",
+  "city": "Maryville",
   "country": "US",
-  "id": 1314,
+  "id": 1601,
   "hide_country_info": false,
-  "latitude": 37.3382082,
+  "latitude": 40.3461017,
   "logo": {},
-  "longitude": -121.8863286,
-  "picture": {},
+  "longitude": -94.8724706,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/final%2520image.JPG",
+   "path": "chapter_banners/final image.JPG",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/final%2520image.JPG"
+  },
   "state": "",
-  "title": "Northeastern University SF Bay Area",
-  "relative_url": "/northeastern-university-sf-bay-area/",
-  "url": "https://gdsc.community.dev/northeastern-university-sf-bay-area/"
+  "title": "Northwest Missouri State University",
+  "relative_url": "/northwest-missouri-state-university/",
+  "url": "https://gdsc.community.dev/northwest-missouri-state-university/"
  },
  {
   "active": true,
@@ -2254,6 +2261,21 @@
  },
  {
   "active": true,
+  "city": "Malvern",
+  "country": "US",
+  "id": 1911,
+  "hide_country_info": false,
+  "latitude": 40.0362184,
+  "logo": {},
+  "longitude": -75.5138118,
+  "picture": {},
+  "state": "PA",
+  "title": "Penn State University - Great Valley",
+  "relative_url": "/penn-state-university-great-valley/",
+  "url": "https://gdsc.community.dev/penn-state-university-great-valley/"
+ },
+ {
+  "active": true,
   "city": "State College",
   "country": "US",
   "id": 212,
@@ -2270,9 +2292,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Penn%2520State%2520University%2520Logo%2520x1.png"
   },
   "state": "",
-  "title": "Penn State University",
-  "relative_url": "/penn-state-university/",
-  "url": "https://gdsc.community.dev/penn-state-university/"
+  "title": "Penn State University - University Park",
+  "relative_url": "/penn-state-university-university-park/",
+  "url": "https://gdsc.community.dev/penn-state-university-university-park/"
  },
  {
   "active": true,
@@ -2395,9 +2417,9 @@
   "longitude": -76.4859544,
   "picture": {},
   "state": "",
-  "title": "Queen's University",
-  "relative_url": "/queens-university/",
-  "url": "https://gdsc.community.dev/queens-university/"
+  "title": "Queen's University - Kingston",
+  "relative_url": "/queens-university-kingston/",
+  "url": "https://gdsc.community.dev/queens-university-kingston/"
  },
  {
   "active": true,
@@ -2513,19 +2535,19 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG_9203.jpeg"
   },
   "state": "",
-  "title": "Rutgers Camden",
-  "relative_url": "/rutgers-camden/",
-  "url": "https://gdsc.community.dev/rutgers-camden/"
+  "title": "Rutgers University - Camden",
+  "relative_url": "/rutgers-university-camden/",
+  "url": "https://gdsc.community.dev/rutgers-university-camden/"
  },
  {
   "active": true,
-  "city": "Clifton",
+  "city": "New Brunswick",
   "country": "US",
   "id": 577,
   "hide_country_info": false,
-  "latitude": 40.8584328,
+  "latitude": 40.4862157,
   "logo": {},
-  "longitude": -74.16375529999999,
+  "longitude": -74.4518188,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Rutgers%2520University%2520Light%2520Horizontal-Logo_P5NBj4u.png",
    "path": "chapter_banners/DSC Rutgers University Light Horizontal-Logo_P5NBj4u.png",
@@ -2534,10 +2556,10 @@
    "thumbnail_format": "auto",
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Rutgers%2520University%2520Light%2520Horizontal-Logo_P5NBj4u.png"
   },
-  "state": "",
-  "title": "Rutgers University",
-  "relative_url": "/rutgers-university/",
-  "url": "https://gdsc.community.dev/rutgers-university/"
+  "state": "NJ",
+  "title": "Rutgers University - New Brunswick",
+  "relative_url": "/rutgers-university-new-brunswick/",
+  "url": "https://gdsc.community.dev/rutgers-university-new-brunswick/"
  },
  {
   "active": true,
@@ -2675,9 +2697,9 @@
   "longitude": -122.402785,
   "picture": {},
   "state": "",
-  "title": "Sheridan College",
-  "relative_url": "/sheridan-college/",
-  "url": "https://gdsc.community.dev/sheridan-college/"
+  "title": "Sheridan College, Trafalgar Road Campus (Oakville)",
+  "relative_url": "/sheridan-college-trafalgar-road-campus-oakville/",
+  "url": "https://gdsc.community.dev/sheridan-college-trafalgar-road-campus-oakville/"
  },
  {
   "active": true,
@@ -3058,8 +3080,8 @@
    "thumbnail_format": "auto",
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/campus_aerial_crop.jpg"
   },
-  "state": "",
-  "title": "University Of California Davis",
+  "state": "CA",
+  "title": "University Of California - Davis",
   "relative_url": "/university-of-california-davis/",
   "url": "https://gdsc.community.dev/university-of-california-davis/"
  },
@@ -3169,21 +3191,6 @@
  },
  {
   "active": true,
-  "city": "Davis",
-  "country": "US",
-  "id": 1591,
-  "hide_country_info": false,
-  "latitude": 38.5449065,
-  "logo": {},
-  "longitude": -121.7405167,
-  "picture": {},
-  "state": "",
-  "title": "University of California",
-  "relative_url": "/university-of-california/",
-  "url": "https://gdsc.community.dev/university-of-california/"
- },
- {
-  "active": true,
   "city": "berkeley",
   "country": "US",
   "id": 557,
@@ -3196,6 +3203,28 @@
   "title": "University of California - Berkeley",
   "relative_url": "/university-of-california-berkeley/",
   "url": "https://gdsc.community.dev/university-of-california-berkeley/"
+ },
+ {
+  "active": true,
+  "city": "Santa Cruz",
+  "country": "US",
+  "id": 667,
+  "hide_country_info": false,
+  "latitude": 36.9741171,
+  "logo": {},
+  "longitude": -122.0307963,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25282%2529%25202.jpeg",
+   "path": "chapter_banners/Untitled design (2) 2.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25282%2529%25202.jpeg"
+  },
+  "state": "",
+  "title": "University of California - Santa Cruz",
+  "relative_url": "/university-of-california-santa-cruz/",
+  "url": "https://gdsc.community.dev/university-of-california-santa-cruz/"
  },
  {
   "active": true,
@@ -3218,28 +3247,6 @@
   "title": "University of California, Los Angeles",
   "relative_url": "/university-of-california-los-angeles/",
   "url": "https://gdsc.community.dev/university-of-california-los-angeles/"
- },
- {
-  "active": true,
-  "city": "Santa Cruz",
-  "country": "US",
-  "id": 667,
-  "hide_country_info": false,
-  "latitude": 36.9741171,
-  "logo": {},
-  "longitude": -122.0307963,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25282%2529%25202.jpeg",
-   "path": "chapter_banners/Untitled design (2) 2.jpeg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25282%2529%25202.jpeg"
-  },
-  "state": "",
-  "title": "University of California, Santa Cruz",
-  "relative_url": "/university-of-california-santa-cruz/",
-  "url": "https://gdsc.community.dev/university-of-california-santa-cruz/"
  },
  {
   "active": true,
@@ -4602,28 +4609,6 @@
   "title": "York University",
   "relative_url": "/york-university/",
   "url": "https://gdsc.community.dev/york-university/"
- },
- {
-  "active": true,
-  "city": "Maryville",
-  "country": "US",
-  "id": 1601,
-  "hide_country_info": false,
-  "latitude": 40.3461017,
-  "logo": {},
-  "longitude": -94.8724706,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/final%2520image.JPG",
-   "path": "chapter_banners/final image.JPG",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/final%2520image.JPG"
-  },
-  "state": "",
-  "title": "northwest missouri state university",
-  "relative_url": "/northwest-missouri-state-university/",
-  "url": "https://gdsc.community.dev/northwest-missouri-state-university/"
  },
  {
   "active": true,
@@ -6370,7 +6355,14 @@
   "latitude": 16.7569318,
   "logo": {},
   "longitude": -93.12923529999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/43037206_1890568301023512_8931562222073675776_n.jpg",
+   "path": "chapter_banners/43037206_1890568301023512_8931562222073675776_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/43037206_1890568301023512_8931562222073675776_n.jpg"
+  },
   "state": "",
   "title": "Universidad del Sur",
   "relative_url": "/universidad-del-sur/",
@@ -6822,7 +6814,14 @@
   "latitude": 15.5006544,
   "logo": {},
   "longitude": 32.5598994,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Al%2520Neelain%2520University%2520%2520vertical%2520color%2520%25281%2529.png",
+   "path": "chapter_banners/GDSC Al Neelain University  vertical color (1).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Al%2520Neelain%2520University%2520%2520vertical%2520color%2520%25281%2529.png"
+  },
   "state": "",
   "title": "Al Neelain University",
   "relative_url": "/al-neelain-university/",
@@ -9760,7 +9759,14 @@
   "latitude": 32.1194242,
   "logo": {},
   "longitude": 20.0867909,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520%2520Higher%2520Institute%2520of%2520Major%2520%2520Logo%2520x1.png",
+   "path": "chapter_banners/DSC  Higher Institute of Major  Logo x1.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520%2520Higher%2520Institute%2520of%2520Major%2520%2520Logo%2520x1.png"
+  },
   "state": "",
   "title": "Higher Institute of Major Engineering Professions",
   "relative_url": "/higher-institute-of-major-engineering-professions/",
@@ -13496,12 +13502,12 @@
   "hide_country_info": false,
   "latitude": 30.5964923,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-08-16%2520at%25205.43.32%2520PM_NO2pJMu.jpeg",
-   "path": "chapter_banners/WhatsApp Image 2021-08-16 at 5.43.32 PM_NO2pJMu.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PPic.png",
+   "path": "chapter_banners/PPic.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-08-16%2520at%25205.43.32%2520PM_NO2pJMu.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PPic.png"
   },
   "longitude": 32.2714587,
   "picture": {
@@ -16577,12 +16583,12 @@
   "logo": {},
   "longitude": 50.0887943,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/429B4173-DB15-4DA8-9098-E42864AF17B9.png",
-   "path": "chapter_banners/429B4173-DB15-4DA8-9098-E42864AF17B9.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Bunner_h5AUDQI.png",
+   "path": "chapter_banners/Bunner_h5AUDQI.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/429B4173-DB15-4DA8-9098-E42864AF17B9.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Bunner_h5AUDQI.png"
   },
   "state": "",
   "title": "imam Abdulrahman Bin Faisal University W",
@@ -21133,9 +21139,9 @@
   "longitude": 72.928871,
   "picture": {},
   "state": "",
-  "title": "A.D. Patel Institute of Technology",
-  "relative_url": "/ad-patel-institute-of-technology/",
-  "url": "https://gdsc.community.dev/ad-patel-institute-of-technology/"
+  "title": "A.D. Patel Institute of Technology - Anand",
+  "relative_url": "/ad-patel-institute-of-technology-anand/",
+  "url": "https://gdsc.community.dev/ad-patel-institute-of-technology-anand/"
  },
  {
   "active": true,
@@ -21177,9 +21183,9 @@
   "longitude": 77.45375779999999,
   "picture": {},
   "state": "",
-  "title": "ABES Engineering College",
-  "relative_url": "/abes-engineering-college/",
-  "url": "https://gdsc.community.dev/abes-engineering-college/"
+  "title": "ABES Engineering College - Ghaziabad",
+  "relative_url": "/abes-engineering-college-ghaziabad/",
+  "url": "https://gdsc.community.dev/abes-engineering-college-ghaziabad/"
  },
  {
   "active": true,
@@ -21199,9 +21205,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%2520from%25202020-08-31%252017-33-09.png"
   },
   "state": "",
-  "title": "ABES Institute of Technology",
-  "relative_url": "/abes-institute-of-technology/",
-  "url": "https://gdsc.community.dev/abes-institute-of-technology/"
+  "title": "ABES Institute of Technology - Ghaziabad",
+  "relative_url": "/abes-institute-of-technology-ghaziabad/",
+  "url": "https://gdsc.community.dev/abes-institute-of-technology-ghaziabad/"
  },
  {
   "active": true,
@@ -21236,7 +21242,7 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/AISSMS-Pune-Campus-High-Resolution_NUot3R5.jpg"
   },
   "state": "",
-  "title": "AISSMS College of Engineering, Pune",
+  "title": "AISSMS College of Engineering - Pune",
   "relative_url": "/aissms-college-of-engineering-pune/",
   "url": "https://gdsc.community.dev/aissms-college-of-engineering-pune/"
  },
@@ -21249,11 +21255,18 @@
   "latitude": 18.5204303,
   "logo": {},
   "longitude": 73.8567437,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/aissmsioit.jpg",
+   "path": "chapter_banners/aissmsioit.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/aissmsioit.jpg"
+  },
   "state": "",
-  "title": "AISSMS Institute of Information Technology",
-  "relative_url": "/aissms-institute-of-information-technology/",
-  "url": "https://gdsc.community.dev/aissms-institute-of-information-technology/"
+  "title": "AISSMS Institute of Information Technology - Pune",
+  "relative_url": "/aissms-institute-of-information-technology-pune/",
+  "url": "https://gdsc.community.dev/aissms-institute-of-information-technology-pune/"
  },
  {
   "active": true,
@@ -21332,9 +21345,9 @@
   "longitude": 75.8577258,
   "picture": {},
   "state": "",
-  "title": "Acropolis Institute of Technology & Research",
-  "relative_url": "/acropolis-institute-of-technology-research/",
-  "url": "https://gdsc.community.dev/acropolis-institute-of-technology-research/"
+  "title": "Acropolis Institute of Technology & Research - Indore",
+  "relative_url": "/acropolis-institute-of-technology-research-indore-1/",
+  "url": "https://gdsc.community.dev/acropolis-institute-of-technology-research-indore-1/"
  },
  {
   "active": true,
@@ -21353,7 +21366,7 @@
  },
  {
   "active": true,
-  "city": "Kochi",
+  "city": "Kalady",
   "country": "IN",
   "id": 811,
   "hide_country_info": false,
@@ -21361,10 +21374,10 @@
   "logo": {},
   "longitude": 76.4468254,
   "picture": {},
-  "state": "",
-  "title": "Adi Shankara Institute of Engineering & Technology",
-  "relative_url": "/adi-shankara-institute-of-engineering-technology/",
-  "url": "https://gdsc.community.dev/adi-shankara-institute-of-engineering-technology/"
+  "state": "KL",
+  "title": "Adi Shankara Institute of Engineering & Technology - Kalady",
+  "relative_url": "/adi-shankara-institute-of-engineering-technology-kalady/",
+  "url": "https://gdsc.community.dev/adi-shankara-institute-of-engineering-technology-kalady/"
  },
  {
   "active": true,
@@ -21399,9 +21412,9 @@
   "longitude": 82.05705789999999,
   "picture": {},
   "state": "",
-  "title": "Aditya Engineering College",
-  "relative_url": "/aditya-engineering-college/",
-  "url": "https://gdsc.community.dev/aditya-engineering-college/"
+  "title": "Aditya Engineering College - Surampalem",
+  "relative_url": "/aditya-engineering-college-surampalem/",
+  "url": "https://gdsc.community.dev/aditya-engineering-college-surampalem/"
  },
  {
   "active": true,
@@ -21481,9 +21494,9 @@
   "longitude": 77.45375779999999,
   "picture": {},
   "state": "",
-  "title": "Ajay Kumar Garg Engineering College",
-  "relative_url": "/ajay-kumar-garg-engineering-college/",
-  "url": "https://gdsc.community.dev/ajay-kumar-garg-engineering-college/"
+  "title": "Ajay Kumar Garg Engineering College - Ghaziabad",
+  "relative_url": "/ajay-kumar-garg-engineering-college-ghaziabad/",
+  "url": "https://gdsc.community.dev/ajay-kumar-garg-engineering-college-ghaziabad/"
  },
  {
   "active": true,
@@ -21503,9 +21516,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/011%2520%25281%2529.jpg"
   },
   "state": "",
-  "title": "Ajeenkya D.Y. Patil University",
-  "relative_url": "/ajeenkya-dy-patil-university/",
-  "url": "https://gdsc.community.dev/ajeenkya-dy-patil-university/"
+  "title": "Ajeenkya DY Patil University - Pune",
+  "relative_url": "/ajeenkya-dy-patil-university-pune/",
+  "url": "https://gdsc.community.dev/ajeenkya-dy-patil-university-pune/"
  },
  {
   "active": true,
@@ -21545,11 +21558,18 @@
   "latitude": 13.0381896,
   "logo": {},
   "longitude": 80.1565461,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/_MG_0951%2520%25281%2529_gRv3VCn.jfif",
+   "path": "chapter_banners/_MG_0951 (1)_gRv3VCn.jfif",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/_MG_0951%2520%25281%2529_gRv3VCn.jfif"
+  },
   "state": "",
-  "title": "Alpha Arts and Science College",
-  "relative_url": "/alpha-arts-and-science-college/",
-  "url": "https://gdsc.community.dev/alpha-arts-and-science-college/"
+  "title": "Alpha Arts and Science College - Porur",
+  "relative_url": "/alpha-arts-and-science-college-porur/",
+  "url": "https://gdsc.community.dev/alpha-arts-and-science-college-porur/"
  },
  {
   "active": true,
@@ -21562,9 +21582,9 @@
   "longitude": 76.78735499999999,
   "picture": {},
   "state": "",
-  "title": "Amal Jyothi College Of Engineering",
-  "relative_url": "/amal-jyothi-college-of-engineering/",
-  "url": "https://gdsc.community.dev/amal-jyothi-college-of-engineering/"
+  "title": "Amal Jyothi College of Engineering - Kanjirappally",
+  "relative_url": "/amal-jyothi-college-of-engineering-kanjirappally/",
+  "url": "https://gdsc.community.dev/amal-jyothi-college-of-engineering-kanjirappally/"
  },
  {
   "active": true,
@@ -21584,9 +21604,31 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/resize-16285127801310340037Shakarpur3.jpg"
   },
   "state": "",
-  "title": "Ambedkar Institute of technology",
-  "relative_url": "/ambedkar-institute-of-technology/",
-  "url": "https://gdsc.community.dev/ambedkar-institute-of-technology/"
+  "title": "Ambedkar Institute of Technology - Delhi",
+  "relative_url": "/ambedkar-institute-of-technology-delhi/",
+  "url": "https://gdsc.community.dev/ambedkar-institute-of-technology-delhi/"
+ },
+ {
+  "active": true,
+  "city": "CSEB Colony",
+  "country": "IN",
+  "id": 1363,
+  "hide_country_info": false,
+  "latitude": 22.3656811,
+  "logo": {},
+  "longitude": 82.7279705,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Amity%2520University%2520Chhattisgarh%2520Logo%2520x1_87ItedX.png",
+   "path": "chapter_banners/DSC Amity University Chhattisgarh Logo x1_87ItedX.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Amity%2520University%2520Chhattisgarh%2520Logo%2520x1_87ItedX.png"
+  },
+  "state": "CT",
+  "title": "Amity University - Chhattisgarh",
+  "relative_url": "/amity-university-chhattisgarh/",
+  "url": "https://gdsc.community.dev/amity-university-chhattisgarh/"
  },
  {
   "active": true,
@@ -21599,31 +21641,9 @@
   "longitude": 73.0296625,
   "picture": {},
   "state": "",
-  "title": "Amity University",
-  "relative_url": "/amity-university/",
-  "url": "https://gdsc.community.dev/amity-university/"
- },
- {
-  "active": true,
-  "city": "Raipur",
-  "country": "IN",
-  "id": 1363,
-  "hide_country_info": false,
-  "latitude": 21.2513844,
-  "logo": {},
-  "longitude": 81.62964130000002,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Amity%2520University%2520Chhattisgarh%2520Logo%2520x1_87ItedX.png",
-   "path": "chapter_banners/DSC Amity University Chhattisgarh Logo x1_87ItedX.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Amity%2520University%2520Chhattisgarh%2520Logo%2520x1_87ItedX.png"
-  },
-  "state": "",
-  "title": "Amity University Chhattisgarh",
-  "relative_url": "/amity-university-chhattisgarh/",
-  "url": "https://gdsc.community.dev/amity-university-chhattisgarh/"
+  "title": "Amity University - Mumbai",
+  "relative_url": "/amity-university-mumbai/",
+  "url": "https://gdsc.community.dev/amity-university-mumbai/"
  },
  {
   "active": true,
@@ -21643,7 +21663,7 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Amity%2520University%2520Logo%2520x2_loCjd8N.png"
   },
   "state": "",
-  "title": "Amity University, Noida",
+  "title": "Amity University - Noida",
   "relative_url": "/amity-university-noida/",
   "url": "https://gdsc.community.dev/amity-university-noida/"
  },
@@ -21680,7 +21700,7 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Amrita_School_of_Engineering_fin_vp93AfD.png"
   },
   "state": "",
-  "title": "Amrita School of Engineering, Bengaluru",
+  "title": "Amrita School of Engineering - Bengaluru",
   "relative_url": "/amrita-school-of-engineering-bengaluru/",
   "url": "https://gdsc.community.dev/amrita-school-of-engineering-bengaluru/"
  },
@@ -21702,19 +21722,19 @@
   "longitude": 76.9558321,
   "picture": {},
   "state": "",
-  "title": "Amrita School of Engineering, Coimbatore",
+  "title": "Amrita School of Engineering - Coimbatore",
   "relative_url": "/amrita-school-of-engineering-coimbatore/",
   "url": "https://gdsc.community.dev/amrita-school-of-engineering-coimbatore/"
  },
  {
   "active": true,
-  "city": "Amritapuri",
+  "city": "Kollam",
   "country": "IN",
   "id": 902,
   "hide_country_info": false,
-  "latitude": 9.094938400000002,
+  "latitude": 8.8932118,
   "logo": {},
-  "longitude": 76.48956369999999,
+  "longitude": 76.6141396,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Amrita%2520Vishwa%2520Vidyapeetham%252C%2520Amritapuri%2520Light%2520Vertical-Logo_fcPOQbF.png",
    "path": "chapter_banners/DSC Amrita Vishwa Vidyapeetham, Amritapuri Light Vertical-Logo_fcPOQbF.png",
@@ -21723,8 +21743,8 @@
    "thumbnail_format": "auto",
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Amrita%2520Vishwa%2520Vidyapeetham%252C%2520Amritapuri%2520Light%2520Vertical-Logo_fcPOQbF.png"
   },
-  "state": "",
-  "title": "Amrita School of Engineering, Kollam",
+  "state": "KL",
+  "title": "Amrita School of Engineering - Kollam",
   "relative_url": "/amrita-school-of-engineering-kollam/",
   "url": "https://gdsc.community.dev/amrita-school-of-engineering-kollam/"
  },
@@ -21753,9 +21773,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/new_tRJAQTB.jpg"
   },
   "state": "",
-  "title": "Andhra University College of Engineering",
-  "relative_url": "/andhra-university-college-of-engineering/",
-  "url": "https://gdsc.community.dev/andhra-university-college-of-engineering/"
+  "title": "Andhra University College of Engineering - Visakhapatnam",
+  "relative_url": "/andhra-university-college-of-engineering-visakhapatnam/",
+  "url": "https://gdsc.community.dev/andhra-university-college-of-engineering-visakhapatnam/"
  },
  {
   "active": true,
@@ -21768,9 +21788,9 @@
   "longitude": 75.7138884,
   "picture": {},
   "state": "",
-  "title": "Anjuman-I-Islam's Kalsekar Technical Campus",
-  "relative_url": "/anjuman-i-islams-kalsekar-technical-campus/",
-  "url": "https://gdsc.community.dev/anjuman-i-islams-kalsekar-technical-campus/"
+  "title": "Anjuman-I-Islam's Kalsekar Technical Campus - Navi Mumbai",
+  "relative_url": "/anjuman-i-islams-kalsekar-technical-campus-navi-mumbai/",
+  "url": "https://gdsc.community.dev/anjuman-i-islams-kalsekar-technical-campus-navi-mumbai/"
  },
  {
   "active": true,
@@ -21790,9 +21810,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Blue%2520and%2520Green%2520Shape%2520Fitness%2520Influencer%2520Neon%2520Noir%2520Youtube%2520Thumbnail%2520Set%2520%25281%2529.png"
   },
   "state": "",
-  "title": "Anurag Group of Institutions",
-  "relative_url": "/anurag-group-of-institutions/",
-  "url": "https://gdsc.community.dev/anurag-group-of-institutions/"
+  "title": "Anurag Group of Institutions - Hyderabad",
+  "relative_url": "/anurag-group-of-institutions-hyderabad/",
+  "url": "https://gdsc.community.dev/anurag-group-of-institutions-hyderabad/"
  },
  {
   "active": true,
@@ -21812,9 +21832,9 @@
   "longitude": 73.8567437,
   "picture": {},
   "state": "",
-  "title": "Army Institute of Technology",
-  "relative_url": "/army-institute-of-technology/",
-  "url": "https://gdsc.community.dev/army-institute-of-technology/"
+  "title": "Army Institute of Technology - Pune",
+  "relative_url": "/army-institute-of-technology-pune/",
+  "url": "https://gdsc.community.dev/army-institute-of-technology-pune/"
  },
  {
   "active": true,
@@ -21834,9 +21854,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520AKU%2520Logo%2520x1.png"
   },
   "state": "",
-  "title": "Aryabhatta Knowledge University",
-  "relative_url": "/aryabhatta-knowledge-university/",
-  "url": "https://gdsc.community.dev/aryabhatta-knowledge-university/"
+  "title": "Aryabhatta Knowledge University - Patna",
+  "relative_url": "/aryabhatta-knowledge-university-patna/",
+  "url": "https://gdsc.community.dev/aryabhatta-knowledge-university-patna/"
  },
  {
   "active": true,
@@ -21849,9 +21869,9 @@
   "longitude": 77.0150735,
   "picture": {},
   "state": "",
-  "title": "Ashoka University",
-  "relative_url": "/ashoka-university/",
-  "url": "https://gdsc.community.dev/ashoka-university/"
+  "title": "Ashoka University - Sonipat",
+  "relative_url": "/ashoka-university-sonipat/",
+  "url": "https://gdsc.community.dev/ashoka-university-sonipat/"
  },
  {
   "active": true,
@@ -21916,9 +21936,9 @@
   "longitude": 78.18283079999999,
   "picture": {},
   "state": "",
-  "title": "Atal Behari Vajpayee Indian Institute of Information Technology and Management (IIITM)",
-  "relative_url": "/atal-behari-vajpayee-indian-institute-of-information-technology-and-management-iiitm/",
-  "url": "https://gdsc.community.dev/atal-behari-vajpayee-indian-institute-of-information-technology-and-management-iiitm/"
+  "title": "Atal Behari Vajpayee Indian Institute of Information Technology and Management (IIITM) - Gwalior",
+  "relative_url": "/atal-behari-vajpayee-indian-institute-of-information-technology-and-management-iiitm-gwalior/",
+  "url": "https://gdsc.community.dev/atal-behari-vajpayee-indian-institute-of-information-technology-and-management-iiitm-gwalior/"
  },
  {
   "active": true,
@@ -21990,9 +22010,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner_8kfrTa9.jpg"
   },
   "state": "",
-  "title": "Avantika University",
-  "relative_url": "/avantika-university/",
-  "url": "https://gdsc.community.dev/avantika-university/"
+  "title": "Avantika University - Ujjain",
+  "relative_url": "/avantika-university-ujjain/",
+  "url": "https://gdsc.community.dev/avantika-university-ujjain/"
  },
  {
   "active": true,
@@ -22005,9 +22025,9 @@
   "longitude": 75.6091696,
   "picture": {},
   "state": "",
-  "title": "B. K. Birla Institute of Engineering & Technology",
-  "relative_url": "/b-k-birla-institute-of-engineering-technology/",
-  "url": "https://gdsc.community.dev/b-k-birla-institute-of-engineering-technology/"
+  "title": "B. K. Birla Institute of Engineering & Technology - Pilani",
+  "relative_url": "/b-k-birla-institute-of-engineering-technology-pilani/",
+  "url": "https://gdsc.community.dev/b-k-birla-institute-of-engineering-technology-pilani/"
  },
  {
   "active": true,
@@ -22042,9 +22062,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cover%2520picture.jpg"
   },
   "state": "",
-  "title": "B.P. Poddar Institute Of Management And Technology",
-  "relative_url": "/bp-poddar-institute-of-management-and-technology/",
-  "url": "https://gdsc.community.dev/bp-poddar-institute-of-management-and-technology/"
+  "title": "B. P. Poddar Institute of Management and Technology - Kolkata",
+  "relative_url": "/b-p-poddar-institute-of-management-and-technology-kolkata/",
+  "url": "https://gdsc.community.dev/b-p-poddar-institute-of-management-and-technology-kolkata/"
  },
  {
   "active": true,
@@ -22094,9 +22114,9 @@
   "longitude": 77.5945627,
   "picture": {},
   "state": "",
-  "title": "BMS College of Engineering",
-  "relative_url": "/bms-college-of-engineering/",
-  "url": "https://gdsc.community.dev/bms-college-of-engineering/"
+  "title": "BMS College of Engineering - Bengaluru",
+  "relative_url": "/bms-college-of-engineering-bengaluru/",
+  "url": "https://gdsc.community.dev/bms-college-of-engineering-bengaluru/"
  },
  {
   "active": true,
@@ -22109,9 +22129,9 @@
   "longitude": 78.486671,
   "picture": {},
   "state": "",
-  "title": "BVRIT Hyderabad College of Engineering for Women",
-  "relative_url": "/bvrit-hyderabad-college-of-engineering-for-women/",
-  "url": "https://gdsc.community.dev/bvrit-hyderabad-college-of-engineering-for-women/"
+  "title": "BVRIT Hyderabad College of Engineering For Women - Hyderabad",
+  "relative_url": "/bvrit-hyderabad-college-of-engineering-for-women-hyderabad/",
+  "url": "https://gdsc.community.dev/bvrit-hyderabad-college-of-engineering-for-women-hyderabad/"
  },
  {
   "active": true,
@@ -22131,9 +22151,9 @@
   "longitude": 76.39703,
   "picture": {},
   "state": "",
-  "title": "Baba Banda Singh Bahadur Engineering College",
-  "relative_url": "/baba-banda-singh-bahadur-engineering-college/",
-  "url": "https://gdsc.community.dev/baba-banda-singh-bahadur-engineering-college/"
+  "title": "Baba Banda Singh Bahadur Engineering College - Fatehgarh Sahib",
+  "relative_url": "/baba-banda-singh-bahadur-engineering-college-fatehgarh-sahib/",
+  "url": "https://gdsc.community.dev/baba-banda-singh-bahadur-engineering-college-fatehgarh-sahib/"
  },
  {
   "active": true,
@@ -22146,9 +22166,9 @@
   "longitude": 73.1812187,
   "picture": {},
   "state": "",
-  "title": "Babaria institute of technology",
-  "relative_url": "/babaria-institute-of-technology/",
-  "url": "https://gdsc.community.dev/babaria-institute-of-technology/"
+  "title": "Babaria Institute of Technology - Vadodara",
+  "relative_url": "/babaria-institute-of-technology-vadodara/",
+  "url": "https://gdsc.community.dev/babaria-institute-of-technology-vadodara/"
  },
  {
   "active": true,
@@ -22168,9 +22188,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/BBDNITM%2520Photo_d7XUdRD.jpg"
   },
   "state": "",
-  "title": "Babu Banarasi Das National Institute of Technology & Management",
-  "relative_url": "/babu-banarasi-das-national-institute-of-technology-management/",
-  "url": "https://gdsc.community.dev/babu-banarasi-das-national-institute-of-technology-management/"
+  "title": "Babu Banarasi Das National Institute of Technology & Management - Lucknow",
+  "relative_url": "/babu-banarasi-das-national-institute-of-technology-management-lucknow/",
+  "url": "https://gdsc.community.dev/babu-banarasi-das-national-institute-of-technology-management-lucknow/"
  },
  {
   "active": true,
@@ -22220,24 +22240,24 @@
   "longitude": 78.60219459999999,
   "picture": {},
   "state": "",
-  "title": "Bajaj Institute of Technology",
-  "relative_url": "/bajaj-institute-of-technology/",
-  "url": "https://gdsc.community.dev/bajaj-institute-of-technology/"
+  "title": "Bajaj Institute of Technology - Wardha",
+  "relative_url": "/bajaj-institute-of-technology-wardha/",
+  "url": "https://gdsc.community.dev/bajaj-institute-of-technology-wardha/"
  },
  {
   "active": true,
-  "city": "Bakhtiarpur",
+  "city": "Patna",
   "country": "IN",
   "id": 1446,
   "hide_country_info": false,
-  "latitude": 25.4547359,
+  "latitude": 25.5940947,
   "logo": {},
-  "longitude": 85.539154,
+  "longitude": 85.1375645,
   "picture": {},
-  "state": "",
-  "title": "Bakhtiyarpur College of Engineering",
-  "relative_url": "/bakhtiyarpur-college-of-engineering/",
-  "url": "https://gdsc.community.dev/bakhtiyarpur-college-of-engineering/"
+  "state": "BR",
+  "title": "Bakhtiyarpur College of Engineering - Patna",
+  "relative_url": "/bakhtiyarpur-college-of-engineering-patna/",
+  "url": "https://gdsc.community.dev/bakhtiyarpur-college-of-engineering-patna/"
  },
  {
   "active": true,
@@ -22315,9 +22335,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Desktop%2520-%25202%2520%25282%2529.png"
   },
   "state": "",
-  "title": "Bansal Institute of Science and Technology",
-  "relative_url": "/bansal-institute-of-science-and-technology/",
-  "url": "https://gdsc.community.dev/bansal-institute-of-science-and-technology/"
+  "title": "Bansal Institute of Science and Technology - Bhopal",
+  "relative_url": "/bansal-institute-of-science-and-technology-bhopal-1/",
+  "url": "https://gdsc.community.dev/bansal-institute-of-science-and-technology-bhopal-1/"
  },
  {
   "active": true,
@@ -22366,9 +22386,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1.png"
   },
   "state": "",
-  "title": "Bennett University",
-  "relative_url": "/bennett-university/",
-  "url": "https://gdsc.community.dev/bennett-university/"
+  "title": "Bennet University - Greater Noida",
+  "relative_url": "/bennet-university-greater-noida/",
+  "url": "https://gdsc.community.dev/bennet-university-greater-noida/"
  },
  {
   "active": true,
@@ -22396,24 +22416,24 @@
   "longitude": 77.10249019999999,
   "picture": {},
   "state": "",
-  "title": "Bhagwan Parshuram Institute of Technology",
-  "relative_url": "/bhagwan-parshuram-institute-of-technology/",
-  "url": "https://gdsc.community.dev/bhagwan-parshuram-institute-of-technology/"
+  "title": "Bhagwan Parshuram Institute of Technology - Delhi",
+  "relative_url": "/bhagwan-parshuram-institute-of-technology-delhi/",
+  "url": "https://gdsc.community.dev/bhagwan-parshuram-institute-of-technology-delhi/"
  },
  {
   "active": true,
-  "city": "Ibrahimpatnam",
+  "city": "Hajdarabad",
   "country": "IN",
   "id": 1444,
   "hide_country_info": false,
-  "latitude": 17.1935356,
+  "latitude": 17.385044,
   "logo": {},
-  "longitude": 78.6461413,
+  "longitude": 78.486671,
   "picture": {},
-  "state": "",
-  "title": "Bharat Institure of Engineering and Technology",
-  "relative_url": "/bharat-institure-of-engineering-and-technology/",
-  "url": "https://gdsc.community.dev/bharat-institure-of-engineering-and-technology/"
+  "state": "TG",
+  "title": "Bharat Institure of Engineering and Technology - Hyderabad",
+  "relative_url": "/bharat-institure-of-engineering-and-technology-hyderabad/",
+  "url": "https://gdsc.community.dev/bharat-institure-of-engineering-and-technology-hyderabad/"
  },
  {
   "active": true,
@@ -22426,9 +22446,9 @@
   "longitude": 77.7064137,
   "picture": {},
   "state": "",
-  "title": "Bharat Institute of Technology",
-  "relative_url": "/bharat-institute-of-technology/",
-  "url": "https://gdsc.community.dev/bharat-institute-of-technology/"
+  "title": "Bharat Institute of Technology - Meerut",
+  "relative_url": "/bharat-institute-of-technology-meerut/",
+  "url": "https://gdsc.community.dev/bharat-institute-of-technology-meerut/"
  },
  {
   "active": true,
@@ -22456,7 +22476,7 @@
   "longitude": 73.8567437,
   "picture": {},
   "state": "",
-  "title": "Bharati Vidyapeeth (Deemed University) College of Engineering, Pune",
+  "title": "Bharati Vidyapeeth (Deemed University) College of Engineering - Pune",
   "relative_url": "/bharati-vidyapeeth-deemed-university-college-of-engineering-pune/",
   "url": "https://gdsc.community.dev/bharati-vidyapeeth-deemed-university-college-of-engineering-pune/"
  },
@@ -22485,9 +22505,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/college%2520image.png"
   },
   "state": "",
-  "title": "Bharati Vidyapeeth College of Engineering",
-  "relative_url": "/bharati-vidyapeeth-college-of-engineering/",
-  "url": "https://gdsc.community.dev/bharati-vidyapeeth-college-of-engineering/"
+  "title": "Bharati Vidyapeeth College of Engineering - Navi Mumbai",
+  "relative_url": "/bharati-vidyapeeth-college-of-engineering-navi-mumbai/",
+  "url": "https://gdsc.community.dev/bharati-vidyapeeth-college-of-engineering-navi-mumbai/"
  },
  {
   "active": true,
@@ -22500,9 +22520,9 @@
   "longitude": 73.0296625,
   "picture": {},
   "state": "",
-  "title": "Bharati Vidyapeeth Department of Engineering and Technology",
-  "relative_url": "/bharati-vidyapeeth-department-of-engineering-and-technology/",
-  "url": "https://gdsc.community.dev/bharati-vidyapeeth-department-of-engineering-and-technology/"
+  "title": "Bharati Vidyapeeth Department of Engineering and Technology - Navi Mumbai",
+  "relative_url": "/bharati-vidyapeeth-department-of-engineering-and-technology-navi-mumbai/",
+  "url": "https://gdsc.community.dev/bharati-vidyapeeth-department-of-engineering-and-technology-navi-mumbai/"
  },
  {
   "active": true,
@@ -22537,9 +22557,9 @@
   "longitude": 77.2090212,
   "picture": {},
   "state": "",
-  "title": "Bharati Vidyapeeth’s College of Engineering",
-  "relative_url": "/bharati-vidyapeeths-college-of-engineering/",
-  "url": "https://gdsc.community.dev/bharati-vidyapeeths-college-of-engineering/"
+  "title": "Bharati Vidyapeeth’s College of Engineering - Delhi",
+  "relative_url": "/bharati-vidyapeeths-college-of-engineering-delhi/",
+  "url": "https://gdsc.community.dev/bharati-vidyapeeths-college-of-engineering-delhi/"
  },
  {
   "active": true,
@@ -22603,9 +22623,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_F7IQIgV.png"
   },
   "state": "",
-  "title": "Bhilai Institute of Technology",
-  "relative_url": "/bhilai-institute-of-technology/",
-  "url": "https://gdsc.community.dev/bhilai-institute-of-technology/"
+  "title": "Bhilai Institute of Technology - Durg",
+  "relative_url": "/bhilai-institute-of-technology-durg/",
+  "url": "https://gdsc.community.dev/bhilai-institute-of-technology-durg/"
  },
  {
   "active": true,
@@ -22743,24 +22763,24 @@
   "longitude": 75.6091696,
   "picture": {},
   "state": "",
-  "title": "Birla Institute of Technology & Science, BITS",
-  "relative_url": "/birla-institute-of-technology-science-bits/",
-  "url": "https://gdsc.community.dev/birla-institute-of-technology-science-bits/"
+  "title": "Birla Institute of Technology & Science - BITS Pilani",
+  "relative_url": "/birla-institute-of-technology-science-bits-pilani/",
+  "url": "https://gdsc.community.dev/birla-institute-of-technology-science-bits-pilani/"
  },
  {
   "active": true,
-  "city": "Sancoale",
+  "city": "Goa",
   "country": "IN",
   "id": 1459,
   "hide_country_info": false,
-  "latitude": 15.3799371,
+  "latitude": 23.7301928,
   "logo": {},
-  "longitude": 73.876949,
+  "longitude": 84.55628779999999,
   "picture": {},
-  "state": "",
-  "title": "Birla Institute of Technology and Science, Goa Campus",
-  "relative_url": "/birla-institute-of-technology-and-science-goa-campus/",
-  "url": "https://gdsc.community.dev/birla-institute-of-technology-and-science-goa-campus/"
+  "state": "JH",
+  "title": "Birla Institute of Technology and Science, Goa Campus - Goa",
+  "relative_url": "/birla-institute-of-technology-and-science-goa-campus-goa/",
+  "url": "https://gdsc.community.dev/birla-institute-of-technology-and-science-goa-campus-goa/"
  },
  {
   "active": true,
@@ -22780,9 +22800,9 @@
   "longitude": 75.6091696,
   "picture": {},
   "state": "",
-  "title": "Birla Institute of Technology and Science, Pilani",
-  "relative_url": "/birla-institute-of-technology-and-science-pilani/",
-  "url": "https://gdsc.community.dev/birla-institute-of-technology-and-science-pilani/"
+  "title": "Birla Institute of Technology and Science, Pilani - Hyderabad",
+  "relative_url": "/birla-institute-of-technology-and-science-pilani-hyderabad/",
+  "url": "https://gdsc.community.dev/birla-institute-of-technology-and-science-pilani-hyderabad/"
  },
  {
   "active": true,
@@ -22795,9 +22815,9 @@
   "longitude": 85.309562,
   "picture": {},
   "state": "",
-  "title": "Birla Institute of Technology, Mesra",
-  "relative_url": "/birla-institute-of-technology-mesra/",
-  "url": "https://gdsc.community.dev/birla-institute-of-technology-mesra/"
+  "title": "Birla Institute of Technology, Mesra -  Ranchi",
+  "relative_url": "/birla-institute-of-technology-mesra-ranchi/",
+  "url": "https://gdsc.community.dev/birla-institute-of-technology-mesra-ranchi/"
  },
  {
   "active": true,
@@ -22824,9 +22844,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252024%25404x.png"
   },
   "state": "",
-  "title": "Birla Vishvakarma Mahavidyalaya Engineering College",
-  "relative_url": "/birla-vishvakarma-mahavidyalaya-engineering-college/",
-  "url": "https://gdsc.community.dev/birla-vishvakarma-mahavidyalaya-engineering-college/"
+  "title": "Birla Vishvakarma Mahavidyalaya Engineering College - Anand",
+  "relative_url": "/birla-vishvakarma-mahavidyalaya-engineering-college-anand/",
+  "url": "https://gdsc.community.dev/birla-vishvakarma-mahavidyalaya-engineering-college-anand/"
  },
  {
   "active": true,
@@ -22854,9 +22874,9 @@
   "longitude": 86.7058637,
   "picture": {},
   "state": "",
-  "title": "Birsa Institute of Technology (BIT Sindri)",
-  "relative_url": "/birsa-institute-of-technology-bit-sindri/",
-  "url": "https://gdsc.community.dev/birsa-institute-of-technology-bit-sindri/"
+  "title": "Birsa Institute of Technology (BIT Sindri) - Dhanbad",
+  "relative_url": "/birsa-institute-of-technology-bit-sindri-dhanbad/",
+  "url": "https://gdsc.community.dev/birsa-institute-of-technology-bit-sindri-dhanbad/"
  },
  {
   "active": true,
@@ -22891,9 +22911,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc_N6jQU3l.jpg"
   },
   "state": "",
-  "title": "C. V. Raman Global University",
-  "relative_url": "/c-v-raman-global-university/",
-  "url": "https://gdsc.community.dev/c-v-raman-global-university/"
+  "title": "C. V. Raman Global University - Bhubaneswar",
+  "relative_url": "/c-v-raman-global-university-bhubaneswar/",
+  "url": "https://gdsc.community.dev/c-v-raman-global-university-bhubaneswar/"
  },
  {
   "active": true,
@@ -22906,9 +22926,9 @@
   "longitude": 77.5945627,
   "picture": {},
   "state": "",
-  "title": "CHRIST (Deemed to be University)",
-  "relative_url": "/christ-deemed-to-be-university/",
-  "url": "https://gdsc.community.dev/christ-deemed-to-be-university/"
+  "title": "CHRIST (Deemed to be University) - Bengaluru",
+  "relative_url": "/christ-deemed-to-be-university-bengaluru/",
+  "url": "https://gdsc.community.dev/christ-deemed-to-be-university-bengaluru/"
  },
  {
   "active": true,
@@ -22950,9 +22970,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520CMR%2520Institute%2520of%2520Technology%2520Logo%2520x1.png"
   },
   "state": "",
-  "title": "CMR Institute of Technology, Bangalore",
-  "relative_url": "/cmr-institute-of-technology-bangalore/",
-  "url": "https://gdsc.community.dev/cmr-institute-of-technology-bangalore/"
+  "title": "CMR Institute of Technology - Bengaluru",
+  "relative_url": "/cmr-institute-of-technology-bengaluru/",
+  "url": "https://gdsc.community.dev/cmr-institute-of-technology-bengaluru/"
  },
  {
   "active": true,
@@ -22994,7 +23014,7 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner_ob92Fs1.PNG"
   },
   "state": "",
-  "title": "CMR Technical Campus, Hyderabad",
+  "title": "CMR Technical Campus - Hyderabad",
   "relative_url": "/cmr-technical-campus-hyderabad/",
   "url": "https://gdsc.community.dev/cmr-technical-campus-hyderabad/"
  },
@@ -23125,9 +23145,9 @@
   "longitude": 88.36389500000001,
   "picture": {},
   "state": "",
-  "title": "Calcutta Institute of Engineering And Management",
-  "relative_url": "/calcutta-institute-of-engineering-and-management/",
-  "url": "https://gdsc.community.dev/calcutta-institute-of-engineering-and-management/"
+  "title": "Calcutta Institute of Engineering and Management - Kolkata",
+  "relative_url": "/calcutta-institute-of-engineering-and-management-kolkata/",
+  "url": "https://gdsc.community.dev/calcutta-institute-of-engineering-and-management-kolkata/"
  },
  {
   "active": true,
@@ -23154,9 +23174,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_rvP0Q19.png"
   },
   "state": "",
-  "title": "Cambridge Institute of Technology",
-  "relative_url": "/cambridge-institute-of-technology/",
-  "url": "https://gdsc.community.dev/cambridge-institute-of-technology/"
+  "title": "Cambridge Institute of Technology - Bengaluru",
+  "relative_url": "/cambridge-institute-of-technology-bengaluru/",
+  "url": "https://gdsc.community.dev/cambridge-institute-of-technology-bengaluru/"
  },
  {
   "active": true,
@@ -23176,9 +23196,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/career-point-university-cpu-kota.jpg"
   },
   "state": "",
-  "title": "Career Point University",
-  "relative_url": "/career-point-university/",
-  "url": "https://gdsc.community.dev/career-point-university/"
+  "title": "Career Point University - Kota",
+  "relative_url": "/career-point-university-kota/",
+  "url": "https://gdsc.community.dev/career-point-university-kota/"
  },
  {
   "active": true,
@@ -23249,9 +23269,9 @@
   "longitude": 76.7019038,
   "picture": {},
   "state": "",
-  "title": "Ch. Ranbir Singh State Institute of Engineering and Technology",
-  "relative_url": "/ch-ranbir-singh-state-institute-of-engineering-and-technology/",
-  "url": "https://gdsc.community.dev/ch-ranbir-singh-state-institute-of-engineering-and-technology/"
+  "title": "Ch. Ranbir Singh State Institute of Engineering and Technology - Jhajjar",
+  "relative_url": "/ch-ranbir-singh-state-institute-of-engineering-and-technology-jhajjar/",
+  "url": "https://gdsc.community.dev/ch-ranbir-singh-state-institute-of-engineering-and-technology-jhajjar/"
  },
  {
   "active": true,
@@ -23277,18 +23297,18 @@
  },
  {
   "active": true,
-  "city": "Landran",
+  "city": "Sahibzada Ajit Singh Nagar",
   "country": "IN",
   "id": 1644,
   "hide_country_info": false,
-  "latitude": 30.69449079999999,
+  "latitude": 30.7046486,
   "logo": {},
-  "longitude": 76.6650946,
+  "longitude": 76.71787259999999,
   "picture": {},
-  "state": "",
-  "title": "Chandigarh Group of Colleges, Landran",
-  "relative_url": "/chandigarh-group-of-colleges-landran/",
-  "url": "https://gdsc.community.dev/chandigarh-group-of-colleges-landran/"
+  "state": "PB",
+  "title": "Chandigarh Group of Colleges, Landran - Sahibzada Ajit Singh Nagar",
+  "relative_url": "/chandigarh-group-of-colleges-landran-sahibzada-ajit-singh-nagar/",
+  "url": "https://gdsc.community.dev/chandigarh-group-of-colleges-landran-sahibzada-ajit-singh-nagar/"
  },
  {
   "active": true,
@@ -23315,9 +23335,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/communitypage2.png"
   },
   "state": "",
-  "title": "Chandigarh University",
-  "relative_url": "/chandigarh-university/",
-  "url": "https://gdsc.community.dev/chandigarh-university/"
+  "title": "Chandigarh University - Chandigarh",
+  "relative_url": "/chandigarh-university-chandigarh/",
+  "url": "https://gdsc.community.dev/chandigarh-university-chandigarh/"
  },
  {
   "active": true,
@@ -23360,9 +23380,9 @@
   "longitude": 80.2707184,
   "picture": {},
   "state": "",
-  "title": "Chennai Institute of Technology",
-  "relative_url": "/chennai-institute-of-technology/",
-  "url": "https://gdsc.community.dev/chennai-institute-of-technology/"
+  "title": "Chennai Institute of Technology - Chennai",
+  "relative_url": "/chennai-institute-of-technology-chennai/",
+  "url": "https://gdsc.community.dev/chennai-institute-of-technology-chennai/"
  },
  {
   "active": true,
@@ -23375,9 +23395,9 @@
   "longitude": 80.3318736,
   "picture": {},
   "state": "",
-  "title": "Chhatrapati Shahu Ji Maharaj University",
-  "relative_url": "/chhatrapati-shahu-ji-maharaj-university/",
-  "url": "https://gdsc.community.dev/chhatrapati-shahu-ji-maharaj-university/"
+  "title": "Chhatrapati Shahu Ji Maharaj University - Kanpur",
+  "relative_url": "/chhatrapati-shahu-ji-maharaj-university-kanpur/",
+  "url": "https://gdsc.community.dev/chhatrapati-shahu-ji-maharaj-university-kanpur/"
  },
  {
   "active": true,
@@ -23418,18 +23438,18 @@
  },
  {
   "active": true,
-  "city": "Irinjalakuda",
+  "city": "Thrissur",
   "country": "IN",
   "id": 1334,
   "hide_country_info": false,
-  "latitude": 10.3468925,
+  "latitude": 10.5276416,
   "logo": {},
-  "longitude": 76.2074124,
+  "longitude": 76.2144349,
   "picture": {},
-  "state": "",
-  "title": "Christ College of Engineering",
-  "relative_url": "/christ-college-of-engineering/",
-  "url": "https://gdsc.community.dev/christ-college-of-engineering/"
+  "state": "KL",
+  "title": "Christ College of Engineering - Thrissur",
+  "relative_url": "/christ-college-of-engineering-thrissur/",
+  "url": "https://gdsc.community.dev/christ-college-of-engineering-thrissur/"
  },
  {
   "active": true,
@@ -23558,21 +23578,6 @@
  },
  {
   "active": true,
-  "city": "Thalassery",
-  "country": "IN",
-  "id": 1404,
-  "hide_country_info": false,
-  "latitude": 11.7491424,
-  "logo": {},
-  "longitude": 75.4890346,
-  "picture": {},
-  "state": "",
-  "title": "College of Engineering",
-  "relative_url": "/college-of-engineering/",
-  "url": "https://gdsc.community.dev/college-of-engineering/"
- },
- {
-  "active": true,
   "city": "Bhubaneswar",
   "country": "IN",
   "id": 1356,
@@ -23596,9 +23601,61 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/LRM_EXPORT_20210811_231619.jpg"
   },
   "state": "",
-  "title": "College of Engineering & Technology",
-  "relative_url": "/college-of-engineering-technology/",
-  "url": "https://gdsc.community.dev/college-of-engineering-technology/"
+  "title": "College of Engineering & Technology - Bhubaneswar",
+  "relative_url": "/college-of-engineering-technology-bhubaneswar/",
+  "url": "https://gdsc.community.dev/college-of-engineering-technology-bhubaneswar/"
+ },
+ {
+  "active": true,
+  "city": "Attingal",
+  "country": "IN",
+  "id": 1072,
+  "hide_country_info": false,
+  "latitude": 8.6982226,
+  "logo": {},
+  "longitude": 76.8136569,
+  "picture": {},
+  "state": "KL",
+  "title": "College of Engineering - Attingal",
+  "relative_url": "/college-of-engineering-attingal/",
+  "url": "https://gdsc.community.dev/college-of-engineering-attingal/"
+ },
+ {
+  "active": true,
+  "city": "Kidangoor",
+  "country": "IN",
+  "id": 760,
+  "hide_country_info": false,
+  "latitude": 9.682108399999999,
+  "logo": {},
+  "longitude": 76.60799329999999,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cover%2520photo_7mKLN33.png",
+   "path": "chapter_banners/cover photo_7mKLN33.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cover%2520photo_7mKLN33.png"
+  },
+  "state": "",
+  "title": "College of Engineering - Kidangoor",
+  "relative_url": "/college-of-engineering-kidangoor/",
+  "url": "https://gdsc.community.dev/college-of-engineering-kidangoor/"
+ },
+ {
+  "active": true,
+  "city": "Thalassery",
+  "country": "IN",
+  "id": 1404,
+  "hide_country_info": false,
+  "latitude": 11.7491424,
+  "logo": {},
+  "longitude": 75.4890346,
+  "picture": {},
+  "state": "",
+  "title": "College of Engineering - Thalassery",
+  "relative_url": "/college-of-engineering-thalassery/",
+  "url": "https://gdsc.community.dev/college-of-engineering-thalassery/"
  },
  {
   "active": true,
@@ -23625,46 +23682,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520College%2520of%2520Engineering%2520Trivandrum%2520Dark%2520Vertical-Logo_Qdrs0b7.png"
   },
   "state": "",
-  "title": "College of Engineering Trivandrum",
-  "relative_url": "/college-of-engineering-trivandrum/",
-  "url": "https://gdsc.community.dev/college-of-engineering-trivandrum/"
- },
- {
-  "active": true,
-  "city": "Chengannur",
-  "country": "IN",
-  "id": 1072,
-  "hide_country_info": false,
-  "latitude": 9.318327499999999,
-  "logo": {},
-  "longitude": 76.61108449999999,
-  "picture": {},
-  "state": "",
-  "title": "College of Engineering, Chengannur",
-  "relative_url": "/college-of-engineering-chengannur/",
-  "url": "https://gdsc.community.dev/college-of-engineering-chengannur/"
- },
- {
-  "active": true,
-  "city": "Kidangoor",
-  "country": "IN",
-  "id": 760,
-  "hide_country_info": false,
-  "latitude": 9.682108399999999,
-  "logo": {},
-  "longitude": 76.60799329999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cover%2520photo_7mKLN33.png",
-   "path": "chapter_banners/cover photo_7mKLN33.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cover%2520photo_7mKLN33.png"
-  },
-  "state": "",
-  "title": "College of Engineering, Kidangoor",
-  "relative_url": "/college-of-engineering-kidangoor/",
-  "url": "https://gdsc.community.dev/college-of-engineering-kidangoor/"
+  "title": "College of Engineering - Thiruvananthapuram",
+  "relative_url": "/college-of-engineering-thiruvananthapuram/",
+  "url": "https://gdsc.community.dev/college-of-engineering-thiruvananthapuram/"
  },
  {
   "active": true,
@@ -23677,9 +23697,9 @@
   "longitude": 73.712479,
   "picture": {},
   "state": "",
-  "title": "College of Technology and Engineering",
-  "relative_url": "/college-of-technology-and-engineering/",
-  "url": "https://gdsc.community.dev/college-of-technology-and-engineering/"
+  "title": "College of Technology and Engineering - Udaipur",
+  "relative_url": "/college-of-technology-and-engineering-udaipur/",
+  "url": "https://gdsc.community.dev/college-of-technology-and-engineering-udaipur/"
  },
  {
   "active": true,
@@ -23705,21 +23725,6 @@
  },
  {
   "active": true,
-  "city": "Pune",
-  "country": "IN",
-  "id": 1458,
-  "hide_country_info": false,
-  "latitude": 18.5204303,
-  "logo": {},
-  "longitude": 73.8567437,
-  "picture": {},
-  "state": "",
-  "title": "D Y Patil College of Engineering",
-  "relative_url": "/d-y-patil-college-of-engineering/",
-  "url": "https://gdsc.community.dev/d-y-patil-college-of-engineering/"
- },
- {
-  "active": true,
   "city": "Kolhapur",
   "country": "IN",
   "id": 1471,
@@ -23736,9 +23741,24 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template%2520%25283%2529_WYsPbiS.jpg"
   },
   "state": "",
-  "title": "D Y Patil College of Engineering & Technology",
-  "relative_url": "/d-y-patil-college-of-engineering-technology/",
-  "url": "https://gdsc.community.dev/d-y-patil-college-of-engineering-technology/"
+  "title": "D Y Patil College of Engineering & Technology - Kolhapur",
+  "relative_url": "/d-y-patil-college-of-engineering-technology-kolhapur/",
+  "url": "https://gdsc.community.dev/d-y-patil-college-of-engineering-technology-kolhapur/"
+ },
+ {
+  "active": true,
+  "city": "Pune",
+  "country": "IN",
+  "id": 1458,
+  "hide_country_info": false,
+  "latitude": 18.5204303,
+  "logo": {},
+  "longitude": 73.8567437,
+  "picture": {},
+  "state": "",
+  "title": "D Y Patil College of Engineering - Pune",
+  "relative_url": "/d-y-patil-college-of-engineering-pune/",
+  "url": "https://gdsc.community.dev/d-y-patil-college-of-engineering-pune/"
  },
  {
   "active": true,
@@ -23751,9 +23771,9 @@
   "longitude": 73.7785786,
   "picture": {},
   "state": "",
-  "title": "D Y Patil International University",
-  "relative_url": "/d-y-patil-international-university/",
-  "url": "https://gdsc.community.dev/d-y-patil-international-university/"
+  "title": "D Y Patil International University - Pune",
+  "relative_url": "/d-y-patil-international-university-pune/",
+  "url": "https://gdsc.community.dev/d-y-patil-international-university-pune/"
  },
  {
   "active": true,
@@ -23788,9 +23808,9 @@
   "longitude": 75.57618289999999,
   "picture": {},
   "state": "",
-  "title": "DAV Institute of Engineering & Technology",
-  "relative_url": "/dav-institute-of-engineering-technology/",
-  "url": "https://gdsc.community.dev/dav-institute-of-engineering-technology/"
+  "title": "DAV Institute of Engineering & Technology - Jalandhar",
+  "relative_url": "/dav-institute-of-engineering-technology-jalandhar/",
+  "url": "https://gdsc.community.dev/dav-institute-of-engineering-technology-jalandhar/"
  },
  {
   "active": true,
@@ -23882,11 +23902,11 @@
  },
  {
   "active": true,
-  "city": "Airoli",
+  "city": "Nawi Mumbaj",
   "country": "IN",
   "id": 1695,
   "hide_country_info": false,
-  "latitude": 19.159014,
+  "latitude": 19.0330488,
   "logo": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Datta%2520meghe%2520college%2520%25283%2529.png",
    "path": "chapter_banners/Datta meghe college (3).png",
@@ -23895,7 +23915,7 @@
    "thumbnail_format": "auto",
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Datta%2520meghe%2520college%2520%25283%2529.png"
   },
-  "longitude": 72.9985686,
+  "longitude": 73.0296625,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25281%2529_tcovsMN.png",
    "path": "chapter_banners/Untitled design (1)_tcovsMN.png",
@@ -23904,10 +23924,10 @@
    "thumbnail_format": "auto",
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25281%2529_tcovsMN.png"
   },
-  "state": "",
-  "title": "Datta Meghe College of Engineering",
-  "relative_url": "/datta-meghe-college-of-engineering/",
-  "url": "https://gdsc.community.dev/datta-meghe-college-of-engineering/"
+  "state": "MH",
+  "title": "Datta Meghe College of Engineering - Navi Mumbai",
+  "relative_url": "/datta-meghe-college-of-engineering-navi-mumbai/",
+  "url": "https://gdsc.community.dev/datta-meghe-college-of-engineering-navi-mumbai/"
  },
  {
   "active": true,
@@ -23927,9 +23947,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/0001-5139460773_20210731_204535_0000.png"
   },
   "state": "",
-  "title": "Dayalbagh Educational Institute",
-  "relative_url": "/dayalbagh-educational-institute/",
-  "url": "https://gdsc.community.dev/dayalbagh-educational-institute/"
+  "title": "Dayalbagh Educational Institute - Agra",
+  "relative_url": "/dayalbagh-educational-institute-agra/",
+  "url": "https://gdsc.community.dev/dayalbagh-educational-institute-agra/"
  },
  {
   "active": true,
@@ -23978,9 +23998,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_ny8yfnM.png"
   },
   "state": "",
-  "title": "Dayananda Sagar Institutions",
-  "relative_url": "/dayananda-sagar-institutions/",
-  "url": "https://gdsc.community.dev/dayananda-sagar-institutions/"
+  "title": "Dayananda Sagar Institutions - Bengaluru",
+  "relative_url": "/dayananda-sagar-institutions-bengaluru/",
+  "url": "https://gdsc.community.dev/dayananda-sagar-institutions-bengaluru/"
  },
  {
   "active": true,
@@ -24066,9 +24086,9 @@
   "longitude": 77.0723807,
   "picture": {},
   "state": "",
-  "title": "Deenbandhu Chhotu Ram University of Science & Technology",
-  "relative_url": "/deenbandhu-chhotu-ram-university-of-science-technology/",
-  "url": "https://gdsc.community.dev/deenbandhu-chhotu-ram-university-of-science-technology/"
+  "title": "Deenbandhu Chhotu Ram University of Science & Technology - Murthal",
+  "relative_url": "/deenbandhu-chhotu-ram-university-of-science-technology-murthal/",
+  "url": "https://gdsc.community.dev/deenbandhu-chhotu-ram-university-of-science-technology-murthal/"
  },
  {
   "active": true,
@@ -24081,9 +24101,9 @@
   "longitude": 77.50399039999999,
   "picture": {},
   "state": "",
-  "title": "Delhi Technical Campus",
-  "relative_url": "/delhi-technical-campus/",
-  "url": "https://gdsc.community.dev/delhi-technical-campus/"
+  "title": "Delhi Technical Campus - Greater Noida",
+  "relative_url": "/delhi-technical-campus-greater-noida/",
+  "url": "https://gdsc.community.dev/delhi-technical-campus-greater-noida/"
  },
  {
   "active": true,
@@ -24103,9 +24123,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Delhi%2520Technological%2520University%2520Light%2520Vertical-Logo_hQkYIpT.png"
   },
   "state": "",
-  "title": "Delhi Technological University",
-  "relative_url": "/delhi-technological-university/",
-  "url": "https://gdsc.community.dev/delhi-technological-university/"
+  "title": "Delhi Technological University - Delhi",
+  "relative_url": "/delhi-technological-university-delhi/",
+  "url": "https://gdsc.community.dev/delhi-technological-university-delhi/"
  },
  {
   "active": true,
@@ -24118,9 +24138,9 @@
   "longitude": 75.3433139,
   "picture": {},
   "state": "",
-  "title": "Deogiri Institute of Engineering and Management Studies",
-  "relative_url": "/deogiri-institute-of-engineering-and-management-studies/",
-  "url": "https://gdsc.community.dev/deogiri-institute-of-engineering-and-management-studies/"
+  "title": "Deogiri Institute of Engineering and Management Studies - Aurangabad",
+  "relative_url": "/deogiri-institute-of-engineering-and-management-studies-aurangabad/",
+  "url": "https://gdsc.community.dev/deogiri-institute-of-engineering-and-management-studies-aurangabad/"
  },
  {
   "active": true,
@@ -24140,9 +24160,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1611241945445.jpeg"
   },
   "state": "",
-  "title": "Department of Computer Science",
-  "relative_url": "/department-of-computer-science/",
-  "url": "https://gdsc.community.dev/department-of-computer-science/"
+  "title": "Department of Computer Science, University of Delhi - Delhi",
+  "relative_url": "/department-of-computer-science-university-of-delhi-delhi/",
+  "url": "https://gdsc.community.dev/department-of-computer-science-university-of-delhi-delhi/"
  },
  {
   "active": true,
@@ -24155,9 +24175,9 @@
   "longitude": null,
   "picture": {},
   "state": "",
-  "title": "Devang Patel Institute of Advance Technology and Research",
-  "relative_url": "/devang-patel-institute-of-advance-technology-and-research/",
-  "url": "https://gdsc.community.dev/devang-patel-institute-of-advance-technology-and-research/"
+  "title": "Devang Patel Institute of Advance Technology and Research - Anand",
+  "relative_url": "/devang-patel-institute-of-advance-technology-and-research-anand/",
+  "url": "https://gdsc.community.dev/devang-patel-institute-of-advance-technology-and-research-anand/"
  },
  {
   "active": true,
@@ -24177,9 +24197,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/col3.jpeg"
   },
   "state": "",
-  "title": "Dharmsinh Desai University",
-  "relative_url": "/dharmsinh-desai-university/",
-  "url": "https://gdsc.community.dev/dharmsinh-desai-university/"
+  "title": "Dharmsinh Desai University - Nadiad",
+  "relative_url": "/dharmsinh-desai-university-nadiad/",
+  "url": "https://gdsc.community.dev/dharmsinh-desai-university-nadiad/"
  },
  {
   "active": true,
@@ -24192,9 +24212,9 @@
   "longitude": 72.63694149999999,
   "picture": {},
   "state": "",
-  "title": "Dhirubhai Ambani Institute of Information & Communication Technology",
-  "relative_url": "/dhirubhai-ambani-institute-of-information-communication-technology/",
-  "url": "https://gdsc.community.dev/dhirubhai-ambani-institute-of-information-communication-technology/"
+  "title": "Dhirubhai Ambani Institute of Information & Communication Technology - Gandhinagar",
+  "relative_url": "/dhirubhai-ambani-institute-of-information-communication-technology-gandhinagar/",
+  "url": "https://gdsc.community.dev/dhirubhai-ambani-institute-of-information-communication-technology-gandhinagar/"
  },
  {
   "active": true,
@@ -24237,24 +24257,24 @@
   "longitude": 77.2090212,
   "picture": {},
   "state": "",
-  "title": "Dr. Akhilesh Das Gupta Institute of Technology & Management",
-  "relative_url": "/dr-akhilesh-das-gupta-institute-of-technology-management/",
-  "url": "https://gdsc.community.dev/dr-akhilesh-das-gupta-institute-of-technology-management/"
+  "title": "Dr. Akhilesh Das Gupta Institute of Technology and Management - Delhi",
+  "relative_url": "/dr-akhilesh-das-gupta-institute-of-technology-and-management-delhi/",
+  "url": "https://gdsc.community.dev/dr-akhilesh-das-gupta-institute-of-technology-and-management-delhi/"
  },
  {
   "active": true,
-  "city": "Durgapur",
+  "city": "Kanpur",
   "country": "IN",
-  "id": 1467,
+  "id": 1410,
   "hide_country_info": false,
-  "latitude": 23.5204443,
+  "latitude": 26.449923,
   "logo": {},
-  "longitude": 87.3119227,
+  "longitude": 80.3318736,
   "picture": {},
   "state": "",
-  "title": "Dr. B.C. Roy Engineering College",
-  "relative_url": "/dr-bc-roy-engineering-college/",
-  "url": "https://gdsc.community.dev/dr-bc-roy-engineering-college/"
+  "title": "Dr. Ambedkar Institute of Technology for Handicapped - Kanpur",
+  "relative_url": "/dr-ambedkar-institute-of-technology-for-handicapped-kanpur/",
+  "url": "https://gdsc.community.dev/dr-ambedkar-institute-of-technology-for-handicapped-kanpur/"
  },
  {
   "active": true,
@@ -24274,9 +24294,24 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520NIT%2520Jalandhar%2520Light%2520Vertical-Logo_uS1KAby.png"
   },
   "state": "",
-  "title": "Dr. B.R. Ambedkar National Institute of Technology",
-  "relative_url": "/dr-br-ambedkar-national-institute-of-technology/",
-  "url": "https://gdsc.community.dev/dr-br-ambedkar-national-institute-of-technology/"
+  "title": "Dr. B. R. Ambedkar National Institute of Technology (NIT) - Jalandhar",
+  "relative_url": "/dr-b-r-ambedkar-national-institute-of-technology-nit-jalandhar/",
+  "url": "https://gdsc.community.dev/dr-b-r-ambedkar-national-institute-of-technology-nit-jalandhar/"
+ },
+ {
+  "active": true,
+  "city": "Durgapur",
+  "country": "IN",
+  "id": 1467,
+  "hide_country_info": false,
+  "latitude": 23.5204443,
+  "logo": {},
+  "longitude": 87.3119227,
+  "picture": {},
+  "state": "",
+  "title": "Dr. B.C. Roy Engineering College - Durgapur",
+  "relative_url": "/dr-bc-roy-engineering-college-durgapur/",
+  "url": "https://gdsc.community.dev/dr-bc-roy-engineering-college-durgapur/"
  },
  {
   "active": true,
@@ -24289,9 +24324,9 @@
   "longitude": 73.8124984,
   "picture": {},
   "state": "",
-  "title": "Dr. D. Y. Patil Institute of Technology",
-  "relative_url": "/dr-d-y-patil-institute-of-technology/",
-  "url": "https://gdsc.community.dev/dr-d-y-patil-institute-of-technology/"
+  "title": "Dr. D. Y. Patil Institute of Technology - Pune",
+  "relative_url": "/dr-d-y-patil-institute-of-technology-pune/",
+  "url": "https://gdsc.community.dev/dr-d-y-patil-institute-of-technology-pune/"
  },
  {
   "active": true,
@@ -24304,9 +24339,9 @@
   "longitude": 83.2184815,
   "picture": {},
   "state": "",
-  "title": "Dr. Lankapalli Bullayya College of Engineering",
-  "relative_url": "/dr-lankapalli-bullayya-college-of-engineering/",
-  "url": "https://gdsc.community.dev/dr-lankapalli-bullayya-college-of-engineering/"
+  "title": "Dr. Lankapalli Bullayya College of Engineering - Visakhapatnam",
+  "relative_url": "/dr-lankapalli-bullayya-college-of-engineering-visakhapatnam/",
+  "url": "https://gdsc.community.dev/dr-lankapalli-bullayya-college-of-engineering-visakhapatnam/"
  },
  {
   "active": true,
@@ -24319,9 +24354,9 @@
   "longitude": 88.36389500000001,
   "picture": {},
   "state": "",
-  "title": "Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex",
-  "relative_url": "/dr-sudhir-chandra-sur-institute-of-technology-sports-complex/",
-  "url": "https://gdsc.community.dev/dr-sudhir-chandra-sur-institute-of-technology-sports-complex/"
+  "title": "Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex - Kolkata",
+  "relative_url": "/dr-sudhir-chandra-sur-institute-of-technology-sports-complex-kolkata/",
+  "url": "https://gdsc.community.dev/dr-sudhir-chandra-sur-institute-of-technology-sports-complex-kolkata/"
  },
  {
   "active": true,
@@ -24348,9 +24383,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Untitled_0aFLASY.png"
   },
   "state": "",
-  "title": "Dronacharya College of Engineering",
-  "relative_url": "/dronacharya-college-of-engineering/",
-  "url": "https://gdsc.community.dev/dronacharya-college-of-engineering/"
+  "title": "Dronacharya College of Engineering - Gurugram",
+  "relative_url": "/dronacharya-college-of-engineering-gurugram/",
+  "url": "https://gdsc.community.dev/dronacharya-college-of-engineering-gurugram/"
  },
  {
   "active": true,
@@ -24407,9 +24442,9 @@
   "longitude": 72.8776559,
   "picture": {},
   "state": "",
-  "title": "Dwarkadas J. Sanghvi College of Engineering",
-  "relative_url": "/dwarkadas-j-sanghvi-college-of-engineering/",
-  "url": "https://gdsc.community.dev/dwarkadas-j-sanghvi-college-of-engineering/"
+  "title": "Dwarkadas J. Sanghvi College of Engineering - Mumbai",
+  "relative_url": "/dwarkadas-j-sanghvi-college-of-engineering-mumbai/",
+  "url": "https://gdsc.community.dev/dwarkadas-j-sanghvi-college-of-engineering-mumbai/"
  },
  {
   "active": true,
@@ -24696,9 +24731,9 @@
   "longitude": 72.9112439,
   "picture": {},
   "state": "",
-  "title": "G H Patel College Of Engineering & Technology",
-  "relative_url": "/g-h-patel-college-of-engineering-technology/",
-  "url": "https://gdsc.community.dev/g-h-patel-college-of-engineering-technology/"
+  "title": "G H Patel College of Engineering & Technology - Anand",
+  "relative_url": "/g-h-patel-college-of-engineering-technology-anand/",
+  "url": "https://gdsc.community.dev/g-h-patel-college-of-engineering-technology-anand/"
  },
  {
   "active": true,
@@ -24718,9 +24753,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520banner.png"
   },
   "state": "",
-  "title": "G H Raisoni College of Engineering",
-  "relative_url": "/g-h-raisoni-college-of-engineering/",
-  "url": "https://gdsc.community.dev/g-h-raisoni-college-of-engineering/"
+  "title": "G H Raisoni College of Engineering - Nagpur",
+  "relative_url": "/g-h-raisoni-college-of-engineering-nagpur/",
+  "url": "https://gdsc.community.dev/g-h-raisoni-college-of-engineering-nagpur/"
  },
  {
   "active": true,
@@ -24748,9 +24783,9 @@
   "longitude": 78.0372792,
   "picture": {},
   "state": "",
-  "title": "G. Pulla Reddy Engineering College",
-  "relative_url": "/g-pulla-reddy-engineering-college/",
-  "url": "https://gdsc.community.dev/g-pulla-reddy-engineering-college/"
+  "title": "G. Pulla Reddy Engineering College - Kurnool",
+  "relative_url": "/g-pulla-reddy-engineering-college-kurnool/",
+  "url": "https://gdsc.community.dev/g-pulla-reddy-engineering-college-kurnool/"
  },
  {
   "active": true,
@@ -24843,9 +24878,9 @@
   "longitude": 77.50399039999999,
   "picture": {},
   "state": "",
-  "title": "G.L. Bajaj Institute of Management & Research",
-  "relative_url": "/gl-bajaj-institute-of-management-research/",
-  "url": "https://gdsc.community.dev/gl-bajaj-institute-of-management-research/"
+  "title": "G.L. Bajaj Institute of Management & Research - Greater Noida",
+  "relative_url": "/gl-bajaj-institute-of-management-research-greater-noida/",
+  "url": "https://gdsc.community.dev/gl-bajaj-institute-of-management-research-greater-noida/"
  },
  {
   "active": true,
@@ -24858,9 +24893,9 @@
   "longitude": 83.8128265,
   "picture": {},
   "state": "",
-  "title": "GIET University",
-  "relative_url": "/giet-university/",
-  "url": "https://gdsc.community.dev/giet-university/"
+  "title": "GIET University - Gunupur",
+  "relative_url": "/giet-university-gunupur/",
+  "url": "https://gdsc.community.dev/giet-university-gunupur/"
  },
  {
   "active": true,
@@ -24902,9 +24937,9 @@
   "longitude": 77.673673,
   "picture": {},
   "state": "",
-  "title": "GLA University",
-  "relative_url": "/gla-university/",
-  "url": "https://gdsc.community.dev/gla-university/"
+  "title": "GLA University - Mathura",
+  "relative_url": "/gla-university-mathura/",
+  "url": "https://gdsc.community.dev/gla-university-mathura/"
  },
  {
   "active": true,
@@ -24931,9 +24966,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-yellow.png"
   },
   "state": "",
-  "title": "GMR Institute of Technology",
-  "relative_url": "/gmr-institute-of-technology/",
-  "url": "https://gdsc.community.dev/gmr-institute-of-technology/"
+  "title": "GMR Institute of Technology - Razam",
+  "relative_url": "/gmr-institute-of-technology-razam/",
+  "url": "https://gdsc.community.dev/gmr-institute-of-technology-razam/"
  },
  {
   "active": true,
@@ -24983,9 +25018,9 @@
   "longitude": 77.50399039999999,
   "picture": {},
   "state": "",
-  "title": "Galgotias College of Engineering and Technology",
-  "relative_url": "/galgotias-college-of-engineering-and-technology/",
-  "url": "https://gdsc.community.dev/galgotias-college-of-engineering-and-technology/"
+  "title": "Galgotias College of Engineering and Technology - Greater Noida",
+  "relative_url": "/galgotias-college-of-engineering-and-technology-greater-noida/",
+  "url": "https://gdsc.community.dev/galgotias-college-of-engineering-and-technology-greater-noida/"
  },
  {
   "active": true,
@@ -25027,9 +25062,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%25202021-08-12%2520at%25203.03.14%2520AM.png"
   },
   "state": "",
-  "title": "Gandhi Institute For Technology",
-  "relative_url": "/gandhi-institute-for-technology/",
-  "url": "https://gdsc.community.dev/gandhi-institute-for-technology/"
+  "title": "Gandhi Institute for Technology (GIFT) - Bhubaneswar",
+  "relative_url": "/gandhi-institute-for-technology-gift-bhubaneswar/",
+  "url": "https://gdsc.community.dev/gandhi-institute-for-technology-gift-bhubaneswar/"
  },
  {
   "active": true,
@@ -25042,9 +25077,9 @@
   "longitude": 78.486671,
   "picture": {},
   "state": "",
-  "title": "Gandhi Institute of Technology and Management",
-  "relative_url": "/gandhi-institute-of-technology-and-management/",
-  "url": "https://gdsc.community.dev/gandhi-institute-of-technology-and-management/"
+  "title": "Gandhi Institute of Technology and Management (GITAM) - Hyderabad",
+  "relative_url": "/gandhi-institute-of-technology-and-management-gitam-hyderabad/",
+  "url": "https://gdsc.community.dev/gandhi-institute-of-technology-and-management-gitam-hyderabad/"
  },
  {
   "active": true,
@@ -25057,9 +25092,9 @@
   "longitude": 83.2184815,
   "picture": {},
   "state": "",
-  "title": "Gandhi Institute of Technology and Management, Visakhapatnam Campus",
-  "relative_url": "/gandhi-institute-of-technology-and-management-visakhapatnam-campus/",
-  "url": "https://gdsc.community.dev/gandhi-institute-of-technology-and-management-visakhapatnam-campus/"
+  "title": "Gandhi Institute of Technology and Management (GITAM) - Visakhapatnam",
+  "relative_url": "/gandhi-institute-of-technology-and-management-gitam-visakhapatnam/",
+  "url": "https://gdsc.community.dev/gandhi-institute-of-technology-and-management-gitam-visakhapatnam/"
  },
  {
   "active": true,
@@ -25072,9 +25107,9 @@
   "longitude": 91.7362365,
   "picture": {},
   "state": "",
-  "title": "Gauhati University",
-  "relative_url": "/gauhati-university/",
-  "url": "https://gdsc.community.dev/gauhati-university/"
+  "title": "Gauhati University - Guwahati",
+  "relative_url": "/gauhati-university-guwahati/",
+  "url": "https://gdsc.community.dev/gauhati-university-guwahati/"
  },
  {
   "active": true,
@@ -25087,9 +25122,9 @@
   "longitude": 83.2184815,
   "picture": {},
   "state": "",
-  "title": "Gayatri Vidya Parishad College of Engineering",
-  "relative_url": "/gayatri-vidya-parishad-college-of-engineering/",
-  "url": "https://gdsc.community.dev/gayatri-vidya-parishad-college-of-engineering/"
+  "title": "Gayatri Vidya Parishad College of Engineering - Visakhapatnam",
+  "relative_url": "/gayatri-vidya-parishad-college-of-engineering-visakhapatnam/",
+  "url": "https://gdsc.community.dev/gayatri-vidya-parishad-college-of-engineering-visakhapatnam/"
  },
  {
   "active": true,
@@ -25109,9 +25144,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Orange%2520Cream%2520Neutral%2520Senior%2520Seo%2520Analyst%2520Profile%2520LinkedIn%2520Banner.png"
   },
   "state": "",
-  "title": "Gokhale Education Society's R. H. Sapat College of Engineering, Management Studies and Research",
-  "relative_url": "/gokhale-education-societys-r-h-sapat-college-of-engineering-management-studies-and-research/",
-  "url": "https://gdsc.community.dev/gokhale-education-societys-r-h-sapat-college-of-engineering-management-studies-and-research/"
+  "title": "Gokhale Education Society's R. H. Sapat College of Engineering, Management Studies and Research - Nashik",
+  "relative_url": "/gokhale-education-societys-r-h-sapat-college-of-engineering-management-studies-and-research-nashik/",
+  "url": "https://gdsc.community.dev/gokhale-education-societys-r-h-sapat-college-of-engineering-management-studies-and-research-nashik/"
  },
  {
   "active": true,
@@ -25144,21 +25179,6 @@
  },
  {
   "active": true,
-  "city": "Aurangabad",
-  "country": "IN",
-  "id": 1345,
-  "hide_country_info": false,
-  "latitude": 19.8761653,
-  "logo": {},
-  "longitude": 75.3433139,
-  "picture": {},
-  "state": "",
-  "title": "Government College of Engineering",
-  "relative_url": "/government-college-of-engineering/",
-  "url": "https://gdsc.community.dev/government-college-of-engineering/"
- },
- {
-  "active": true,
   "city": "Kolkata",
   "country": "IN",
   "id": 1405,
@@ -25182,9 +25202,24 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-02_1FCHrzZ.png"
   },
   "state": "",
-  "title": "Government College of Engineering and Ceramic Technology",
-  "relative_url": "/government-college-of-engineering-and-ceramic-technology/",
-  "url": "https://gdsc.community.dev/government-college-of-engineering-and-ceramic-technology/"
+  "title": "Government College of Engineering & Ceramic Technology - Kolkata",
+  "relative_url": "/government-college-of-engineering-ceramic-technology-kolkata/",
+  "url": "https://gdsc.community.dev/government-college-of-engineering-ceramic-technology-kolkata/"
+ },
+ {
+  "active": true,
+  "city": "Aurangabad",
+  "country": "IN",
+  "id": 1345,
+  "hide_country_info": false,
+  "latitude": 19.8761653,
+  "logo": {},
+  "longitude": 75.3433139,
+  "picture": {},
+  "state": "",
+  "title": "Government College of Engineering - Aurangabad",
+  "relative_url": "/government-college-of-engineering-aurangabad/",
+  "url": "https://gdsc.community.dev/government-college-of-engineering-aurangabad/"
  },
  {
   "active": true,
@@ -25212,9 +25247,9 @@
   "longitude": 72.63694149999999,
   "picture": {},
   "state": "",
-  "title": "Government Engineering College",
-  "relative_url": "/government-engineering-college/",
-  "url": "https://gdsc.community.dev/government-engineering-college/"
+  "title": "Government Engineering College - Gandhinagar",
+  "relative_url": "/government-engineering-college-gandhinagar/",
+  "url": "https://gdsc.community.dev/government-engineering-college-gandhinagar/"
  },
  {
   "active": true,
@@ -25227,7 +25262,7 @@
   "longitude": 70.80215989999999,
   "picture": {},
   "state": "",
-  "title": "Government Engineering College, Rajkot",
+  "title": "Government Engineering College - Rajkot",
   "relative_url": "/government-engineering-college-rajkot/",
   "url": "https://gdsc.community.dev/government-engineering-college-rajkot/"
  },
@@ -25242,7 +25277,7 @@
   "longitude": 76.2144349,
   "picture": {},
   "state": "",
-  "title": "Government Engineering College, Thrissur",
+  "title": "Government Engineering College - Thrissur",
   "relative_url": "/government-engineering-college-thrissur/",
   "url": "https://gdsc.community.dev/government-engineering-college-thrissur/"
  },
@@ -25257,9 +25292,9 @@
   "longitude": 76.3666226,
   "picture": {},
   "state": "",
-  "title": "Government Model Engineering College",
-  "relative_url": "/government-model-engineering-college/",
-  "url": "https://gdsc.community.dev/government-model-engineering-college/"
+  "title": "Government Model Engineering College - Thrikkakara",
+  "relative_url": "/government-model-engineering-college-thrikkakara-1/",
+  "url": "https://gdsc.community.dev/government-model-engineering-college-thrikkakara-1/"
  },
  {
   "active": true,
@@ -25338,9 +25373,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Building.jpg"
   },
   "state": "",
-  "title": "Graphic Era",
-  "relative_url": "/graphic-era/",
-  "url": "https://gdsc.community.dev/graphic-era/"
+  "title": "Graphic Era - Dehradun",
+  "relative_url": "/graphic-era-dehradun/",
+  "url": "https://gdsc.community.dev/graphic-era-dehradun/"
  },
  {
   "active": true,
@@ -25417,21 +25452,6 @@
  },
  {
   "active": true,
-  "city": "Ludhiana",
-  "country": "IN",
-  "id": 1370,
-  "hide_country_info": false,
-  "latitude": 30.900965,
-  "logo": {},
-  "longitude": 75.8572758,
-  "picture": {},
-  "state": "",
-  "title": "Guru Nanak Dev Engineering College",
-  "relative_url": "/guru-nanak-dev-engineering-college/",
-  "url": "https://gdsc.community.dev/guru-nanak-dev-engineering-college/"
- },
- {
-  "active": true,
   "city": "Bidar",
   "country": "IN",
   "id": 707,
@@ -25455,9 +25475,24 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2_z3us8PL.jpg"
   },
   "state": "",
-  "title": "Guru Nanak Dev Engineering College Bidar",
+  "title": "Guru Nanak Dev Engineering College - Bidar",
   "relative_url": "/guru-nanak-dev-engineering-college-bidar/",
   "url": "https://gdsc.community.dev/guru-nanak-dev-engineering-college-bidar/"
+ },
+ {
+  "active": true,
+  "city": "Ludhiana",
+  "country": "IN",
+  "id": 1370,
+  "hide_country_info": false,
+  "latitude": 30.900965,
+  "logo": {},
+  "longitude": 75.8572758,
+  "picture": {},
+  "state": "",
+  "title": "Guru Nanak Dev Engineering College - Ludhiana",
+  "relative_url": "/guru-nanak-dev-engineering-college-ludhiana/",
+  "url": "https://gdsc.community.dev/guru-nanak-dev-engineering-college-ludhiana/"
  },
  {
   "active": true,
@@ -25477,9 +25512,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520GNDU%2520center%2520banner.jpg"
   },
   "state": "",
-  "title": "Guru Nanak Dev University",
-  "relative_url": "/guru-nanak-dev-university/",
-  "url": "https://gdsc.community.dev/guru-nanak-dev-university/"
+  "title": "Guru Nanak Dev University - Amritsar",
+  "relative_url": "/guru-nanak-dev-university-amritsar/",
+  "url": "https://gdsc.community.dev/guru-nanak-dev-university-amritsar/"
  },
  {
   "active": true,
@@ -25507,9 +25542,9 @@
   "longitude": 77.2090212,
   "picture": {},
   "state": "",
-  "title": "Guru Tegh Bahadur Institute of Technology",
-  "relative_url": "/guru-tegh-bahadur-institute-of-technology/",
-  "url": "https://gdsc.community.dev/guru-tegh-bahadur-institute-of-technology/"
+  "title": "Guru Tegh Bahadur Institute of Technology - Delhi",
+  "relative_url": "/guru-tegh-bahadur-institute-of-technology-delhi/",
+  "url": "https://gdsc.community.dev/guru-tegh-bahadur-institute-of-technology-delhi/"
  },
  {
   "active": true,
@@ -25749,9 +25784,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/download_s29UJuH.jpg"
   },
   "state": "",
-  "title": "Harcourt Butler Technical University",
-  "relative_url": "/harcourt-butler-technical-university/",
-  "url": "https://gdsc.community.dev/harcourt-butler-technical-university/"
+  "title": "Harcourt Butler Technical University - Kanpur",
+  "relative_url": "/harcourt-butler-technical-university-kanpur/",
+  "url": "https://gdsc.community.dev/harcourt-butler-technical-university-kanpur/"
  },
  {
   "active": true,
@@ -25778,9 +25813,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/pagebanner.jpg"
   },
   "state": "",
-  "title": "Heritage Institute of Technology",
-  "relative_url": "/heritage-institute-of-technology/",
-  "url": "https://gdsc.community.dev/heritage-institute-of-technology/"
+  "title": "Heritage Institute of Technology - Kolkata",
+  "relative_url": "/heritage-institute-of-technology-kolkata/",
+  "url": "https://gdsc.community.dev/heritage-institute-of-technology-kolkata/"
  },
  {
   "active": true,
@@ -25800,9 +25835,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/hindustanuniversity.jpg"
   },
   "state": "",
-  "title": "Hindustan Institute of Technology & Science",
-  "relative_url": "/hindustan-institute-of-technology-science/",
-  "url": "https://gdsc.community.dev/hindustan-institute-of-technology-science/"
+  "title": "Hindustan Institute of Technology & Science - Chennai",
+  "relative_url": "/hindustan-institute-of-technology-science-chennai/",
+  "url": "https://gdsc.community.dev/hindustan-institute-of-technology-science-chennai/"
  },
  {
   "active": true,
@@ -25963,31 +25998,9 @@
   "longitude": 77.45375779999999,
   "picture": {},
   "state": "",
-  "title": "Inderprastha Engineering College",
-  "relative_url": "/inderprastha-engineering-college/",
-  "url": "https://gdsc.community.dev/inderprastha-engineering-college/"
- },
- {
-  "active": true,
-  "city": "Bhopal",
-  "country": "IN",
-  "id": 1392,
-  "hide_country_info": false,
-  "latitude": 23.2599333,
-  "logo": {},
-  "longitude": 77.412615,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-01_lHaeUMj.png",
-   "path": "chapter_banners/Copy of dsc-ecosystem-blogstory-01_lHaeUMj.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-01_lHaeUMj.png"
-  },
-  "state": "",
-  "title": "Indian Institute Of Information Technology, Bhopal",
-  "relative_url": "/indian-institute-of-information-technology-bhopal/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-bhopal/"
+  "title": "Inderprastha Engineering College - Ghaziabad",
+  "relative_url": "/inderprastha-engineering-college-ghaziabad/",
+  "url": "https://gdsc.community.dev/inderprastha-engineering-college-ghaziabad/"
  },
  {
   "active": true,
@@ -26015,31 +26028,318 @@
   "longitude": 88.31085019999999,
   "picture": {},
   "state": "",
-  "title": "Indian Institute of Engineering Science and Technology, Shibpur",
-  "relative_url": "/indian-institute-of-engineering-science-and-technology-shibpur/",
-  "url": "https://gdsc.community.dev/indian-institute-of-engineering-science-and-technology-shibpur/"
+  "title": "Indian Institute of Engineering Science and Technology, Shibpur - Howrah",
+  "relative_url": "/indian-institute-of-engineering-science-and-technology-shibpur-howrah/",
+  "url": "https://gdsc.community.dev/indian-institute-of-engineering-science-and-technology-shibpur-howrah/"
  },
  {
   "active": true,
-  "city": "Vandalur",
+  "city": "Bhagalpur",
   "country": "IN",
-  "id": 1693,
+  "id": 1076,
   "hide_country_info": false,
-  "latitude": 12.8912559,
+  "latitude": 25.242453,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template%2520%25281%2529_pl7eJqI.png",
-   "path": "chapter_banners/Copy of Copy of GDSC Logo chapter lockup centered template (1)_pl7eJqI.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520BHAGALPUR%2520vertical%2520color_E44UKAV.png",
+   "path": "chapter_banners/DSC IIIT BHAGALPUR vertical color_E44UKAV.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template%2520%25281%2529_pl7eJqI.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520BHAGALPUR%2520vertical%2520color_E44UKAV.png"
   },
-  "longitude": 80.08100089999999,
+  "longitude": 86.9842256,
   "picture": {},
   "state": "",
-  "title": "Indian Institute of Information Technology Design & Manufacturing Kancheepuram",
-  "relative_url": "/indian-institute-of-information-technology-design-manufacturing-kancheepuram/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-design-manufacturing-kancheepuram/"
+  "title": "Indian Institute of Information Technology - Bhagalpur",
+  "relative_url": "/indian-institute-of-information-technology-bhagalpur/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-bhagalpur/"
+ },
+ {
+  "active": true,
+  "city": "Bhopal",
+  "country": "IN",
+  "id": 1392,
+  "hide_country_info": false,
+  "latitude": 23.2599333,
+  "logo": {},
+  "longitude": 77.412615,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-01_lHaeUMj.png",
+   "path": "chapter_banners/Copy of dsc-ecosystem-blogstory-01_lHaeUMj.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-01_lHaeUMj.png"
+  },
+  "state": "",
+  "title": "Indian Institute of Information Technology - Bhopal",
+  "relative_url": "/indian-institute-of-information-technology-bhopal/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-bhopal/"
+ },
+ {
+  "active": true,
+  "city": "Guwahati",
+  "country": "IN",
+  "id": 792,
+  "hide_country_info": false,
+  "latitude": 26.1445169,
+  "logo": {},
+  "longitude": 91.7362365,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520GUWAHATI%2520Light%2520Vertical-Logo.png",
+   "path": "chapter_banners/DSC IIIT GUWAHATI Light Vertical-Logo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520GUWAHATI%2520Light%2520Vertical-Logo.png"
+  },
+  "state": "",
+  "title": "Indian Institute of Information Technology - Guwahati",
+  "relative_url": "/indian-institute-of-information-technology-guwahati/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-guwahati/"
+ },
+ {
+  "active": true,
+  "city": "Kalyani",
+  "country": "IN",
+  "id": 1019,
+  "hide_country_info": false,
+  "latitude": 22.9747271,
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin.png",
+   "path": "chapter_banners/Copy of dsc-ecosystem-profilepicture-linkedin.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin.png"
+  },
+  "longitude": 88.43372099999999,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-01.png",
+   "path": "chapter_banners/Copy of dsc-ecosystem-blogstory-01.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-01.png"
+  },
+  "state": "",
+  "title": "Indian Institute of Information Technology - Kalyani",
+  "relative_url": "/indian-institute-of-information-technology-kalyani/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-kalyani/"
+ },
+ {
+  "active": true,
+  "city": "Jaipur",
+  "country": "IN",
+  "id": 881,
+  "hide_country_info": false,
+  "latitude": 26.9124336,
+  "logo": {},
+  "longitude": 75.7872709,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/MNIT_North_East_View_of_Campus_and_Lecture_Theatre_Complex.jpg",
+   "path": "chapter_banners/MNIT_North_East_View_of_Campus_and_Lecture_Theatre_Complex.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/MNIT_North_East_View_of_Campus_and_Lecture_Theatre_Complex.jpg"
+  },
+  "state": "",
+  "title": "Indian Institute of Information Technology - Kota",
+  "relative_url": "/indian-institute-of-information-technology-kota/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-kota/"
+ },
+ {
+  "active": true,
+  "city": "Kottayam",
+  "country": "IN",
+  "id": 1354,
+  "hide_country_info": false,
+  "latitude": 9.591566799999999,
+  "logo": {},
+  "longitude": 76.5221531,
+  "picture": {},
+  "state": "",
+  "title": "Indian Institute of Information Technology - Kottayam",
+  "relative_url": "/indian-institute-of-information-technology-kottayam/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-kottayam/"
+ },
+ {
+  "active": true,
+  "city": "Lucknow",
+  "country": "IN",
+  "id": 767,
+  "hide_country_info": false,
+  "latitude": 26.8466937,
+  "logo": {},
+  "longitude": 80.94616599999999,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%252C%2520IIITL%2520under%2520logo%2520with%2520back.png",
+   "path": "chapter_banners/GDSC, IIITL under logo with back.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%252C%2520IIITL%2520under%2520logo%2520with%2520back.png"
+  },
+  "state": "",
+  "title": "Indian Institute of Information Technology - Lucknow",
+  "relative_url": "/indian-institute-of-information-technology-lucknow/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-lucknow/"
+ },
+ {
+  "active": true,
+  "city": "Pune",
+  "country": "IN",
+  "id": 1450,
+  "hide_country_info": false,
+  "latitude": 18.5204303,
+  "logo": {},
+  "longitude": 73.8567437,
+  "picture": {},
+  "state": "",
+  "title": "Indian Institute of Information Technology - Pune",
+  "relative_url": "/indian-institute-of-information-technology-pune/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-pune/"
+ },
+ {
+  "active": true,
+  "city": "Raichur",
+  "country": "IN",
+  "id": 1476,
+  "hide_country_info": false,
+  "latitude": 16.216018,
+  "logo": {},
+  "longitude": 77.3565608,
+  "picture": {},
+  "state": "",
+  "title": "Indian Institute of Information Technology - Raichur",
+  "relative_url": "/indian-institute-of-information-technology-raichur/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-raichur/"
+ },
+ {
+  "active": true,
+  "city": "Ranchi",
+  "country": "IN",
+  "id": 1451,
+  "hide_country_info": false,
+  "latitude": 23.3440997,
+  "logo": {},
+  "longitude": 85.309562,
+  "picture": {},
+  "state": "",
+  "title": "Indian Institute of Information Technology - Ranchi",
+  "relative_url": "/indian-institute-of-information-technology-ranchi/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-ranchi/"
+ },
+ {
+  "active": true,
+  "city": "Sonipat",
+  "country": "IN",
+  "id": 1515,
+  "hide_country_info": false,
+  "latitude": 28.99308229999999,
+  "logo": {},
+  "longitude": 77.0150735,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/clg_fr_NSFgvim.jpeg",
+   "path": "chapter_banners/clg_fr_NSFgvim.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/clg_fr_NSFgvim.jpeg"
+  },
+  "state": "",
+  "title": "Indian Institute of Information Technology - Sonepat",
+  "relative_url": "/indian-institute-of-information-technology-sonepat/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-sonepat/"
+ },
+ {
+  "active": true,
+  "city": "Surat",
+  "country": "IN",
+  "id": 939,
+  "hide_country_info": false,
+  "latitude": 21.1702401,
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC_Logo_7YYw0XR.jpg",
+   "path": "chapter_banners/DSC_Logo_7YYw0XR.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC_Logo_7YYw0XR.jpg"
+  },
+  "longitude": 72.83106070000001,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520web%2520banner%2520final%2520_SCxLDzw.png",
+   "path": "chapter_banners/dsc web banner final _SCxLDzw.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520web%2520banner%2520final%2520_SCxLDzw.png"
+  },
+  "state": "",
+  "title": "Indian Institute of Information Technology - Surat",
+  "relative_url": "/indian-institute-of-information-technology-surat/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-surat/"
+ },
+ {
+  "active": true,
+  "city": "Saloh",
+  "country": "IN",
+  "id": 1640,
+  "hide_country_info": false,
+  "latitude": 31.8350299,
+  "logo": {},
+  "longitude": 75.9942162,
+  "picture": {},
+  "state": "",
+  "title": "Indian Institute of Information Technology - Una",
+  "relative_url": "/indian-institute-of-information-technology-una/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-una/"
+ },
+ {
+  "active": true,
+  "city": "Gandhinagar",
+  "country": "IN",
+  "id": 1000,
+  "hide_country_info": false,
+  "latitude": 23.2156354,
+  "logo": {},
+  "longitude": 72.63694149999999,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520Vadodara%2520Logo%2520x1.png",
+   "path": "chapter_banners/DSC IIIT Vadodara Logo x1.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520Vadodara%2520Logo%2520x1.png"
+  },
+  "state": "",
+  "title": "Indian Institute of Information Technology - Vadodara",
+  "relative_url": "/indian-institute-of-information-technology-vadodara/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-vadodara/"
+ },
+ {
+  "active": true,
+  "city": "Allahabad",
+  "country": "IN",
+  "id": 1018,
+  "hide_country_info": false,
+  "latitude": 25.4358011,
+  "logo": {},
+  "longitude": 81.846311,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520bacground.png",
+   "path": "chapter_banners/DSC bacground.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520bacground.png"
+  },
+  "state": "",
+  "title": "Indian Institute of Information Technology Allahabad - Prayagraj",
+  "relative_url": "/indian-institute-of-information-technology-allahabad-prayagraj/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-allahabad-prayagraj/"
  },
  {
   "active": true,
@@ -26066,31 +26366,31 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/0001_gQwhKnx.jpg"
   },
   "state": "",
-  "title": "Indian Institute of Information Technology Design & Manufacturing, Kurnool",
+  "title": "Indian Institute of Information Technology Design & Manufacturing - Kurnool",
   "relative_url": "/indian-institute-of-information-technology-design-manufacturing-kurnool/",
   "url": "https://gdsc.community.dev/indian-institute-of-information-technology-design-manufacturing-kurnool/"
  },
  {
   "active": true,
-  "city": "Sonipat",
+  "city": "Vandalur",
   "country": "IN",
-  "id": 1515,
+  "id": 1693,
   "hide_country_info": false,
-  "latitude": 28.99308229999999,
-  "logo": {},
-  "longitude": 77.0150735,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/clg_fr_NSFgvim.jpeg",
-   "path": "chapter_banners/clg_fr_NSFgvim.jpeg",
+  "latitude": 12.8912559,
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template%2520%25281%2529_pl7eJqI.png",
+   "path": "chapter_banners/Copy of Copy of GDSC Logo chapter lockup centered template (1)_pl7eJqI.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/clg_fr_NSFgvim.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template%2520%25281%2529_pl7eJqI.png"
   },
+  "longitude": 80.08100089999999,
+  "picture": {},
   "state": "",
-  "title": "Indian Institute of Information Technology Sonepat",
-  "relative_url": "/indian-institute-of-information-technology-sonepat/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-sonepat/"
+  "title": "Indian Institute of Information Technology Design & Manufacturing Kancheepuram",
+  "relative_url": "/indian-institute-of-information-technology-design-manufacturing-kancheepuram/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-design-manufacturing-kancheepuram/"
  },
  {
   "active": true,
@@ -26152,268 +26452,18 @@
  },
  {
   "active": true,
-  "city": "Allahabad",
-  "country": "IN",
-  "id": 1018,
-  "hide_country_info": false,
-  "latitude": 25.4358011,
-  "logo": {},
-  "longitude": 81.846311,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520bacground.png",
-   "path": "chapter_banners/DSC bacground.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520bacground.png"
-  },
-  "state": "",
-  "title": "Indian Institute of Information Technology, Allahabad",
-  "relative_url": "/indian-institute-of-information-technology-allahabad/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-allahabad/"
- },
- {
-  "active": true,
-  "city": "Bhagalpur",
-  "country": "IN",
-  "id": 1076,
-  "hide_country_info": false,
-  "latitude": 25.242453,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520BHAGALPUR%2520vertical%2520color_E44UKAV.png",
-   "path": "chapter_banners/DSC IIIT BHAGALPUR vertical color_E44UKAV.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520BHAGALPUR%2520vertical%2520color_E44UKAV.png"
-  },
-  "longitude": 86.9842256,
-  "picture": {},
-  "state": "",
-  "title": "Indian Institute of Information Technology, Bhagalpur",
-  "relative_url": "/indian-institute-of-information-technology-bhagalpur/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-bhagalpur/"
- },
- {
-  "active": true,
-  "city": "Guwahati",
-  "country": "IN",
-  "id": 792,
-  "hide_country_info": false,
-  "latitude": 26.1445169,
-  "logo": {},
-  "longitude": 91.7362365,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520GUWAHATI%2520Light%2520Vertical-Logo.png",
-   "path": "chapter_banners/DSC IIIT GUWAHATI Light Vertical-Logo.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520GUWAHATI%2520Light%2520Vertical-Logo.png"
-  },
-  "state": "",
-  "title": "Indian Institute of Information Technology, Guwahati",
-  "relative_url": "/indian-institute-of-information-technology-guwahati/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-guwahati/"
- },
- {
-  "active": true,
-  "city": "Kalyani",
-  "country": "IN",
-  "id": 1019,
-  "hide_country_info": false,
-  "latitude": 22.9747271,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin.png",
-   "path": "chapter_banners/Copy of dsc-ecosystem-profilepicture-linkedin.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin.png"
-  },
-  "longitude": 88.43372099999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-01.png",
-   "path": "chapter_banners/Copy of dsc-ecosystem-blogstory-01.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-01.png"
-  },
-  "state": "",
-  "title": "Indian Institute of Information Technology, Kalyani",
-  "relative_url": "/indian-institute-of-information-technology-kalyani/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-kalyani/"
- },
- {
-  "active": true,
-  "city": "Jaipur",
-  "country": "IN",
-  "id": 881,
-  "hide_country_info": false,
-  "latitude": 26.9124336,
-  "logo": {},
-  "longitude": 75.7872709,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/MNIT_North_East_View_of_Campus_and_Lecture_Theatre_Complex.jpg",
-   "path": "chapter_banners/MNIT_North_East_View_of_Campus_and_Lecture_Theatre_Complex.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/MNIT_North_East_View_of_Campus_and_Lecture_Theatre_Complex.jpg"
-  },
-  "state": "",
-  "title": "Indian Institute of Information Technology, Kota",
-  "relative_url": "/indian-institute-of-information-technology-kota/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-kota/"
- },
- {
-  "active": true,
-  "city": "Kottayam",
-  "country": "IN",
-  "id": 1354,
-  "hide_country_info": false,
-  "latitude": 9.591566799999999,
-  "logo": {},
-  "longitude": 76.5221531,
-  "picture": {},
-  "state": "",
-  "title": "Indian Institute of Information Technology, Kottayam",
-  "relative_url": "/indian-institute-of-information-technology-kottayam/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-kottayam/"
- },
- {
-  "active": true,
-  "city": "Lucknow",
-  "country": "IN",
-  "id": 767,
-  "hide_country_info": false,
-  "latitude": 26.8466937,
-  "logo": {},
-  "longitude": 80.94616599999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%252C%2520IIITL%2520under%2520logo%2520with%2520back.png",
-   "path": "chapter_banners/GDSC, IIITL under logo with back.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%252C%2520IIITL%2520under%2520logo%2520with%2520back.png"
-  },
-  "state": "",
-  "title": "Indian Institute of Information Technology, Lucknow",
-  "relative_url": "/indian-institute-of-information-technology-lucknow/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-lucknow/"
- },
- {
-  "active": true,
-  "city": "Pune",
-  "country": "IN",
-  "id": 1450,
-  "hide_country_info": false,
-  "latitude": 18.5204303,
-  "logo": {},
-  "longitude": 73.8567437,
-  "picture": {},
-  "state": "",
-  "title": "Indian Institute of Information Technology, Pune",
-  "relative_url": "/indian-institute-of-information-technology-pune/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-pune/"
- },
- {
-  "active": true,
-  "city": "Raichur",
-  "country": "IN",
-  "id": 1476,
-  "hide_country_info": false,
-  "latitude": 16.216018,
-  "logo": {},
-  "longitude": 77.3565608,
-  "picture": {},
-  "state": "",
-  "title": "Indian Institute of Information Technology, Raichur",
-  "relative_url": "/indian-institute-of-information-technology-raichur/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-raichur/"
- },
- {
-  "active": true,
-  "city": "Ranchi",
-  "country": "IN",
-  "id": 1451,
-  "hide_country_info": false,
-  "latitude": 23.3440997,
-  "logo": {},
-  "longitude": 85.309562,
-  "picture": {},
-  "state": "",
-  "title": "Indian Institute of Information Technology, Ranchi",
-  "relative_url": "/indian-institute-of-information-technology-ranchi/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-ranchi/"
- },
- {
-  "active": true,
-  "city": "Sri City",
+  "city": "Chittoor",
   "country": "IN",
   "id": 1638,
   "hide_country_info": false,
-  "latitude": 13.5268664,
+  "latitude": 13.217176,
   "logo": {},
-  "longitude": 79.9801749,
+  "longitude": 79.1003289,
   "picture": {},
-  "state": "",
-  "title": "Indian Institute of Information Technology, Sri City",
-  "relative_url": "/indian-institute-of-information-technology-sri-city-1/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-sri-city-1/"
- },
- {
-  "active": true,
-  "city": "Surat",
-  "country": "IN",
-  "id": 939,
-  "hide_country_info": false,
-  "latitude": 21.1702401,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC_Logo_7YYw0XR.jpg",
-   "path": "chapter_banners/DSC_Logo_7YYw0XR.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC_Logo_7YYw0XR.jpg"
-  },
-  "longitude": 72.83106070000001,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520web%2520banner%2520final%2520_SCxLDzw.png",
-   "path": "chapter_banners/dsc web banner final _SCxLDzw.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520web%2520banner%2520final%2520_SCxLDzw.png"
-  },
-  "state": "",
-  "title": "Indian Institute of Information Technology, Surat",
-  "relative_url": "/indian-institute-of-information-technology-surat/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-surat/"
- },
- {
-  "active": true,
-  "city": "Gandhinagar",
-  "country": "IN",
-  "id": 1000,
-  "hide_country_info": false,
-  "latitude": 23.2156354,
-  "logo": {},
-  "longitude": 72.63694149999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520Vadodara%2520Logo%2520x1.png",
-   "path": "chapter_banners/DSC IIIT Vadodara Logo x1.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520Vadodara%2520Logo%2520x1.png"
-  },
-  "state": "",
-  "title": "Indian Institute of Information Technology, Vadodara",
-  "relative_url": "/indian-institute-of-information-technology-vadodara/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-vadodara/"
+  "state": "AP",
+  "title": "Indian Institute of Information Technology, Sri City - Chittoor",
+  "relative_url": "/indian-institute-of-information-technology-sri-city-chittoor/",
+  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-sri-city-chittoor/"
  },
  {
   "active": true,
@@ -26426,7 +26476,7 @@
   "longitude": 83.2184815,
   "picture": {},
   "state": "",
-  "title": "Indian Institute of Petroleum and Energy Visakhapatnam",
+  "title": "Indian Institute of Petroleum and Energy - Visakhapatnam",
   "relative_url": "/indian-institute-of-petroleum-and-energy-visakhapatnam/",
   "url": "https://gdsc.community.dev/indian-institute-of-petroleum-and-energy-visakhapatnam/"
  },
@@ -26441,7 +26491,7 @@
   "longitude": null,
   "picture": {},
   "state": "",
-  "title": "Indian Institute of Technology, Bhilai",
+  "title": "Indian Institute of Technology - Bhilai",
   "relative_url": "/indian-institute-of-technology-bhilai/",
   "url": "https://gdsc.community.dev/indian-institute-of-technology-bhilai/"
  },
@@ -26456,7 +26506,7 @@
   "longitude": 85.8245398,
   "picture": {},
   "state": "",
-  "title": "Indian Institute of Technology, Bhubaneswar",
+  "title": "Indian Institute of Technology - Bhubaneswar",
   "relative_url": "/indian-institute-of-technology-bhubaneswar/",
   "url": "https://gdsc.community.dev/indian-institute-of-technology-bhubaneswar/"
  },
@@ -26478,24 +26528,9 @@
   "longitude": 77.2090212,
   "picture": {},
   "state": "",
-  "title": "Indian Institute of Technology, Delhi",
+  "title": "Indian Institute of Technology - Delhi",
   "relative_url": "/indian-institute-of-technology-delhi/",
   "url": "https://gdsc.community.dev/indian-institute-of-technology-delhi/"
- },
- {
-  "active": true,
-  "city": "Dharwad",
-  "country": "IN",
-  "id": 797,
-  "hide_country_info": false,
-  "latitude": 15.4589236,
-  "logo": {},
-  "longitude": 75.007808,
-  "picture": {},
-  "state": "",
-  "title": "Indian Institute of Technology, Dharwad",
-  "relative_url": "/indian-institute-of-technology-dharwad/",
-  "url": "https://gdsc.community.dev/indian-institute-of-technology-dharwad/"
  },
  {
   "active": true,
@@ -26515,7 +26550,7 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIT%2520Goa%2520Logo%2520x1_b5VVvOi.png"
   },
   "state": "",
-  "title": "Indian Institute of Technology, Goa",
+  "title": "Indian Institute of Technology - Goa",
   "relative_url": "/indian-institute-of-technology-goa/",
   "url": "https://gdsc.community.dev/indian-institute-of-technology-goa/"
  },
@@ -26544,7 +26579,7 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25281%2529_WKkPnjY.png"
   },
   "state": "",
-  "title": "Indian Institute of Technology, Indore",
+  "title": "Indian Institute of Technology - Indore",
   "relative_url": "/indian-institute-of-technology-indore/",
   "url": "https://gdsc.community.dev/indian-institute-of-technology-indore/"
  },
@@ -26559,7 +26594,7 @@
   "longitude": 74.8570259,
   "picture": {},
   "state": "",
-  "title": "Indian Institute of Technology, Jammu",
+  "title": "Indian Institute of Technology - Jammu",
   "relative_url": "/indian-institute-of-technology-jammu/",
   "url": "https://gdsc.community.dev/indian-institute-of-technology-jammu/"
  },
@@ -26574,7 +26609,7 @@
   "longitude": 80.3318736,
   "picture": {},
   "state": "",
-  "title": "Indian Institute of Technology, Kanpur",
+  "title": "Indian Institute of Technology - Kanpur",
   "relative_url": "/indian-institute-of-technology-kanpur/",
   "url": "https://gdsc.community.dev/indian-institute-of-technology-kanpur/"
  },
@@ -26589,7 +26624,7 @@
   "longitude": -75.65105319999999,
   "picture": {},
   "state": "",
-  "title": "Indian Institute of Technology, Mandi",
+  "title": "Indian Institute of Technology - Mandi",
   "relative_url": "/indian-institute-of-technology-mandi/",
   "url": "https://gdsc.community.dev/indian-institute-of-technology-mandi/"
  },
@@ -26618,7 +26653,7 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/profile_pic%2520copy.jpg"
   },
   "state": "",
-  "title": "Indian Institute of Technology, Patna",
+  "title": "Indian Institute of Technology - Patna",
   "relative_url": "/indian-institute-of-technology-patna/",
   "url": "https://gdsc.community.dev/indian-institute-of-technology-patna/"
  },
@@ -26633,24 +26668,24 @@
   "longitude": 82.9739144,
   "picture": {},
   "state": "",
-  "title": "Indian Institute of Technology, Varanasi",
+  "title": "Indian Institute of Technology - Varanasi",
   "relative_url": "/indian-institute-of-technology-varanasi/",
   "url": "https://gdsc.community.dev/indian-institute-of-technology-varanasi/"
  },
  {
   "active": true,
-  "city": "Saloh",
+  "city": "Dharwad",
   "country": "IN",
-  "id": 1640,
+  "id": 797,
   "hide_country_info": false,
-  "latitude": 31.8350299,
+  "latitude": 15.4589236,
   "logo": {},
-  "longitude": 75.9942162,
+  "longitude": 75.007808,
   "picture": {},
   "state": "",
-  "title": "Indian Institute of information Technology, Una",
-  "relative_url": "/indian-institute-of-information-technology-una/",
-  "url": "https://gdsc.community.dev/indian-institute-of-information-technology-una/"
+  "title": "Indian Institute of Technology, Dharwad",
+  "relative_url": "/indian-institute-of-technology-dharwad/",
+  "url": "https://gdsc.community.dev/indian-institute-of-technology-dharwad/"
  },
  {
   "active": true,
@@ -26663,9 +26698,9 @@
   "longitude": 77.2090212,
   "picture": {},
   "state": "",
-  "title": "Indira Gandhi Delhi Technical University for Women",
-  "relative_url": "/indira-gandhi-delhi-technical-university-for-women/",
-  "url": "https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women/"
+  "title": "Indira Gandhi Delhi Technical University for Women - Delhi",
+  "relative_url": "/indira-gandhi-delhi-technical-university-for-women-delhi/",
+  "url": "https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi/"
  },
  {
   "active": true,
@@ -26692,9 +26727,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue.png"
   },
   "state": "",
-  "title": "Indore Institute of Science and Technology",
-  "relative_url": "/indore-institute-of-science-and-technology/",
-  "url": "https://gdsc.community.dev/indore-institute-of-science-and-technology/"
+  "title": "Indore Institute of Science &Technology - Indore",
+  "relative_url": "/indore-institute-of-science-technology-indore/",
+  "url": "https://gdsc.community.dev/indore-institute-of-science-technology-indore/"
  },
  {
   "active": true,
@@ -26722,7 +26757,7 @@
   "longitude": 77.2090212,
   "picture": {},
   "state": "",
-  "title": "Indraprastha Institute of Information Technology, Delhi",
+  "title": "Indraprastha Institute of Information Technology - Delhi",
   "relative_url": "/indraprastha-institute-of-information-technology-delhi/",
   "url": "https://gdsc.community.dev/indraprastha-institute-of-information-technology-delhi/"
  },
@@ -26744,9 +26779,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/indus-university-ahmedabad.jpg"
   },
   "state": "",
-  "title": "Indus university",
-  "relative_url": "/indus-university/",
-  "url": "https://gdsc.community.dev/indus-university/"
+  "title": "Indus University - Ahmedabad",
+  "relative_url": "/indus-university-ahmedabad/",
+  "url": "https://gdsc.community.dev/indus-university-ahmedabad/"
  },
  {
   "active": true,
@@ -26965,9 +27000,9 @@
   "longitude": 88.36389500000001,
   "picture": {},
   "state": "",
-  "title": "Institute of Engineering & Management",
-  "relative_url": "/institute-of-engineering-management/",
-  "url": "https://gdsc.community.dev/institute-of-engineering-management/"
+  "title": "Institute of Engineering & Management - Kolkata",
+  "relative_url": "/institute-of-engineering-management-kolkata/",
+  "url": "https://gdsc.community.dev/institute-of-engineering-management-kolkata/"
  },
  {
   "active": true,
@@ -26998,6 +27033,21 @@
   "title": "Institute of Engineering & Technology Lucknow",
   "relative_url": "/institute-of-engineering-technology-lucknow/",
   "url": "https://gdsc.community.dev/institute-of-engineering-technology-lucknow/"
+ },
+ {
+  "active": true,
+  "city": "Prayagraj",
+  "country": "IN",
+  "id": 1362,
+  "hide_country_info": false,
+  "latitude": 25.4358011,
+  "logo": {},
+  "longitude": 81.846311,
+  "picture": {},
+  "state": "",
+  "title": "Institute of Engineering and Rural Technology - Prayagraj",
+  "relative_url": "/institute-of-engineering-and-rural-technology-prayagraj/",
+  "url": "https://gdsc.community.dev/institute-of-engineering-and-rural-technology-prayagraj/"
  },
  {
   "active": true,
@@ -27059,18 +27109,18 @@
  },
  {
   "active": true,
-  "city": "Prayagraj",
+  "city": "Bengaluru",
   "country": "IN",
-  "id": 1362,
+  "id": 1482,
   "hide_country_info": false,
-  "latitude": 25.4358011,
+  "latitude": 12.9715987,
   "logo": {},
-  "longitude": 81.846311,
+  "longitude": 77.5945627,
   "picture": {},
   "state": "",
-  "title": "Institute of engineering and rural technology",
-  "relative_url": "/institute-of-engineering-and-rural-technology/",
-  "url": "https://gdsc.community.dev/institute-of-engineering-and-rural-technology/"
+  "title": "International Institute of Information Technology (IIIT) - Bangalore",
+  "relative_url": "/international-institute-of-information-technology-iiit-bangalore/",
+  "url": "https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/"
  },
  {
   "active": true,
@@ -27097,9 +27147,24 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1503643027phpehvmXY.jpeg"
   },
   "state": "",
-  "title": "International Institute of Information Technology",
-  "relative_url": "/international-institute-of-information-technology/",
-  "url": "https://gdsc.community.dev/international-institute-of-information-technology/"
+  "title": "International Institute of Information Technology (IIIT) - Bhubaneswar",
+  "relative_url": "/international-institute-of-information-technology-iiit-bhubaneswar/",
+  "url": "https://gdsc.community.dev/international-institute-of-information-technology-iiit-bhubaneswar/"
+ },
+ {
+  "active": true,
+  "city": "Hyderabad",
+  "country": "IN",
+  "id": 1003,
+  "hide_country_info": false,
+  "latitude": 17.385044,
+  "logo": {},
+  "longitude": 78.486671,
+  "picture": {},
+  "state": "",
+  "title": "International Institute of Information Technology (IIIT) - Hyderabad",
+  "relative_url": "/international-institute-of-information-technology-iiit-hyderabad/",
+  "url": "https://gdsc.community.dev/international-institute-of-information-technology-iiit-hyderabad/"
  },
  {
   "active": true,
@@ -27119,7 +27184,7 @@
   "longitude": 73.8567437,
   "picture": {},
   "state": "",
-  "title": "International Institute of Information Technology (ISquareIT), Pune",
+  "title": "International Institute of Information Technology (ISquareIT) - Pune",
   "relative_url": "/international-institute-of-information-technology-isquareit-pune/",
   "url": "https://gdsc.community.dev/international-institute-of-information-technology-isquareit-pune/"
  },
@@ -27137,36 +27202,6 @@
   "title": "International Institute of Information Technology Bangalore (IIIT-B)",
   "relative_url": "/international-institute-of-information-technology-bangalore-iiit-b/",
   "url": "https://gdsc.community.dev/international-institute-of-information-technology-bangalore-iiit-b/"
- },
- {
-  "active": true,
-  "city": "Bengaluru",
-  "country": "IN",
-  "id": 1482,
-  "hide_country_info": false,
-  "latitude": 12.9715987,
-  "logo": {},
-  "longitude": 77.5945627,
-  "picture": {},
-  "state": "",
-  "title": "International Institute of Information Technology, Bangalore",
-  "relative_url": "/international-institute-of-information-technology-bangalore/",
-  "url": "https://gdsc.community.dev/international-institute-of-information-technology-bangalore/"
- },
- {
-  "active": true,
-  "city": "Hyderabad",
-  "country": "IN",
-  "id": 1003,
-  "hide_country_info": false,
-  "latitude": 17.385044,
-  "logo": {},
-  "longitude": 78.486671,
-  "picture": {},
-  "state": "",
-  "title": "International Institute of Information Technology, Hyderabad",
-  "relative_url": "/international-institute-of-information-technology-hyderabad/",
-  "url": "https://gdsc.community.dev/international-institute-of-information-technology-hyderabad/"
  },
  {
   "active": true,
@@ -27349,9 +27384,9 @@
   "longitude": 75.8513938,
   "picture": {},
   "state": "",
-  "title": "JECRC University, Sitapur",
-  "relative_url": "/jecrc-university-sitapur/",
-  "url": "https://gdsc.community.dev/jecrc-university-sitapur/"
+  "title": "JECRC University, Sitapur - Jaipur",
+  "relative_url": "/jecrc-university-sitapur-jaipur/",
+  "url": "https://gdsc.community.dev/jecrc-university-sitapur-jaipur/"
  },
  {
   "active": true,
@@ -27371,9 +27406,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Cover%2520Pic.jpg"
   },
   "state": "",
-  "title": "JIET Group of Institutions",
-  "relative_url": "/jiet-group-of-institutions/",
-  "url": "https://gdsc.community.dev/jiet-group-of-institutions/"
+  "title": "JIET Group of Institutions - Jodhpur",
+  "relative_url": "/jiet-group-of-institutions-jodhpur/",
+  "url": "https://gdsc.community.dev/jiet-group-of-institutions-jodhpur/"
  },
  {
   "active": true,
@@ -27466,7 +27501,14 @@
   "latitude": 18.5204303,
   "logo": {},
   "longitude": 73.8567437,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template%2520%25281%2529_KtZvSLh.jpg",
+   "path": "chapter_banners/Copy of Copy of GDSC Logo chapter lockup centered template (1)_KtZvSLh.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template%2520%25281%2529_KtZvSLh.jpg"
+  },
   "state": "",
   "title": "JSPM NARHE TECHNICAL CAMPUS",
   "relative_url": "/jspm-narhe-technical-campus/",
@@ -27602,9 +27644,9 @@
   "longitude": 79.9864071,
   "picture": {},
   "state": "",
-  "title": "Jabalpur Engineering College",
-  "relative_url": "/jabalpur-engineering-college/",
-  "url": "https://gdsc.community.dev/jabalpur-engineering-college/"
+  "title": "Jabalpur Engineering College - Jabalpur",
+  "relative_url": "/jabalpur-engineering-college-jabalpur/",
+  "url": "https://gdsc.community.dev/jabalpur-engineering-college-jabalpur/"
  },
  {
   "active": true,
@@ -27661,9 +27703,9 @@
   "longitude": 77.5945627,
   "picture": {},
   "state": "",
-  "title": "Jain University",
-  "relative_url": "/jain-university/",
-  "url": "https://gdsc.community.dev/jain-university/"
+  "title": "Jain University - Bengaluru",
+  "relative_url": "/jain-university-bengaluru/",
+  "url": "https://gdsc.community.dev/jain-university-bengaluru/"
  },
  {
   "active": true,
@@ -27676,9 +27718,9 @@
   "longitude": 75.7872709,
   "picture": {},
   "state": "",
-  "title": "Jaipur Engineering College and Research Centre",
-  "relative_url": "/jaipur-engineering-college-and-research-centre/",
-  "url": "https://gdsc.community.dev/jaipur-engineering-college-and-research-centre/"
+  "title": "Jaipur Engineering College & Research Centre - Jaipur",
+  "relative_url": "/jaipur-engineering-college-research-centre-jaipur/",
+  "url": "https://gdsc.community.dev/jaipur-engineering-college-research-centre-jaipur/"
  },
  {
   "active": true,
@@ -27691,9 +27733,9 @@
   "longitude": 88.7195567,
   "picture": {},
   "state": "",
-  "title": "Jalpaiguri Government Engineering College",
-  "relative_url": "/jalpaiguri-government-engineering-college/",
-  "url": "https://gdsc.community.dev/jalpaiguri-government-engineering-college/"
+  "title": "Jalpaiguri Government Engineering College - Jalpaiguri",
+  "relative_url": "/jalpaiguri-government-engineering-college-jalpaiguri/",
+  "url": "https://gdsc.community.dev/jalpaiguri-government-engineering-college-jalpaiguri/"
  },
  {
   "active": true,
@@ -27720,9 +27762,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/post_MI8RI6s.jpg"
   },
   "state": "",
-  "title": "Jamia Millia Islamia",
-  "relative_url": "/jamia-millia-islamia/",
-  "url": "https://gdsc.community.dev/jamia-millia-islamia/"
+  "title": "Jamia Millia Islamia - Delhi",
+  "relative_url": "/jamia-millia-islamia-delhi/",
+  "url": "https://gdsc.community.dev/jamia-millia-islamia-delhi/"
  },
  {
   "active": true,
@@ -27735,9 +27777,9 @@
   "longitude": 75.568101,
   "picture": {},
   "state": "",
-  "title": "Jawaharlal Nehru National College of Engineering",
-  "relative_url": "/jawaharlal-nehru-national-college-of-engineering/",
-  "url": "https://gdsc.community.dev/jawaharlal-nehru-national-college-of-engineering/"
+  "title": "Jawaharlal Nehru National College of Engineering - Shivamogga",
+  "relative_url": "/jawaharlal-nehru-national-college-of-engineering-shivamogga/",
+  "url": "https://gdsc.community.dev/jawaharlal-nehru-national-college-of-engineering-shivamogga/"
  },
  {
   "active": true,
@@ -27801,9 +27843,9 @@
   "longitude": 77.50399039999999,
   "picture": {},
   "state": "",
-  "title": "Jaypee Institute of Information Technology, Sec-128",
-  "relative_url": "/jaypee-institute-of-information-technology-sec-128-1/",
-  "url": "https://gdsc.community.dev/jaypee-institute-of-information-technology-sec-128-1/"
+  "title": "Jaypee Institute of Information Technology, Sec-128 - Noida",
+  "relative_url": "/jaypee-institute-of-information-technology-sec-128-noida/",
+  "url": "https://gdsc.community.dev/jaypee-institute-of-information-technology-sec-128-noida/"
  },
  {
   "active": true,
@@ -27846,9 +27888,9 @@
   "longitude": 77.3001762,
   "picture": {},
   "state": "",
-  "title": "Jaypee University of Engineering and Technology",
-  "relative_url": "/jaypee-university-of-engineering-and-technology/",
-  "url": "https://gdsc.community.dev/jaypee-university-of-engineering-and-technology/"
+  "title": "Jaypee University of Engineering and Technology - Guna",
+  "relative_url": "/jaypee-university-of-engineering-and-technology-guna/",
+  "url": "https://gdsc.community.dev/jaypee-university-of-engineering-and-technology-guna/"
  },
  {
   "active": true,
@@ -27893,21 +27935,6 @@
   "title": "John Cox Memorial CSI Institute of Technology",
   "relative_url": "/john-cox-memorial-csi-institute-of-technology/",
   "url": "https://gdsc.community.dev/john-cox-memorial-csi-institute-of-technology/"
- },
- {
-  "active": true,
-  "city": "Kanpur",
-  "country": "IN",
-  "id": 1410,
-  "hide_country_info": false,
-  "latitude": 26.449923,
-  "logo": {},
-  "longitude": 80.3318736,
-  "picture": {},
-  "state": "",
-  "title": "Jyothi Engineering College",
-  "relative_url": "/jyothi-engineering-college/",
-  "url": "https://gdsc.community.dev/jyothi-engineering-college/"
  },
  {
   "active": true,
@@ -29038,12 +29065,12 @@
   },
   "longitude": 77.3177894,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1549873824675_K1JRZSB.jpg",
-   "path": "chapter_banners/1549873824675_K1JRZSB.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Group%252010banner.png",
+   "path": "chapter_banners/Group 10banner.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1549873824675_K1JRZSB.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Group%252010banner.png"
   },
   "state": "",
   "title": "Manav Rachna International Institute of Research & Studies",
@@ -32317,7 +32344,14 @@
   "latitude": 10.746903,
   "logo": {},
   "longitude": 106.676292,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/maxresdefault_fc99Yye.jpg",
+   "path": "chapter_banners/maxresdefault_fc99Yye.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/maxresdefault_fc99Yye.jpg"
+  },
   "state": "",
   "title": "Saigon Technology University",
   "relative_url": "/saigon-technology-university/",
@@ -35580,7 +35614,14 @@
   "latitude": 12.9715987,
   "logo": {},
   "longitude": 77.5945627,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC_1076.JPG",
+   "path": "chapter_banners/DSC_1076.JPG",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC_1076.JPG"
+  },
   "state": "",
   "title": "University Visvesvaraya College of Engineering",
   "relative_url": "/university-visvesvaraya-college-of-engineering/",
