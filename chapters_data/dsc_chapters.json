@@ -184,7 +184,14 @@
   "latitude": 41.5094771,
   "logo": {},
   "longitude": -90.5787476,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/SloughPath_0.jpeg",
+   "path": "chapter_banners/SloughPath_0.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/SloughPath_0.jpeg"
+  },
   "state": "",
   "title": "Augustana College",
   "relative_url": "/augustana-college/",
@@ -2325,21 +2332,21 @@
   "hide_country_info": false,
   "latitude": 35.20105,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Philander%2520Smith%2520College%2520DSC%2520-%2520Facebook%2520banner_1Q2Txm9.png",
-   "path": "chapter_banners/Philander Smith College DSC - Facebook banner_1Q2Txm9.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Profile%2520Logo.png",
+   "path": "chapter_banners/DSC Profile Logo.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Philander%2520Smith%2520College%2520DSC%2520-%2520Facebook%2520banner_1Q2Txm9.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Profile%2520Logo.png"
   },
   "longitude": -91.8318334,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Philander%2520Smith%2520College%2520DSC%2520-%2520Facebook%2520banner.png",
-   "path": "chapter_banners/Philander Smith College DSC - Facebook banner.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Philander%2520Logo%2520chapter%2520lockup%2520narrow%2520banner.png",
+   "path": "chapter_banners/GDSC Philander Logo chapter lockup narrow banner.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Philander%2520Smith%2520College%2520DSC%2520-%2520Facebook%2520banner.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Philander%2520Logo%2520chapter%2520lockup%2520narrow%2520banner.png"
   },
   "state": "",
   "title": "Philander Smith College",
@@ -5570,7 +5577,14 @@
   "latitude": 19.5562275,
   "logo": {},
   "longitude": -99.2674713,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/img12.png",
+   "path": "chapter_banners/img12.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/img12.png"
+  },
   "state": "",
   "title": "Universidad Autónoma del Estado de México CU UAEM Valle de México",
   "relative_url": "/universidad-autonoma-del-estado-de-mexico-cu-uaem-valle-de-mexico/",
@@ -11286,9 +11300,23 @@
   "id": 1895,
   "hide_country_info": false,
   "latitude": 25.6872431,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520P.png",
+   "path": "chapter_banners/DSC P.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520P.png"
+  },
   "longitude": 32.6396357,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/75543616_103897841080645_8413644661448507392_n.png",
+   "path": "chapter_banners/75543616_103897841080645_8413644661448507392_n.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/75543616_103897841080645_8413644661448507392_n.png"
+  },
   "state": "",
   "title": "Luxor university",
   "relative_url": "/luxor-university/",
@@ -12983,7 +13011,14 @@
   "latitude": 32.7811016,
   "logo": {},
   "longitude": 12.4495221,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/photo_2021-07-22_13-31-22.jpg",
+   "path": "chapter_banners/photo_2021-07-22_13-31-22.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/photo_2021-07-22_13-31-22.jpg"
+  },
   "state": "",
   "title": "Sabratha university",
   "relative_url": "/sabratha-university/",
@@ -14236,12 +14271,12 @@
   "hide_country_info": false,
   "latitude": null,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo_0UfgO3Z.png",
-   "path": "chapter_banners/Logo_0UfgO3Z.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UNIVERSITY%2520OF%2520SUMER%25204.png",
+   "path": "chapter_banners/GDSC UNIVERSITY OF SUMER 4.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo_0UfgO3Z.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UNIVERSITY%2520OF%2520SUMER%25204.png"
   },
   "longitude": null,
   "picture": {
@@ -16482,22 +16517,15 @@
   "id": 75,
   "hide_country_info": false,
   "latitude": 26.4206828,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PROFILE_1LHRR9C.png",
-   "path": "chapter_banners/PROFILE_1LHRR9C.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PROFILE_1LHRR9C.png"
-  },
+  "logo": {},
   "longitude": 50.0887943,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/20200828_195705.jpg",
-   "path": "chapter_banners/20200828_195705.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Bunner_QAdqBAb.png",
+   "path": "chapter_banners/Bunner_QAdqBAb.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/20200828_195705.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Bunner_QAdqBAb.png"
   },
   "state": "",
   "title": "imam Abdulrahman Bin Faisal University M",
@@ -28494,21 +28522,6 @@
   "active": true,
   "city": "Pune",
   "country": "IN",
-  "id": 1397,
-  "hide_country_info": false,
-  "latitude": 18.5204303,
-  "logo": {},
-  "longitude": 73.8567437,
-  "picture": {},
-  "state": "",
-  "title": "MIT - World Peace University",
-  "relative_url": "/mit-world-peace-university-1/",
-  "url": "https://gdsc.community.dev/mit-world-peace-university-1/"
- },
- {
-  "active": true,
-  "city": "Pune",
-  "country": "IN",
   "id": 1368,
   "hide_country_info": false,
   "latitude": 18.5204303,
@@ -30626,21 +30639,6 @@
   "active": true,
   "city": "Jabalpur",
   "country": "IN",
-  "id": 1331,
-  "hide_country_info": false,
-  "latitude": 23.181467,
-  "logo": {},
-  "longitude": 79.9864071,
-  "picture": {},
-  "state": "",
-  "title": "PDPM Indian Institute of Information Technology, Design and Manufacturing",
-  "relative_url": "/pdpm-indian-institute-of-information-technology-design-and-manufacturing/",
-  "url": "https://gdsc.community.dev/pdpm-indian-institute-of-information-technology-design-and-manufacturing/"
- },
- {
-  "active": true,
-  "city": "Jabalpur",
-  "country": "IN",
   "id": 1002,
   "hide_country_info": false,
   "latitude": 23.181467,
@@ -30894,12 +30892,12 @@
   "hide_country_info": false,
   "latitude": 22.3071588,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSCPU.jpg",
-   "path": "chapter_banners/DSCPU.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo_SIjH8kt.png",
+   "path": "chapter_banners/DSC Logo_SIjH8kt.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSCPU.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo_SIjH8kt.png"
   },
   "longitude": 73.1812187,
   "picture": {
@@ -31253,21 +31251,6 @@
   "title": "Pune Institute of Computer Technology - Pune",
   "relative_url": "/pune-institute-of-computer-technology-pune/",
   "url": "https://gdsc.community.dev/pune-institute-of-computer-technology-pune/"
- },
- {
-  "active": true,
-  "city": "Pune",
-  "country": "IN",
-  "id": 1487,
-  "hide_country_info": false,
-  "latitude": 18.5204303,
-  "logo": {},
-  "longitude": 73.8567437,
-  "picture": {},
-  "state": "",
-  "title": "Pune Vidyarthi Griha's College of Engineering and Technology",
-  "relative_url": "/pune-vidyarthi-grihas-college-of-engineering-and-technology/",
-  "url": "https://gdsc.community.dev/pune-vidyarthi-grihas-college-of-engineering-and-technology/"
  },
  {
   "active": true,
@@ -32165,40 +32148,18 @@
   "active": true,
   "city": "Nashik",
   "country": "IN",
-  "id": 1346,
-  "hide_country_info": false,
-  "latitude": 19.9974533,
-  "logo": {},
-  "longitude": 73.78980229999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners_THSfWmq.png",
-   "path": "chapter_banners/Copy of Copy of Google Developer Student Clubs Chapter_ Twitter Banners_THSfWmq.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners_THSfWmq.png"
-  },
-  "state": "",
-  "title": "Sandip Institute of Technology and Research Center",
-  "relative_url": "/sandip-institute-of-technology-and-research-center/",
-  "url": "https://gdsc.community.dev/sandip-institute-of-technology-and-research-center/"
- },
- {
-  "active": true,
-  "city": "Nashik",
-  "country": "IN",
   "id": 801,
   "hide_country_info": false,
   "latitude": 19.9974533,
   "logo": {},
   "longitude": 73.78980229999999,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Developer%2520Student%2520Clubs_SJPujek.png",
-   "path": "chapter_banners/Developer Student Clubs_SJPujek.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners_r9OBGh5.png",
+   "path": "chapter_banners/Copy of Copy of Google Developer Student Clubs Chapter_ Twitter Banners_r9OBGh5.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Developer%2520Student%2520Clubs_SJPujek.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners_r9OBGh5.png"
   },
   "state": "",
   "title": "Sandip Institute of Technology and Research Center - Nashik",
@@ -32424,7 +32385,14 @@
   "id": 1841,
   "hide_country_info": false,
   "latitude": 24.8607343,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/14202651_1089565147792569_2443500361823532638_n.jpg",
+   "path": "chapter_banners/14202651_1089565147792569_2443500361823532638_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/14202651_1089565147792569_2443500361823532638_n.jpg"
+  },
   "longitude": 67.0011364,
   "picture": {},
   "state": "",
@@ -32660,9 +32628,23 @@
   "id": 1473,
   "hide_country_info": false,
   "latitude": 27.3313512,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/SMIT%2520GDSC%2520LOGO.jpg",
+   "path": "chapter_banners/SMIT GDSC LOGO.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/SMIT%2520GDSC%2520LOGO.jpg"
+  },
   "longitude": 88.6138113,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/440px-Sikkim_Manipal_Institute_of_Technology_Logo.png",
+   "path": "chapter_banners/440px-Sikkim_Manipal_Institute_of_Technology_Logo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/440px-Sikkim_Manipal_Institute_of_Technology_Logo.png"
+  },
   "state": "SK",
   "title": "Sikkim Manipal Institute of Technology - Gangtok",
   "relative_url": "/sikkim-manipal-institute-of-technology-gangtok/",
@@ -33199,28 +33181,6 @@
  },
  {
   "active": true,
-  "city": "Pala",
-  "country": "IN",
-  "id": 1649,
-  "hide_country_info": false,
-  "latitude": 9.7130944,
-  "logo": {},
-  "longitude": 76.68328389999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dscbgbanner.png",
-   "path": "chapter_banners/dscbgbanner.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dscbgbanner.png"
-  },
-  "state": "",
-  "title": "St. Joseph's College of Engineering and Technology",
-  "relative_url": "/st-josephs-college-of-engineering-and-technology/",
-  "url": "https://gdsc.community.dev/st-josephs-college-of-engineering-and-technology/"
- },
- {
-  "active": true,
   "city": "Palai",
   "country": "IN",
   "id": 805,
@@ -33279,7 +33239,14 @@
   "latitude": 21.1458004,
   "logo": {},
   "longitude": 79.0881546,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bg_website.png",
+   "path": "chapter_banners/bg_website.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bg_website.png"
+  },
   "state": "",
   "title": "St. Vincent Pallotti College of Engineering & Technology - Nagpur",
   "relative_url": "/st-vincent-pallotti-college-of-engineering-technology-nagpur/",
@@ -35762,12 +35729,12 @@
   "logo": {},
   "longitude": 106.6296638,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cntt.jpg",
-   "path": "chapter_banners/cntt.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Facebook%2520banner_JIthnv9.png",
+   "path": "chapter_banners/Facebook banner_JIthnv9.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cntt.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Facebook%2520banner_JIthnv9.png"
   },
   "state": "",
   "title": "University of Information Technology VNU-HCM",
@@ -36636,7 +36603,14 @@
   "latitude": 21.0277644,
   "logo": {},
   "longitude": 105.8341598,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Vietnam%2520National%2520University%252C%2520Hanoi%2520Light%2520Vertical-Logo%2520white%2520bg.png",
+   "path": "chapter_banners/DSC Vietnam National University, Hanoi Light Vertical-Logo white bg.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Vietnam%2520National%2520University%252C%2520Hanoi%2520Light%2520Vertical-Logo%2520white%2520bg.png"
+  },
   "state": "",
   "title": "Vietnam National University",
   "relative_url": "/vietnam-national-university/",
