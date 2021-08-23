@@ -4845,6 +4845,21 @@
  },
  {
   "active": true,
+  "city": "Iquitos",
+  "country": "PE",
+  "id": 1229,
+  "hide_country_info": false,
+  "latitude": -3.7436735,
+  "logo": {},
+  "longitude": -73.25163260000001,
+  "picture": {},
+  "state": "Loreto",
+  "title": "GDG Iquitos",
+  "relative_url": "/gdg-iquitos/",
+  "url": "https://gdg.community.dev/gdg-iquitos/"
+ },
+ {
+  "active": true,
   "city": "Itu",
   "country": "BR",
   "id": 1073,

@@ -3847,8 +3847,8 @@
   },
   "state": "",
   "title": "University of South Florida",
-  "relative_url": "/university-of-south-florida-1/",
-  "url": "https://gdsc.community.dev/university-of-south-florida-1/"
+  "relative_url": "/university-of-south-florida/",
+  "url": "https://gdsc.community.dev/university-of-south-florida/"
  },
  {
   "active": true,
@@ -10191,12 +10191,12 @@
   "logo": {},
   "longitude": 34.4668445,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/0_yZNUfkz5nhm_Wbvt.png",
-   "path": "chapter_banners/0_yZNUfkz5nhm_Wbvt.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cover_N8rnLdn.jpg",
+   "path": "chapter_banners/cover_N8rnLdn.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/0_yZNUfkz5nhm_Wbvt.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cover_N8rnLdn.jpg"
   },
   "state": "",
   "title": "Islamic University of Gaza",
@@ -11254,7 +11254,14 @@
   "id": 1593,
   "hide_country_info": false,
   "latitude": 51.5073509,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/LSHTM%2520GDSC%2520logo%2520centred.png",
+   "path": "chapter_banners/LSHTM GDSC logo centred.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/LSHTM%2520GDSC%2520logo%2520centred.png"
+  },
   "longitude": -0.1277583,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/teahub.io-london-wallpaper-52995.png",
@@ -11727,7 +11734,14 @@
   "latitude": 32.3255884,
   "logo": {},
   "longitude": 15.0992556,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520%2520%2520%2520%2520%2520Misurata%2520University%2520in%2520Libya%2520Logo%2520x3.png",
+   "path": "chapter_banners/DSC      Misurata University in Libya Logo x3.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520%2520%2520%2520%2520%2520Misurata%2520University%2520in%2520Libya%2520Logo%2520x3.png"
+  },
   "state": "",
   "title": "Misurata University",
   "relative_url": "/misurata-university/",
@@ -12146,7 +12160,14 @@
   "latitude": 34.2540503,
   "logo": {},
   "longitude": -6.5890166,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC-banner_cYPestd.png",
+   "path": "chapter_banners/DSC-banner_cYPestd.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC-banner_cYPestd.png"
+  },
   "state": "",
   "title": "National school of applied science Kenitra",
   "relative_url": "/national-school-of-applied-science-kenitra/",
@@ -17074,9 +17095,23 @@
   "id": 1811,
   "hide_country_info": false,
   "latitude": 15.3694451,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/%25D8%25B5%25D9%2588%25D8%25B1%25D8%25A9%2520%25D8%25A7%25D9%2584%25D8%25B4%25D8%25AE%25D8%25B5%25D9%258A%25D8%25A9_EQ7B4Bb.jpg",
+   "path": "chapter_banners/صورة الشخصية_EQ7B4Bb.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/%25D8%25B5%25D9%2588%25D8%25B1%25D8%25A9%2520%25D8%25A7%25D9%2584%25D8%25B4%25D8%25AE%25D8%25B5%25D9%258A%25D8%25A9_EQ7B4Bb.jpg"
+  },
   "longitude": 44.1910066,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/%25D8%25B5%25D9%2588%25D8%25B1%25D8%25A9%2520%25D8%25A7%25D9%2584%25D8%25BA%25D9%2584%25D8%25A7%25D9%2581%2520copy_Azb4oz1.jpg",
+   "path": "chapter_banners/صورة الغلاف copy_Azb4oz1.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/%25D8%25B5%25D9%2588%25D8%25B1%25D8%25A9%2520%25D8%25A7%25D9%2584%25D8%25BA%25D9%2584%25D8%25A7%25D9%2581%2520copy_Azb4oz1.jpg"
+  },
   "state": "",
   "title": "جامعة الناصر",
   "relative_url": "/jm-lnsr/",
@@ -21542,15 +21577,22 @@
   "id": 1683,
   "hide_country_info": false,
   "latitude": 13.0381896,
-  "logo": {},
-  "longitude": 80.1565461,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/_MG_0951%2520%25281%2529_gRv3VCn.jfif",
-   "path": "chapter_banners/_MG_0951 (1)_gRv3VCn.jfif",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSCAASC-LOGO_JakpOk8.png",
+   "path": "chapter_banners/GDSCAASC-LOGO_JakpOk8.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/_MG_0951%2520%25281%2529_gRv3VCn.jfif"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSCAASC-LOGO_JakpOk8.png"
+  },
+  "longitude": 80.1565461,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Header_V3ozzdx.png",
+   "path": "chapter_banners/Header_V3ozzdx.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Header_V3ozzdx.png"
   },
   "state": "",
   "title": "Alpha Arts and Science College - Porur",
@@ -23090,12 +23132,12 @@
   "hide_country_info": false,
   "latitude": 10.3156992,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/89024932_221294522594327_1120555090625691648_o.png",
-   "path": "chapter_banners/89024932_221294522594327_1120555090625691648_o.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/240056047_386955019433392_4456186977156970089_n.png",
+   "path": "chapter_banners/240056047_386955019433392_4456186977156970089_n.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/89024932_221294522594327_1120555090625691648_o.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/240056047_386955019433392_4456186977156970089_n.png"
   },
   "longitude": 123.8854366,
   "picture": {
@@ -23593,12 +23635,12 @@
   "logo": {},
   "longitude": 123.8730022,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG_2915.png",
-   "path": "chapter_banners/IMG_2915.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/TWITTER%2520BANNER_tw2Xuuv.png",
+   "path": "chapter_banners/TWITTER BANNER_tw2Xuuv.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG_2915.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/TWITTER%2520BANNER_tw2Xuuv.png"
   },
   "state": "",
   "title": "Cristal e-College",
@@ -23748,12 +23790,12 @@
   "logo": {},
   "longitude": 108.2021667,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/78978033_151881449550620_4690306949558829056_o.png",
-   "path": "chapter_banners/78978033_151881449550620_4690306949558829056_o.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cover-01.jpg",
+   "path": "chapter_banners/cover-01.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/78978033_151881449550620_4690306949558829056_o.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cover-01.jpg"
   },
   "state": "",
   "title": "Da Nang University of Technology",
@@ -23859,35 +23901,6 @@
   "active": true,
   "city": "Bengaluru",
   "country": "IN",
-  "id": 1372,
-  "hide_country_info": false,
-  "latitude": 12.9715987,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-LeftAligned-Chapter-WHT_TqOdRYG.jpg",
-   "path": "chapter_banners/Copy of Google-DSC-Lockup-LeftAligned-Chapter-WHT_TqOdRYG.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-LeftAligned-Chapter-WHT_TqOdRYG.jpg"
-  },
-  "longitude": 77.5945627,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_ny8yfnM.png",
-   "path": "chapter_banners/Copy of Copy of dsc-ecosystem-banners-linkedin-blue_ny8yfnM.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_ny8yfnM.png"
-  },
-  "state": "",
-  "title": "Dayananda Sagar Institutions - Bengaluru",
-  "relative_url": "/dayananda-sagar-institutions-bengaluru/",
-  "url": "https://gdsc.community.dev/dayananda-sagar-institutions-bengaluru/"
- },
- {
-  "active": true,
-  "city": "Bengaluru",
-  "country": "IN",
   "id": 903,
   "hide_country_info": false,
   "latitude": 12.9715987,
@@ -23902,9 +23915,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Dayananda%2520Sagar%2520Institutions%2520Light%2520Vertical-Logo.png"
   },
   "state": "",
-  "title": "Dayananda Sagar Institutions, Bangalore",
-  "relative_url": "/dayananda-sagar-institutions-bangalore/",
-  "url": "https://gdsc.community.dev/dayananda-sagar-institutions-bangalore/"
+  "title": "Dayananda Sagar Institutions - Bengaluru",
+  "relative_url": "/dayananda-sagar-institutions-bengaluru/",
+  "url": "https://gdsc.community.dev/dayananda-sagar-institutions-bengaluru/"
  },
  {
   "active": true,
@@ -24320,7 +24333,14 @@
   "id": 1462,
   "hide_country_info": false,
   "latitude": 19.0759837,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-08-22%2520at%25201.02.11%2520PM_mXEmwL4.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-08-22 at 1.02.11 PM_mXEmwL4.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-08-22%2520at%25201.02.11%2520PM_mXEmwL4.jpeg"
+  },
   "longitude": 72.8776559,
   "picture": {},
   "state": "",
@@ -24919,7 +24939,14 @@
   "latitude": 28.4743879,
   "logo": {},
   "longitude": 77.50399039999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC_r7AjLoc.png",
+   "path": "chapter_banners/GDSC_r7AjLoc.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC_r7AjLoc.png"
+  },
   "state": "",
   "title": "Galgotias College of Engineering and Technology - Greater Noida",
   "relative_url": "/galgotias-college-of-engineering-and-technology-greater-noida/",
@@ -25889,9 +25916,23 @@
   "id": 1648,
   "hide_country_info": false,
   "latitude": 24.8607343,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1597814510935.jpg",
+   "path": "chapter_banners/1597814510935.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1597814510935.jpg"
+  },
   "longitude": 67.0011364,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/127247540_10158704863669451_4580231067046383711_n.jpg",
+   "path": "chapter_banners/127247540_10158704863669451_4580231067046383711_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/127247540_10158704863669451_4580231067046383711_n.jpg"
+  },
   "state": "",
   "title": "Ilma University",
   "relative_url": "/ilma-university/",
@@ -26746,7 +26787,14 @@
   "latitude": 37.4562557,
   "logo": {},
   "longitude": 126.7052062,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520INHA%2520University%2520Light%2520Vertical-Logo2.png",
+   "path": "chapter_banners/DSC INHA University Light Vertical-Logo2.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520INHA%2520University%2520Light%2520Vertical-Logo2.png"
+  },
   "state": "",
   "title": "Inha University",
   "relative_url": "/inha-university/",
@@ -28619,7 +28667,14 @@
   "latitude": 18.5204303,
   "logo": {},
   "longitude": 73.8567437,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/campus7.jpg",
+   "path": "chapter_banners/campus7.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/campus7.jpg"
+  },
   "state": "",
   "title": "MIT Academy of Engineering - Pune",
   "relative_url": "/mit-academy-of-engineering-pune/",
@@ -32558,7 +32613,14 @@
   "latitude": 19.2183307,
   "logo": {},
   "longitude": 72.9780897,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%252824%2529_GXhqPdY.png",
+   "path": "chapter_banners/Untitled design (24)_GXhqPdY.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%252824%2529_GXhqPdY.png"
+  },
   "state": "",
   "title": "Shree L. R. Tiwari College of Engineering - Thane",
   "relative_url": "/shree-l-r-tiwari-college-of-engineering-thane/",
@@ -36702,12 +36764,12 @@
   "logo": {},
   "longitude": 105.8341598,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Vietnam%2520National%2520University%252C%2520Hanoi%2520Light%2520Vertical-Logo%2520white%2520bg.png",
-   "path": "chapter_banners/DSC Vietnam National University, Hanoi Light Vertical-Logo white bg.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Vietnam%2520National%2520University%2520Hanoi%2520photo%2520by%2520Bui%2520Tuan%2520Jan2015%2520%25282%2529.jpg",
+   "path": "chapter_banners/Vietnam National University Hanoi photo by Bui Tuan Jan2015 (2).jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Vietnam%2520National%2520University%252C%2520Hanoi%2520Light%2520Vertical-Logo%2520white%2520bg.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Vietnam%2520National%2520University%2520Hanoi%2520photo%2520by%2520Bui%2520Tuan%2520Jan2015%2520%25282%2529.jpg"
   },
   "state": "",
   "title": "Vietnam National University",
