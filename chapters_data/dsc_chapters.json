@@ -1964,14 +1964,7 @@
   "latitude": 34.0202894,
   "logo": {},
   "longitude": -117.8653386,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Home%2520Page%2520Banner.jpg",
-   "path": "chapter_banners/DSC Home Page Banner.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Home%2520Page%2520Banner.jpg"
-  },
+  "picture": {},
   "state": "",
   "title": "Mt. San Antonio College",
   "relative_url": "/mt-san-antonio-college/",
@@ -2303,7 +2296,14 @@
   "latitude": 40.0362184,
   "logo": {},
   "longitude": -75.5138118,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/psu-lion-mountain-lion-state-college.jpg",
+   "path": "chapter_banners/psu-lion-mountain-lion-state-college.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/psu-lion-mountain-lion-state-college.jpg"
+  },
   "state": "PA",
   "title": "Penn State University - Great Valley",
   "relative_url": "/penn-state-university-great-valley/",
@@ -2625,9 +2625,23 @@
   "id": 1323,
   "hide_country_info": false,
   "latitude": 32.715738,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/912px-san_diego_state_university_seal.svg_r0gqv8Y.png",
+   "path": "chapter_banners/912px-san_diego_state_university_seal.svg_r0gqv8Y.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/912px-san_diego_state_university_seal.svg_r0gqv8Y.png"
+  },
   "longitude": -117.1610838,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520San%2520Diego%2520State%2520University%2520Logo%2520x1%2520%25281%2529.png",
+   "path": "chapter_banners/DSC San Diego State University Logo x1 (1).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520San%2520Diego%2520State%2520University%2520Logo%2520x1%2520%25281%2529.png"
+  },
   "state": "",
   "title": "San Diego State University",
   "relative_url": "/san-diego-state-university/",
@@ -8170,7 +8184,14 @@
   "latitude": 30.0130557,
   "logo": {},
   "longitude": 31.2088526,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc_GRpcJ8n.jpg",
+   "path": "chapter_banners/gdsc_GRpcJ8n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc_GRpcJ8n.jpg"
+  },
   "state": "",
   "title": "Cairo University - Faculty of Engineering",
   "relative_url": "/cairo-university-faculty-of-engineering/",
@@ -10167,15 +10188,22 @@
   "hide_country_info": false,
   "latitude": 35.8245029,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/121688271_641510896536831_3924649140288260449_n.png",
-   "path": "chapter_banners/121688271_641510896536831_3924649140288260449_n.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/photo%2520de%2520profil%25202%2520_CSsYUqU.png",
+   "path": "chapter_banners/photo de profil 2 _CSsYUqU.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/121688271_641510896536831_3924649140288260449_n.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/photo%2520de%2520profil%25202%2520_CSsYUqU.png"
   },
   "longitude": 10.634584,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cover%2520facebook.png",
+   "path": "chapter_banners/cover facebook.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cover%2520facebook.png"
+  },
   "state": "",
   "title": "International multidisciplinary school",
   "relative_url": "/international-multidisciplinary-school/",
@@ -11754,7 +11782,14 @@
   "id": 1711,
   "hide_country_info": false,
   "latitude": 29.9601561,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template_u2nfv1P.png",
+   "path": "chapter_banners/Copy of Copy of GDSC Logo chapter lockup centered template_u2nfv1P.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template_u2nfv1P.png"
+  },
   "longitude": 31.2569138,
   "picture": {},
   "state": "",
@@ -13722,21 +13757,21 @@
   "hide_country_info": false,
   "latitude": 24.5246542,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DNu9Zh4u_400x400%2520%25281%2529.jpg",
-   "path": "chapter_banners/DNu9Zh4u_400x400 (1).jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Profile_Ld0p9RS.png",
+   "path": "chapter_banners/Profile_Ld0p9RS.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DNu9Zh4u_400x400%2520%25281%2529.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Profile_Ld0p9RS.png"
   },
   "longitude": 39.5691841,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1500x500.jfif",
-   "path": "chapter_banners/1500x500.jfif",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner_bHTwbKn.png",
+   "path": "chapter_banners/Banner_bHTwbKn.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1500x500.jfif"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner_bHTwbKn.png"
   },
   "state": "",
   "title": "Taibah University M",
@@ -21587,12 +21622,12 @@
   },
   "longitude": 80.1565461,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Header_V3ozzdx.png",
-   "path": "chapter_banners/Header_V3ozzdx.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1629780295142_AASC2.jpg",
+   "path": "chapter_banners/1629780295142_AASC2.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Header_V3ozzdx.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1629780295142_AASC2.jpg"
   },
   "state": "",
   "title": "Alpha Arts and Science College - Porur",
@@ -23141,12 +23176,12 @@
   },
   "longitude": 123.8854366,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/117815136_357226492334462_4282703180158656960_n%2520%25281%2529.jpg",
-   "path": "chapter_banners/117815136_357226492334462_4282703180158656960_n (1).jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/240403089_372019764444182_862185294206585492_n.png",
+   "path": "chapter_banners/240403089_372019764444182_862185294206585492_n.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/117815136_357226492334462_4282703180158656960_n%2520%25281%2529.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/240403089_372019764444182_862185294206585492_n.png"
   },
   "state": "",
   "title": "Cebu Institute of Technology - University",
@@ -25652,7 +25687,14 @@
   "id": 286,
   "hide_country_info": false,
   "latitude": 21.0277644,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/213722001_490471052304887_7731603353795101882_n.png",
+   "path": "chapter_banners/213722001_490471052304887_7731603353795101882_n.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/213722001_490471052304887_7731603353795101882_n.png"
+  },
   "longitude": 105.8341598,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc-hust.jpg",
@@ -26875,7 +26917,14 @@
   "latitude": -6.1683295,
   "logo": {},
   "longitude": 106.7588494,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1589364009781_CgKu6iV.jpg",
+   "path": "chapter_banners/1589364009781_CgKu6iV.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1589364009781_CgKu6iV.jpg"
+  },
   "state": "",
   "title": "Institut Teknologi PLN",
   "relative_url": "/institut-teknologi-pln/",
@@ -31570,12 +31619,12 @@
   "logo": {},
   "longitude": 144.9630576,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GCP%2520Workshop%2520Background%2520Image_H5t4ol7.png",
-   "path": "chapter_banners/GCP Workshop Background Image_H5t4ol7.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Python%2520Workshop%2520Banner%2520%25286%2529.png",
+   "path": "chapter_banners/Python Workshop Banner (6).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GCP%2520Workshop%2520Background%2520Image_H5t4ol7.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Python%2520Workshop%2520Banner%2520%25286%2529.png"
   },
   "state": "",
   "title": "RMIT University, Melbourne",
