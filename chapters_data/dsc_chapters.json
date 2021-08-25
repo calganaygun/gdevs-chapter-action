@@ -833,7 +833,14 @@
   "latitude": 42.4439614,
   "logo": {},
   "longitude": -76.5018807,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Cornell_University_Campus.jpeg",
+   "path": "chapter_banners/Cornell_University_Campus.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Cornell_University_Campus.jpeg"
+  },
   "state": "",
   "title": "Cornell University",
   "relative_url": "/cornell-university/",
@@ -5620,14 +5627,7 @@
   "latitude": -16.489689,
   "logo": {},
   "longitude": -68.11929359999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Ucb_k.jpg",
-   "path": "chapter_banners/Ucb_k.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Ucb_k.jpg"
-  },
+  "picture": {},
   "state": "",
   "title": "Universidad Católica Boliviana San Pablo",
   "relative_url": "/universidad-catolica-boliviana-san-pablo/",
@@ -7333,12 +7333,12 @@
   "logo": {},
   "longitude": 32.8998293,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/89290183_120882406163084_4196588445860102144_o.png",
-   "path": "chapter_banners/89290183_120882406163084_4196588445860102144_o.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252021.png",
+   "path": "chapter_banners/Artboard 21.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/89290183_120882406163084_4196588445860102144_o.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252021.png"
   },
   "state": "",
   "title": "Arab Academy for Science Technology & Maritime Transport (AASTMT)",
@@ -9569,7 +9569,14 @@
   "latitude": 37.955893,
   "logo": {},
   "longitude": 23.7020975,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/xarokopeio-panepistimio-oikonomologos-prosopsi_enumiOF.jpg",
+   "path": "chapter_banners/xarokopeio-panepistimio-oikonomologos-prosopsi_enumiOF.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/xarokopeio-panepistimio-oikonomologos-prosopsi_enumiOF.jpg"
+  },
   "state": "",
   "title": "Harokopio University of Athens",
   "relative_url": "/harokopio-university-of-athens/",
@@ -9709,21 +9716,21 @@
   "hide_country_info": false,
   "latitude": 35.8245029,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/LOGO%2520DSC.png",
-   "path": "chapter_banners/LOGO DSC.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/125179169_3737521656282425_4653909169426088291_n.png",
+   "path": "chapter_banners/125179169_3737521656282425_4653909169426088291_n.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/LOGO%2520DSC.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/125179169_3737521656282425_4653909169426088291_n.png"
   },
   "longitude": 10.634584,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/facebook.png",
-   "path": "chapter_banners/facebook.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cover_DMQytON.png",
+   "path": "chapter_banners/cover_DMQytON.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/facebook.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cover_DMQytON.png"
   },
   "state": "",
   "title": "Higher Institute of Applied Science and Technology",
@@ -12136,7 +12143,14 @@
   "latitude": 53.270668,
   "logo": {},
   "longitude": -9.0567905,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSCNUIGFacebookBanner.png",
+   "path": "chapter_banners/GDSCNUIGFacebookBanner.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSCNUIGFacebookBanner.png"
+  },
   "state": "",
   "title": "National University of Ireland NUI Galway",
   "relative_url": "/national-university-of-ireland-nui-galway/",
@@ -15260,7 +15274,14 @@
   "latitude": 33.268687,
   "logo": {},
   "longitude": -7.5843171,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-LeftAligned_JRAbf3J.png",
+   "path": "chapter_banners/Copy of Google-DSC-Lockup-LeftAligned_JRAbf3J.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-LeftAligned_JRAbf3J.png"
+  },
   "state": "",
   "title": "University of Hassan 1 -National School of Applied Sciences Berrechid",
   "relative_url": "/university-of-hassan-1-national-school-of-applied-sciences-berrechid/",
@@ -16720,7 +16741,14 @@
   "latitude": 34.739822,
   "logo": {},
   "longitude": 10.7600196,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520National%2520School%2520Of%2520Electronics%2520And%2520Telecoms%2520Of%2520Sfax%2520Light%2520Vertical-Logo.png",
+   "path": "chapter_banners/DSC National School Of Electronics And Telecoms Of Sfax Light Vertical-Logo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520National%2520School%2520Of%2520Electronics%2520And%2520Telecoms%2520Of%2520Sfax%2520Light%2520Vertical-Logo.png"
+  },
   "state": "",
   "title": "national engineering school of electronics and telecoms of sfax",
   "relative_url": "/national-engineering-school-of-electronics-and-telecoms-of-sfax/",
@@ -16815,21 +16843,21 @@
   "hide_country_info": false,
   "latitude": 33.315241,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled6.jpg",
-   "path": "chapter_banners/Untitled6.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Information%2520Technology%2520and%2520Communications%2520vertical%2520color_6BP2GhF.png",
+   "path": "chapter_banners/GDSC University of Information Technology and Communications vertical color_6BP2GhF.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled6.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Information%2520Technology%2520and%2520Communications%2520vertical%2520color_6BP2GhF.png"
   },
   "longitude": 44.3660671,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled-1_YK8HoOu.jpg",
-   "path": "chapter_banners/Untitled-1_YK8HoOu.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Dsc%2520Fb%2520Cover_OMolDhI.jpg",
+   "path": "chapter_banners/Dsc Fb Cover_OMolDhI.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled-1_YK8HoOu.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Dsc%2520Fb%2520Cover_OMolDhI.jpg"
   },
   "state": "",
   "title": "university of information technology and communications",
@@ -21203,21 +21231,6 @@
   "active": true,
   "city": "Anand",
   "country": "IN",
-  "id": 1513,
-  "hide_country_info": false,
-  "latitude": 22.5645175,
-  "logo": {},
-  "longitude": 72.928871,
-  "picture": {},
-  "state": "",
-  "title": "A.D. Patel Institute of Technology - Anand",
-  "relative_url": "/ad-patel-institute-of-technology-anand/",
-  "url": "https://gdsc.community.dev/ad-patel-institute-of-technology-anand/"
- },
- {
-  "active": true,
-  "city": "Anand",
-  "country": "IN",
   "id": 1090,
   "hide_country_info": false,
   "latitude": 22.5645175,
@@ -21239,9 +21252,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520A%2520D%2520PATEL%2520INSTITUTE%2520OF%2520TECHNOLOGY%2520Light%2520Vertical-Logo.png"
   },
   "state": "",
-  "title": "A.D.Patel Institute of Technology (CVM University)",
-  "relative_url": "/adpatel-institute-of-technology-cvm-university/",
-  "url": "https://gdsc.community.dev/adpatel-institute-of-technology-cvm-university/"
+  "title": "A.D. Patel Institute of Technology - Anand",
+  "relative_url": "/ad-patel-institute-of-technology-anand/",
+  "url": "https://gdsc.community.dev/ad-patel-institute-of-technology-anand/"
  },
  {
   "active": true,
@@ -21394,21 +21407,6 @@
   "active": true,
   "city": "Indore",
   "country": "IN",
-  "id": 1425,
-  "hide_country_info": false,
-  "latitude": 22.7195687,
-  "logo": {},
-  "longitude": 75.8577258,
-  "picture": {},
-  "state": "",
-  "title": "Acropolis Institute of Technology & Research - Indore",
-  "relative_url": "/acropolis-institute-of-technology-research-indore-1/",
-  "url": "https://gdsc.community.dev/acropolis-institute-of-technology-research-indore-1/"
- },
- {
-  "active": true,
-  "city": "Indore",
-  "country": "IN",
   "id": 897,
   "hide_country_info": false,
   "latitude": 22.7195687,
@@ -21416,7 +21414,7 @@
   "longitude": 75.8577258,
   "picture": {},
   "state": "",
-  "title": "Acropolis Institute of Technology & Research, Indore",
+  "title": "Acropolis Institute of Technology & Research - Indore",
   "relative_url": "/acropolis-institute-of-technology-research-indore/",
   "url": "https://gdsc.community.dev/acropolis-institute-of-technology-research-indore/"
  },
@@ -21729,21 +21727,6 @@
   "title": "Amity University - Noida",
   "relative_url": "/amity-university-noida/",
   "url": "https://gdsc.community.dev/amity-university-noida/"
- },
- {
-  "active": true,
-  "city": "Kollam",
-  "country": "IN",
-  "id": 1532,
-  "hide_country_info": false,
-  "latitude": 8.8932118,
-  "logo": {},
-  "longitude": 76.6141396,
-  "picture": {},
-  "state": "",
-  "title": "Amrita School of Engineering",
-  "relative_url": "/amrita-school-of-engineering/",
-  "url": "https://gdsc.community.dev/amrita-school-of-engineering/"
  },
  {
   "active": true,
@@ -22227,28 +22210,6 @@
  },
  {
   "active": true,
-  "city": "Lahore",
-  "country": "PK",
-  "id": 1780,
-  "hide_country_info": false,
-  "latitude": 31.5203696,
-  "logo": {},
-  "longitude": 74.35874729999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Bahria%2520University%2520Lahore%2520Campus%2520Light%2520Vertical-Logo.png",
-   "path": "chapter_banners/DSC Bahria University Lahore Campus Light Vertical-Logo.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Bahria%2520University%2520Lahore%2520Campus%2520Light%2520Vertical-Logo.png"
-  },
-  "state": "",
-  "title": "Bahria University",
-  "relative_url": "/bahria-university/",
-  "url": "https://gdsc.community.dev/bahria-university/"
- },
- {
-  "active": true,
   "city": "Islamabad",
   "country": "PK",
   "id": 1782,
@@ -22258,9 +22219,31 @@
   "longitude": 73.04788479999999,
   "picture": {},
   "state": "",
-  "title": "Bahria University Islamabad",
+  "title": "Bahria University - Islamabad",
   "relative_url": "/bahria-university-islamabad/",
   "url": "https://gdsc.community.dev/bahria-university-islamabad/"
+ },
+ {
+  "active": true,
+  "city": "Lahore",
+  "country": "PK",
+  "id": 1780,
+  "hide_country_info": false,
+  "latitude": 31.5203696,
+  "logo": {},
+  "longitude": 74.35874729999999,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-08-19%2520at%252010.48.09%2520PM%2520%25281%2529.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-08-19 at 10.48.09 PM (1).jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-08-19%2520at%252010.48.09%2520PM%2520%25281%2529.jpeg"
+  },
+  "state": "",
+  "title": "Bahria University - Lahore",
+  "relative_url": "/bahria-university-lahore/",
+  "url": "https://gdsc.community.dev/bahria-university-lahore/"
  },
  {
   "active": true,
@@ -22371,28 +22354,6 @@
   "title": "Bansal Institute of Science and Technology - Bhopal",
   "relative_url": "/bansal-institute-of-science-and-technology-bhopal-1/",
   "url": "https://gdsc.community.dev/bansal-institute-of-science-and-technology-bhopal-1/"
- },
- {
-  "active": true,
-  "city": "Bhopal",
-  "country": "IN",
-  "id": 698,
-  "hide_country_info": false,
-  "latitude": 23.2599333,
-  "logo": {},
-  "longitude": 77.412615,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Bist-banner-updated.png",
-   "path": "chapter_banners/Bist-banner-updated.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Bist-banner-updated.png"
-  },
-  "state": "",
-  "title": "Bansal Institute of Science and Technology, Bhopal",
-  "relative_url": "/bansal-institute-of-science-and-technology-bhopal/",
-  "url": "https://gdsc.community.dev/bansal-institute-of-science-and-technology-bhopal/"
  },
  {
   "active": true,
@@ -25053,7 +25014,14 @@
   "id": 814,
   "hide_country_info": false,
   "latitude": 17.6868159,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/LOGO3.jpg",
+   "path": "chapter_banners/LOGO3.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/LOGO3.jpg"
+  },
   "longitude": 83.2184815,
   "picture": {},
   "state": "",
@@ -28435,15 +28403,22 @@
   "id": 1501,
   "hide_country_info": false,
   "latitude": 23.2599333,
-  "logo": {},
-  "longitude": 77.412615,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-vcbackground-01.png",
-   "path": "chapter_banners/Copy of dsc-vcbackground-01.png",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_fytUZ59.png",
+   "path": "chapter_banners/Copy of dsc-ecosystem-profilepicture-linkedin_fytUZ59.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-vcbackground-01.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_fytUZ59.png"
+  },
+  "longitude": 77.412615,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner%25202.jpg",
+   "path": "chapter_banners/Banner 2.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner%25202.jpg"
   },
   "state": "",
   "title": "Lakshmi Narain College of Technology (LNCT) - Bhopal",
@@ -29317,7 +29292,14 @@
   "id": 1335,
   "hide_country_info": false,
   "latitude": 28.7040592,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG-20210824-WA0054.jpg",
+   "path": "chapter_banners/IMG-20210824-WA0054.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG-20210824-WA0054.jpg"
+  },
   "longitude": 77.10249019999999,
   "picture": {},
   "state": "",
@@ -32660,7 +32642,14 @@
   "id": 1479,
   "hide_country_info": false,
   "latitude": 19.2183307,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%252811%2529.png",
+   "path": "chapter_banners/Untitled design (11).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%252811%2529.png"
+  },
   "longitude": 72.9780897,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%252824%2529_GXhqPdY.png",
@@ -32898,7 +32887,14 @@
   "latitude": -7.350580799999999,
   "logo": {},
   "longitude": 108.2171633,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-yellow%2520%25281%2529.png",
+   "path": "chapter_banners/Copy of Copy of dsc-ecosystem-banners-linkedin-yellow (1).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-yellow%2520%25281%2529.png"
+  },
   "state": "",
   "title": "Siliwangi University",
   "relative_url": "/siliwangi-university/",
