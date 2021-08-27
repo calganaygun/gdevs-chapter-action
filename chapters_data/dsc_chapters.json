@@ -2437,12 +2437,12 @@
   },
   "longitude": -91.8318334,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Philander%2520Logo%2520chapter%2520lockup%2520narrow%2520banner.png",
-   "path": "chapter_banners/GDSC Philander Logo chapter lockup narrow banner.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Philander%2520Logo%2520centered_3EFRumK.png",
+   "path": "chapter_banners/GDSC Philander Logo centered_3EFRumK.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Philander%2520Logo%2520chapter%2520lockup%2520narrow%2520banner.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Philander%2520Logo%2520centered_3EFRumK.png"
   },
   "state": "",
   "title": "Philander Smith College",
@@ -26868,15 +26868,22 @@
   "hide_country_info": false,
   "latitude": 12.9715987,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/touchicon-180_NVh45a3.png",
-   "path": "chapter_banners/touchicon-180_NVh45a3.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/123_pmvJIKU.jpeg",
+   "path": "chapter_banners/123_pmvJIKU.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/touchicon-180_NVh45a3.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/123_pmvJIKU.jpeg"
   },
   "longitude": 77.5945627,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/LinkedIn%2520B_woB96Jb.png",
+   "path": "chapter_banners/LinkedIn B_woB96Jb.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/LinkedIn%2520B_woB96Jb.png"
+  },
   "state": "",
   "title": "FET - Jain University - Bengaluru",
   "relative_url": "/fet-jain-university-bengaluru/",
@@ -27268,7 +27275,14 @@
   "latitude": 17.385044,
   "logo": {},
   "longitude": 78.486671,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/infra1.jpg",
+   "path": "chapter_banners/infra1.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/infra1.jpg"
+  },
   "state": "",
   "title": "G. Narayanamma Institute of Technology & Science - Hyderabad",
   "relative_url": "/g-narayanamma-institute-of-technology-science-hyderabad/",
@@ -31035,15 +31049,22 @@
   "id": 962,
   "hide_country_info": false,
   "latitude": 28.5355161,
-  "logo": {},
-  "longitude": 77.3910265,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/about1_6MCjHa0.jpg",
-   "path": "chapter_banners/about1_6MCjHa0.jpg",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo%2520dsc.jpg",
+   "path": "chapter_banners/logo dsc.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/about1_6MCjHa0.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo%2520dsc.jpg"
+  },
+  "longitude": 77.3910265,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Facebook%2520Banners%2520%25281%2529.jpg",
+   "path": "chapter_banners/Google Developer Student Clubs Chapter_ Facebook Banners (1).jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Facebook%2520Banners%2520%25281%2529.jpg"
   },
   "state": "",
   "title": "Jaypee Institute of Information Technology - Noida",
@@ -32174,7 +32195,14 @@
   "latitude": 19.9974533,
   "logo": {},
   "longitude": 73.78980229999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/met%2520bkc%2520nashik.jpg",
+   "path": "chapter_banners/met bkc nashik.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/met%2520bkc%2520nashik.jpg"
+  },
   "state": "",
   "title": "MET Institute of Engineering, Bhujbal Knowledge City - Nashik",
   "relative_url": "/met-institute-of-engineering-bhujbal-knowledge-city-nashik/",
@@ -32811,12 +32839,12 @@
   "logo": {},
   "longitude": 75.7872709,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Manipal%2520University%2520Jaipur%2520Logo%2520x2.png",
-   "path": "chapter_banners/DSC Manipal University Jaipur Logo x2.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Frame%25204.png",
+   "path": "chapter_banners/Frame 4.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Manipal%2520University%2520Jaipur%2520Logo%2520x2.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Frame%25204.png"
   },
   "state": "RJ",
   "title": "Manipal University - Jaipur",
@@ -34048,21 +34076,21 @@
   "hide_country_info": false,
   "latitude": 25.5940947,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Frame%25201%2520%25281%2529.png",
-   "path": "chapter_banners/Frame 1 (1).png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Group%252073.png",
+   "path": "chapter_banners/Group 73.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Frame%25201%2520%25281%2529.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Group%252073.png"
   },
   "longitude": 85.1375645,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/NIT-Patna.jpg",
-   "path": "chapter_banners/NIT-Patna.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bg-3.jpg",
+   "path": "chapter_banners/bg-3.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/NIT-Patna.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bg-3.jpg"
   },
   "state": "",
   "title": "National Institute of Technology (NIT) - Patna",
@@ -34107,22 +34135,15 @@
   "hide_country_info": false,
   "latitude": 24.8332708,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC1_GT7vPIa.png",
-   "path": "chapter_banners/DSC1_GT7vPIa.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/400400.png",
+   "path": "chapter_banners/400400.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC1_GT7vPIa.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/400400.png"
   },
   "longitude": 92.7789054,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC3.png",
-   "path": "chapter_banners/DSC3.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC3.png"
-  },
+  "picture": {},
   "state": "",
   "title": "National Institute of Technology (NIT) - Silchar",
   "relative_url": "/national-institute-of-technology-nit-silchar/",
@@ -39148,7 +39169,14 @@
   "latitude": 3.0567333,
   "logo": {},
   "longitude": 101.5851192,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Backdrop.jpeg",
+   "path": "chapter_banners/Backdrop.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Backdrop.jpeg"
+  },
   "state": "",
   "title": "Taylor's University",
   "relative_url": "/taylors-university/",
@@ -39398,7 +39426,14 @@
   "id": 1676,
   "hide_country_info": false,
   "latitude": 19.0759837,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo%2520small_igadA8a.png",
+   "path": "chapter_banners/DSC Logo small_igadA8a.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo%2520small_igadA8a.png"
+  },
   "longitude": 72.8776559,
   "picture": {},
   "state": "",
@@ -40962,9 +40997,23 @@
   "id": 2294,
   "hide_country_info": false,
   "latitude": -7.9666204,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Sticker%2520-%2520Rectangle.png",
+   "path": "chapter_banners/Salinan Google Developer Student Clubs Chapter_ Sticker - Rectangle.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Sticker%2520-%2520Rectangle.png"
+  },
   "longitude": 112.6326321,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Sticker%2520-%2520Capsule_8BsTq1I.png",
+   "path": "chapter_banners/Salinan dari Google Developer Student Clubs Chapter_ Sticker - Capsule_8BsTq1I.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Sticker%2520-%2520Capsule_8BsTq1I.png"
+  },
   "state": "",
   "title": "Universitas muhammadiyah malang",
   "relative_url": "/universitas-muhammadiyah-malang/",
@@ -41149,7 +41198,14 @@
   "latitude": -6.2614927,
   "logo": {},
   "longitude": 106.8105998,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/se_ftdPhUL.png",
+   "path": "chapter_banners/se_ftdPhUL.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/se_ftdPhUL.png"
+  },
   "state": "",
   "title": "University Bhayangkara Jakarta Raya",
   "relative_url": "/university-bhayangkara-jakarta-raya/",
@@ -41357,14 +41413,7 @@
   "latitude": 10.3321417,
   "logo": {},
   "longitude": 123.9357136,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC_University_of_San_Carlos_Light_Vertical-Logo.png",
-   "path": "chapter_banners/DSC_University_of_San_Carlos_Light_Vertical-Logo.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC_University_of_San_Carlos_Light_Vertical-Logo.png"
-  },
+  "picture": {},
   "state": "",
   "title": "University Of San Carlos",
   "relative_url": "/university-of-san-carlos/",
@@ -41402,12 +41451,12 @@
   },
   "longitude": 77.2090212,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Invite.png",
-   "path": "chapter_banners/DSC Invite.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/emailHeader.png",
+   "path": "chapter_banners/emailHeader.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Invite.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/emailHeader.png"
   },
   "state": "",
   "title": "University School of Information , Communication & Technology - Delhi",
@@ -43479,7 +43528,14 @@
   "id": 1755,
   "hide_country_info": false,
   "latitude": -7.265102600000001,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo_aNbHm6W.png",
+   "path": "chapter_banners/logo_aNbHm6W.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo_aNbHm6W.png"
+  },
   "longitude": 112.7450001,
   "picture": {},
   "state": "",
