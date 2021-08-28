@@ -15685,7 +15685,14 @@
   "latitude": -1.32,
   "logo": {},
   "longitude": 31.8,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/EmWtm2zW4AAg-ul.jpg",
+   "path": "chapter_banners/EmWtm2zW4AAg-ul.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/EmWtm2zW4AAg-ul.jpg"
+  },
   "state": "",
   "title": "GDG Kagera",
   "relative_url": "/gdg-kagera/",

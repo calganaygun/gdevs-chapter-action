@@ -7908,9 +7908,23 @@
   "id": 1787,
   "hide_country_info": false,
   "latitude": 15.3694451,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design_YKzmDkp.png",
+   "path": "chapter_banners/Untitled design_YKzmDkp.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design_YKzmDkp.png"
+  },
   "longitude": 44.1910066,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC-AIU%2520Yemen_MFLv1yp.png",
+   "path": "chapter_banners/GDSC-AIU Yemen_MFLv1yp.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC-AIU%2520Yemen_MFLv1yp.png"
+  },
   "state": "",
   "title": "Andalus University For Science & Technology",
   "relative_url": "/andalus-university-for-science-technology/",
@@ -10480,7 +10494,14 @@
   "latitude": 25.2048493,
   "logo": {},
   "longitude": 55.2707828,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2540HWU%2520-%2520Twitter%2520Banner.png",
+   "path": "chapter_banners/GDSC@HWU - Twitter Banner.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2540HWU%2520-%2520Twitter%2520Banner.png"
+  },
   "state": "",
   "title": "Heriot-Watt University",
   "relative_url": "/heriot-watt-university/",
@@ -11034,7 +11055,14 @@
   "latitude": 15.3694451,
   "logo": {},
   "longitude": 44.1910066,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%25202021.jpg",
+   "path": "chapter_banners/GDSC 2021.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%25202021.jpg"
+  },
   "state": "",
   "title": "International University of Technology Twintech - YEMEN",
   "relative_url": "/international-university-of-technology-twintech-yemen/",
@@ -15011,7 +15039,14 @@
   "latitude": 32.7940463,
   "logo": {},
   "longitude": 34.989571,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-LeftAligned-Chapter-WHT-ai.png",
+   "path": "chapter_banners/Copy of Google-DSC-Lockup-LeftAligned-Chapter-WHT-ai.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-LeftAligned-Chapter-WHT-ai.png"
+  },
   "state": "",
   "title": "Technion - Israel Institute of Technology, Haifa",
   "relative_url": "/technion-israel-institute-of-technology-haifa/",
@@ -15409,7 +15444,14 @@
   "id": 1075,
   "hide_country_info": false,
   "latitude": 33.886917,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/formal%2520passport%2520size%2520photo.JPG",
+   "path": "chapter_banners/formal passport size photo.JPG",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/formal%2520passport%2520size%2520photo.JPG"
+  },
   "longitude": 9.537499,
   "picture": {},
   "state": "",
@@ -16398,12 +16440,12 @@
   "logo": {},
   "longitude": -7.622266499999999,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520University%2520hassan%25201%2520Logo%2520x1_6DmxdE5.png",
-   "path": "chapter_banners/DSC University hassan 1 Logo x1_6DmxdE5.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201_H7YOo3v.png",
+   "path": "chapter_banners/Artboard 1_H7YOo3v.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520University%2520hassan%25201%2520Logo%2520x1_6DmxdE5.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201_H7YOo3v.png"
   },
   "state": "",
   "title": "University of Hassan 1",
@@ -16566,7 +16608,14 @@
   "latitude": 15.5006544,
   "logo": {},
   "longitude": 32.5598994,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201facebook%2520_55vap8F.png",
+   "path": "chapter_banners/Artboard 1facebook _55vap8F.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201facebook%2520_55vap8F.png"
+  },
   "state": "",
   "title": "University of Khartoum",
   "relative_url": "/university-of-khartoum/",
@@ -23823,7 +23872,14 @@
   "latitude": 19.7514798,
   "logo": {},
   "longitude": 75.7138884,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Group%2520142.png",
+   "path": "chapter_banners/Group 142.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Group%2520142.png"
+  },
   "state": "",
   "title": "Anjuman-I-Islam's Kalsekar Technical Campus - Navi Mumbai",
   "relative_url": "/anjuman-i-islams-kalsekar-technical-campus-navi-mumbai/",
@@ -26868,12 +26924,12 @@
   "hide_country_info": false,
   "latitude": 12.9715987,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/123_pmvJIKU.jpeg",
-   "path": "chapter_banners/123_pmvJIKU.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/123_A48ZhR9.jpeg",
+   "path": "chapter_banners/123_A48ZhR9.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/123_pmvJIKU.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/123_A48ZhR9.jpeg"
   },
   "longitude": 77.5945627,
   "picture": {
@@ -27915,7 +27971,14 @@
   "id": 1421,
   "hide_country_info": false,
   "latitude": 22.3038945,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/square.png",
+   "path": "chapter_banners/square.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/square.png"
+  },
   "longitude": 70.80215989999999,
   "picture": {},
   "state": "",
@@ -35761,7 +35824,14 @@
   "latitude": -5.147665099999999,
   "logo": {},
   "longitude": 119.4327314,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PNUP.jpg",
+   "path": "chapter_banners/PNUP.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PNUP.jpg"
+  },
   "state": "",
   "title": "Politeknik Negeri Ujung Pandang",
   "relative_url": "/politeknik-negeri-ujung-pandang/",
