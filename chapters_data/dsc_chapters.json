@@ -9304,9 +9304,23 @@
   "id": 81,
   "hide_country_info": false,
   "latitude": 35.2105876,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Sans%2520titre-1.png",
+   "path": "chapter_banners/Sans titre-1.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Sans%2520titre-1.png"
+  },
   "longitude": -0.629983,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cover%25404x-100.png",
+   "path": "chapter_banners/cover@4x-100.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cover%25404x-100.png"
+  },
   "state": "",
   "title": "ESI-SBA",
   "relative_url": "/esi-sba/",
@@ -10642,12 +10656,12 @@
   "logo": {},
   "longitude": 9.537499,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Sup%2527Com%252C%2520Tunis%2520Logo%2520x1.png",
-   "path": "chapter_banners/DSC Sup'Com, Tunis Logo x1.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dscTwitterCover.jpg",
+   "path": "chapter_banners/dscTwitterCover.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Sup%2527Com%252C%2520Tunis%2520Logo%2520x1.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dscTwitterCover.jpg"
   },
   "state": "",
   "title": "Higher school of communication of tunis, Sup'Com",
@@ -11838,9 +11852,23 @@
   "id": 1779,
   "hide_country_info": false,
   "latitude": 25.380026,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Frame%25209%2520%25281%2529.png",
+   "path": "chapter_banners/Frame 9 (1).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Frame%25209%2520%25281%2529.png"
+  },
   "longitude": 49.5887652,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Frame%252010.jpg",
+   "path": "chapter_banners/Frame 10.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Frame%252010.jpg"
+  },
   "state": "",
   "title": "King Faisal University M",
   "relative_url": "/king-faisal-university-m/",
@@ -15444,14 +15472,7 @@
   "id": 1075,
   "hide_country_info": false,
   "latitude": 33.886917,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/formal%2520passport%2520size%2520photo.JPG",
-   "path": "chapter_banners/formal passport size photo.JPG",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/formal%2520passport%2520size%2520photo.JPG"
-  },
+  "logo": {},
   "longitude": 9.537499,
   "picture": {},
   "state": "",
@@ -21016,7 +21037,14 @@
   "id": 1099,
   "hide_country_info": false,
   "latitude": 5.4800614,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Michael%2520Okpara%2520University%2520of%2520Agriculture%2520Umudike%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC Michael Okpara University of Agriculture Umudike vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Michael%2520Okpara%2520University%2520of%2520Agriculture%2520Umudike%2520vertical%2520color.png"
+  },
   "longitude": 7.5436801,
   "picture": {},
   "state": "",
@@ -21457,9 +21485,23 @@
   "id": 1098,
   "hide_country_info": false,
   "latitude": 7.490462,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/whatsapp.png",
+   "path": "chapter_banners/whatsapp.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/whatsapp.png"
+  },
   "longitude": 4.5521274,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC_j5j0qrb.png",
+   "path": "chapter_banners/GDSC_j5j0qrb.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC_j5j0qrb.png"
+  },
   "state": "",
   "title": "Obafemi Awolowo University",
   "relative_url": "/obafemi-awolowo-university/",
@@ -23139,8 +23181,8 @@
   "title": "École Nationale Polytechnique de Douala",
   "relative_url": "/ecole-nationale-polytechnique-de-douala/",
   "url": "https://gdsc.community.dev/ecole-nationale-polytechnique-de-douala/"
- },
- {
+ }
+] {
   "active": true,
   "city": "Anand",
   "country": "IN",
@@ -23554,12 +23596,12 @@
   "hide_country_info": false,
   "latitude": 13.0826802,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSCAASC-LOGO_JakpOk8.png",
-   "path": "chapter_banners/GDSCAASC-LOGO_JakpOk8.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG-20210829-WA0002.jpg",
+   "path": "chapter_banners/IMG-20210829-WA0002.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSCAASC-LOGO_JakpOk8.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG-20210829-WA0002.jpg"
   },
   "longitude": 80.2707184,
   "picture": {
@@ -24444,7 +24486,14 @@
   "latitude": 25.5940947,
   "logo": {},
   "longitude": 85.1375645,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/youtube%2520banner.png",
+   "path": "chapter_banners/youtube banner.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/youtube%2520banner.png"
+  },
   "state": "BR",
   "title": "Bakhtiyarpur College of Engineering - Patna",
   "relative_url": "/bakhtiyarpur-college-of-engineering-patna/",
@@ -24879,7 +24928,14 @@
   "latitude": -7.9666204,
   "logo": {},
   "longitude": 112.6326321,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp-Image-2020-09-24-at-3.47.58-PM-1.jpeg",
+   "path": "chapter_banners/WhatsApp-Image-2020-09-24-at-3.47.58-PM-1.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp-Image-2020-09-24-at-3.47.58-PM-1.jpeg"
+  },
   "state": "",
   "title": "Binus University, Malang Campus",
   "relative_url": "/binus-university-malang-campus/",
@@ -25881,7 +25937,14 @@
   "latitude": 11.7491424,
   "logo": {},
   "longitude": 75.4890346,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/72344925_720227845133707_3081162821844525565_n.jpg",
+   "path": "chapter_banners/72344925_720227845133707_3081162821844525565_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/72344925_720227845133707_3081162821844525565_n.jpg"
+  },
   "state": "KL",
   "title": "College of Engineering - Thalassery",
   "relative_url": "/college-of-engineering-thalassery/",
@@ -33049,7 +33112,14 @@
   "latitude": 18.5204303,
   "logo": {},
   "longitude": 73.8567437,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc-banner_ekCskth.png",
+   "path": "chapter_banners/gdsc-banner_ekCskth.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc-banner_ekCskth.png"
+  },
   "state": "",
   "title": "Marathwada Mitra Mandal's College of Engineering - Pune",
   "relative_url": "/marathwada-mitra-mandals-college-of-engineering-pune/",
@@ -34206,7 +34276,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/400400.png"
   },
   "longitude": 92.7789054,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520banner_YeAs2z7.png",
+   "path": "chapter_banners/DSC banner_YeAs2z7.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520banner_YeAs2z7.png"
+  },
   "state": "",
   "title": "National Institute of Technology (NIT) - Silchar",
   "relative_url": "/national-institute-of-technology-nit-silchar/",
@@ -38041,7 +38118,14 @@
   "id": 1504,
   "hide_country_info": false,
   "latitude": 16.544893,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520SVECW%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC SVECW vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520SVECW%2520vertical%2520color.png"
+  },
   "longitude": 81.521241,
   "picture": {},
   "state": "",
@@ -38978,28 +39062,6 @@
   "title": "Sungshin University",
   "relative_url": "/sungshin-university/",
   "url": "https://gdsc.community.dev/sungshin-university/"
- },
- {
-  "active": true,
-  "city": "Seoul",
-  "country": "KR",
-  "id": 1884,
-  "hide_country_info": false,
-  "latitude": 37.566535,
-  "logo": {},
-  "longitude": 126.9779692,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520%25EC%2584%25B1%25EC%258B%25A0%2520%25EB%25A1%259C%25EA%25B3%25A0.png",
-   "path": "chapter_banners/GDSC 성신 로고.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520%25EC%2584%25B1%25EC%258B%25A0%2520%25EB%25A1%259C%25EA%25B3%25A0.png"
-  },
-  "state": "",
-  "title": "Sungshin Women's University",
-  "relative_url": "/sungshin-womens-university/",
-  "url": "https://gdsc.community.dev/sungshin-womens-university/"
  },
  {
   "active": true,
@@ -40180,12 +40242,12 @@
   "logo": {},
   "longitude": 119.4327314,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GoogleDevelopers_TwitterBanner_fysF1wN.png",
-   "path": "chapter_banners/GoogleDevelopers_TwitterBanner_fysF1wN.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002%2520%25281%2529.jpg",
+   "path": "chapter_banners/Salinan dari Copy of Google Developer Student Clubs Chapter _ Blog Post Image 02 (1).jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GoogleDevelopers_TwitterBanner_fysF1wN.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002%2520%25281%2529.jpg"
   },
   "state": "",
   "title": "UIN Alauddin Makassar",
