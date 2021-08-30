@@ -4143,12 +4143,12 @@
   "logo": {},
   "longitude": -82.4571776,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Cover%2520-%2520USF.jpg",
-   "path": "chapter_banners/Cover - USF.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner_dyCrIgn.png",
+   "path": "chapter_banners/Banner_dyCrIgn.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Cover%2520-%2520USF.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner_dyCrIgn.png"
   },
   "state": "",
   "title": "University of South Florida",
@@ -16608,12 +16608,12 @@
   },
   "longitude": 39.19250479999999,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Header.PNG",
-   "path": "chapter_banners/Header.PNG",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Twitter%2520Header%2520%25281%2529.jpg",
+   "path": "chapter_banners/Twitter Header (1).jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Header.PNG"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Twitter%2520Header%2520%25281%2529.jpg"
   },
   "state": "",
   "title": "University of Jeddah W",
@@ -21538,7 +21538,14 @@
   "latitude": 7.5213388,
   "logo": {},
   "longitude": 4.436217,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Oduduwa%2520University%2520Ipetumodu%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC Oduduwa University Ipetumodu vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Oduduwa%2520University%2520Ipetumodu%2520vertical%2520color.png"
+  },
   "state": "",
   "title": "Oduduwa University Ipetumodu Osun State",
   "relative_url": "/oduduwa-university-ipetumodu-osun-state/",
@@ -23181,8 +23188,8 @@
   "title": "École Nationale Polytechnique de Douala",
   "relative_url": "/ecole-nationale-polytechnique-de-douala/",
   "url": "https://gdsc.community.dev/ecole-nationale-polytechnique-de-douala/"
- }
-] {
+ },
+ {
   "active": true,
   "city": "Anand",
   "country": "IN",
@@ -25112,7 +25119,14 @@
   "latitude": 23.7483096,
   "logo": {},
   "longitude": 86.7058637,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/linkedin%2520banner.png",
+   "path": "chapter_banners/linkedin banner.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/linkedin%2520banner.png"
+  },
   "state": "JH",
   "title": "Birsa Institute of Technology (BIT Sindri) - Dhanbad",
   "relative_url": "/birsa-institute-of-technology-bit-sindri-dhanbad-1/",
@@ -31625,9 +31639,23 @@
   "id": 1500,
   "hide_country_info": false,
   "latitude": 28.7040592,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo_zoomed.JPG",
+   "path": "chapter_banners/Logo_zoomed.JPG",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo_zoomed.JPG"
+  },
   "longitude": 77.10249019999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSCwhitebgcover.png",
+   "path": "chapter_banners/DSCwhitebgcover.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSCwhitebgcover.png"
+  },
   "state": "",
   "title": "Kalindi College - Delhi",
   "relative_url": "/kalindi-college-delhi/",
@@ -33112,14 +33140,7 @@
   "latitude": 18.5204303,
   "logo": {},
   "longitude": 73.8567437,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc-banner_ekCskth.png",
-   "path": "chapter_banners/gdsc-banner_ekCskth.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc-banner_ekCskth.png"
-  },
+  "picture": {},
   "state": "",
   "title": "Marathwada Mitra Mandal's College of Engineering - Pune",
   "relative_url": "/marathwada-mitra-mandals-college-of-engineering-pune/",
@@ -34163,9 +34184,23 @@
   "id": 2411,
   "hide_country_info": false,
   "latitude": 31.6861745,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template_VzEw5dF.png",
+   "path": "chapter_banners/Copy of Copy of GDSC Logo chapter lockup centered template_VzEw5dF.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template_VzEw5dF.png"
+  },
   "longitude": 76.52130919999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IIIT%2520Hyderabad.png",
+   "path": "chapter_banners/IIIT Hyderabad.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IIIT%2520Hyderabad.png"
+  },
   "state": "",
   "title": "National Institute of Technology (NIT) - Hamirpur",
   "relative_url": "/national-institute-of-technology-nit-hamirpur/",
@@ -34195,7 +34230,14 @@
   "latitude": 29.9695121,
   "logo": {},
   "longitude": 76.878282,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/national-institute-of-technology-nit-kurukshetra.jpg",
+   "path": "chapter_banners/national-institute-of-technology-nit-kurukshetra.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/national-institute-of-technology-nit-kurukshetra.jpg"
+  },
   "state": "",
   "title": "National Institute of Technology (NIT) - Kurukshetra",
   "relative_url": "/national-institute-of-technology-nit-kurukshetra/",
@@ -36443,12 +36485,12 @@
   "logo": {},
   "longitude": 144.9630576,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Python%2520Workshop%2520Banner%2520%25286%2529.png",
-   "path": "chapter_banners/Python Workshop Banner (6).png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/2_RN958wT.png",
+   "path": "chapter_banners/2_RN958wT.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Python%2520Workshop%2520Banner%2520%25286%2529.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2_RN958wT.png"
   },
   "state": "",
   "title": "RMIT University, Melbourne",
@@ -38984,12 +39026,12 @@
   "logo": {},
   "longitude": 79.0881546,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bg_website.png",
-   "path": "chapter_banners/bg_website.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/website_bg.jpg",
+   "path": "chapter_banners/website_bg.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bg_website.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/website_bg.jpg"
   },
   "state": "",
   "title": "St. Vincent Pallotti College of Engineering & Technology - Nagpur",
@@ -39567,7 +39609,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo%2520small_igadA8a.png"
   },
   "longitude": 72.8776559,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-yellow_xbV41zJ.png",
+   "path": "chapter_banners/Copy of Copy of dsc-ecosystem-banners-linkedin-yellow_xbV41zJ.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-yellow_xbV41zJ.png"
+  },
   "state": "",
   "title": "Thakur College of Engineering and Technology - Mumbai",
   "relative_url": "/thakur-college-of-engineering-and-technology-mumbai/",
@@ -40508,12 +40557,12 @@
   },
   "longitude": 110.402376,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner%2520dsc_N7jLPrO.jpg",
-   "path": "chapter_banners/banner dsc_N7jLPrO.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1524392569487.jpg",
+   "path": "chapter_banners/1524392569487.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner%2520dsc_N7jLPrO.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1524392569487.jpg"
   },
   "state": "",
   "title": "Universitas Gadjah Mada, Sleman",
@@ -40684,12 +40733,12 @@
   "logo": {},
   "longitude": 119.4327314,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201_LhHDeTh.jpg",
-   "path": "chapter_banners/Artboard 1_LhHDeTh.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201_0TOrumb.jpg",
+   "path": "chapter_banners/Artboard 1_0TOrumb.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201_LhHDeTh.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201_0TOrumb.jpg"
   },
   "state": "",
   "title": "Universitas Muslim Indonesia",
