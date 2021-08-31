@@ -16025,6 +16025,21 @@
  },
  {
   "active": true,
+  "city": "Machakos",
+  "country": "KE",
+  "id": 1230,
+  "hide_country_info": false,
+  "latitude": -1.5176837,
+  "logo": {},
+  "longitude": 37.2634146,
+  "picture": {},
+  "state": "Machakos County",
+  "title": "GDG Machakos",
+  "relative_url": "/gdg-machakos/",
+  "url": "https://gdg.community.dev/gdg-machakos/"
+ },
+ {
+  "active": true,
   "city": "Mahajanga",
   "country": "MG",
   "id": 1193,
