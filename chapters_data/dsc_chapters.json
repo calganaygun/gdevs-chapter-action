@@ -13543,15 +13543,22 @@
   "id": 511,
   "hide_country_info": false,
   "latitude": 45.7488716,
-  "logo": {},
-  "longitude": 21.2086793,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/web%2520banner-04_EQO31Rs.png",
-   "path": "chapter_banners/web banner-04_EQO31Rs.png",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/new%2520cover%2520pic%2520v2_EqlZQSx.png",
+   "path": "chapter_banners/new cover pic v2_EqlZQSx.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/web%2520banner-04_EQO31Rs.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/new%2520cover%2520pic%2520v2_EqlZQSx.png"
+  },
+  "longitude": 21.2086793,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/new%2520cover%2520pic%2520v2.png",
+   "path": "chapter_banners/new cover pic v2.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/new%2520cover%2520pic%2520v2.png"
   },
   "state": "",
   "title": "POLITEHNICA UNIVERSITY OF TIMISOARA",
@@ -20186,6 +20193,28 @@
  },
  {
   "active": true,
+  "city": "Kinshasa",
+  "country": "CD",
+  "id": 1017,
+  "hide_country_info": false,
+  "latitude": -4.4419311,
+  "logo": {},
+  "longitude": 15.2662931,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/e_mXpyVJH.png",
+   "path": "chapter_banners/e_mXpyVJH.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/e_mXpyVJH.png"
+  },
+  "state": "",
+  "title": "Higher School of Computer Science Salama",
+  "relative_url": "/higher-school-of-computer-science-salama/",
+  "url": "https://gdsc.community.dev/higher-school-of-computer-science-salama/"
+ },
+ {
+  "active": true,
   "city": "Yaounde",
   "country": "CM",
   "id": 1112,
@@ -20223,7 +20252,14 @@
   "latitude": -11.6876026,
   "logo": {},
   "longitude": 27.5026174,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520INSTITUT%2520SUPERIEUR%2520DE%2520COMMERCE%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC INSTITUT SUPERIEUR DE COMMERCE vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520INSTITUT%2520SUPERIEUR%2520DE%2520COMMERCE%2520vertical%2520color.png"
+  },
   "state": "",
   "title": "INSTITUT SUPERIEUR DE  COMMERCE",
   "relative_url": "/institut-superieur-de-commerce/",
@@ -23004,9 +23040,23 @@
   "id": 2280,
   "hide_country_info": false,
   "latitude": 9.551111,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520Gamal%2520Abdel%2520Nasser%2520of%2520Conakry%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC University Gamal Abdel Nasser of Conakry vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520Gamal%2520Abdel%2520Nasser%2520of%2520Conakry%2520vertical%2520color.png"
+  },
   "longitude": -13.239722,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%25202021-08-29%2520220832.jpg",
+   "path": "chapter_banners/Screenshot 2021-08-29 220832.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%25202021-08-29%2520220832.jpg"
+  },
   "state": "",
   "title": "Université Gamal Abdel Nasser de Conakry",
   "relative_url": "/universite-gamal-abdel-nasser-de-conakry/",
@@ -25012,8 +25062,8 @@
   "picture": {},
   "state": "",
   "title": "Birla Institute of Technology & Science - BITS Pilani",
-  "relative_url": "/birla-institute-of-technology-science-bits-pilani-1/",
-  "url": "https://gdsc.community.dev/birla-institute-of-technology-science-bits-pilani-1/"
+  "relative_url": "/birla-institute-of-technology-science-bits-pilani/",
+  "url": "https://gdsc.community.dev/birla-institute-of-technology-science-bits-pilani/"
  },
  {
   "active": true,
@@ -25509,12 +25559,12 @@
   },
   "longitude": 122.5621063,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520GOOGLE%2520DEV%2520PROFILE%2520HEADER%2520_UUJTJ1W.png",
-   "path": "chapter_banners/DSC GOOGLE DEV PROFILE HEADER _UUJTJ1W.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Central%2520Philippine%2520University%2520Logo%25201600x400.png",
+   "path": "chapter_banners/DSC Central Philippine University Logo 1600x400.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520GOOGLE%2520DEV%2520PROFILE%2520HEADER%2520_UUJTJ1W.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Central%2520Philippine%2520University%2520Logo%25201600x400.png"
   },
   "state": "",
   "title": "Central Philippine University",
@@ -27235,7 +27285,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-Centered-Chapter-WHT.png"
   },
   "longitude": 125.5406234,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Facebook%2520Banner_veLjWtb.png",
+   "path": "chapter_banners/Facebook Banner_veLjWtb.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Facebook%2520Banner_veLjWtb.png"
+  },
   "state": "",
   "title": "Father Saturnino Urios University, Butuan City",
   "relative_url": "/father-saturnino-urios-university-butuan-city/",
@@ -39374,9 +39431,23 @@
   "id": 1821,
   "hide_country_info": false,
   "latitude": 25.1719805,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSCTKU.jpg",
+   "path": "chapter_banners/GDSCTKU.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSCTKU.jpg"
+  },
   "longitude": 121.4433706,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/csed-week.png",
+   "path": "chapter_banners/csed-week.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/csed-week.png"
+  },
   "state": "",
   "title": "Tam Kang University",
   "relative_url": "/tam-kang-university/",

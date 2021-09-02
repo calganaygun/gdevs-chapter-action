@@ -6648,28 +6648,6 @@
  },
  {
   "active": true,
-  "city": "Andijan",
-  "country": "UZ",
-  "id": 1189,
-  "hide_country_info": false,
-  "latitude": 40.8153561,
-  "logo": {},
-  "longitude": 72.28375,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Colorful%2520Fingerprints%2520Indigenous%2520Peoples%2520Facebook%2520Cover_xBWWMlg.png",
-   "path": "chapter_banners/Colorful Fingerprints Indigenous Peoples Facebook Cover_xBWWMlg.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Colorful%2520Fingerprints%2520Indigenous%2520Peoples%2520Facebook%2520Cover_xBWWMlg.png"
-  },
-  "state": "Andijan region",
-  "title": "GDG Andijan",
-  "relative_url": "/gdg-andijan/",
-  "url": "https://gdg.community.dev/gdg-andijan/"
- },
- {
-  "active": true,
   "city": "Ankara",
   "country": "TR",
   "id": 755,
@@ -9557,28 +9535,6 @@
  },
  {
   "active": true,
-  "city": "Gaziantep",
-  "country": "TR",
-  "id": 1077,
-  "hide_country_info": false,
-  "latitude": 37.07,
-  "logo": {},
-  "longitude": 37.39,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Gaziantep%2520Light%2520Horizontal-Logo.png",
-   "path": "chapter_banners/GDG Gaziantep Light Horizontal-Logo.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Gaziantep%2520Light%2520Horizontal-Logo.png"
-  },
-  "state": "",
-  "title": "GDG Gaziantep",
-  "relative_url": "/gdg-gaziantep/",
-  "url": "https://gdg.community.dev/gdg-gaziantep/"
- },
- {
-  "active": true,
   "city": "Gela",
   "country": "IT",
   "id": 990,
@@ -12394,21 +12350,6 @@
   "title": "GDG Saida",
   "relative_url": "/gdg-saida/",
   "url": "https://gdg.community.dev/gdg-saida/"
- },
- {
-  "active": true,
-  "city": "Adapazari",
-  "country": "TR",
-  "id": 1058,
-  "hide_country_info": false,
-  "latitude": 40.79,
-  "logo": {},
-  "longitude": 30.41,
-  "picture": {},
-  "state": "",
-  "title": "GDG Sakarya",
-  "relative_url": "/gdg-sakarya/",
-  "url": "https://gdg.community.dev/gdg-sakarya/"
  },
  {
   "active": true,
