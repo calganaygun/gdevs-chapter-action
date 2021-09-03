@@ -1775,21 +1775,6 @@
  },
  {
   "active": true,
-  "city": "Durham",
-  "country": "US",
-  "id": 1097,
-  "hide_country_info": false,
-  "latitude": 36,
-  "logo": {},
-  "longitude": -78.9,
-  "picture": {},
-  "state": "NC",
-  "title": "GDG Durham",
-  "relative_url": "/gdg-durham/",
-  "url": "https://gdg.community.dev/gdg-durham/"
- },
- {
-  "active": true,
   "city": "Fargo",
   "country": "US",
   "id": 1178,

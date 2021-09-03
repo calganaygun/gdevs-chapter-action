@@ -715,7 +715,14 @@
   "latitude": 47.6062095,
   "logo": {},
   "longitude": -122.3320708,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Email%2520Header%2520Template%2520Chapter%2520_ukX8gTP.png",
+   "path": "chapter_banners/Copy of Email Header Template Chapter _ukX8gTP.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Email%2520Header%2520Template%2520Chapter%2520_ukX8gTP.png"
+  },
   "state": "",
   "title": "City University of Seattle",
   "relative_url": "/city-university-of-seattle/",
@@ -7297,7 +7304,14 @@
   "latitude": 25.4052165,
   "logo": {},
   "longitude": 55.5136433,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners_jClcmJp.jpg",
+   "path": "chapter_banners/Copy of Copy of Google Developer Student Clubs Chapter_ Twitter Banners_jClcmJp.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners_jClcmJp.jpg"
+  },
   "state": "",
   "title": "Ajman University",
   "relative_url": "/ajman-university/",
@@ -7768,7 +7782,14 @@
   "latitude": 44.494887,
   "logo": {},
   "longitude": 11.3426162,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/8wXUZt0.jpeg",
+   "path": "chapter_banners/8wXUZt0.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/8wXUZt0.jpeg"
+  },
   "state": "",
   "title": "Alma Mater Studiorum - University of Bologna",
   "relative_url": "/alma-mater-studiorum-university-of-bologna/",
@@ -12816,12 +12837,12 @@
   "hide_country_info": false,
   "latitude": 29.9601561,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template_u2nfv1P.png",
-   "path": "chapter_banners/Copy of Copy of GDSC Logo chapter lockup centered template_u2nfv1P.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Mn8dUrxR_400x400.jpg",
+   "path": "chapter_banners/Mn8dUrxR_400x400.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template_u2nfv1P.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Mn8dUrxR_400x400.jpg"
   },
   "longitude": 31.2569138,
   "picture": {},
@@ -19448,12 +19469,12 @@
   "hide_country_info": false,
   "latitude": -0.437099,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Dedan%2520University%2520of%2520Technology%2520%2520vertical%2520color.png",
-   "path": "chapter_banners/GDSC Dedan University of Technology  vertical color.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC_DeKUT%2520%25283%2529.png",
+   "path": "chapter_banners/DSC_DeKUT (3).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Dedan%2520University%2520of%2520Technology%2520%2520vertical%2520color.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC_DeKUT%2520%25283%2529.png"
   },
   "longitude": 36.9580104,
   "picture": {
@@ -20507,9 +20528,23 @@
   "id": 1043,
   "hide_country_info": false,
   "latitude": -1.241956,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Kabale%2520University%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC Kabale University vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Kabale%2520University%2520vertical%2520color.png"
+  },
   "longitude": 29.9856157,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/csed-week_4TMYhdy.png",
+   "path": "chapter_banners/csed-week_4TMYhdy.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/csed-week_4TMYhdy.png"
+  },
   "state": "",
   "title": "Kabale University",
   "relative_url": "/kabale-university/",
@@ -21202,12 +21237,12 @@
   "logo": {},
   "longitude": null,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/EMz7iaNXsAEm8BG.jpg",
-   "path": "chapter_banners/EMz7iaNXsAEm8BG.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Modibbo%2520Adama%2520University%2520Yola%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC Modibbo Adama University Yola vertical color.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/EMz7iaNXsAEm8BG.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Modibbo%2520Adama%2520University%2520Yola%2520vertical%2520color.png"
   },
   "state": "",
   "title": "Modibbo Adama University of Technology Yola",
@@ -21436,7 +21471,14 @@
   "latitude": -20.1457125,
   "logo": {},
   "longitude": 28.5873388,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520Blog%2520Post%2520Image.jpg",
+   "path": "chapter_banners/Copy of Copy of Google Developer Student Clubs Chapter Blog Post Image.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520Blog%2520Post%2520Image.jpg"
+  },
   "state": "",
   "title": "National University of Science and Technology",
   "relative_url": "/national-university-of-science-and-technology/",
@@ -24988,21 +25030,6 @@
   "active": true,
   "city": "Malang City",
   "country": "ID",
-  "id": 1704,
-  "hide_country_info": false,
-  "latitude": -7.9716403,
-  "logo": {},
-  "longitude": 112.6317838,
-  "picture": {},
-  "state": "",
-  "title": "Binus University Malang",
-  "relative_url": "/binus-university-malang/",
-  "url": "https://gdsc.community.dev/binus-university-malang/"
- },
- {
-  "active": true,
-  "city": "Malang City",
-  "country": "ID",
   "id": 2205,
   "hide_country_info": false,
   "latitude": -7.9666204,
@@ -25017,9 +25044,24 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp-Image-2020-09-24-at-3.47.58-PM-1.jpeg"
   },
   "state": "",
-  "title": "Binus University, Malang Campus",
-  "relative_url": "/binus-university-malang-campus/",
-  "url": "https://gdsc.community.dev/binus-university-malang-campus/"
+  "title": "Binus University Malang",
+  "relative_url": "/binus-university-malang-1/",
+  "url": "https://gdsc.community.dev/binus-university-malang-1/"
+ },
+ {
+  "active": true,
+  "city": "Malang City",
+  "country": "ID",
+  "id": 1704,
+  "hide_country_info": false,
+  "latitude": -7.9716403,
+  "logo": {},
+  "longitude": 112.6317838,
+  "picture": {},
+  "state": "",
+  "title": "Binus University Malang",
+  "relative_url": "/binus-university-malang/",
+  "url": "https://gdsc.community.dev/binus-university-malang/"
  },
  {
   "active": true,
@@ -26134,14 +26176,7 @@
   "latitude": null,
   "logo": {},
   "longitude": null,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo_cummin_pf0dFfk.png",
-   "path": "chapter_banners/logo_cummin_pf0dFfk.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo_cummin_pf0dFfk.png"
-  },
+  "picture": {},
   "state": "",
   "title": "Cummins College of Engineering for Women - Nagpur",
   "relative_url": "/cummins-college-of-engineering-for-women-nagpur/",
@@ -27294,9 +27329,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Facebook%2520Banner_veLjWtb.png"
   },
   "state": "",
-  "title": "Father Saturnino Urios University, Butuan City",
-  "relative_url": "/father-saturnino-urios-university-butuan-city/",
-  "url": "https://gdsc.community.dev/father-saturnino-urios-university-butuan-city/"
+  "title": "Father Saturnino Urios University",
+  "relative_url": "/father-saturnino-urios-university/",
+  "url": "https://gdsc.community.dev/father-saturnino-urios-university/"
  },
  {
   "active": true,
@@ -27543,9 +27578,23 @@
   "id": 1466,
   "hide_country_info": false,
   "latitude": 15.8281257,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dscprofile.jpg",
+   "path": "chapter_banners/dscprofile.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dscprofile.jpg"
+  },
   "longitude": 78.0372792,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bannerdsc3%2520%25283%2529.jpg",
+   "path": "chapter_banners/bannerdsc3 (3).jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bannerdsc3%2520%25283%2529.jpg"
+  },
   "state": "",
   "title": "G. Pulla Reddy Engineering College - Kurnool",
   "relative_url": "/g-pulla-reddy-engineering-college-kurnool/",
@@ -28533,21 +28582,6 @@
  },
  {
   "active": true,
-  "city": "Hoàn Kiếm",
-  "country": "VN",
-  "id": 1742,
-  "hide_country_info": false,
-  "latitude": 21.027964,
-  "logo": {},
-  "longitude": 105.8510132,
-  "picture": {},
-  "state": "",
-  "title": "Ha Noi University of Mining and Geology",
-  "relative_url": "/ha-noi-university-of-mining-and-geology/",
-  "url": "https://gdsc.community.dev/ha-noi-university-of-mining-and-geology/"
- },
- {
-  "active": true,
   "city": "Karachi",
   "country": "PK",
   "id": 434,
@@ -28611,6 +28645,21 @@
   "title": "Hanoi",
   "relative_url": "/hanoi/",
   "url": "https://gdsc.community.dev/hanoi/"
+ },
+ {
+  "active": true,
+  "city": "Hoàn Kiếm",
+  "country": "VN",
+  "id": 1742,
+  "hide_country_info": false,
+  "latitude": 21.027964,
+  "logo": {},
+  "longitude": 105.8510132,
+  "picture": {},
+  "state": "",
+  "title": "Hanoi University of Mining and Geology",
+  "relative_url": "/hanoi-university-of-mining-and-geology/",
+  "url": "https://gdsc.community.dev/hanoi-university-of-mining-and-geology/"
  },
  {
   "active": true,
@@ -28973,7 +29022,14 @@
   "latitude": 28.6691565,
   "logo": {},
   "longitude": 77.45375779999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Twitter%2520banner_R2ztNAR.png",
+   "path": "chapter_banners/Twitter banner_R2ztNAR.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Twitter%2520banner_R2ztNAR.png"
+  },
   "state": "",
   "title": "Inderprastha Engineering College - Ghaziabad",
   "relative_url": "/inderprastha-engineering-college-ghaziabad/",
@@ -30715,21 +30771,6 @@
   "title": "Islamia University of Bahawalpur",
   "relative_url": "/islamia-university-of-bahawalpur/",
   "url": "https://gdsc.community.dev/islamia-university-of-bahawalpur/"
- },
- {
-  "active": true,
-  "city": "South Tangerang City",
-  "country": "ID",
-  "id": 1772,
-  "hide_country_info": false,
-  "latitude": -6.2835218,
-  "logo": {},
-  "longitude": 106.7112933,
-  "picture": {},
-  "state": "",
-  "title": "Islamic State University Syarif Hidayatullah Jakarta",
-  "relative_url": "/islamic-state-university-syarif-hidayatullah-jakarta/",
-  "url": "https://gdsc.community.dev/islamic-state-university-syarif-hidayatullah-jakarta/"
  },
  {
   "active": true,
@@ -33801,28 +33842,6 @@
   "title": "Muria Kudus University",
   "relative_url": "/muria-kudus-university/",
   "url": "https://gdsc.community.dev/muria-kudus-university/"
- },
- {
-  "active": true,
-  "city": "Karachi",
-  "country": "PK",
-  "id": 472,
-  "hide_country_info": false,
-  "latitude": 24.8607343,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/NED%2520Logo.png",
-   "path": "chapter_banners/NED Logo.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/NED%2520Logo.png"
-  },
-  "longitude": 67.0011364,
-  "picture": {},
-  "state": "",
-  "title": "NED University of Engineering and Technology, Karachi",
-  "relative_url": "/ned-university-of-engineering-and-technology-karachi/",
-  "url": "https://gdsc.community.dev/ned-university-of-engineering-and-technology-karachi/"
  },
  {
   "active": true,
@@ -39471,9 +39490,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Backdrop.jpeg"
   },
   "state": "",
-  "title": "Taylor's University",
-  "relative_url": "/taylors-university/",
-  "url": "https://gdsc.community.dev/taylors-university/"
+  "title": "Taylor's Lakeside Campus",
+  "relative_url": "/taylors-lakeside-campus/",
+  "url": "https://gdsc.community.dev/taylors-lakeside-campus/"
  },
  {
   "active": true,
@@ -39612,9 +39631,9 @@
   "longitude": 120.9842195,
   "picture": {},
   "state": "",
-  "title": "Technological University of the Philippines",
-  "relative_url": "/technological-university-of-the-philippines/",
-  "url": "https://gdsc.community.dev/technological-university-of-the-philippines/"
+  "title": "Technological University of the Philippines - Manila",
+  "relative_url": "/technological-university-of-the-philippines-manila/",
+  "url": "https://gdsc.community.dev/technological-university-of-the-philippines-manila/"
  },
  {
   "active": true,
@@ -39720,12 +39739,12 @@
   "hide_country_info": false,
   "latitude": 19.0759837,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo%2520small_igadA8a.png",
-   "path": "chapter_banners/DSC Logo small_igadA8a.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_vSiA7RI.png",
+   "path": "chapter_banners/Copy of dsc-ecosystem-profilepicture-linkedin_vSiA7RI.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo%2520small_igadA8a.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_vSiA7RI.png"
   },
   "longitude": 72.8776559,
   "picture": {
@@ -40402,35 +40421,6 @@
  },
  {
   "active": true,
-  "city": "Makassar",
-  "country": "ID",
-  "id": 668,
-  "hide_country_info": false,
-  "latitude": -5.147665099999999,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Sticker%2520-%2520Papers%2520%25281%2529.jpg",
-   "path": "chapter_banners/Salinan dari Google Developer Student Clubs Chapter_ Sticker - Papers (1).jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Sticker%2520-%2520Papers%2520%25281%2529.jpg"
-  },
-  "longitude": 119.4327314,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002%2520%25281%2529.jpg",
-   "path": "chapter_banners/Salinan dari Copy of Google Developer Student Clubs Chapter _ Blog Post Image 02 (1).jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002%2520%25281%2529.jpg"
-  },
-  "state": "",
-  "title": "UIN Alauddin Makassar",
-  "relative_url": "/uin-alauddin-makassar/",
-  "url": "https://gdsc.community.dev/uin-alauddin-makassar/"
- },
- {
-  "active": true,
   "city": "Malang City",
   "country": "ID",
   "id": 1720,
@@ -40513,6 +40503,21 @@
  },
  {
   "active": true,
+  "city": "South Tangerang City",
+  "country": "ID",
+  "id": 1772,
+  "hide_country_info": false,
+  "latitude": -6.2835218,
+  "logo": {},
+  "longitude": 106.7112933,
+  "picture": {},
+  "state": "",
+  "title": "UIN Syarif Hidayatullah Jakarta",
+  "relative_url": "/uin-syarif-hidayatullah-jakarta-1/",
+  "url": "https://gdsc.community.dev/uin-syarif-hidayatullah-jakarta-1/"
+ },
+ {
+  "active": true,
   "city": "Mataram City",
   "country": "ID",
   "id": 1746,
@@ -40525,6 +40530,28 @@
   "title": "UNIVERSITAS BUMIGORA",
   "relative_url": "/universitas-bumigora/",
   "url": "https://gdsc.community.dev/universitas-bumigora/"
+ },
+ {
+  "active": true,
+  "city": "Karachi",
+  "country": "PK",
+  "id": 472,
+  "hide_country_info": false,
+  "latitude": 24.8607343,
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/NED%2520Logo.png",
+   "path": "chapter_banners/NED Logo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/NED%2520Logo.png"
+  },
+  "longitude": 67.0011364,
+  "picture": {},
+  "state": "",
+  "title": "UNIVERSITY OF GREENWICH VIETNAM - CAN THO",
+  "relative_url": "/university-of-greenwich-vietnam-can-tho/",
+  "url": "https://gdsc.community.dev/university-of-greenwich-vietnam-can-tho/"
  },
  {
   "active": true,
@@ -40738,6 +40765,35 @@
   "title": "Universitas Islam Indonesia",
   "relative_url": "/universitas-islam-indonesia/",
   "url": "https://gdsc.community.dev/universitas-islam-indonesia/"
+ },
+ {
+  "active": true,
+  "city": "Makassar",
+  "country": "ID",
+  "id": 668,
+  "hide_country_info": false,
+  "latitude": -5.147665099999999,
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Sticker%2520-%2520Papers%2520%25281%2529.jpg",
+   "path": "chapter_banners/Salinan dari Google Developer Student Clubs Chapter_ Sticker - Papers (1).jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Sticker%2520-%2520Papers%2520%25281%2529.jpg"
+  },
+  "longitude": 119.4327314,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002%2520%25281%2529.jpg",
+   "path": "chapter_banners/Salinan dari Copy of Google Developer Student Clubs Chapter _ Blog Post Image 02 (1).jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Salinan%2520dari%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002%2520%25281%2529.jpg"
+  },
+  "state": "",
+  "title": "Universitas Islam Negeri Alauddin Makassar",
+  "relative_url": "/universitas-islam-negeri-alauddin-makassar/",
+  "url": "https://gdsc.community.dev/universitas-islam-negeri-alauddin-makassar/"
  },
  {
   "active": true,
@@ -41010,7 +41066,14 @@
   "id": 1752,
   "hide_country_info": false,
   "latitude": -7.7955798,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-03%2520at%252012.56.29.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-09-03 at 12.56.29.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-03%2520at%252012.56.29.jpeg"
+  },
   "longitude": 110.3694896,
   "picture": {},
   "state": "",
@@ -41114,7 +41177,14 @@
   "id": 1735,
   "hide_country_info": false,
   "latitude": 0.5070677,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/maskot.png",
+   "path": "chapter_banners/maskot.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/maskot.png"
+  },
   "longitude": 101.4477793,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner_AXuWjFJ.jpg",
@@ -41724,21 +41794,6 @@
   "title": "University Of Otago",
   "relative_url": "/university-of-otago/",
   "url": "https://gdsc.community.dev/university-of-otago/"
- },
- {
-  "active": true,
-  "city": "MANDAUE CITY",
-  "country": "PH",
-  "id": 330,
-  "hide_country_info": false,
-  "latitude": 10.3321417,
-  "logo": {},
-  "longitude": 123.9357136,
-  "picture": {},
-  "state": "",
-  "title": "University Of San Carlos",
-  "relative_url": "/university-of-san-carlos/",
-  "url": "https://gdsc.community.dev/university-of-san-carlos/"
  },
  {
   "active": true,
@@ -42463,6 +42518,21 @@
  },
  {
   "active": true,
+  "city": "MANDAUE CITY",
+  "country": "PH",
+  "id": 330,
+  "hide_country_info": false,
+  "latitude": 10.3321417,
+  "logo": {},
+  "longitude": 123.9357136,
+  "picture": {},
+  "state": "",
+  "title": "University of San Carlos",
+  "relative_url": "/university-of-san-carlos/",
+  "url": "https://gdsc.community.dev/university-of-san-carlos/"
+ },
+ {
+  "active": true,
   "city": "Manila",
   "country": "PH",
   "id": 411,
@@ -42586,12 +42656,12 @@
   "hide_country_info": false,
   "latitude": 10.6840053,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/119092619_1191996397862601_8358304210335238552_n.png",
-   "path": "chapter_banners/119092619_1191996397862601_8358304210335238552_n.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/LOGONEW.png",
+   "path": "chapter_banners/LOGONEW.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/119092619_1191996397862601_8358304210335238552_n.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/LOGONEW.png"
   },
   "longitude": 122.9563021,
   "picture": {
@@ -43431,9 +43501,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Vietnam%2520National%2520University%2520Hanoi%2520photo%2520by%2520Bui%2520Tuan%2520Jan2015%2520%25282%2529.jpg"
   },
   "state": "",
-  "title": "Vietnam National University",
-  "relative_url": "/vietnam-national-university/",
-  "url": "https://gdsc.community.dev/vietnam-national-university/"
+  "title": "Vietnam National University, Hanoi",
+  "relative_url": "/vietnam-national-university-hanoi/",
+  "url": "https://gdsc.community.dev/vietnam-national-university-hanoi/"
  },
  {
   "active": true,
