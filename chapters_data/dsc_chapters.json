@@ -17163,7 +17163,14 @@
   "latitude": 46.0727345,
   "logo": {},
   "longitude": 18.232266,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/241153993_205671821471723_5376348693702640376_n.jpg",
+   "path": "chapter_banners/241153993_205671821471723_5376348693702640376_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/241153993_205671821471723_5376348693702640376_n.jpg"
+  },
   "state": "",
   "title": "University of Pécs",
   "relative_url": "/university-of-pecs/",
@@ -21402,7 +21409,14 @@
   "id": 682,
   "hide_country_info": false,
   "latitude": -0.7236857999999999,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-08-30%2520at%252022.27.03.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-08-30 at 22.27.03.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-08-30%2520at%252022.27.03.jpeg"
+  },
   "longitude": 37.1606968,
   "picture": {},
   "state": "",
@@ -23457,9 +23471,23 @@
   "id": 315,
   "hide_country_info": false,
   "latitude": 14.7565784,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/186555084_597470434988772_5524692647698695269_n.png",
+   "path": "chapter_banners/186555084_597470434988772_5524692647698695269_n.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/186555084_597470434988772_5524692647698695269_n.png"
+  },
   "longitude": 121.0449768,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/71100045_105760227493131_589606259922042880_n.jpg",
+   "path": "chapter_banners/71100045_105760227493131_589606259922042880_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/71100045_105760227493131_589606259922042880_n.jpg"
+  },
   "state": "",
   "title": "AMA Computer College",
   "relative_url": "/ama-computer-college/",
@@ -23644,7 +23672,14 @@
   "latitude": 33.6844202,
   "logo": {},
   "longitude": 73.04788479999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/156941933_879138922931195_2259401625830509498_n.jpg",
+   "path": "chapter_banners/156941933_879138922931195_2259401625830509498_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/156941933_879138922931195_2259401625830509498_n.jpg"
+  },
   "state": "",
   "title": "Air University",
   "relative_url": "/air-university/",
@@ -26204,7 +26239,14 @@
   "latitude": null,
   "logo": {},
   "longitude": null,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520Banners.png",
+   "path": "chapter_banners/Google Developer Student Clubs Banners.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520Banners.png"
+  },
   "state": "",
   "title": "Cummins College of Engineering for Women - Nagpur",
   "relative_url": "/cummins-college-of-engineering-for-women-nagpur/",
@@ -33218,21 +33260,21 @@
   "hide_country_info": false,
   "latitude": 9.9816358,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520MACE%2520Light%2520Vertical-Logo.png",
-   "path": "chapter_banners/DSC MACE Light Vertical-Logo.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520MACE%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC MACE vertical color.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520MACE%2520Light%2520Vertical-Logo.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520MACE%2520vertical%2520color.png"
   },
   "longitude": 76.2998842,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Mar%2520Athanasius%2520College%2520of%2520Engineering%2520Light%2520Horizontal-Logo.png",
-   "path": "chapter_banners/DSC Mar Athanasius College of Engineering Light Horizontal-Logo.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled-1_MOCTerG.jpg",
+   "path": "chapter_banners/Untitled-1_MOCTerG.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Mar%2520Athanasius%2520College%2520of%2520Engineering%2520Light%2520Horizontal-Logo.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled-1_MOCTerG.jpg"
   },
   "state": "",
   "title": "Mar Athanasius College of Engineering - Kothamangalam",
@@ -34513,9 +34555,23 @@
   "id": 2214,
   "hide_country_info": false,
   "latitude": 17.9689008,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Light-Centered-logo.jpg",
+   "path": "chapter_banners/Light-Centered-logo.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Light-Centered-logo.jpg"
+  },
   "longitude": 79.59405439999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Twitter_banner.png",
+   "path": "chapter_banners/Twitter_banner.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Twitter_banner.png"
+  },
   "state": "",
   "title": "National Institute of Technology (NIT) - Warangal",
   "relative_url": "/national-institute-of-technology-nit-warangal/",
@@ -34828,12 +34884,12 @@
   "logo": {},
   "longitude": 121.7391833,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-02_cEDqEpj.png",
-   "path": "chapter_banners/Copy of dsc-ecosystem-blogstory-02_cEDqEpj.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-02_fa5rjzx.png",
+   "path": "chapter_banners/Copy of dsc-ecosystem-blogstory-02_fa5rjzx.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-02_cEDqEpj.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-02_fa5rjzx.png"
   },
   "state": "",
   "title": "National Taiwan Ocean University",
@@ -41036,7 +41092,14 @@
   "latitude": -7.7955798,
   "logo": {},
   "longitude": 110.3694896,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Cover%2520DSC_zlQqbvi.png",
+   "path": "chapter_banners/Cover DSC_zlQqbvi.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Cover%2520DSC_zlQqbvi.png"
+  },
   "state": "",
   "title": "Universitas Negeri Yogyakarta",
   "relative_url": "/universitas-negeri-yogyakarta/",
@@ -41608,7 +41671,14 @@
   "latitude": 4.3590389,
   "logo": {},
   "longitude": 100.9849395,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/yang%2520betul.PNG",
+   "path": "chapter_banners/yang betul.PNG",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/yang%2520betul.PNG"
+  },
   "state": "",
   "title": "Universiti Teknologi Petronas",
   "relative_url": "/universiti-teknologi-petronas/",
