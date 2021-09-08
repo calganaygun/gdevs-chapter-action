@@ -16807,6 +16807,21 @@
  },
  {
   "active": true,
+  "city": "Uvira",
+  "country": "CD",
+  "id": 1231,
+  "hide_country_info": false,
+  "latitude": -3.3728836,
+  "logo": {},
+  "longitude": 29.1448793,
+  "picture": {},
+  "state": "South-Kivu",
+  "title": "GDG Uvira",
+  "relative_url": "/gdg-uvira/",
+  "url": "https://gdg.community.dev/gdg-uvira/"
+ },
+ {
+  "active": true,
   "city": "Uyo",
   "country": "NG",
   "id": 810,
