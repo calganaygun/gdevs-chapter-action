@@ -3610,12 +3610,12 @@
   "logo": {},
   "longitude": -87.6297982,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG_20180727_160637.jpg",
-   "path": "chapter_banners/IMG_20180727_160637.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PXL_20210826_175649742.jpg",
+   "path": "chapter_banners/PXL_20210826_175649742.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG_20180727_160637.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PXL_20210826_175649742.jpg"
   },
   "state": "",
   "title": "University of Illinois Chicago",
@@ -5993,7 +5993,14 @@
   "latitude": 22.7708555,
   "logo": {},
   "longitude": -102.5832426,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner_Youtube_HWRuUZX.jpg",
+   "path": "chapter_banners/Banner_Youtube_HWRuUZX.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner_Youtube_HWRuUZX.jpg"
+  },
   "state": "",
   "title": "Universidad Autonoma de Zacaecas",
   "relative_url": "/universidad-autonoma-de-zacaecas/",
@@ -6006,7 +6013,14 @@
   "id": 1561,
   "hide_country_info": false,
   "latitude": 30.8406338,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Nuevo%2520Logo%2520UABC.jpg",
+   "path": "chapter_banners/Nuevo Logo UABC.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Nuevo%2520Logo%2520UABC.jpg"
+  },
   "longitude": -115.2837585,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/ensenada-big.jpg",
@@ -7123,8 +7137,8 @@
   "title": "instituto federal de pernambuco",
   "relative_url": "/instituto-federal-de-pernambuco/",
   "url": "https://gdsc.community.dev/instituto-federal-de-pernambuco/"
- }
-] {
+ },
+ {
   "active": true,
   "city": "6th of October",
   "country": "EG",
@@ -7183,9 +7197,23 @@
   "id": 165,
   "hide_country_info": false,
   "latitude": 34.8828864,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSCLOGO_qaqPs8w.png",
+   "path": "chapter_banners/GDSCLOGO_qaqPs8w.png",
+   "thumbnail_width": 400,
+   "thumbnail_height": 400,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-dsc/chapter_banners/GDSCLOGO_qaqPs8w.png"
+  },
   "longitude": -1.3166815,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gsc%2520twitter%2520cover%2520pic_yjAr7Bx.png",
+   "path": "chapter_banners/gsc twitter cover pic_yjAr7Bx.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gsc%2520twitter%2520cover%2520pic_yjAr7Bx.png"
+  },
   "state": "",
   "title": "Abou Bekr Belkaid Tlemcen University",
   "relative_url": "/abou-bekr-belkaid-tlemcen-university/",
@@ -7238,10 +7266,10 @@
   "logo": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Club.png",
    "path": "chapter_banners/Google Developer Student Club.png",
-   "thumbnail_width": 400,
-   "thumbnail_height": 400,
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Club.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Club.png"
   },
   "longitude": 31.2357116,
   "picture": {
@@ -9037,7 +9065,14 @@
   "latitude": 33.2316326,
   "logo": {},
   "longitude": -8.500711599999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002.png",
+   "path": "chapter_banners/Copy of Copy of Google Developer Student Clubs Chapter _ Blog Post Image 02.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002.png"
+  },
   "state": "",
   "title": "Chouaib Doukkali University",
   "relative_url": "/chouaib-doukkali-university/",
@@ -14265,12 +14300,12 @@
   },
   "longitude": 12.4495221,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/s90-td-12069-01%2520%25287%2529.jpg",
-   "path": "chapter_banners/s90-td-12069-01 (7).jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/s90-td-12069-01%2520%252812%2529.jpg",
+   "path": "chapter_banners/s90-td-12069-01 (12).jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/s90-td-12069-01%2520%25287%2529.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/s90-td-12069-01%2520%252812%2529.jpg"
   },
   "state": "",
   "title": "Sabratha university",
@@ -16114,26 +16149,26 @@
   "hide_country_info": false,
   "latitude": 35.5634192,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC-01.jpg",
-   "path": "chapter_banners/DSC-01.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Profile%2520picture_81TIcVl.png",
+   "path": "chapter_banners/Profile picture_81TIcVl.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC-01.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Profile%2520picture_81TIcVl.png"
   },
   "longitude": 6.1889996,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Cover-01.jpg",
-   "path": "chapter_banners/DSC Cover-01.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Cover_raH3qag.png",
+   "path": "chapter_banners/Cover_raH3qag.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Cover-01.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Cover_raH3qag.png"
   },
   "state": "Batna Province",
   "title": "University of Batna 2",
-  "relative_url": "/university-of-batna-2-1/",
-  "url": "https://gdsc.community.dev/university-of-batna-2-1/"
+  "relative_url": "/university-of-batna-2/",
+  "url": "https://gdsc.community.dev/university-of-batna-2/"
  },
  {
   "active": true,
@@ -18095,21 +18130,21 @@
   "hide_country_info": false,
   "latitude": 26.155061,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled-1_7QXatTT.png",
-   "path": "chapter_banners/Untitled-1_7QXatTT.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520South%2520valley%2520university%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC South valley university vertical color.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled-1_7QXatTT.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520South%2520valley%2520university%2520vertical%2520color.png"
   },
   "longitude": 32.7160121,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520South%2520Valley%2520University%2520Logo%2520x1.png",
-   "path": "chapter_banners/DSC South Valley University Logo x1.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-cover-light.png",
+   "path": "chapter_banners/Copy of Google-DSC-cover-light.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520South%2520Valley%2520University%2520Logo%2520x1.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-cover-light.png"
   },
   "state": "",
   "title": "south valley university",
@@ -22913,7 +22948,14 @@
   "id": 2381,
   "hide_country_info": false,
   "latitude": 5.6037168,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Professional%2520Studies%252C%2520Accra%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC University of Professional Studies, Accra vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Professional%2520Studies%252C%2520Accra%2520vertical%2520color.png"
+  },
   "longitude": -0.1869644,
   "picture": {},
   "state": "",
@@ -26375,7 +26417,14 @@
   "latitude": 31.3260152,
   "logo": {},
   "longitude": 75.57618289999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-09%2520at%252010.13.24%2520AM.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-09-09 at 10.13.24 AM.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-09%2520at%252010.13.24%2520AM.jpeg"
+  },
   "state": "",
   "title": "DAV Institute of Engineering & Technology - Jalandhar",
   "relative_url": "/dav-institute-of-engineering-technology-jalandhar/",
@@ -27877,16 +27926,16 @@
   "id": 823,
   "hide_country_info": false,
   "latitude": 28.5355161,
-  "logo": {},
-  "longitude": 77.3910265,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520banner%2520final%2520v.3.png",
-   "path": "chapter_banners/dsc banner final v.3.png",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520LOGO%25202021-22-1.png",
+   "path": "chapter_banners/GDSC LOGO 2021-22-1.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520banner%2520final%2520v.3.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520LOGO%25202021-22-1.png"
   },
+  "longitude": 77.3910265,
+  "picture": {},
   "state": "",
   "title": "Galgotias University - Greater Noida",
   "relative_url": "/galgotias-university-greater-noida/",
@@ -29934,9 +29983,23 @@
   "id": 1428,
   "hide_country_info": false,
   "latitude": 45.3528066,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-LeftAligned-Chapter-WHT-ai%2520%25281%2529_mczmxyg.jpg",
+   "path": "chapter_banners/Copy of Google-DSC-Lockup-LeftAligned-Chapter-WHT-ai (1)_mczmxyg.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-LeftAligned-Chapter-WHT-ai%2520%25281%2529_mczmxyg.jpg"
+  },
   "longitude": -75.65105319999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-LeftAligned-Chapter-ai_duXt4fm.jpg",
+   "path": "chapter_banners/Copy of Google-DSC-Lockup-LeftAligned-Chapter-ai_duXt4fm.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-LeftAligned-Chapter-ai_duXt4fm.jpg"
+  },
   "state": "",
   "title": "Indian Institute of Technology - Mandi",
   "relative_url": "/indian-institute-of-technology-mandi/",
@@ -33224,21 +33287,21 @@
   "hide_country_info": false,
   "latitude": 9.9816358,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520MACE%2520vertical%2520color.png",
-   "path": "chapter_banners/GDSC MACE vertical color.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/LinkedIn%2520Profile%2520Image-MACE.png",
+   "path": "chapter_banners/LinkedIn Profile Image-MACE.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520MACE%2520vertical%2520color.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/LinkedIn%2520Profile%2520Image-MACE.png"
   },
   "longitude": 76.2998842,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled-1_MOCTerG.jpg",
-   "path": "chapter_banners/Untitled-1_MOCTerG.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/20210907_224038.jpg",
+   "path": "chapter_banners/20210907_224038.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled-1_MOCTerG.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/20210907_224038.jpg"
   },
   "state": "",
   "title": "Mar Athanasius College of Engineering - Kothamangalam",
@@ -39525,9 +39588,23 @@
   "id": 1333,
   "hide_country_info": false,
   "latitude": 24.585445,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc-logo-2_6PuG6mB.png",
+   "path": "chapter_banners/dsc-logo-2_6PuG6mB.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc-logo-2_6PuG6mB.png"
+  },
   "longitude": 73.712479,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-red_lRqxtCr.png",
+   "path": "chapter_banners/Copy of Copy of dsc-ecosystem-banners-linkedin-red_lRqxtCr.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-red_lRqxtCr.png"
+  },
   "state": "",
   "title": "Techno India NJR Institute of Technology - Udaipur",
   "relative_url": "/techno-india-njr-institute-of-technology-udaipur/",
@@ -40436,12 +40513,12 @@
   "hide_country_info": false,
   "latitude": -7.732521299999999,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UIN%2520SuKa%2520Logo%2520-%2520Squared_fJP2qAk.jpg",
-   "path": "chapter_banners/GDSC UIN SuKa Logo - Squared_fJP2qAk.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo_IWnCTXx.png",
+   "path": "chapter_banners/Logo_IWnCTXx.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UIN%2520SuKa%2520Logo%2520-%2520Squared_fJP2qAk.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo_IWnCTXx.png"
   },
   "longitude": 110.402376,
   "picture": {
