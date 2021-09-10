@@ -1677,6 +1677,21 @@
  },
  {
   "active": true,
+  "city": "Sarnia",
+  "country": "CA",
+  "id": 2417,
+  "hide_country_info": false,
+  "latitude": 42.974536,
+  "logo": {},
+  "longitude": -82.4065901,
+  "picture": {},
+  "state": "ON",
+  "title": "Lambton College - Sarnia",
+  "relative_url": "/lambton-college-sarnia/",
+  "url": "https://gdsc.community.dev/lambton-college-sarnia/"
+ },
+ {
+  "active": true,
   "city": "Toronto",
   "country": "CA",
   "id": 651,
@@ -3262,21 +3277,6 @@
  },
  {
   "active": true,
-  "city": "Tucson",
-  "country": "US",
-  "id": 1533,
-  "hide_country_info": false,
-  "latitude": 32.2226066,
-  "logo": {},
-  "longitude": -110.9747108,
-  "picture": {},
-  "state": "",
-  "title": "University of Arizona",
-  "relative_url": "/university-of-arizona/",
-  "url": "https://gdsc.community.dev/university-of-arizona/"
- },
- {
-  "active": true,
   "city": "Vancouver",
   "country": "CA",
   "id": 1954,
@@ -3599,6 +3599,21 @@
   "title": "University of Georgia",
   "relative_url": "/university-of-georgia/",
   "url": "https://gdsc.community.dev/university-of-georgia/"
+ },
+ {
+  "active": true,
+  "city": "Guelph",
+  "country": "CA",
+  "id": 2418,
+  "hide_country_info": false,
+  "latitude": 43.5448048,
+  "logo": {},
+  "longitude": -80.24816659999999,
+  "picture": {},
+  "state": "ON",
+  "title": "University of Guelph",
+  "relative_url": "/university-of-guelph/",
+  "url": "https://gdsc.community.dev/university-of-guelph/"
  },
  {
   "active": true,
@@ -23717,7 +23732,14 @@
   "latitude": -7.2574719,
   "logo": {},
   "longitude": 112.7520883,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/unair.jpg",
+   "path": "chapter_banners/unair.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/unair.jpg"
+  },
   "state": "",
   "title": "Airlangga University",
   "relative_url": "/airlangga-university/",
@@ -25707,21 +25729,21 @@
   "hide_country_info": false,
   "latitude": 10.7201501,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520NEW%2520PROFILE.png",
-   "path": "chapter_banners/DSC NEW PROFILE.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PNG%2520Logo%2520with%2520Chapter.png",
+   "path": "chapter_banners/PNG Logo with Chapter.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520NEW%2520PROFILE.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PNG%2520Logo%2520with%2520Chapter.png"
   },
   "longitude": 122.5621063,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Central%2520Philippine%2520University%2520Logo%25201600x400.png",
-   "path": "chapter_banners/DSC Central Philippine University Logo 1600x400.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/asdfasfd.png",
+   "path": "chapter_banners/asdfasfd.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Central%2520Philippine%2520University%2520Logo%25201600x400.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/asdfasfd.png"
   },
   "state": "",
   "title": "Central Philippine University",
@@ -26254,7 +26276,14 @@
   "latitude": 24.585445,
   "logo": {},
   "longitude": 73.712479,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc_6W1wcxl.jpg",
+   "path": "chapter_banners/dsc_6W1wcxl.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc_6W1wcxl.jpg"
+  },
   "state": "",
   "title": "College of Technology and Engineering (CTAE) - Udaipur",
   "relative_url": "/college-of-technology-and-engineering-ctae-udaipur/",
@@ -36339,9 +36368,23 @@
   "id": 1493,
   "hide_country_info": false,
   "latitude": 12.9715987,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520Square.png",
+   "path": "chapter_banners/Logo Square.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520Square.png"
+  },
   "longitude": 77.5945627,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner%2520GDSC.png",
+   "path": "chapter_banners/Banner GDSC.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner%2520GDSC.png"
+  },
   "state": "",
   "title": "Presidency University - Bengaluru",
   "relative_url": "/presidency-university-bengaluru/",
@@ -41439,12 +41482,12 @@
   },
   "longitude": 115.2126293,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/255f9642856c87b66d7cf369ab5c3b59.png",
-   "path": "chapter_banners/255f9642856c87b66d7cf369ab5c3b59.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25284%2529_4mObUMe.png",
+   "path": "chapter_banners/Untitled design (4)_4mObUMe.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/255f9642856c87b66d7cf369ab5c3b59.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25284%2529_4mObUMe.png"
   },
   "state": "",
   "title": "Universitas Udayana",
@@ -42858,12 +42901,12 @@
   "hide_country_info": false,
   "latitude": 14.6760413,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Stacked-White-Background-Logo.png",
-   "path": "chapter_banners/Stacked-White-Background-Logo.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/241315042_892911291342648_3157576071454719577_n_aNPFrtC.png",
+   "path": "chapter_banners/241315042_892911291342648_3157576071454719577_n_aNPFrtC.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Stacked-White-Background-Logo.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/241315042_892911291342648_3157576071454719577_n_aNPFrtC.png"
   },
   "longitude": 121.0437003,
   "picture": {

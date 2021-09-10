@@ -16076,6 +16076,21 @@
  },
  {
   "active": true,
+  "city": "Maseru",
+  "country": "LS",
+  "id": 1232,
+  "hide_country_info": false,
+  "latitude": -29.3150767,
+  "logo": {},
+  "longitude": 27.4869229,
+  "picture": {},
+  "state": "Maseru",
+  "title": "GDG Maseru",
+  "relative_url": "/gdg-maseru/",
+  "url": "https://gdg.community.dev/gdg-maseru/"
+ },
+ {
+  "active": true,
   "city": "Flic en Flac",
   "country": "MU",
   "id": 509,
