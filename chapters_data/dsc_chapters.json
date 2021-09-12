@@ -1721,7 +1721,14 @@
   "latitude": 49.2827291,
   "logo": {},
   "longitude": -123.1207375,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/langara%2520college%2520pic%2520new_gzIKBld.jpg",
+   "path": "chapter_banners/langara college pic new_gzIKBld.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/langara%2520college%2520pic%2520new_gzIKBld.jpg"
+  },
   "state": "",
   "title": "Langara College",
   "relative_url": "/langara-college/",
@@ -6686,12 +6693,12 @@
   "hide_country_info": false,
   "latitude": -16.570721,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSCUPBLogo.png",
-   "path": "chapter_banners/GDSCUPBLogo.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSCUPBLogo_VKBgkId.png",
+   "path": "chapter_banners/GDSCUPBLogo_VKBgkId.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSCUPBLogo.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSCUPBLogo_VKBgkId.png"
   },
   "longitude": -68.167953,
   "picture": {
@@ -13236,21 +13243,21 @@
   "hide_country_info": false,
   "latitude": 35.7594651,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/4e7e67c9-53fb-4e7b-9d07-4c5028975175.jpg",
-   "path": "chapter_banners/4e7e67c9-53fb-4e7b-9d07-4c5028975175.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520National%2520School%2520Of%2520Applied%2520Sciences%2520Of%2520Tangier%2520vertical%2520color%2520%25282%2529.png",
+   "path": "chapter_banners/GDSC National School Of Applied Sciences Of Tangier vertical color (2).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/4e7e67c9-53fb-4e7b-9d07-4c5028975175.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520National%2520School%2520Of%2520Applied%2520Sciences%2520Of%2520Tangier%2520vertical%2520color%2520%25282%2529.png"
   },
   "longitude": -5.833954299999999,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/%255BAya%2520S%255D%2520DSCs%2520Info%2520Session.jpg",
-   "path": "chapter_banners/[Aya S] DSCs Info Session.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/facebook%2520banner-01.png",
+   "path": "chapter_banners/facebook banner-01.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/%255BAya%2520S%255D%2520DSCs%2520Info%2520Session.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/facebook%2520banner-01.png"
   },
   "state": "",
   "title": "National School of Applied Sciences Tangier",
@@ -13543,9 +13550,23 @@
   "id": 420,
   "hide_country_info": false,
   "latitude": 54.9832693,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PTICHKY.jpg",
+   "path": "chapter_banners/PTICHKY.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PTICHKY.jpg"
+  },
   "longitude": 82.8963831,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/SHAPKA.jpg",
+   "path": "chapter_banners/SHAPKA.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/SHAPKA.jpg"
+  },
   "state": "",
   "title": "Novosibirsk State Technical University",
   "relative_url": "/novosibirsk-state-technical-university/",
@@ -21240,7 +21261,14 @@
   "id": 846,
   "hide_country_info": false,
   "latitude": 0.0514721,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520MERU.png",
+   "path": "chapter_banners/GDSC MERU.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520MERU.png"
+  },
   "longitude": 37.6456042,
   "picture": {},
   "state": "",
@@ -22934,12 +22962,12 @@
   },
   "longitude": -1.9930466,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Mines%2520and%2520Technology%2520vertical%2520color%2520%25284%2529_CVIuNHT.png",
-   "path": "chapter_banners/GDSC University of Mines and Technology vertical color (4)_CVIuNHT.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/umat.jpg",
+   "path": "chapter_banners/umat.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Mines%2520and%2520Technology%2520vertical%2520color%2520%25284%2529_CVIuNHT.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/umat.jpg"
   },
   "state": "",
   "title": "University of Mines and Technology",
@@ -27353,12 +27381,12 @@
   },
   "longitude": 77.5945627,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/LinkedIn%2520B_woB96Jb.png",
-   "path": "chapter_banners/LinkedIn B_woB96Jb.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Jain-University-Bangalore.jpg",
+   "path": "chapter_banners/Jain-University-Bangalore.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/LinkedIn%2520B_woB96Jb.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Jain-University-Bangalore.jpg"
   },
   "state": "KA",
   "title": "FET Jain University - Bengaluru",
@@ -34948,9 +34976,23 @@
   "id": 354,
   "hide_country_info": false,
   "latitude": 25.0329694,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/118906550_112365360599798_663298188729706905_n.png",
+   "path": "chapter_banners/118906550_112365360599798_663298188729706905_n.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/118906550_112365360599798_663298188729706905_n.png"
+  },
   "longitude": 121.5654177,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520NTNU%2520Banner.png",
+   "path": "chapter_banners/GDSC NTNU Banner.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520NTNU%2520Banner.png"
+  },
   "state": "",
   "title": "National Taiwan Normal University",
   "relative_url": "/national-taiwan-normal-university/",
@@ -39607,21 +39649,21 @@
   "hide_country_info": false,
   "latitude": 25.1719805,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSCTKU.jpg",
-   "path": "chapter_banners/GDSCTKU.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC_TKU_Logo%25281%2529.png",
+   "path": "chapter_banners/GDSC_TKU_Logo(1).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSCTKU.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC_TKU_Logo%25281%2529.png"
   },
   "longitude": 121.4433706,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/csed-week.png",
-   "path": "chapter_banners/csed-week.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/whatiactuallydo.jpg",
+   "path": "chapter_banners/whatiactuallydo.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/csed-week.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/whatiactuallydo.jpg"
   },
   "state": "",
   "title": "Tam Kang University",
