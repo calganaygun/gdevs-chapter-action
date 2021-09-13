@@ -2590,7 +2590,14 @@
   "latitude": 44.2311717,
   "logo": {},
   "longitude": -76.4859544,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/TW%252020180618-Drone-Photography-Campus-126%2520%25283%2529_0.jpg",
+   "path": "chapter_banners/TW 20180618-Drone-Photography-Campus-126 (3)_0.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/TW%252020180618-Drone-Photography-Campus-126%2520%25283%2529_0.jpg"
+  },
   "state": "",
   "title": "Queen's University - Kingston",
   "relative_url": "/queens-university-kingston/",
@@ -2914,7 +2921,14 @@
   "latitude": 49.2488091,
   "logo": {},
   "longitude": -122.9805104,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/100055.jpg",
+   "path": "chapter_banners/100055.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/100055.jpg"
+  },
   "state": "",
   "title": "Simon Fraser University",
   "relative_url": "/simon-fraser-university/",
@@ -10552,12 +10566,12 @@
   "logo": {},
   "longitude": 23.7020975,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/xarokopeio-panepistimio-oikonomologos-prosopsi_enumiOF.jpg",
-   "path": "chapter_banners/xarokopeio-panepistimio-oikonomologos-prosopsi_enumiOF.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/%25CE%25A7%25CE%25B1%25CF%2581%25CE%25BF%25CE%25BA%25CF%258C%25CF%2580%25CE%25B5%25CE%25B9%25CE%25BF%2520%25CE%25A0%25CE%25B1%25CE%25BD%25CE%25B5%25CF%2580%25CE%25B9%25CF%2583%25CF%2584%25CE%25AE%25CE%25BC%25CE%25B9%25CE%25BF_bTwHQE1.jpg",
+   "path": "chapter_banners/Χαροκόπειο Πανεπιστήμιο_bTwHQE1.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/xarokopeio-panepistimio-oikonomologos-prosopsi_enumiOF.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/%25CE%25A7%25CE%25B1%25CF%2581%25CE%25BF%25CE%25BA%25CF%258C%25CF%2580%25CE%25B5%25CE%25B9%25CE%25BF%2520%25CE%25A0%25CE%25B1%25CE%25BD%25CE%25B5%25CF%2580%25CE%25B9%25CF%2583%25CF%2584%25CE%25AE%25CE%25BC%25CE%25B9%25CE%25BF_bTwHQE1.jpg"
   },
   "state": "",
   "title": "Harokopio University of Athens",
@@ -21292,7 +21306,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Michael%2520Okpara%2520University%2520of%2520Agriculture%2520Umudike%2520vertical%2520color.png"
   },
   "longitude": 7.5436801,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Social%2520covers.jpg",
+   "path": "chapter_banners/Social covers.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Social%2520covers.jpg"
+  },
   "state": "",
   "title": "Michael Okpara University of Agriculture Umudike",
   "relative_url": "/michael-okpara-university-of-agriculture-umudike/",
@@ -23468,8 +23489,8 @@
   "title": "École Nationale Polytechnique de Douala",
   "relative_url": "/ecole-nationale-polytechnique-de-douala/",
   "url": "https://gdsc.community.dev/ecole-nationale-polytechnique-de-douala/"
- },
- {
+ }
+] {
   "active": true,
   "city": "Anand",
   "country": "IN",
@@ -26044,7 +26065,14 @@
   "latitude": 10.5276416,
   "logo": {},
   "longitude": 76.2144349,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520CCE%2520Light%2520Vertical-Logo_rWDZkkt.png",
+   "path": "chapter_banners/DSC CCE Light Vertical-Logo_rWDZkkt.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520CCE%2520Light%2520Vertical-Logo_rWDZkkt.png"
+  },
   "state": "KL",
   "title": "Christ College of Engineering - Thrissur",
   "relative_url": "/christ-college-of-engineering-thrissur/",
@@ -27988,7 +28016,14 @@
   "id": 1464,
   "hide_country_info": false,
   "latitude": 27.4924134,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_84p1f0L.png",
+   "path": "chapter_banners/Copy of dsc-ecosystem-profilepicture-linkedin_84p1f0L.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_84p1f0L.png"
+  },
   "longitude": 77.673673,
   "picture": {},
   "state": "",
@@ -35308,7 +35343,14 @@
   "latitude": 33.6844202,
   "logo": {},
   "longitude": 73.04788479999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/covid-19_qYp1HQL.jpg",
+   "path": "chapter_banners/covid-19_qYp1HQL.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/covid-19_qYp1HQL.jpg"
+  },
   "state": "",
   "title": "National University of technology Islamabad",
   "relative_url": "/national-university-of-technology-islamabad/",
@@ -40357,15 +40399,22 @@
   "id": 383,
   "hide_country_info": false,
   "latitude": 17.6131813,
-  "logo": {},
-  "longitude": 121.7270206,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/unnamed_QMJThJj.jpg",
-   "path": "chapter_banners/unnamed_QMJThJj.jpg",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520logo_uw5fmw9.png",
+   "path": "chapter_banners/DSC logo_uw5fmw9.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/unnamed_QMJThJj.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520logo_uw5fmw9.png"
+  },
+  "longitude": 121.7270206,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/unnamed_GljTYaq.jpg",
+   "path": "chapter_banners/unnamed_GljTYaq.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/unnamed_GljTYaq.jpg"
   },
   "state": "",
   "title": "The University of Saint Louis Tuguegarao",
@@ -40381,7 +40430,14 @@
   "latitude": -33.8688197,
   "logo": {},
   "longitude": 151.2092955,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/quad-jacaranda%2520blur.png",
+   "path": "chapter_banners/quad-jacaranda blur.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/quad-jacaranda%2520blur.png"
+  },
   "state": "",
   "title": "The University of Sydney",
   "relative_url": "/the-university-of-sydney/",
@@ -43568,7 +43624,14 @@
   "latitude": -41.2923814,
   "logo": {},
   "longitude": 174.7787463,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Victoria%2520University%2520of%2520Wellington%2520Logo%2520x1_N288GHe.png",
+   "path": "chapter_banners/DSC Victoria University of Wellington Logo x1_N288GHe.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Victoria%2520University%2520of%2520Wellington%2520Logo%2520x1_N288GHe.png"
+  },
   "state": "",
   "title": "Victoria University of Wellington",
   "relative_url": "/victoria-university-of-wellington/",
