@@ -8830,9 +8830,23 @@
   "id": 774,
   "hide_country_info": false,
   "latitude": 43.33,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/85qZHivH_400x400.jpg",
+   "path": "chapter_banners/85qZHivH_400x400.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/85qZHivH_400x400.jpg"
+  },
   "longitude": -8.42,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/1500x500_TTV3I9d.jpeg",
+   "path": "chapter_banners/1500x500_TTV3I9d.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/1500x500_TTV3I9d.jpeg"
+  },
   "state": "",
   "title": "GDG Coruña",
   "relative_url": "/gdg-coruna/",
@@ -11149,6 +11163,21 @@
  },
  {
   "active": true,
+  "city": "Mons",
+  "country": "BE",
+  "id": 1234,
+  "hide_country_info": false,
+  "latitude": 50.4542408,
+  "logo": {},
+  "longitude": 3.956659,
+  "picture": {},
+  "state": "Wallonia",
+  "title": "GDG Mons",
+  "relative_url": "/gdg-mons/",
+  "url": "https://gdg.community.dev/gdg-mons/"
+ },
+ {
+  "active": true,
   "city": "Montpellier",
   "country": "FR",
   "id": 1195,
@@ -12608,6 +12637,21 @@
   "title": "GDG Sivas",
   "relative_url": "/gdg-sivas/",
   "url": "https://gdg.community.dev/gdg-sivas/"
+ },
+ {
+  "active": true,
+  "city": "Scolkovo",
+  "country": "RU",
+  "id": 1233,
+  "hide_country_info": false,
+  "latitude": 55.6877915,
+  "logo": {},
+  "longitude": 37.3713772,
+  "picture": {},
+  "state": "МО",
+  "title": "GDG Skolkovo",
+  "relative_url": "/gdg-skolkovo/",
+  "url": "https://gdg.community.dev/gdg-skolkovo/"
  },
  {
   "active": true,
