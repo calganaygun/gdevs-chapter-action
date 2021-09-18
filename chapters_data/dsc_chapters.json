@@ -943,7 +943,14 @@
   "latitude": 37.3229978,
   "logo": {},
   "longitude": -122.0321823,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/website-bg.png",
+   "path": "chapter_banners/website-bg.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/website-bg.png"
+  },
   "state": "",
   "title": "De Anza College",
   "relative_url": "/de-anza-college/",
@@ -2145,22 +2152,15 @@
   "hide_country_info": false,
   "latitude": 41.8781136,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Northeastern%2520Illinois%2520University%2520square.jpg",
-   "path": "chapter_banners/Northeastern Illinois University square.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Northeastern%2520Illinois%2520University%2520vertical%2520color_eyIWO7F.png",
+   "path": "chapter_banners/GDSC Northeastern Illinois University vertical color_eyIWO7F.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Northeastern%2520Illinois%2520University%2520square.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Northeastern%2520Illinois%2520University%2520vertical%2520color_eyIWO7F.png"
   },
   "longitude": -87.6297982,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/NEIUDSC%2520Facebook.jpg",
-   "path": "chapter_banners/NEIUDSC Facebook.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/NEIUDSC%2520Facebook.jpg"
-  },
+  "picture": {},
   "state": "",
   "title": "Northeastern Illinois University",
   "relative_url": "/northeastern-illinois-university/",
@@ -3480,12 +3480,12 @@
   "logo": {},
   "longitude": -87.6297982,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PXL_20210826_175649742.jpg",
-   "path": "chapter_banners/PXL_20210826_175649742.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PXL_20210916_193954441.MP.jpg",
+   "path": "chapter_banners/PXL_20210916_193954441.MP.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PXL_20210826_175649742.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PXL_20210916_193954441.MP.jpg"
   },
   "state": "",
   "title": "University of Illinois Chicago",
@@ -3782,12 +3782,12 @@
   "logo": {},
   "longitude": -123.0867536,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/uo_logo_green_on_white_2.jpg",
-   "path": "chapter_banners/uo_logo_green_on_white_2.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template_sJ1PmYS.jpg",
+   "path": "chapter_banners/Copy of Copy of GDSC Logo chapter lockup centered template_sJ1PmYS.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/uo_logo_green_on_white_2.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template_sJ1PmYS.jpg"
   },
   "state": "OR",
   "title": "University of Oregon",
@@ -12297,15 +12297,22 @@
   "hide_country_info": false,
   "latitude": 29.9601561,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Mn8dUrxR_400x400.jpg",
-   "path": "chapter_banners/Mn8dUrxR_400x400.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Modern%2520Academy%2520-%2520Computer%2520Science%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC Modern Academy - Computer Science vertical color.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Mn8dUrxR_400x400.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Modern%2520Academy%2520-%2520Computer%2520Science%2520vertical%2520color.png"
   },
   "longitude": 31.2569138,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Modern%2520Academy%2520-%2520Computer%2520Science%2520horizontal%2520color.png",
+   "path": "chapter_banners/GDSC Modern Academy - Computer Science horizontal color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Modern%2520Academy%2520-%2520Computer%2520Science%2520horizontal%2520color.png"
+  },
   "state": "",
   "title": "Modern Academy - Computer Science",
   "relative_url": "/modern-academy-computer-science/",
@@ -14660,11 +14667,18 @@
   "latitude": 32.0852999,
   "logo": {},
   "longitude": 34.78176759999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/%25D7%25A6%25D7%25A7%25D7%25A4%25D7%2595%25D7%2599%25D7%25A0%25D7%2598%25202.jpg",
+   "path": "chapter_banners/צקפוינט 2.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/%25D7%25A6%25D7%25A7%25D7%25A4%25D7%2595%25D7%2599%25D7%25A0%25D7%2598%25202.jpg"
+  },
   "state": "",
   "title": "Tel Aviv University",
-  "relative_url": "/tel-aviv-university-1/",
-  "url": "https://gdsc.community.dev/tel-aviv-university-1/"
+  "relative_url": "/tel-aviv-university/",
+  "url": "https://gdsc.community.dev/tel-aviv-university/"
  },
  {
   "active": true,
@@ -21348,7 +21362,14 @@
   "latitude": -1.2920659,
   "logo": {},
   "longitude": 36.8219462,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Taita%2520Taveta%2520University.png",
+   "path": "chapter_banners/Taita Taveta University.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Taita%2520Taveta%2520University.png"
+  },
   "state": "",
   "title": "Taita Taveta University",
   "relative_url": "/taita-taveta-university/",
@@ -23077,7 +23098,14 @@
   "latitude": 28.6691565,
   "logo": {},
   "longitude": 77.45375779999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Banner.jfif",
+   "path": "chapter_banners/DSC Banner.jfif",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Banner.jfif"
+  },
   "state": "",
   "title": "Ajay Kumar Garg Engineering College - Ghaziabad",
   "relative_url": "/ajay-kumar-garg-engineering-college-ghaziabad/",
@@ -26955,7 +26983,14 @@
   "id": 1401,
   "hide_country_info": false,
   "latitude": 23.2156354,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Government%2520Engineering%2520College%2520-%2520Gandhinagar%2520vertical%2520color_UxGSfK3.png",
+   "path": "chapter_banners/GDSC Government Engineering College - Gandhinagar vertical color_UxGSfK3.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Government%2520Engineering%2520College%2520-%2520Gandhinagar%2520vertical%2520color_UxGSfK3.png"
+  },
   "longitude": 72.63694149999999,
   "picture": {},
   "state": "",
@@ -27609,15 +27644,22 @@
   "id": 1973,
   "hide_country_info": false,
   "latitude": 15.1449853,
-  "logo": {},
-  "longitude": 120.5887029,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/holy-angel-university-918.jpg",
-   "path": "chapter_banners/holy-angel-university-918.jpg",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201%25404x_Ub4eR3L.png",
+   "path": "chapter_banners/Artboard 1@4x_Ub4eR3L.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/holy-angel-university-918.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201%25404x_Ub4eR3L.png"
+  },
+  "longitude": 120.5887029,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252021%25404x_99eGGC2.png",
+   "path": "chapter_banners/Artboard 21@4x_99eGGC2.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252021%25404x_99eGGC2.png"
   },
   "state": "",
   "title": "Holy Angel University, Angeles City",
@@ -29469,9 +29511,23 @@
   "id": 1037,
   "hide_country_info": false,
   "latitude": 13.9299299,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-18%2520at%25203.27.41%2520PM.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-09-18 at 3.27.41 PM.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-18%2520at%25203.27.41%2520PM.jpeg"
+  },
   "longitude": 75.568101,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-18%2520at%25203.28.01%2520PM.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-09-18 at 3.28.01 PM.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-18%2520at%25203.28.01%2520PM.jpeg"
+  },
   "state": "",
   "title": "Jawaharlal Nehru National College of Engineering - Shivamogga",
   "relative_url": "/jawaharlal-nehru-national-college-of-engineering-shivamogga/",
