@@ -4415,12 +4415,12 @@
   "logo": {},
   "longitude": -80.4139393,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Virginia%2520Tech.jpg",
-   "path": "chapter_banners/Virginia Tech.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo_xl.PNG",
+   "path": "chapter_banners/logo_xl.PNG",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Virginia%2520Tech.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo_xl.PNG"
   },
   "state": "",
   "title": "Virginia Tech",
@@ -10547,7 +10547,14 @@
   "id": 1685,
   "hide_country_info": false,
   "latitude": 41.7151377,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/592e776ddee40592e776ddeeef.png",
+   "path": "chapter_banners/592e776ddee40592e776ddeeef.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/592e776ddee40592e776ddeeef.png"
+  },
   "longitude": 44.827096,
   "picture": {},
   "state": "",
@@ -14304,9 +14311,23 @@
   "id": 1809,
   "hide_country_info": false,
   "latitude": 28.3835079,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/2489FFB2-A1D5-4A6A-BF65-9A31B9B0951C.jpeg",
+   "path": "chapter_banners/2489FFB2-A1D5-4A6A-BF65-9A31B9B0951C.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2489FFB2-A1D5-4A6A-BF65-9A31B9B0951C.jpeg"
+  },
   "longitude": 36.5661908,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/0A2CD898-CE58-4C4F-A2CA-FA6C08F1F6EE.jpeg",
+   "path": "chapter_banners/0A2CD898-CE58-4C4F-A2CA-FA6C08F1F6EE.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/0A2CD898-CE58-4C4F-A2CA-FA6C08F1F6EE.jpeg"
+  },
   "state": "",
   "title": "Tabuk University",
   "relative_url": "/tabuk-university/",
@@ -22368,7 +22389,14 @@
   "latitude": 5.0377396,
   "logo": {},
   "longitude": 7.9127945,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/FB_IMG_1632001608710_0E5ZOqV.jpg",
+   "path": "chapter_banners/FB_IMG_1632001608710_0E5ZOqV.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/FB_IMG_1632001608710_0E5ZOqV.jpg"
+  },
   "state": "",
   "title": "University of Uyo",
   "relative_url": "/university-of-uyo/",
@@ -24487,7 +24515,14 @@
   "id": 1330,
   "hide_country_info": false,
   "latitude": 12.9715987,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo_jydq9BT.png",
+   "path": "chapter_banners/Logo_jydq9BT.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo_jydq9BT.png"
+  },
   "longitude": 77.5945627,
   "picture": {},
   "state": "",
@@ -33164,15 +33199,22 @@
   "id": 769,
   "hide_country_info": false,
   "latitude": 26.9124336,
-  "logo": {},
-  "longitude": 75.7872709,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Poornima%2520College%2520of%2520Engineering%2520Logo%2520x5%2520%25282%2529.png",
-   "path": "chapter_banners/DSC Poornima College of Engineering Logo x5 (2).png",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin%2520%25281%2529_leCQEqy.png",
+   "path": "chapter_banners/Copy of dsc-ecosystem-profilepicture-linkedin (1)_leCQEqy.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Poornima%2520College%2520of%2520Engineering%2520Logo%2520x5%2520%25282%2529.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin%2520%25281%2529_leCQEqy.png"
+  },
+  "longitude": 75.7872709,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Poornima%2520Email%2520Header_mwj6SNP.png",
+   "path": "chapter_banners/GDSC Poornima Email Header_mwj6SNP.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Poornima%2520Email%2520Header_mwj6SNP.png"
   },
   "state": "",
   "title": "Poornima College of Engineering - Jaipur",
