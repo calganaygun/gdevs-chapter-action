@@ -11034,9 +11034,23 @@
   "id": 187,
   "hide_country_info": false,
   "latitude": 36.27,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/logo%2520old.jpg",
+   "path": "chapter_banners/logo old.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/logo%2520old.jpg"
+  },
   "longitude": 2.77,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/112430977_597206721181986_6816252498981886360_n.jpg",
+   "path": "chapter_banners/112430977_597206721181986_6816252498981886360_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/112430977_597206721181986_6816252498981886360_n.jpg"
+  },
   "state": "",
   "title": "GDG Medea",
   "relative_url": "/gdg-medea/",
@@ -15188,7 +15202,14 @@
   "latitude": 11.8,
   "logo": {},
   "longitude": 9.33,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdg_QSA28SF.png",
+   "path": "chapter_banners/gdg_QSA28SF.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/gdg_QSA28SF.png"
+  },
   "state": "",
   "title": "GDG Dutse",
   "relative_url": "/gdg-dutse/",
