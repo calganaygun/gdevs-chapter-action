@@ -15262,7 +15262,14 @@
   "latitude": 39.5696005,
   "logo": {},
   "longitude": 2.6501603,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gestmallorca-gestmadrid-mallorca.jpg",
+   "path": "chapter_banners/gestmallorca-gestmadrid-mallorca.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gestmallorca-gestmadrid-mallorca.jpg"
+  },
   "state": "",
   "title": "Universitat de les Illes Balears",
   "relative_url": "/universitat-de-les-illes-balears/",
@@ -19312,12 +19319,12 @@
   "logo": {},
   "longitude": 8.539144,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/slide-2.jpg",
-   "path": "chapter_banners/slide-2.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc-fuam-banner-facebook.jpg",
+   "path": "chapter_banners/gdsc-fuam-banner-facebook.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/slide-2.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc-fuam-banner-facebook.jpg"
   },
   "state": "",
   "title": "Federal University of Agriculture, Makurdi",
@@ -21887,7 +21894,14 @@
   "id": 951,
   "hide_country_info": false,
   "latitude": 6.334986,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/uniben%2520dsc.jpg",
+   "path": "chapter_banners/uniben dsc.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/uniben%2520dsc.jpg"
+  },
   "longitude": 5.6037465,
   "picture": {},
   "state": "",
@@ -23528,7 +23542,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc-logo_AkuJkbU.png"
   },
   "longitude": 73.8567437,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Img-3_800x480-1-768x461_oo7Lh49.jpg",
+   "path": "chapter_banners/Img-3_800x480-1-768x461_oo7Lh49.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Img-3_800x480-1-768x461_oo7Lh49.jpg"
+  },
   "state": "",
   "title": "Army Institute of Technology - Pune",
   "relative_url": "/army-institute-of-technology-pune/",
@@ -29257,21 +29278,6 @@
  },
  {
   "active": true,
-  "city": "Bahawalpur",
-  "country": "PK",
-  "id": 2415,
-  "hide_country_info": false,
-  "latitude": 29.35435,
-  "logo": {},
-  "longitude": 71.69106599999999,
-  "picture": {},
-  "state": "Punjab",
-  "title": "Islamia University of Bahawalpur",
-  "relative_url": "/islamia-university-of-bahawalpur-1/",
-  "url": "https://gdsc.community.dev/islamia-university-of-bahawalpur-1/"
- },
- {
-  "active": true,
   "city": "jaipur",
   "country": "IN",
   "id": 884,
@@ -31553,12 +31559,12 @@
   "logo": {},
   "longitude": 121.3009798,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520NCU%2520Logo%2520x1.png",
-   "path": "chapter_banners/DSC NCU Logo x1.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002%2520%25E7%259A%2584%25E5%2589%25AF%25E6%259C%25AC_riSqNz0.png",
+   "path": "chapter_banners/Copy of Google Developer Student Clubs Chapter _ Blog Post Image 02 的副本_riSqNz0.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520NCU%2520Logo%2520x1.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002%2520%25E7%259A%2584%25E5%2589%25AF%25E6%259C%25AC_riSqNz0.png"
   },
   "state": "",
   "title": "National Central University",
@@ -36098,6 +36104,21 @@
  },
  {
   "active": true,
+  "city": "Bahawalpur",
+  "country": "PK",
+  "id": 2415,
+  "hide_country_info": false,
+  "latitude": 29.35435,
+  "logo": {},
+  "longitude": 71.69106599999999,
+  "picture": {},
+  "state": "Punjab",
+  "title": "The Islamia University of Bahawalpur",
+  "relative_url": "/the-islamia-university-of-bahawalpur/",
+  "url": "https://gdsc.community.dev/the-islamia-university-of-bahawalpur/"
+ },
+ {
+  "active": true,
   "city": "Jaipur",
   "country": "IN",
   "id": 1086,
@@ -37606,6 +37627,21 @@
   "active": true,
   "city": "Serdang",
   "country": "MY",
+  "id": 1705,
+  "hide_country_info": false,
+  "latitude": 28.5469663,
+  "logo": {},
+  "longitude": -81.3793527,
+  "picture": {},
+  "state": "",
+  "title": "Universiti Putra Malaysia",
+  "relative_url": "/universiti-putra-malaysia-1/",
+  "url": "https://gdsc.community.dev/universiti-putra-malaysia-1/"
+ },
+ {
+  "active": true,
+  "city": "Serdang",
+  "country": "MY",
   "id": 1737,
   "hide_country_info": false,
   "latitude": 28.5469663,
@@ -37896,21 +37932,6 @@
   "title": "University Of Otago",
   "relative_url": "/university-of-otago/",
   "url": "https://gdsc.community.dev/university-of-otago/"
- },
- {
-  "active": true,
-  "city": "Serdang",
-  "country": "MY",
-  "id": 1705,
-  "hide_country_info": false,
-  "latitude": 28.5469663,
-  "logo": {},
-  "longitude": -81.3793527,
-  "picture": {},
-  "state": "",
-  "title": "University Putra Malaysia",
-  "relative_url": "/university-putra-malaysia/",
-  "url": "https://gdsc.community.dev/university-putra-malaysia/"
  },
  {
   "active": true,
