@@ -6535,12 +6535,12 @@
   "logo": {},
   "longitude": -93.12923529999999,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/43037206_1890568301023512_8931562222073675776_n.jpg",
-   "path": "chapter_banners/43037206_1890568301023512_8931562222073675776_n.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/02-1.jpg",
+   "path": "chapter_banners/02-1.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/43037206_1890568301023512_8931562222073675776_n.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/02-1.jpg"
   },
   "state": "",
   "title": "Universidad del Sur",
@@ -24021,12 +24021,12 @@
   "logo": {},
   "longitude": 77.412615,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Desktop%2520-%25202%2520%25282%2529.png",
-   "path": "chapter_banners/Desktop - 2 (2).png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Group%252032%2520%25283%2529.png",
+   "path": "chapter_banners/Group 32 (3).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Desktop%2520-%25202%2520%25282%2529.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Group%252032%2520%25283%2529.png"
   },
   "state": "",
   "title": "Bansal Institute of Science and Technology - Bhopal",
@@ -28335,12 +28335,12 @@
   "hide_country_info": false,
   "latitude": 26.2182871,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/New_Project_1.jpg",
-   "path": "chapter_banners/New_Project_1.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc-logo_MdRG1HB.jpeg",
+   "path": "chapter_banners/gdsc-logo_MdRG1HB.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/New_Project_1.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc-logo_MdRG1HB.jpeg"
   },
   "longitude": 78.18283079999999,
   "picture": {
@@ -30285,7 +30285,14 @@
   "latitude": 8.5241391,
   "logo": {},
   "longitude": 76.9366376,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/SAVE_20210923_172230.jpg",
+   "path": "chapter_banners/SAVE_20210923_172230.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/SAVE_20210923_172230.jpg"
+  },
   "state": "",
   "title": "LBS Institute of Technology for Women - Thiruvananthapuram",
   "relative_url": "/lbs-institute-of-technology-for-women-thiruvananthapuram/",
@@ -33114,15 +33121,22 @@
   "hide_country_info": false,
   "latitude": 18.5204303,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Group%25203%2520%25282%2529.jpg",
-   "path": "chapter_banners/Group 3 (2).jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1_CyVqGfJ.png",
+   "path": "chapter_banners/1_CyVqGfJ.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Group%25203%2520%25282%2529.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1_CyVqGfJ.png"
   },
   "longitude": 73.8567437,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/2_V0MG0LL.png",
+   "path": "chapter_banners/2_V0MG0LL.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2_V0MG0LL.png"
+  },
   "state": "",
   "title": "Pimpri Chinchwad College of Engineering - Pune",
   "relative_url": "/pimpri-chinchwad-college-of-engineering-pune/",
@@ -36494,12 +36508,12 @@
   },
   "longitude": -90.30241590000001,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners_U1HNJKQ.png",
-   "path": "chapter_banners/Copy of Copy of Google Developer Student Clubs Chapter_ Twitter Banners_U1HNJKQ.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/df.PNG",
+   "path": "chapter_banners/df.PNG",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners_U1HNJKQ.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/df.PNG"
   },
   "state": "",
   "title": "Tokyo Metropolitan University",
@@ -36741,7 +36755,14 @@
   "id": 1772,
   "hide_country_info": false,
   "latitude": -6.2835218,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo%2520chapter%2520lockup%2520centered-icon.jpg",
+   "path": "chapter_banners/GDSC Logo chapter lockup centered-icon.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo%2520chapter%2520lockup%2520centered-icon.jpg"
+  },
   "longitude": 106.7112933,
   "picture": {},
   "state": "",
@@ -37644,7 +37665,14 @@
   "latitude": 3.139003,
   "logo": {},
   "longitude": 101.686855,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/unikl-contactus_header.jpg",
+   "path": "chapter_banners/unikl-contactus_header.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/unikl-contactus_header.jpg"
+  },
   "state": "Federal Territory of Kuala Lumpur",
   "title": "Universiti Kuala Lumpur",
   "relative_url": "/universiti-kuala-lumpur/",
