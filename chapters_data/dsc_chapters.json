@@ -5548,7 +5548,14 @@
   "latitude": 10.6512525,
   "logo": {},
   "longitude": -61.3881073,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/UWIbanner.jpg",
+   "path": "chapter_banners/UWIbanner.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/UWIbanner.jpg"
+  },
   "state": "",
   "title": "The University of the West Indies St. Augustine Campus",
   "relative_url": "/the-university-of-the-west-indies-st-augustine-campus/",
@@ -23631,12 +23638,12 @@
   "logo": {},
   "longitude": 121.0437003,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Facebook%2520Cover%2520-%25201.png",
-   "path": "chapter_banners/Facebook Cover - 1.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/09-21%2520Facebook%2520Cover_KJkywXH.png",
+   "path": "chapter_banners/09-21 Facebook Cover_KJkywXH.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Facebook%2520Cover%2520-%25201.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/09-21%2520Facebook%2520Cover_KJkywXH.png"
   },
   "state": "",
   "title": "Ateneo de Manila University",
@@ -26559,9 +26566,23 @@
   "id": 1823,
   "hide_country_info": false,
   "latitude": 25.0265985,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/iOS%2520%25E7%259A%2584%25E5%25BD%25B1%25E5%2583%258F.jpg",
+   "path": "chapter_banners/iOS 的影像.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/iOS%2520%25E7%259A%2584%25E5%25BD%25B1%25E5%2583%258F.jpg"
+  },
   "longitude": 121.4178347,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/%25E5%25AE%2598%25E7%25B6%25B2.png",
+   "path": "chapter_banners/官網.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/%25E5%25AE%2598%25E7%25B6%25B2.png"
+  },
   "state": "",
   "title": "Fu Jen Catholic University",
   "relative_url": "/fu-jen-catholic-university/",
@@ -28409,12 +28430,12 @@
   "hide_country_info": false,
   "latitude": 28.6139391,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo.bc35fc08.png",
-   "path": "chapter_banners/logo.bc35fc08.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/3EC109EA-64D3-4686-A2B8-6265F30C5B7F.jpeg",
+   "path": "chapter_banners/3EC109EA-64D3-4686-A2B8-6265F30C5B7F.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo.bc35fc08.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/3EC109EA-64D3-4686-A2B8-6265F30C5B7F.jpeg"
   },
   "longitude": 77.2090212,
   "picture": {},
@@ -35262,7 +35283,14 @@
   "id": 1452,
   "hide_country_info": false,
   "latitude": 8.5241391,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520%25282%2529_RJj2nLG.png",
+   "path": "chapter_banners/Logo (2)_RJj2nLG.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520%25282%2529_RJj2nLG.png"
+  },
   "longitude": 76.9366376,
   "picture": {},
   "state": "",
@@ -36640,12 +36668,12 @@
   "logo": {},
   "longitude": 72.36932519999999,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_gB6fMpW.png",
-   "path": "chapter_banners/Copy of Copy of dsc-ecosystem-banners-linkedin-blue_gB6fMpW.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1500x500_x0sfDVs.jpg",
+   "path": "chapter_banners/1500x500_x0sfDVs.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_gB6fMpW.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1500x500_x0sfDVs.jpg"
   },
   "state": "",
   "title": "U. V. Patel College of Engineering - Mehsana",
@@ -39199,12 +39227,12 @@
   "hide_country_info": false,
   "latitude": 23.2599333,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/github.png",
-   "path": "chapter_banners/github.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Screen%2520Shot%25202021-09-24%2520at%25209.43.20%2520AM.png",
+   "path": "chapter_banners/Screen Shot 2021-09-24 at 9.43.20 AM.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/github.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Screen%2520Shot%25202021-09-24%2520at%25209.43.20%2520AM.png"
   },
   "longitude": 77.412615,
   "picture": {
