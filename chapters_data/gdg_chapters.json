@@ -6714,7 +6714,14 @@
   "latitude": 24.08,
   "logo": {},
   "longitude": 32.92,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/FB_IMG_1630878124105.jpg",
+   "path": "chapter_banners/FB_IMG_1630878124105.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/FB_IMG_1630878124105.jpg"
+  },
   "state": "",
   "title": "GDG Aswan",
   "relative_url": "/gdg-aswan/",
