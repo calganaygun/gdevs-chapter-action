@@ -2640,12 +2640,12 @@
   "logo": {},
   "longitude": -74.4518188,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Rutgers%2520University%2520Light%2520Horizontal-Logo_P5NBj4u.png",
-   "path": "chapter_banners/DSC Rutgers University Light Horizontal-Logo_P5NBj4u.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Rutgers%2520University%2520Light%2520Vertical-Logo.png",
+   "path": "chapter_banners/DSC Rutgers University Light Vertical-Logo.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Rutgers%2520University%2520Light%2520Horizontal-Logo_P5NBj4u.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Rutgers%2520University%2520Light%2520Vertical-Logo.png"
   },
   "state": "NJ",
   "title": "Rutgers University - New Brunswick",
