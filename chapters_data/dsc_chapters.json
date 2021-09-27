@@ -3464,7 +3464,14 @@
   "latitude": 43.5448048,
   "logo": {},
   "longitude": -80.24816659999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/JGreen_Fall_fcRyptL.jpg",
+   "path": "chapter_banners/JGreen_Fall_fcRyptL.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/JGreen_Fall_fcRyptL.jpg"
+  },
   "state": "ON",
   "title": "University of Guelph",
   "relative_url": "/university-of-guelph/",
@@ -16594,12 +16601,12 @@
   "logo": {},
   "longitude": 18.232266,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/241153993_205671821471723_5376348693702640376_n.jpg",
-   "path": "chapter_banners/241153993_205671821471723_5376348693702640376_n.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PTE_MIK_Kari-epulet.jpg",
+   "path": "chapter_banners/PTE_MIK_Kari-epulet.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/241153993_205671821471723_5376348693702640376_n.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PTE_MIK_Kari-epulet.jpg"
   },
   "state": "",
   "title": "University of Pécs",
@@ -20433,7 +20440,14 @@
   "latitude": 0.3475964,
   "logo": {},
   "longitude": 32.5825197,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cityafrica.jpg",
+   "path": "chapter_banners/cityafrica.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cityafrica.jpg"
+  },
   "state": "",
   "title": "Makerere University",
   "relative_url": "/makerere-university/",
@@ -38142,21 +38156,6 @@
  },
  {
   "active": true,
-  "city": "Auckland",
-  "country": "NZ",
-  "id": 2394,
-  "hide_country_info": false,
-  "latitude": -36.85088270000001,
-  "logo": {},
-  "longitude": 174.7644881,
-  "picture": {},
-  "state": "",
-  "title": "University of Auckland",
-  "relative_url": "/university-of-auckland/",
-  "url": "https://gdsc.community.dev/university-of-auckland/"
- },
- {
-  "active": true,
   "city": "Malang",
   "country": "ID",
   "id": 402,
@@ -39709,6 +39708,21 @@
   "title": "Western Mindanao State University",
   "relative_url": "/western-mindanao-state-university/",
   "url": "https://gdsc.community.dev/western-mindanao-state-university/"
+ },
+ {
+  "active": true,
+  "city": "Auckland",
+  "country": "NZ",
+  "id": 2394,
+  "hide_country_info": false,
+  "latitude": -36.85088270000001,
+  "logo": {},
+  "longitude": 174.7644881,
+  "picture": {},
+  "state": "",
+  "title": "X - University of Auckland",
+  "relative_url": "/x-university-of-auckland/",
+  "url": "https://gdsc.community.dev/x-university-of-auckland/"
  },
  {
   "active": true,
