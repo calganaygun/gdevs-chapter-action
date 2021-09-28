@@ -10309,7 +10309,14 @@
   "id": 1614,
   "hide_country_info": false,
   "latitude": 55.755826,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/2021-09-01%252000.07.36.jpg",
+   "path": "chapter_banners/2021-09-01 00.07.36.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2021-09-01%252000.07.36.jpg"
+  },
   "longitude": 37.6172999,
   "picture": {},
   "state": "",
@@ -10415,12 +10422,12 @@
   "logo": {},
   "longitude": -0.1277583,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc_cover%2520%25282%2529.png",
-   "path": "chapter_banners/dsc_cover (2).png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/0000_191111_autumn_library_queens_lawn_001--tojpeg_1583940105577_x1.jpg",
+   "path": "chapter_banners/0000_191111_autumn_library_queens_lawn_001--tojpeg_1583940105577_x1.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc_cover%2520%25282%2529.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/0000_191111_autumn_library_queens_lawn_001--tojpeg_1583940105577_x1.jpg"
   },
   "state": "",
   "title": "Imperial College London",
@@ -23130,21 +23137,6 @@
  },
  {
   "active": true,
-  "city": "Ahmedabad",
-  "country": "IN",
-  "id": 1470,
-  "hide_country_info": false,
-  "latitude": 23.022505,
-  "logo": {},
-  "longitude": 72.5713621,
-  "picture": {},
-  "state": "",
-  "title": "Ahmedabad University - Ahmedabad",
-  "relative_url": "/ahmedabad-university-ahmedabad/",
-  "url": "https://gdsc.community.dev/ahmedabad-university-ahmedabad/"
- },
- {
-  "active": true,
   "city": "Islamabad",
   "country": "PK",
   "id": 1652,
@@ -26259,7 +26251,14 @@
   "latitude": 16.0544563,
   "logo": {},
   "longitude": 108.0717219,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/14.png",
+   "path": "chapter_banners/14.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/14.png"
+  },
   "state": "",
   "title": "FPT University",
   "relative_url": "/fpt-university/",
@@ -28672,7 +28671,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Indore%2520Institute%2520of%2520Science%2520and%2520Technology%2520vertical%2520color%2520%25282%2529.png"
   },
   "longitude": 75.8577258,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-29%2520at%25201.03.03%2520AM.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-09-29 at 1.03.03 AM.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-29%2520at%25201.03.03%2520AM.jpeg"
+  },
   "state": "MP",
   "title": "Indore Institute of Science &Technology - Indore",
   "relative_url": "/indore-institute-of-science-technology-indore/",
@@ -31162,7 +31168,14 @@
   "latitude": 23.2599333,
   "logo": {},
   "longitude": 77.412615,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bg_A4a1jDy.jpg",
+   "path": "chapter_banners/bg_A4a1jDy.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bg_A4a1jDy.jpg"
+  },
   "state": "",
   "title": "Maulana Azad National Institute of Technology -  Bhopal",
   "relative_url": "/maulana-azad-national-institute-of-technology-bhopal/",
@@ -35069,12 +35082,12 @@
   "hide_country_info": false,
   "latitude": 24.8607343,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/67231057_100983974582999_522963275319607296_n.jpg",
-   "path": "chapter_banners/67231057_100983974582999_522963275319607296_n.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/back%2520%25281%2529.jpg",
+   "path": "chapter_banners/back (1).jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/67231057_100983974582999_522963275319607296_n.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/back%2520%25281%2529.jpg"
   },
   "longitude": 67.0011364,
   "picture": {
@@ -36489,18 +36502,18 @@
  },
  {
   "active": true,
-  "city": "Lahore",
+  "city": "Islamabad",
   "country": "PK",
   "id": 230,
   "hide_country_info": false,
-  "latitude": 31.5203696,
+  "latitude": 33.6844202,
   "logo": {},
-  "longitude": 74.35874729999999,
+  "longitude": 73.04788479999999,
   "picture": {},
-  "state": "",
-  "title": "The Virtual University of Pakistan, Lahore Campus",
-  "relative_url": "/the-virtual-university-of-pakistan-lahore-campus/",
-  "url": "https://gdsc.community.dev/the-virtual-university-of-pakistan-lahore-campus/"
+  "state": "Islamabad Capital Territory",
+  "title": "The Virtual University of Pakistan, Islamabad Campus",
+  "relative_url": "/the-virtual-university-of-pakistan-islamabad-campus/",
+  "url": "https://gdsc.community.dev/the-virtual-university-of-pakistan-islamabad-campus/"
  },
  {
   "active": true,
@@ -36771,38 +36784,23 @@
   "active": true,
   "city": "South Tangerang City",
   "country": "ID",
-  "id": 1713,
+  "id": 1772,
   "hide_country_info": false,
   "latitude": -6.2835218,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo%2520chapter%2520lockup%2520centered-icon.png",
+   "path": "chapter_banners/GDSC Logo chapter lockup centered-icon.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo%2520chapter%2520lockup%2520centered-icon.png"
+  },
   "longitude": 106.7112933,
   "picture": {},
   "state": "",
   "title": "UIN Syarif Hidayatullah Jakarta",
   "relative_url": "/uin-syarif-hidayatullah-jakarta/",
   "url": "https://gdsc.community.dev/uin-syarif-hidayatullah-jakarta/"
- },
- {
-  "active": true,
-  "city": "South Tangerang City",
-  "country": "ID",
-  "id": 1772,
-  "hide_country_info": false,
-  "latitude": -6.2835218,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo%2520chapter%2520lockup%2520centered-icon.jpg",
-   "path": "chapter_banners/GDSC Logo chapter lockup centered-icon.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo%2520chapter%2520lockup%2520centered-icon.jpg"
-  },
-  "longitude": 106.7112933,
-  "picture": {},
-  "state": "",
-  "title": "UIN Syarif Hidayatullah Jakarta",
-  "relative_url": "/uin-syarif-hidayatullah-jakarta-1/",
-  "url": "https://gdsc.community.dev/uin-syarif-hidayatullah-jakarta-1/"
  },
  {
   "active": true,
