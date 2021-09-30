@@ -470,7 +470,14 @@
   "latitude": 36.7377981,
   "logo": {},
   "longitude": -119.7871247,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Facebook%2520Banners_LNcdGcX.png",
+   "path": "chapter_banners/Copy of Copy of Google Developer Student Clubs Chapter_ Facebook Banners_LNcdGcX.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Facebook%2520Banners_LNcdGcX.png"
+  },
   "state": "",
   "title": "California State University - Fresno",
   "relative_url": "/california-state-university-fresno/",
@@ -6377,12 +6384,12 @@
   "logo": {},
   "longitude": -96.7265889,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Universidad%2520Tecnol%25C3%25B3gica%2520de%2520la%2520Mixteca%2520Light%2520Vertical-Logo.png",
-   "path": "chapter_banners/DSC Universidad Tecnológica de la Mixteca Light Vertical-Logo.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-29%2520at%25204.34.31%2520PM.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-09-29 at 4.34.31 PM.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Universidad%2520Tecnol%25C3%25B3gica%2520de%2520la%2520Mixteca%2520Light%2520Vertical-Logo.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-29%2520at%25204.34.31%2520PM.jpeg"
   },
   "state": "",
   "title": "Universidad Tecnológica de la Mixteca",
@@ -7467,6 +7474,21 @@
  },
  {
   "active": true,
+  "city": "Bishkek",
+  "country": "KG",
+  "id": 2435,
+  "hide_country_info": false,
+  "latitude": 42.8746212,
+  "logo": {},
+  "longitude": 74.5697617,
+  "picture": {},
+  "state": "",
+  "title": "American University of Central Asia, Bishkek",
+  "relative_url": "/american-university-of-central-asia-bishkek/",
+  "url": "https://gdsc.community.dev/american-university-of-central-asia-bishkek/"
+ },
+ {
+  "active": true,
   "city": "Sharjah - United Arab Emirates",
   "country": "AE",
   "id": 1877,
@@ -7544,6 +7566,21 @@
   "title": "Andalus University For Science & Technology",
   "relative_url": "/andalus-university-for-science-technology/",
   "url": "https://gdsc.community.dev/andalus-university-for-science-technology/"
+ },
+ {
+  "active": true,
+  "city": "Ankara",
+  "country": "TR",
+  "id": 2441,
+  "hide_country_info": false,
+  "latitude": 39.9333635,
+  "logo": {},
+  "longitude": 32.8597419,
+  "picture": {},
+  "state": "",
+  "title": "Ankara Bilim University",
+  "relative_url": "/ankara-bilim-university/",
+  "url": "https://gdsc.community.dev/ankara-bilim-university/"
  },
  {
   "active": true,
@@ -8047,6 +8084,21 @@
  },
  {
   "active": true,
+  "city": "Ankara",
+  "country": "TR",
+  "id": 2439,
+  "hide_country_info": false,
+  "latitude": 39.9333635,
+  "logo": {},
+  "longitude": 32.8597419,
+  "picture": {},
+  "state": "",
+  "title": "Baskent University",
+  "relative_url": "/baskent-university/",
+  "url": "https://gdsc.community.dev/baskent-university/"
+ },
+ {
+  "active": true,
   "city": "Batman",
   "country": "TR",
   "id": 1292,
@@ -8242,6 +8294,21 @@
   "title": "Beykent University",
   "relative_url": "/beykent-university/",
   "url": "https://gdsc.community.dev/beykent-university/"
+ },
+ {
+  "active": true,
+  "city": "Beykoz",
+  "country": "TR",
+  "id": 2434,
+  "hide_country_info": false,
+  "latitude": 41.132719,
+  "logo": {},
+  "longitude": 29.10569,
+  "picture": {},
+  "state": "",
+  "title": "Beykoz University",
+  "relative_url": "/beykoz-university/",
+  "url": "https://gdsc.community.dev/beykoz-university/"
  },
  {
   "active": true,
@@ -9647,6 +9714,21 @@
  },
  {
   "active": true,
+  "city": "Elâzığ Merkez",
+  "country": "TR",
+  "id": 2428,
+  "hide_country_info": false,
+  "latitude": 38.7312587,
+  "logo": {},
+  "longitude": 39.1889005,
+  "picture": {},
+  "state": "",
+  "title": "Fırat University",
+  "relative_url": "/firat-university/",
+  "url": "https://gdsc.community.dev/firat-university/"
+ },
+ {
+  "active": true,
   "city": "İstanbul",
   "country": "TR",
   "id": 1293,
@@ -9703,6 +9785,21 @@
   "title": "Gdansk University of Technology / Politechnika Gdańska",
   "relative_url": "/gdansk-university-of-technology-politechnika-gdanska/",
   "url": "https://gdsc.community.dev/gdansk-university-of-technology-politechnika-gdanska/"
+ },
+ {
+  "active": true,
+  "city": "Gebze",
+  "country": "TR",
+  "id": 2442,
+  "hide_country_info": false,
+  "latitude": 40.9329106,
+  "logo": {},
+  "longitude": 29.5339711,
+  "picture": {},
+  "state": "",
+  "title": "Gebze Teknik University",
+  "relative_url": "/gebze-teknik-university/",
+  "url": "https://gdsc.community.dev/gebze-teknik-university/"
  },
  {
   "active": true,
@@ -10634,6 +10731,21 @@
  },
  {
   "active": true,
+  "city": "Tokmok",
+  "country": "KG",
+  "id": 2437,
+  "hide_country_info": false,
+  "latitude": 42.8257618,
+  "logo": {},
+  "longitude": 75.2901807,
+  "picture": {},
+  "state": "",
+  "title": "International University of Central Asia (IUCA), Tokmok",
+  "relative_url": "/international-university-of-central-asia-iuca-tokmok/",
+  "url": "https://gdsc.community.dev/international-university-of-central-asia-iuca-tokmok/"
+ },
+ {
+  "active": true,
   "city": "Sana'a",
   "country": "YE",
   "id": 1797,
@@ -10682,6 +10794,21 @@
   "title": "International multidisciplinary school",
   "relative_url": "/international-multidisciplinary-school/",
   "url": "https://gdsc.community.dev/international-multidisciplinary-school/"
+ },
+ {
+  "active": true,
+  "city": "İskenderun",
+  "country": "TR",
+  "id": 2430,
+  "hide_country_info": false,
+  "latitude": 36.584673,
+  "logo": {},
+  "longitude": 36.1756161,
+  "picture": {},
+  "state": "",
+  "title": "Iskenderun Technical University",
+  "relative_url": "/iskenderun-technical-university/",
+  "url": "https://gdsc.community.dev/iskenderun-technical-university/"
  },
  {
   "active": true,
@@ -11316,6 +11443,21 @@
  },
  {
   "active": true,
+  "city": "Almaty",
+  "country": "KZ",
+  "id": 2432,
+  "hide_country_info": false,
+  "latitude": 43.2220146,
+  "logo": {},
+  "longitude": 76.8512485,
+  "picture": {},
+  "state": "",
+  "title": "Kazakh-British Technical University, Almaty",
+  "relative_url": "/kazakh-british-technical-university-almaty/",
+  "url": "https://gdsc.community.dev/kazakh-british-technical-university-almaty/"
+ },
+ {
+  "active": true,
   "city": "Kazan",
   "country": "RU",
   "id": 519,
@@ -11621,6 +11763,36 @@
   "title": "Konya Food and Agriculture University",
   "relative_url": "/konya-food-and-agriculture-university/",
   "url": "https://gdsc.community.dev/konya-food-and-agriculture-university/"
+ },
+ {
+  "active": true,
+  "city": "Konya",
+  "country": "TR",
+  "id": 2433,
+  "hide_country_info": false,
+  "latitude": 37.8746429,
+  "logo": {},
+  "longitude": 32.4931554,
+  "picture": {},
+  "state": "",
+  "title": "Konya Gıda ve Tarım University",
+  "relative_url": "/konya-gida-ve-tarim-university/",
+  "url": "https://gdsc.community.dev/konya-gida-ve-tarim-university/"
+ },
+ {
+  "active": true,
+  "city": "Konya",
+  "country": "TR",
+  "id": 2438,
+  "hide_country_info": false,
+  "latitude": 37.8746429,
+  "logo": {},
+  "longitude": 32.4931554,
+  "picture": {},
+  "state": "",
+  "title": "Konya Technical University",
+  "relative_url": "/konya-technical-university/",
+  "url": "https://gdsc.community.dev/konya-technical-university/"
  },
  {
   "active": true,
@@ -14654,21 +14826,6 @@
  },
  {
   "active": true,
-  "city": "Haifa",
-  "country": "IL",
-  "id": 2192,
-  "hide_country_info": false,
-  "latitude": 32.7940463,
-  "logo": {},
-  "longitude": 34.989571,
-  "picture": {},
-  "state": "",
-  "title": "Technion - Israel Institute of Technology, Haifa",
-  "relative_url": "/technion-israel-institute-of-technology-haifa-1/",
-  "url": "https://gdsc.community.dev/technion-israel-institute-of-technology-haifa-1/"
- },
- {
-  "active": true,
   "city": "Ingolstadt",
   "country": "DE",
   "id": 2378,
@@ -15021,6 +15178,21 @@
   "title": "Tunisia - Institut Supérieur des Technologies de l'Information et des Communications",
   "relative_url": "/tunisia-institut-superieur-des-technologies-de-linformation-et-des-communications/",
   "url": "https://gdsc.community.dev/tunisia-institut-superieur-des-technologies-de-linformation-et-des-communications/"
+ },
+ {
+  "active": true,
+  "city": "Tashkent",
+  "country": "UZ",
+  "id": 2429,
+  "hide_country_info": false,
+  "latitude": 41.2994958,
+  "logo": {},
+  "longitude": 69.2400734,
+  "picture": {},
+  "state": "",
+  "title": "Turin Polytechnic University in Tashkent",
+  "relative_url": "/turin-polytechnic-university-in-tashkent/",
+  "url": "https://gdsc.community.dev/turin-polytechnic-university-in-tashkent/"
  },
  {
   "active": true,
@@ -16183,21 +16355,21 @@
   "hide_country_info": false,
   "latitude": 53.4083714,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/unnamed_PGVHa9i.png",
-   "path": "chapter_banners/unnamed_PGVHa9i.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520logo.jpeg",
+   "path": "chapter_banners/gdsc logo.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/unnamed_PGVHa9i.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520logo.jpeg"
   },
   "longitude": -2.9915726,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/royce-liverpool-banner.jpg",
-   "path": "chapter_banners/royce-liverpool-banner.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1_HLw8Ot2.jpeg",
+   "path": "chapter_banners/1_HLw8Ot2.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/royce-liverpool-banner.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1_HLw8Ot2.jpeg"
   },
   "state": "",
   "title": "University of Liverpool",
@@ -16798,12 +16970,12 @@
   "logo": {},
   "longitude": 13.1913383,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Cover%2520Pic.jpg",
-   "path": "chapter_banners/DSC Cover Pic.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520presentation.jpg",
+   "path": "chapter_banners/Untitled presentation.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Cover%2520Pic.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520presentation.jpg"
   },
   "state": "",
   "title": "University of Tripoli",
@@ -17228,6 +17400,21 @@
   "title": "Yeditepe University",
   "relative_url": "/yeditepe-university/",
   "url": "https://gdsc.community.dev/yeditepe-university/"
+ },
+ {
+  "active": true,
+  "city": "Tashkent",
+  "country": "UZ",
+  "id": 2440,
+  "hide_country_info": false,
+  "latitude": 41.2994958,
+  "logo": {},
+  "longitude": 69.2400734,
+  "picture": {},
+  "state": "",
+  "title": "Yeoju Technical Institute in Tashkent",
+  "relative_url": "/yeoju-technical-institute-in-tashkent/",
+  "url": "https://gdsc.community.dev/yeoju-technical-institute-in-tashkent/"
  },
  {
   "active": true,
@@ -17701,6 +17888,21 @@
  },
  {
   "active": true,
+  "city": "Çankırı Merkez",
+  "country": "TR",
+  "id": 2443,
+  "hide_country_info": false,
+  "latitude": 40.51789309999999,
+  "logo": {},
+  "longitude": 33.7600452,
+  "picture": {},
+  "state": "",
+  "title": "Çankırı Karatekin University",
+  "relative_url": "/cankiri-karatekin-university/",
+  "url": "https://gdsc.community.dev/cankiri-karatekin-university/"
+ },
+ {
+  "active": true,
   "city": "Adana",
   "country": "TR",
   "id": 1210,
@@ -17870,6 +18072,21 @@
  },
  {
   "active": true,
+  "city": "İstanbul",
+  "country": "TR",
+  "id": 2431,
+  "hide_country_info": false,
+  "latitude": 41.0082376,
+  "logo": {},
+  "longitude": 28.9783589,
+  "picture": {},
+  "state": "",
+  "title": "İstanbul Bilgi University",
+  "relative_url": "/istanbul-bilgi-university/",
+  "url": "https://gdsc.community.dev/istanbul-bilgi-university/"
+ },
+ {
+  "active": true,
   "city": "Izmir",
   "country": "TR",
   "id": 1154,
@@ -17882,6 +18099,21 @@
   "title": "İzmir Institute of Technology",
   "relative_url": "/izmir-institute-of-technology/",
   "url": "https://gdsc.community.dev/izmir-institute-of-technology/"
+ },
+ {
+  "active": true,
+  "city": "İzmir",
+  "country": "TR",
+  "id": 2436,
+  "hide_country_info": false,
+  "latitude": 38.423734,
+  "logo": {},
+  "longitude": 27.142826,
+  "picture": {},
+  "state": "",
+  "title": "İzmir Katip Çelebi University",
+  "relative_url": "/izmir-katip-celebi-university/",
+  "url": "https://gdsc.community.dev/izmir-katip-celebi-university/"
  },
  {
   "active": true,
@@ -19446,7 +19678,14 @@
   "latitude": null,
   "logo": {},
   "longitude": null,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/20210929_153747.jpg",
+   "path": "chapter_banners/20210929_153747.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/20210929_153747.jpg"
+  },
   "state": "",
   "title": "Federal University of Technology Minna",
   "relative_url": "/federal-university-of-technology-minna/",
@@ -22700,7 +22939,14 @@
   "latitude": 6.4503024,
   "logo": {},
   "longitude": 2.3468195,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/242796152_116523867428692_2799104551634997081_n.jpg",
+   "path": "chapter_banners/242796152_116523867428692_2799104551634997081_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/242796152_116523867428692_2799104551634997081_n.jpg"
+  },
   "state": "",
   "title": "Université d'Abomey-Calavi (UAC)",
   "relative_url": "/universite-dabomey-calavi-uac/",
@@ -27186,7 +27432,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdev-eccosystems-bevy-chapters-thumbnail_3tcOYrU.png"
   },
   "longitude": 82.1409152,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design_cvhqdyW.png",
+   "path": "chapter_banners/Untitled design_cvhqdyW.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design_cvhqdyW.png"
+  },
   "state": "",
   "title": "Government Engineering College - Bilaspur",
   "relative_url": "/government-engineering-college-bilaspur/",
@@ -30654,9 +30907,9 @@
   "longitude": 76.26730409999999,
   "picture": {},
   "state": "",
-  "title": "MES College of Engineering and Technology - Kochi",
-  "relative_url": "/mes-college-of-engineering-and-technology-kochi/",
-  "url": "https://gdsc.community.dev/mes-college-of-engineering-and-technology-kochi/"
+  "title": "MES Marampally - Kochi",
+  "relative_url": "/mes-marampally-kochi/",
+  "url": "https://gdsc.community.dev/mes-marampally-kochi/"
  },
  {
   "active": true,
@@ -33784,12 +34037,12 @@
   "logo": {},
   "longitude": 144.9630576,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Women%2520In%2520Tech%2520Background%2520Image-4.png",
-   "path": "chapter_banners/Women In Tech Background Image-4.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Geeky%2520Google%2520Tech%2520Talks%2520Background_FGJ1qZR.png",
+   "path": "chapter_banners/Geeky Google Tech Talks Background_FGJ1qZR.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Women%2520In%2520Tech%2520Background%2520Image-4.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Geeky%2520Google%2520Tech%2520Talks%2520Background_FGJ1qZR.png"
   },
   "state": "",
   "title": "RMIT University, Melbourne",
@@ -34458,7 +34711,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%25282%2529.png"
   },
   "longitude": 67.0011364,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner%25203.jpg",
+   "path": "chapter_banners/Banner 3.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner%25203.jpg"
+  },
   "state": "",
   "title": "Salim Habib University",
   "relative_url": "/salim-habib-university/",
