@@ -9737,12 +9737,12 @@
   "logo": {},
   "longitude": 28.9783589,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1_0ZGaXga.jpg",
-   "path": "chapter_banners/1_0ZGaXga.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Slider01.jpg",
+   "path": "chapter_banners/Slider01.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1_0ZGaXga.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Slider01.jpg"
   },
   "state": "",
   "title": "Galatasaray University",
@@ -14676,15 +14676,22 @@
   "id": 144,
   "hide_country_info": false,
   "latitude": 21.2840782,
-  "logo": {},
-  "longitude": 40.42481919999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-08-07%2520at%25203.11.10%2520AM_1VbPfK9.jpeg",
-   "path": "chapter_banners/WhatsApp Image 2021-08-07 at 3.11.10 AM_1VbPfK9.jpeg",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DBE92913-C365-4E9D-8461-E199D13C1A15.png",
+   "path": "chapter_banners/DBE92913-C365-4E9D-8461-E199D13C1A15.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-08-07%2520at%25203.11.10%2520AM_1VbPfK9.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DBE92913-C365-4E9D-8461-E199D13C1A15.png"
+  },
+  "longitude": 40.42481919999999,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/34E83D5A-937F-4234-A842-5D2F1A7258F0.png",
+   "path": "chapter_banners/34E83D5A-937F-4234-A842-5D2F1A7258F0.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/34E83D5A-937F-4234-A842-5D2F1A7258F0.png"
   },
   "state": "",
   "title": "Taif university",
@@ -16364,12 +16371,12 @@
   },
   "longitude": -2.9915726,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1_HLw8Ot2.jpeg",
-   "path": "chapter_banners/1_HLw8Ot2.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/liverpool-city-1024x580.jpeg",
+   "path": "chapter_banners/liverpool-city-1024x580.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1_HLw8Ot2.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/liverpool-city-1024x580.jpeg"
   },
   "state": "",
   "title": "University of Liverpool",
@@ -17895,7 +17902,14 @@
   "latitude": 40.51789309999999,
   "logo": {},
   "longitude": 33.7600452,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1588504282913.jpeg",
+   "path": "chapter_banners/1588504282913.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1588504282913.jpeg"
+  },
   "state": "",
   "title": "Çankırı Karatekin University",
   "relative_url": "/cankiri-karatekin-university/",
@@ -26576,35 +26590,6 @@
  },
  {
   "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 254,
-  "hide_country_info": false,
-  "latitude": 10.8230989,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520FPTU%2520HCMC%2520LOGO%25201X1.png",
-   "path": "chapter_banners/DSC FPTU HCMC LOGO 1X1.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520FPTU%2520HCMC%2520LOGO%25201X1.png"
-  },
-  "longitude": 106.6296638,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/2020_1109_18320300.jpg",
-   "path": "chapter_banners/2020_1109_18320300.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2020_1109_18320300.jpg"
-  },
-  "state": "",
-  "title": "FPT University HCMC",
-  "relative_url": "/fpt-university-hcmc/",
-  "url": "https://gdsc.community.dev/fpt-university-hcmc/"
- },
- {
-  "active": true,
   "city": "Muntinlupa",
   "country": "PH",
   "id": 2286,
@@ -26850,21 +26835,6 @@
   "title": "Feng Chia University",
   "relative_url": "/feng-chia-university/",
   "url": "https://gdsc.community.dev/feng-chia-university/"
- },
- {
-  "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 1634,
-  "hide_country_info": false,
-  "latitude": 10.746903,
-  "logo": {},
-  "longitude": 106.676292,
-  "picture": {},
-  "state": "",
-  "title": "Foreign Trade University",
-  "relative_url": "/foreign-trade-university/",
-  "url": "https://gdsc.community.dev/foreign-trade-university/"
  },
  {
   "active": true,
@@ -27182,7 +27152,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520LOGO%25202021-22-1.png"
   },
   "longitude": 77.3910265,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Banner_wqumaYH.jpeg",
+   "path": "chapter_banners/GDSC Banner_wqumaYH.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Banner_wqumaYH.jpeg"
+  },
   "state": "",
   "title": "Galgotias University - Greater Noida",
   "relative_url": "/galgotias-university-greater-noida/",
@@ -28053,36 +28030,6 @@
   "title": "Ho Chi Minh City University of Technology",
   "relative_url": "/ho-chi-minh-city-university-of-technology/",
   "url": "https://gdsc.community.dev/ho-chi-minh-city-university-of-technology/"
- },
- {
-  "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 1766,
-  "hide_country_info": false,
-  "latitude": 10.746903,
-  "logo": {},
-  "longitude": 106.676292,
-  "picture": {},
-  "state": "",
-  "title": "Ho Chi Minh City University of Technology and Education - HCMUTE",
-  "relative_url": "/ho-chi-minh-city-university-of-technology-and-education-hcmute/",
-  "url": "https://gdsc.community.dev/ho-chi-minh-city-university-of-technology-and-education-hcmute/"
- },
- {
-  "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 1774,
-  "hide_country_info": false,
-  "latitude": 10.746903,
-  "logo": {},
-  "longitude": 106.676292,
-  "picture": {},
-  "state": "",
-  "title": "Ho Chi Minh City University of Transport",
-  "relative_url": "/ho-chi-minh-city-university-of-transport/",
-  "url": "https://gdsc.community.dev/ho-chi-minh-city-university-of-transport/"
  },
  {
   "active": true,
@@ -28974,12 +28921,12 @@
   },
   "longitude": 75.8577258,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-29%2520at%25201.03.03%2520AM.jpeg",
-   "path": "chapter_banners/WhatsApp Image 2021-09-29 at 1.03.03 AM.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-29%2520at%25201.03.03%2520AM_1ViJxqd.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-09-29 at 1.03.03 AM_1ViJxqd.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-29%2520at%25201.03.03%2520AM.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-29%2520at%25201.03.03%2520AM_1ViJxqd.jpeg"
   },
   "state": "MP",
   "title": "Indore Institute of Science &Technology - Indore",
@@ -29558,21 +29505,6 @@
   "title": "International Islamic University Malaysia",
   "relative_url": "/international-islamic-university-malaysia/",
   "url": "https://gdsc.community.dev/international-islamic-university-malaysia/"
- },
- {
-  "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 1631,
-  "hide_country_info": false,
-  "latitude": 10.746903,
-  "logo": {},
-  "longitude": 106.676292,
-  "picture": {},
-  "state": "",
-  "title": "International University - Vietnam National University HCM City",
-  "relative_url": "/international-university-vietnam-national-university-hcm-city/",
-  "url": "https://gdsc.community.dev/international-university-vietnam-national-university-hcm-city/"
  },
  {
   "active": true,
@@ -34667,33 +34599,18 @@
   "latitude": 10.746903,
   "logo": {},
   "longitude": 106.676292,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/236818165_132586782420931_2052359559619414165_n.jpeg",
+   "path": "chapter_banners/236818165_132586782420931_2052359559619414165_n.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/236818165_132586782420931_2052359559619414165_n.jpeg"
+  },
   "state": "",
   "title": "Sai Gon University - SGU",
   "relative_url": "/sai-gon-university-sgu/",
   "url": "https://gdsc.community.dev/sai-gon-university-sgu/"
- },
- {
-  "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 1635,
-  "hide_country_info": false,
-  "latitude": 10.746903,
-  "logo": {},
-  "longitude": 106.676292,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/maxresdefault_fc99Yye.jpg",
-   "path": "chapter_banners/maxresdefault_fc99Yye.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/maxresdefault_fc99Yye.jpg"
-  },
-  "state": "",
-  "title": "Saigon Technology University",
-  "relative_url": "/saigon-technology-university/",
-  "url": "https://gdsc.community.dev/saigon-technology-university/"
  },
  {
   "active": true,
@@ -38506,28 +38423,6 @@
  },
  {
   "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 1753,
-  "hide_country_info": false,
-  "latitude": 10.746903,
-  "logo": {},
-  "longitude": 106.676292,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner%2520page_vz4Iwsd.png",
-   "path": "chapter_banners/banner page_vz4Iwsd.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner%2520page_vz4Iwsd.png"
-  },
-  "state": "",
-  "title": "University of Economics and Law",
-  "relative_url": "/university-of-economics-and-law/",
-  "url": "https://gdsc.community.dev/university-of-economics-and-law/"
- },
- {
-  "active": true,
   "city": "Lahore",
   "country": "PK",
   "id": 201,
@@ -39363,21 +39258,6 @@
  },
  {
   "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 513,
-  "hide_country_info": false,
-  "latitude": 10.8230989,
-  "logo": {},
-  "longitude": 106.6296638,
-  "picture": {},
-  "state": "",
-  "title": "VNU HCM - University of Industry",
-  "relative_url": "/vnu-hcm-university-of-industry/",
-  "url": "https://gdsc.community.dev/vnu-hcm-university-of-industry/"
- },
- {
-  "active": true,
   "city": "Ho Chi Minh",
   "country": "VN",
   "id": 596,
@@ -39390,43 +39270,6 @@
   "title": "VNU HCM - University of Science (Nguyen Van Cu)",
   "relative_url": "/vnu-hcm-university-of-science-nguyen-van-cu/",
   "url": "https://gdsc.community.dev/vnu-hcm-university-of-science-nguyen-van-cu/"
- },
- {
-  "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 597,
-  "hide_country_info": false,
-  "latitude": 10.8230989,
-  "logo": {},
-  "longitude": 106.6296638,
-  "picture": {},
-  "state": "",
-  "title": "VNU HCM - University of Science (Thu Duc)",
-  "relative_url": "/vnu-hcm-university-of-science-thu-duc/",
-  "url": "https://gdsc.community.dev/vnu-hcm-university-of-science-thu-duc/"
- },
- {
-  "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 463,
-  "hide_country_info": false,
-  "latitude": 10.8230989,
-  "logo": {},
-  "longitude": 106.6296638,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dscBanner_rVcr9fN.png",
-   "path": "chapter_banners/dscBanner_rVcr9fN.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dscBanner_rVcr9fN.png"
-  },
-  "state": "",
-  "title": "VNU HCM - University of Technology",
-  "relative_url": "/vnu-hcm-university-of-technology/",
-  "url": "https://gdsc.community.dev/vnu-hcm-university-of-technology/"
  },
  {
   "active": true,
