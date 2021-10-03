@@ -5648,7 +5648,14 @@
   "latitude": -22.3837126,
   "logo": {},
   "longitude": -41.7827578,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner_gdsc_page.png",
+   "path": "chapter_banners/banner_gdsc_page.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner_gdsc_page.png"
+  },
   "state": "",
   "title": "UNINTER",
   "relative_url": "/uninter/",
@@ -10802,7 +10809,14 @@
   "id": 2430,
   "hide_country_info": false,
   "latitude": 36.584673,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/i_SURApY_400x400.jpg",
+   "path": "chapter_banners/i_SURApY_400x400.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/i_SURApY_400x400.jpg"
+  },
   "longitude": 36.1756161,
   "picture": {},
   "state": "",
@@ -16371,12 +16385,12 @@
   },
   "longitude": -2.9915726,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/liverpool-city-1024x580.jpeg",
-   "path": "chapter_banners/liverpool-city-1024x580.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Liverpool-city-scape.png",
+   "path": "chapter_banners/Liverpool-city-scape.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/liverpool-city-1024x580.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Liverpool-city-scape.png"
   },
   "state": "",
   "title": "University of Liverpool",
@@ -16740,7 +16754,14 @@
   "latitude": 50.8197675,
   "logo": {},
   "longitude": -1.0879769,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Portsmouth%252BWest%252BAerial%252BPanorama%252B2020%252B%25284%2529.png",
+   "path": "chapter_banners/Portsmouth+West+Aerial+Panorama+2020+(4).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Portsmouth%252BWest%252BAerial%252BPanorama%252B2020%252B%25284%2529.png"
+  },
   "state": "",
   "title": "University of Portsmouth",
   "relative_url": "/university-of-portsmouth/",
@@ -17432,7 +17453,14 @@
   "latitude": 41.0082376,
   "logo": {},
   "longitude": 28.9783589,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/yildiz-teknik-universitesi-endustri-muhendisligi-1024x768.jpg",
+   "path": "chapter_banners/yildiz-teknik-universitesi-endustri-muhendisligi-1024x768.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/yildiz-teknik-universitesi-endustri-muhendisligi-1024x768.jpg"
+  },
   "state": "",
   "title": "Yıldız Technical University",
   "relative_url": "/yildiz-technical-university/",
@@ -27233,7 +27261,14 @@
   "latitude": 26.1445169,
   "logo": {},
   "longitude": 91.7362365,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/rei-kim-YJ9wcT3pfrU-unsplash.jpg",
+   "path": "chapter_banners/rei-kim-YJ9wcT3pfrU-unsplash.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/rei-kim-YJ9wcT3pfrU-unsplash.jpg"
+  },
   "state": "",
   "title": "Gauhati University - Guwahati",
   "relative_url": "/gauhati-university-guwahati/",
@@ -29338,12 +29373,12 @@
   "hide_country_info": false,
   "latitude": 20.2960587,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_5Df016W.png",
-   "path": "chapter_banners/Copy of dsc-ecosystem-profilepicture-linkedin_5Df016W.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG_20211003_035615.jpg",
+   "path": "chapter_banners/IMG_20211003_035615.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_5Df016W.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG_20211003_035615.jpg"
   },
   "longitude": 85.8245398,
   "picture": {
@@ -36948,7 +36983,14 @@
   "latitude": -7.9716403,
   "logo": {},
   "longitude": 112.6317838,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bg-web-02.png",
+   "path": "chapter_banners/bg-web-02.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bg-web-02.png"
+  },
   "state": "",
   "title": "UIN Maulana Malik Ibrahim Malang",
   "relative_url": "/uin-maulana-malik-ibrahim-malang/",
