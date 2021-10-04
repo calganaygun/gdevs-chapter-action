@@ -9802,7 +9802,14 @@
   "latitude": 40.9329106,
   "logo": {},
   "longitude": 29.5339711,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/21404020200602043821722.jpeg",
+   "path": "chapter_banners/21404020200602043821722.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/21404020200602043821722.jpeg"
+  },
   "state": "",
   "title": "Gebze Teknik University",
   "relative_url": "/gebze-teknik-university/",
@@ -12193,7 +12200,14 @@
   "latitude": 41.1121849,
   "logo": {},
   "longitude": 29.019965,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner%2520%25281%2529_kz1CMLJ.png",
+   "path": "chapter_banners/banner (1)_kz1CMLJ.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner%2520%25281%2529_kz1CMLJ.png"
+  },
   "state": "",
   "title": "MEF University",
   "relative_url": "/mef-university/",
@@ -13303,12 +13317,12 @@
   },
   "longitude": -0.5653648,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cov.png",
-   "path": "chapter_banners/cov.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Capture2021.png",
+   "path": "chapter_banners/Capture2021.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cov.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Capture2021.png"
   },
   "state": "",
   "title": "Oran University of Science and Technology - Mohamed Boudiaf",
@@ -14948,7 +14962,14 @@
   "id": 1876,
   "hide_country_info": false,
   "latitude": 32.0852999,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520TAU.jpg",
+   "path": "chapter_banners/Logo TAU.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520TAU.jpg"
+  },
   "longitude": 34.78176759999999,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/%25D7%25A6%25D7%25A7%25D7%25A4%25D7%2595%25D7%2599%25D7%25A0%25D7%2598%25202.jpg",
@@ -20265,12 +20286,12 @@
   "logo": {},
   "longitude": 36.080026,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/meetup2.jpeg",
-   "path": "chapter_banners/meetup2.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/20210918_131259.jpg",
+   "path": "chapter_banners/20210918_131259.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/meetup2.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/20210918_131259.jpg"
   },
   "state": "",
   "title": "Kabarak University",
@@ -23732,12 +23753,12 @@
   "logo": {},
   "longitude": 77.3910265,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Amity%2520University%2520Logo%2520x2_loCjd8N.png",
-   "path": "chapter_banners/DSC Amity University Logo x2_loCjd8N.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC_Banner_jzrid8S.png",
+   "path": "chapter_banners/GDSC_Banner_jzrid8S.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Amity%2520University%2520Logo%2520x2_loCjd8N.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC_Banner_jzrid8S.png"
   },
   "state": "",
   "title": "Amity University - Noida",
@@ -25007,6 +25028,28 @@
   "title": "CMR Technical Campus - Hyderabad",
   "relative_url": "/cmr-technical-campus-hyderabad/",
   "url": "https://gdsc.community.dev/cmr-technical-campus-hyderabad/"
+ },
+ {
+  "active": true,
+  "city": "Hyderabad",
+  "country": "IN",
+  "id": 1020,
+  "hide_country_info": false,
+  "latitude": 17.385044,
+  "logo": {},
+  "longitude": 78.486671,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cvrlogo_aGTJGCO.jpg",
+   "path": "chapter_banners/cvrlogo_aGTJGCO.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cvrlogo_aGTJGCO.jpg"
+  },
+  "state": "",
+  "title": "CVR College of Engineering - Hyderabad",
+  "relative_url": "/cvr-college-of-engineering-hyderabad/",
+  "url": "https://gdsc.community.dev/cvr-college-of-engineering-hyderabad/"
  },
  {
   "active": true,
@@ -37583,12 +37626,12 @@
   "hide_country_info": false,
   "latitude": -7.7955798,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-03%2520at%252012.56.29.jpeg",
-   "path": "chapter_banners/WhatsApp Image 2021-09-03 at 12.56.29.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/5EF22A3E-F82E-42E7-AD9A-3B6A5D32EAF6.png",
+   "path": "chapter_banners/5EF22A3E-F82E-42E7-AD9A-3B6A5D32EAF6.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-03%2520at%252012.56.29.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/5EF22A3E-F82E-42E7-AD9A-3B6A5D32EAF6.png"
   },
   "longitude": 110.3694896,
   "picture": {},
