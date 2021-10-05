@@ -9178,28 +9178,6 @@
   "active": true,
   "city": "Cairo",
   "country": "EG",
-  "id": 123,
-  "hide_country_info": false,
-  "latitude": 30.0444196,
-  "logo": {},
-  "longitude": 31.2357116,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/3cd9808e-cadf-4e6f-9455-4da26a995b8d-940x626_c.jpg",
-   "path": "chapter_banners/3cd9808e-cadf-4e6f-9455-4da26a995b8d-940x626_c.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/3cd9808e-cadf-4e6f-9455-4da26a995b8d-940x626_c.jpg"
-  },
-  "state": "",
-  "title": "Egyptian Chinese University",
-  "relative_url": "/egyptian-chinese-university/",
-  "url": "https://gdsc.community.dev/egyptian-chinese-university/"
- },
- {
-  "active": true,
-  "city": "Cairo",
-  "country": "EG",
   "id": 1791,
   "hide_country_info": false,
   "latitude": 30.0444196,
@@ -17912,9 +17890,23 @@
   "id": 1198,
   "hide_country_info": false,
   "latitude": 40.14671999999999,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Ads%25C4%25B1z%2520tasar%25C4%25B1m%2520%25284%2529_IeOZz2f.png",
+   "path": "chapter_banners/Adsız tasarım (4)_IeOZz2f.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Ads%25C4%25B1z%2520tasar%25C4%25B1m%2520%25284%2529_IeOZz2f.png"
+  },
   "longitude": 26.408587,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/comu2-18591.jpg",
+   "path": "chapter_banners/comu2-18591.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/comu2-18591.jpg"
+  },
   "state": "",
   "title": "Çanakkale Onsekiz Mart University",
   "relative_url": "/canakkale-onsekiz-mart-university/",
@@ -18935,21 +18927,6 @@
   "title": "Carnegie Mellon University Africa",
   "relative_url": "/carnegie-mellon-university-africa/",
   "url": "https://gdsc.community.dev/carnegie-mellon-university-africa/"
- },
- {
-  "active": true,
-  "city": "Fiapire",
-  "country": "GH",
-  "id": 2272,
-  "hide_country_info": false,
-  "latitude": 7.364437000000001,
-  "logo": {},
-  "longitude": -2.349286,
-  "picture": {},
-  "state": "",
-  "title": "Catholic University",
-  "relative_url": "/catholic-university/",
-  "url": "https://gdsc.community.dev/catholic-university/"
  },
  {
   "active": true,
@@ -22970,7 +22947,14 @@
   "id": 2355,
   "hide_country_info": false,
   "latitude": -4.4419311,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/KO9d4AsQ_400x400.jpg",
+   "path": "chapter_banners/KO9d4AsQ_400x400.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/KO9d4AsQ_400x400.jpg"
+  },
   "longitude": 15.2662931,
   "picture": {},
   "state": "Kinshasa",
@@ -29400,9 +29384,23 @@
   "id": 2223,
   "hide_country_info": false,
   "latitude": 33.6844202,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG-20211003-WA0019.jpg",
+   "path": "chapter_banners/IMG-20211003-WA0019.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG-20211003-WA0019.jpg"
+  },
   "longitude": 73.04788479999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners_Noa94Dx.jpg",
+   "path": "chapter_banners/Copy of Copy of Google Developer Student Clubs Chapter_ Twitter Banners_Noa94Dx.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Twitter%2520Banners_Noa94Dx.jpg"
+  },
   "state": "",
   "title": "Institute of Space Technology",
   "relative_url": "/institute-of-space-technology/",
@@ -29524,21 +29522,6 @@
   "title": "International Institute of Information Technology (ISquareIT) - Pune",
   "relative_url": "/international-institute-of-information-technology-isquareit-pune/",
   "url": "https://gdsc.community.dev/international-institute-of-information-technology-isquareit-pune/"
- },
- {
-  "active": true,
-  "city": "Bhubaneswar",
-  "country": "IN",
-  "id": 1975,
-  "hide_country_info": false,
-  "latitude": 20.2960587,
-  "logo": {},
-  "longitude": 85.8245398,
-  "picture": {},
-  "state": "",
-  "title": "International Institute of Information Technology, (IIIT) Bhubaneswar",
-  "relative_url": "/international-institute-of-information-technology-iiit-bhubaneswar-1/",
-  "url": "https://gdsc.community.dev/international-institute-of-information-technology-iiit-bhubaneswar-1/"
  },
  {
   "active": true,
@@ -37099,7 +37082,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo%2520chapter%2520lockup%2520centered-icon.png"
   },
   "longitude": 106.7112933,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-01_N5No4OU.png",
+   "path": "chapter_banners/Copy of dsc-ecosystem-blogstory-01_N5No4OU.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-blogstory-01_N5No4OU.png"
+  },
   "state": "",
   "title": "UIN Syarif Hidayatullah Jakarta",
   "relative_url": "/uin-syarif-hidayatullah-jakarta/",
