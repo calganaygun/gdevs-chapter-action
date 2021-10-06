@@ -2439,7 +2439,14 @@
   "latitude": 45.5016889,
   "logo": {},
   "longitude": -73.567256,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner_JbEq3kh.png",
+   "path": "chapter_banners/banner_JbEq3kh.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner_JbEq3kh.png"
+  },
   "state": "",
   "title": "Polytechnique Montréal",
   "relative_url": "/polytechnique-montreal/",
@@ -4068,12 +4075,12 @@
   "logo": {},
   "longitude": -97.7430608,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/UT%2520Austin.jpg",
-   "path": "chapter_banners/UT Austin.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/linkedln%2520cover1.png",
+   "path": "chapter_banners/linkedln cover1.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/UT%2520Austin.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/linkedln%2520cover1.png"
   },
   "state": "",
   "title": "University of Texas - Austin",
@@ -6827,6 +6834,21 @@
  },
  {
   "active": true,
+  "city": "Kayseri",
+  "country": "TR",
+  "id": 2447,
+  "hide_country_info": false,
+  "latitude": 38.720489,
+  "logo": {},
+  "longitude": 35.48259700000001,
+  "picture": {},
+  "state": "Kayseri",
+  "title": "Abdullah Gül University",
+  "relative_url": "/abdullah-gul-university/",
+  "url": "https://gdsc.community.dev/abdullah-gul-university/"
+ },
+ {
+  "active": true,
   "city": "Tlmcen",
   "country": "DZ",
   "id": 165,
@@ -7911,6 +7933,28 @@
   "title": "Athens University of Economics and Business",
   "relative_url": "/athens-university-of-economics-and-business/",
   "url": "https://gdsc.community.dev/athens-university-of-economics-and-business/"
+ },
+ {
+  "active": true,
+  "city": "Aydın",
+  "country": "TR",
+  "id": 2445,
+  "hide_country_info": false,
+  "latitude": 37.8380162,
+  "logo": {},
+  "longitude": 27.8455601,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Ayd%25C4%25B1n%2520Adnan%2520Menderes%2520University%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC Aydın Adnan Menderes University vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Ayd%25C4%25B1n%2520Adnan%2520Menderes%2520University%2520vertical%2520color.png"
+  },
+  "state": "Aydın",
+  "title": "Aydın Adnan Menderes University",
+  "relative_url": "/aydin-adnan-menderes-university/",
+  "url": "https://gdsc.community.dev/aydin-adnan-menderes-university/"
  },
  {
   "active": true,
@@ -11891,7 +11935,14 @@
   "latitude": 61.05499289999999,
   "logo": {},
   "longitude": 28.1896627,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/headerkuva-etusivu-lut-syksy.jpeg",
+   "path": "chapter_banners/headerkuva-etusivu-lut-syksy.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/headerkuva-etusivu-lut-syksy.jpeg"
+  },
   "state": "",
   "title": "LUT University",
   "relative_url": "/lut-university/",
@@ -14548,6 +14599,21 @@
   "active": true,
   "city": "Ankara",
   "country": "TR",
+  "id": 2448,
+  "hide_country_info": false,
+  "latitude": 39.9333635,
+  "logo": {},
+  "longitude": 32.8597419,
+  "picture": {},
+  "state": "Ankara",
+  "title": "TED University",
+  "relative_url": "/ted-university/",
+  "url": "https://gdsc.community.dev/ted-university/"
+ },
+ {
+  "active": true,
+  "city": "Ankara",
+  "country": "TR",
   "id": 1233,
   "hide_country_info": false,
   "latitude": 39.9333635,
@@ -15414,7 +15480,14 @@
   "latitude": 42.812526,
   "logo": {},
   "longitude": -1.6457745,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/linkedin%2520background_polA7Q2.jpg",
+   "path": "chapter_banners/linkedin background_polA7Q2.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/linkedin%2520background_polA7Q2.jpg"
+  },
   "state": "",
   "title": "Universidad de Navarra",
   "relative_url": "/universidad-de-navarra/",
@@ -16549,28 +16622,6 @@
   "title": "University of Málaga",
   "relative_url": "/university-of-malaga/",
   "url": "https://gdsc.community.dev/university-of-malaga/"
- },
- {
-  "active": true,
-  "city": "Donostia-San Sebastian",
-  "country": "ES",
-  "id": 1866,
-  "hide_country_info": false,
-  "latitude": 43.318334,
-  "logo": {},
-  "longitude": -1.9812313,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/linkedin%2520background.jpg",
-   "path": "chapter_banners/linkedin background.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/linkedin%2520background.jpg"
-  },
-  "state": "",
-  "title": "University of Navarra",
-  "relative_url": "/university-of-navarra/",
-  "url": "https://gdsc.community.dev/university-of-navarra/"
  },
  {
   "active": true,
@@ -18058,9 +18109,23 @@
   "id": 1274,
   "hide_country_info": false,
   "latitude": 41.0082376,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Developer%2520Student%2520ubs%2520%25281%2529.png",
+   "path": "chapter_banners/Developer Student ubs (1).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Developer%2520Student%2520ubs%2520%25281%2529.png"
+  },
   "longitude": 28.9783589,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/ozyegin-university.jpg",
+   "path": "chapter_banners/ozyegin-university.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/ozyegin-university.jpg"
+  },
   "state": "",
   "title": "Özyeğin University",
   "relative_url": "/ozyegin-university/",
@@ -19428,7 +19493,14 @@
   "id": 1103,
   "hide_country_info": false,
   "latitude": 10.3009641,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520The%2520Federal%2520Polytechnic%2520Bauchi%2520%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC The Federal Polytechnic Bauchi  vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520The%2520Federal%2520Polytechnic%2520Bauchi%2520%2520vertical%2520color.png"
+  },
   "longitude": 9.8236533,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG_20200828_080547_039.jpg",
@@ -20416,12 +20488,12 @@
   "logo": {},
   "longitude": 36.8219462,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1500x500_aB3HZYy.jpeg",
-   "path": "chapter_banners/1500x500_aB3HZYy.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PXL_20211002_121054710.jpg",
+   "path": "chapter_banners/PXL_20211002_121054710.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1500x500_aB3HZYy.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PXL_20211002_121054710.jpg"
   },
   "state": "",
   "title": "Kenyatta University",
@@ -37010,12 +37082,12 @@
   "logo": {},
   "longitude": 112.6317838,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bg-web-02.png",
-   "path": "chapter_banners/bg-web-02.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bg-web%2520fixx-03.png",
+   "path": "chapter_banners/bg-web fixx-03.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bg-web-02.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bg-web%2520fixx-03.png"
   },
   "state": "",
   "title": "UIN Maulana Malik Ibrahim Malang",
