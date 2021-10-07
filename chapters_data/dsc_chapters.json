@@ -6154,7 +6154,14 @@
   "latitude": 4.710988599999999,
   "logo": {},
   "longitude": -74.072092,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1_Bb8djDP.jpg",
+   "path": "chapter_banners/1_Bb8djDP.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1_Bb8djDP.jpg"
+  },
   "state": "",
   "title": "Universidad Nacional de Colombia",
   "relative_url": "/universidad-nacional-de-colombia/",
@@ -26141,12 +26148,12 @@
   "hide_country_info": false,
   "latitude": 14.5995124,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsctaft_logo.jpg",
-   "path": "chapter_banners/dsctaft_logo.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25282%2529_7vhZhYt.png",
+   "path": "chapter_banners/Untitled design (2)_7vhZhYt.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsctaft_logo.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25282%2529_7vhZhYt.png"
   },
   "longitude": 120.9842195,
   "picture": {},
@@ -31587,12 +31594,12 @@
   },
   "longitude": 68.357776,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/muet.jpg",
-   "path": "chapter_banners/muet.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/118394993_2842058279232657_4404769416469701429_n.jpg",
+   "path": "chapter_banners/118394993_2842058279232657_4404769416469701429_n.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/muet.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/118394993_2842058279232657_4404769416469701429_n.jpg"
   },
   "state": "",
   "title": "Mehran University of Engineering and Technology",
