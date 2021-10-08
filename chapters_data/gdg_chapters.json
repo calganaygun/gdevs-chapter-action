@@ -7769,6 +7769,21 @@
  },
  {
   "active": true,
+  "city": "Cergy",
+  "country": "FR",
+  "id": 1236,
+  "hide_country_info": false,
+  "latitude": 49.03561699999999,
+  "logo": {},
+  "longitude": 2.060325,
+  "picture": {},
+  "state": "IDF",
+  "title": "GDG Cergy",
+  "relative_url": "/gdg-cergy/",
+  "url": "https://gdg.community.dev/gdg-cergy/"
+ },
+ {
+  "active": true,
   "city": "Cherkasy",
   "country": "UA",
   "id": 1015,
