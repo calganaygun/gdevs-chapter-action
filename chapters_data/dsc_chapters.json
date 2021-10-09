@@ -9124,12 +9124,12 @@
   "hide_country_info": false,
   "latitude": 30.4277547,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/LOGO_EQZ427w.png",
-   "path": "chapter_banners/LOGO_EQZ427w.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-Centered-Chapter-WHT_v9EoSLG.jpg",
+   "path": "chapter_banners/Copy of Google-DSC-Lockup-Centered-Chapter-WHT_v9EoSLG.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/LOGO_EQZ427w.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-Centered-Chapter-WHT_v9EoSLG.jpg"
   },
   "longitude": -9.5981072,
   "picture": {
@@ -15279,7 +15279,14 @@
   "id": 2429,
   "hide_country_info": false,
   "latitude": 41.2994958,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc-ecosystem-profilepicture-linkedin.png",
+   "path": "chapter_banners/dsc-ecosystem-profilepicture-linkedin.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc-ecosystem-profilepicture-linkedin.png"
+  },
   "longitude": 69.2400734,
   "picture": {},
   "state": "",
@@ -16484,21 +16491,21 @@
   "hide_country_info": false,
   "latitude": 51.5073509,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/EmbeddedImage.png",
-   "path": "chapter_banners/EmbeddedImage.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design_XxO6T0O.png",
+   "path": "chapter_banners/Untitled design_XxO6T0O.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/EmbeddedImage.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design_XxO6T0O.png"
   },
   "longitude": -0.1277583,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Colorful%2520Motivational%2520LinkedIn%2520Banner.png",
-   "path": "chapter_banners/Colorful Motivational LinkedIn Banner.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Colorful%2520Motivational%2520LinkedIn%2520Banner_UD7pKug.png",
+   "path": "chapter_banners/Colorful Motivational LinkedIn Banner_UD7pKug.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Colorful%2520Motivational%2520LinkedIn%2520Banner.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Colorful%2520Motivational%2520LinkedIn%2520Banner_UD7pKug.png"
   },
   "state": "",
   "title": "University of London",
@@ -23066,12 +23073,12 @@
   "logo": {},
   "longitude": 2.3468195,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/242796152_116523867428692_2799104551634997081_n.jpg",
-   "path": "chapter_banners/242796152_116523867428692_2799104551634997081_n.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/UAC_Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520%2520%25281%2529.png",
+   "path": "chapter_banners/UAC_Google Developer Student Clubs Chapter  (1).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/242796152_116523867428692_2799104551634997081_n.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/UAC_Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520%2520%25281%2529.png"
   },
   "state": "",
   "title": "Université d'Abomey-Calavi (UAC)",
@@ -26941,21 +26948,21 @@
   "hide_country_info": false,
   "latitude": 33.6844202,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/University_5Do7pVe.jpg",
-   "path": "chapter_banners/University_5Do7pVe.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Profile_DtSQRW6.png",
+   "path": "chapter_banners/Profile_DtSQRW6.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/University_5Do7pVe.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Profile_DtSQRW6.png"
   },
   "longitude": 73.04788479999999,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/University_456815E.jpg",
-   "path": "chapter_banners/University_456815E.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bggggg_hM4Dn41.jpg",
+   "path": "chapter_banners/bggggg_hM4Dn41.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/University_456815E.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bggggg_hM4Dn41.jpg"
   },
   "state": "",
   "title": "Federal Urdu University Of Arts, Science & Technology, Islamabad Campus",
@@ -28838,9 +28845,23 @@
   "id": 799,
   "hide_country_info": false,
   "latitude": 20.2960587,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo%2520stacked_yI6vBtz.png",
+   "path": "chapter_banners/logo stacked_yI6vBtz.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo%2520stacked_yI6vBtz.png"
+  },
   "longitude": 85.8245398,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_VdF65eb.png",
+   "path": "chapter_banners/Copy of Copy of dsc-ecosystem-banners-linkedin-blue_VdF65eb.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520dsc-ecosystem-banners-linkedin-blue_VdF65eb.png"
+  },
   "state": "",
   "title": "Indian Institute of Technology - Bhubaneswar",
   "relative_url": "/indian-institute-of-technology-bhubaneswar/",
