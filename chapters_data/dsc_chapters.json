@@ -7951,12 +7951,12 @@
   "logo": {},
   "longitude": 27.8455601,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Ayd%25C4%25B1n%2520Adnan%2520Menderes%2520University%2520vertical%2520color.png",
-   "path": "chapter_banners/GDSC Aydın Adnan Menderes University vertical color.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy_of_Copy_of_gdg-dsc-emailheader.png",
+   "path": "chapter_banners/Copy_of_Copy_of_gdg-dsc-emailheader.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Ayd%25C4%25B1n%2520Adnan%2520Menderes%2520University%2520vertical%2520color.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy_of_Copy_of_gdg-dsc-emailheader.png"
   },
   "state": "Aydın",
   "title": "Aydın Adnan Menderes University",
@@ -8362,7 +8362,14 @@
   "latitude": 41.132719,
   "logo": {},
   "longitude": 29.10569,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520BEYKOZ%2520UNIVERS%25C4%25B0TY%2520Light%2520Horizontal-Logo.png",
+   "path": "chapter_banners/DSC BEYKOZ UNIVERSİTY Light Horizontal-Logo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520BEYKOZ%2520UNIVERS%25C4%25B0TY%2520Light%2520Horizontal-Logo.png"
+  },
   "state": "",
   "title": "Beykoz University",
   "relative_url": "/beykoz-university/",
@@ -28846,12 +28853,12 @@
   "hide_country_info": false,
   "latitude": 20.2960587,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo%2520stacked_yI6vBtz.png",
-   "path": "chapter_banners/logo stacked_yI6vBtz.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo%2520stacked_HMIHFiK.png",
+   "path": "chapter_banners/logo stacked_HMIHFiK.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo%2520stacked_yI6vBtz.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo%2520stacked_HMIHFiK.png"
   },
   "longitude": 85.8245398,
   "picture": {
@@ -36399,9 +36406,23 @@
   "id": 1785,
   "hide_country_info": false,
   "latitude": 14.5995124,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520TUP%2520Manila%2520Logo%2520in%2520Cardinal%2520Red-01.png",
+   "path": "chapter_banners/GDSC TUP Manila Logo in Cardinal Red-01.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520TUP%2520Manila%2520Logo%2520in%2520Cardinal%2520Red-01.png"
+  },
   "longitude": 120.9842195,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520TUPM%2520COVER%2520ver%25202_BWfL8UE.png",
+   "path": "chapter_banners/GDSC TUPM COVER ver 2_BWfL8UE.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520TUPM%2520COVER%2520ver%25202_BWfL8UE.png"
+  },
   "state": "",
   "title": "Technological University of the Philippines - Manila",
   "relative_url": "/technological-university-of-the-philippines-manila/",
