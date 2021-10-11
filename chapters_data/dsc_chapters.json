@@ -22401,7 +22401,14 @@
   "id": 1126,
   "hide_country_info": false,
   "latitude": 5.13151,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Cape%2520Coast%2520%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC University of Cape Coast  vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Cape%2520Coast%2520%2520vertical%2520color.png"
+  },
   "longitude": -1.2794744,
   "picture": {},
   "state": "",
@@ -27044,7 +27051,14 @@
   "latitude": 10.7340344,
   "logo": {},
   "longitude": 106.7215787,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/demo_jpY9URx.png",
+   "path": "chapter_banners/demo_jpY9URx.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/demo_jpY9URx.png"
+  },
   "state": "",
   "title": "Fulbright University Vietnam",
   "relative_url": "/fulbright-university-vietnam/",
@@ -32372,7 +32386,14 @@
   "id": 964,
   "hide_country_info": false,
   "latitude": 12.9141417,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/resize-16339627711799157189GDSCNITKLogo_5MUiCMj.png",
+   "path": "chapter_banners/resize-16339627711799157189GDSCNITKLogo_5MUiCMj.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/resize-16339627711799157189GDSCNITKLogo_5MUiCMj.png"
+  },
   "longitude": 74.8559568,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/nitk%2520image.jpg",
@@ -36517,7 +36538,14 @@
   "latitude": 14.0654264,
   "logo": {},
   "longitude": 100.6473542,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC_TU-FBCover.jpg",
+   "path": "chapter_banners/GDSC_TU-FBCover.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC_TU-FBCover.jpg"
+  },
   "state": "",
   "title": "Thammasat University",
   "relative_url": "/thammasat-university/",
