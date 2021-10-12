@@ -11086,7 +11086,14 @@
   "id": 1167,
   "hide_country_info": false,
   "latitude": 41.0082376,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-10-12%2520at%252015.23.44_CtRuLZB.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-10-12 at 15.23.44_CtRuLZB.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-10-12%2520at%252015.23.44_CtRuLZB.jpeg"
+  },
   "longitude": 28.9783589,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Istanbul%2520University%2520Light%2520Horizontal-Logo_RApHuSP.png",
