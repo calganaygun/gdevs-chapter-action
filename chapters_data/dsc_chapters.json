@@ -1909,12 +1909,12 @@
   },
   "longitude": -52.7125768,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520are%2520community%2520groups%2520for%2520college%2520and%2520university%2520students%2520interested%2520in%2520Google%2520developer%2520technologies.%2520Students%2520from%2520all%2520undergraduate%2520or%2520graduate%2520programs%2520with%2520an%2520interest%2520in%2520growing%2520as_gnjXO2Z.png",
-   "path": "chapter_banners/Google Developer Student Clubs are community groups for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as_gnjXO2Z.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Copy%2520of%2520Email%2520Header%2520Template%2520Chapter%2520%2520%25281%2529.jpg",
+   "path": "chapter_banners/Copy of Copy of Copy of Email Header Template Chapter  (1).jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520are%2520community%2520groups%2520for%2520college%2520and%2520university%2520students%2520interested%2520in%2520Google%2520developer%2520technologies.%2520Students%2520from%2520all%2520undergraduate%2520or%2520graduate%2520programs%2520with%2520an%2520interest%2520in%2520growing%2520as_gnjXO2Z.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Copy%2520of%2520Email%2520Header%2520Template%2520Chapter%2520%2520%25281%2529.jpg"
   },
   "state": "",
   "title": "Memorial University of Newfoundland",
@@ -17351,7 +17351,14 @@
   "id": 1827,
   "hide_country_info": false,
   "latitude": 52.2296756,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-10-14%2520at%252020.46.19.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-10-14 at 20.46.19.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-10-14%2520at%252020.46.19.jpeg"
+  },
   "longitude": 21.0122287,
   "picture": {},
   "state": "",
@@ -22438,7 +22445,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Cape%2520Coast%2520%2520vertical%2520color.png"
   },
   "longitude": -1.2794744,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Screenshot_20211014-125559_Chrome.jpg",
+   "path": "chapter_banners/Screenshot_20211014-125559_Chrome.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Screenshot_20211014-125559_Chrome.jpg"
+  },
   "state": "",
   "title": "University of Cape Coast",
   "relative_url": "/university-of-cape-coast/",
