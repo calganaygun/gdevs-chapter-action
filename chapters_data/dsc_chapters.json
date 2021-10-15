@@ -6470,7 +6470,14 @@
   "latitude": -33.496202,
   "logo": {},
   "longitude": -70.6283361,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner2SJ_6a1tAHo.png",
+   "path": "chapter_banners/banner2SJ_6a1tAHo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner2SJ_6a1tAHo.png"
+  },
   "state": "Santiago Metropolitan Region",
   "title": "Universidad Técnica Federico Santa María - San Joaquín Campus",
   "relative_url": "/universidad-tecnica-federico-santa-maria-san-joaquin-campus/",
