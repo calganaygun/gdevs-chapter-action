@@ -15108,7 +15108,14 @@
   "latitude": 52.0406224,
   "logo": {},
   "longitude": -0.7594171,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/240421537_847514512573375_5691966588957123024_n.jpg",
+   "path": "chapter_banners/240421537_847514512573375_5691966588957123024_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/240421537_847514512573375_5691966588957123024_n.jpg"
+  },
   "state": "",
   "title": "The Open University",
   "relative_url": "/the-open-university/",
@@ -23238,12 +23245,12 @@
   "hide_country_info": false,
   "latitude": 3.8480325,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo_b74QWkX.png",
-   "path": "chapter_banners/DSC Logo_b74QWkX.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Yaounde%2520I%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC University of Yaounde I vertical color.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo_b74QWkX.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Yaounde%2520I%2520vertical%2520color.png"
   },
   "longitude": 11.5020752,
   "picture": {
@@ -31663,12 +31670,12 @@
   "logo": {},
   "longitude": 76.9366376,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GoogleDevelopers_GDG_TwitterBanner_oeoOnm4.png",
-   "path": "chapter_banners/GoogleDevelopers_GDG_TwitterBanner_oeoOnm4.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner_Vy0FQnV.png",
+   "path": "chapter_banners/Banner_Vy0FQnV.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GoogleDevelopers_GDG_TwitterBanner_oeoOnm4.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner_Vy0FQnV.png"
   },
   "state": "",
   "title": "Mar Baselios College of Engineering and Technology - Thiruvananthapuram",
@@ -36267,12 +36274,12 @@
   "logo": {},
   "longitude": 101.618802,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Sunway%2520University%2520%2520Logo%2520x1_KTVlyKP.png",
-   "path": "chapter_banners/DSC Sunway University  Logo x1_KTVlyKP.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSCSU%2520Chapter%2520Banner.jpg",
+   "path": "chapter_banners/GDSCSU Chapter Banner.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Sunway%2520University%2520%2520Logo%2520x1_KTVlyKP.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSCSU%2520Chapter%2520Banner.jpg"
   },
   "state": "",
   "title": "Sunway University",
@@ -40289,12 +40296,12 @@
   "logo": {},
   "longitude": 139.7033559,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/shutterstock_786425914_RfltWjd.jpg",
-   "path": "chapter_banners/shutterstock_786425914_RfltWjd.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/93C6349C-E89E-4762-9267-9097AD6CBE47.jpeg",
+   "path": "chapter_banners/93C6349C-E89E-4762-9267-9097AD6CBE47.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/shutterstock_786425914_RfltWjd.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/93C6349C-E89E-4762-9267-9097AD6CBE47.jpeg"
   },
   "state": "",
   "title": "Waseda University",
