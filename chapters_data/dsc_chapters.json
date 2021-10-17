@@ -21589,7 +21589,14 @@
   "id": 982,
   "hide_country_info": false,
   "latitude": 7.5213388,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Oduduwa%2520University%2520Ipetumodu%2520vertical%2520color_MYyorU2.png",
+   "path": "chapter_banners/GDSC Oduduwa University Ipetumodu vertical color_MYyorU2.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Oduduwa%2520University%2520Ipetumodu%2520vertical%2520color_MYyorU2.png"
+  },
   "longitude": 4.436217,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Oduduwa%2520University%2520Ipetumodu%2520vertical%2520color.png",
@@ -24007,7 +24014,14 @@
   "id": 968,
   "hide_country_info": false,
   "latitude": 19.7514798,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/73086417_145392323474213_2178102645946843136_o-removebg-preview.png",
+   "path": "chapter_banners/73086417_145392323474213_2178102645946843136_o-removebg-preview.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/73086417_145392323474213_2178102645946843136_o-removebg-preview.png"
+  },
   "longitude": 75.7138884,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Group%2520142.png",
@@ -40296,12 +40310,12 @@
   "logo": {},
   "longitude": 139.7033559,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/93C6349C-E89E-4762-9267-9097AD6CBE47.jpeg",
-   "path": "chapter_banners/93C6349C-E89E-4762-9267-9097AD6CBE47.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/56857A6E-A9F4-40DC-B74C-58CFFDE71159.jpeg",
+   "path": "chapter_banners/56857A6E-A9F4-40DC-B74C-58CFFDE71159.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/93C6349C-E89E-4762-9267-9097AD6CBE47.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/56857A6E-A9F4-40DC-B74C-58CFFDE71159.jpeg"
   },
   "state": "",
   "title": "Waseda University",

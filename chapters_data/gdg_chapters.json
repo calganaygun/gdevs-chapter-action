@@ -2635,7 +2635,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Orizaba.png"
   },
   "longitude": -97.1036396,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Banner1_0Urby5q.png",
+   "path": "chapter_banners/Banner1_0Urby5q.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Banner1_0Urby5q.png"
+  },
   "state": "Ver.",
   "title": "GDG Orizaba",
   "relative_url": "/gdg-orizaba-1/",
@@ -15800,7 +15807,14 @@
   "latitude": 12,
   "logo": {},
   "longitude": 8.52,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/117972355_605759520138922_4077208186534088749_n%25281%2529_ymeg197.jpg",
+   "path": "chapter_banners/117972355_605759520138922_4077208186534088749_n(1)_ymeg197.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/117972355_605759520138922_4077208186534088749_n%25281%2529_ymeg197.jpg"
+  },
   "state": "",
   "title": "GDG Kano",
   "relative_url": "/gdg-kano/",
