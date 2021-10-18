@@ -10181,7 +10181,14 @@
   "id": 1637,
   "hide_country_info": false,
   "latitude": 37.955893,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logonew_p4mO9Rs.png",
+   "path": "chapter_banners/logonew_p4mO9Rs.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logonew_p4mO9Rs.png"
+  },
   "longitude": 23.7020975,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/%25CE%25A7%25CE%25B1%25CF%2581%25CE%25BF%25CE%25BA%25CF%258C%25CF%2580%25CE%25B5%25CE%25B9%25CE%25BF%2520%25CE%25A0%25CE%25B1%25CE%25BD%25CE%25B5%25CF%2580%25CE%25B9%25CF%2583%25CF%2584%25CE%25AE%25CE%25BC%25CE%25B9%25CE%25BF_bTwHQE1.jpg",
@@ -12402,12 +12409,12 @@
   "hide_country_info": false,
   "latitude": 31.0409483,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Mansoura%2520University%2520vertical%2520color.png",
-   "path": "chapter_banners/GDSC Mansoura University vertical color.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/profile_gYwCGJC.jpg",
+   "path": "chapter_banners/profile_gYwCGJC.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Mansoura%2520University%2520vertical%2520color.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/profile_gYwCGJC.jpg"
   },
   "longitude": 31.3784704,
   "picture": {
@@ -14742,12 +14749,12 @@
   },
   "longitude": 39.5691841,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner_bHTwbKn.png",
-   "path": "chapter_banners/Banner_bHTwbKn.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner-YTnew.png",
+   "path": "chapter_banners/Banner-YTnew.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner_bHTwbKn.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner-YTnew.png"
   },
   "state": "",
   "title": "Taibah University M",
@@ -19070,13 +19077,27 @@
   "id": 2273,
   "hide_country_info": false,
   "latitude": 7.364437000000001,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/download_FUsxndI.png",
+   "path": "chapter_banners/download_FUsxndI.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/download_FUsxndI.png"
+  },
   "longitude": -2.349286,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/later_1.jpg",
+   "path": "chapter_banners/later_1.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/later_1.jpg"
+  },
   "state": "",
   "title": "Catholic University",
-  "relative_url": "/catholic-university-1/",
-  "url": "https://gdsc.community.dev/catholic-university-1/"
+  "relative_url": "/catholic-university/",
+  "url": "https://gdsc.community.dev/catholic-university/"
  },
  {
   "active": true,
