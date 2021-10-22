@@ -8244,6 +8244,21 @@
  },
  {
   "active": true,
+  "city": "Kraków",
+  "country": "PL",
+  "id": 1238,
+  "hide_country_info": false,
+  "latitude": 50.06465009999999,
+  "logo": {},
+  "longitude": 19.9449799,
+  "picture": {},
+  "state": "Lesser Poland Voivodeship",
+  "title": "GDG Cloud Kraków",
+  "relative_url": "/gdg-cloud-krakow/",
+  "url": "https://gdg.community.dev/gdg-cloud-krakow/"
+ },
+ {
+  "active": true,
   "city": "Kyiv",
   "country": "UA",
   "id": 1213,

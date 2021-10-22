@@ -928,12 +928,12 @@
   "logo": {},
   "longitude": -96.79698789999999,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/fff.jpeg",
-   "path": "chapter_banners/fff.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/2019-10-15-campus-update.jpg",
+   "path": "chapter_banners/2019-10-15-campus-update.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/fff.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2019-10-15-campus-update.jpg"
   },
   "state": "",
   "title": "Dallas Baptist University",
@@ -13817,35 +13817,6 @@
   "title": "Prince sattam bin abdulaziz university",
   "relative_url": "/prince-sattam-bin-abdulaziz-university/",
   "url": "https://gdsc.community.dev/prince-sattam-bin-abdulaziz-university/"
- },
- {
-  "active": true,
-  "city": "Riyadh",
-  "country": "SA",
-  "id": 101,
-  "hide_country_info": false,
-  "latitude": 24.7135517,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/323D3B08-D7C7-44CE-B735-EB7B739C8019.jpeg",
-   "path": "chapter_banners/323D3B08-D7C7-44CE-B735-EB7B739C8019.jpeg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/323D3B08-D7C7-44CE-B735-EB7B739C8019.jpeg"
-  },
-  "longitude": 46.6752957,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/FD01ADA5-2D59-4782-81C8-F6F52D058D7C.jpeg",
-   "path": "chapter_banners/FD01ADA5-2D59-4782-81C8-F6F52D058D7C.jpeg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/FD01ADA5-2D59-4782-81C8-F6F52D058D7C.jpeg"
-  },
-  "state": "",
-  "title": "Princess Nora university",
-  "relative_url": "/princess-nora-university/",
-  "url": "https://gdsc.community.dev/princess-nora-university/"
  },
  {
   "active": true,
@@ -29872,9 +29843,23 @@
   "id": 1762,
   "hide_country_info": false,
   "latitude": 33.6844202,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%25202021-10-22%2520at%252011.48.37%2520AM.png",
+   "path": "chapter_banners/Screenshot 2021-10-22 at 11.48.37 AM.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%25202021-10-22%2520at%252011.48.37%2520AM.png"
+  },
   "longitude": 73.04788479999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%25202021-10-22%2520at%252011.53.55%2520AM.png",
+   "path": "chapter_banners/Screenshot 2021-10-22 at 11.53.55 AM.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%25202021-10-22%2520at%252011.53.55%2520AM.png"
+  },
   "state": "",
   "title": "International Islamic University",
   "relative_url": "/international-islamic-university/",
