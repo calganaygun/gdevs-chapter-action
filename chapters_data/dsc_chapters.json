@@ -8226,9 +8226,23 @@
   "id": 2358,
   "hide_country_info": false,
   "latitude": 41.6167547,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bsu%2520logo_auto_x2_colored_toned_light_ai.jpg",
+   "path": "chapter_banners/bsu logo_auto_x2_colored_toned_light_ai.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bsu%2520logo_auto_x2_colored_toned_light_ai.jpg"
+  },
   "longitude": 41.6367455,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Main%2520BG.jpg",
+   "path": "chapter_banners/Main BG.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Main%2520BG.jpg"
+  },
   "state": "",
   "title": "Batumi Shota Rustaveli State University",
   "relative_url": "/batumi-shota-rustaveli-state-university/",
@@ -10687,15 +10701,22 @@
   "id": 1217,
   "hide_country_info": false,
   "latitude": 41.2994958,
-  "logo": {},
-  "longitude": 69.2400734,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/event_Info1.png",
-   "path": "chapter_banners/event_Info1.png",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Emblem-IUT.jpeg",
+   "path": "chapter_banners/Emblem-IUT.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/event_Info1.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Emblem-IUT.jpeg"
+  },
+  "longitude": 69.2400734,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner01_g1Rq1J2.jpeg",
+   "path": "chapter_banners/banner01_g1Rq1J2.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner01_g1Rq1J2.jpeg"
   },
   "state": "",
   "title": "Inha University in Tashkent",
@@ -37992,7 +38013,14 @@
   "latitude": -10.1771997,
   "logo": {},
   "longitude": 123.6070329,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Universitas-Nusa-Cendana.jpg",
+   "path": "chapter_banners/Universitas-Nusa-Cendana.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Universitas-Nusa-Cendana.jpg"
+  },
   "state": "",
   "title": "Universitas Nusa Cendana .",
   "relative_url": "/universitas-nusa-cendana/",
@@ -39222,7 +39250,14 @@
   "id": 1778,
   "hide_country_info": false,
   "latitude": 24.8607343,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc-UoK-%2520logo.png",
+   "path": "chapter_banners/gdsc-UoK- logo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc-UoK-%2520logo.png"
+  },
   "longitude": 67.0011364,
   "picture": {},
   "state": "",
