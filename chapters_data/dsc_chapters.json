@@ -6519,15 +6519,22 @@
   "id": 1901,
   "hide_country_info": false,
   "latitude": 18.9025242,
-  "logo": {},
-  "longitude": -97.0213777,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/unnamed_OfXnz18.jpg",
-   "path": "chapter_banners/unnamed_OfXnz18.jpg",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo_M1a1Bzs.jpg",
+   "path": "chapter_banners/logo_M1a1Bzs.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/unnamed_OfXnz18.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo_M1a1Bzs.jpg"
+  },
+  "longitude": -97.0213777,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/pexels-photo-6961859.jpg",
+   "path": "chapter_banners/pexels-photo-6961859.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/pexels-photo-6961859.jpg"
   },
   "state": "",
   "title": "Universidad Veracruzana",
@@ -15377,15 +15384,22 @@
   "id": 1268,
   "hide_country_info": false,
   "latitude": 39.9333635,
-  "logo": {},
-  "longitude": 32.8597419,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520T%25C3%25BCrk%2520Hava%2520Kurumu%2520University%2520Logo%2520x1%2520%25281%2529.png",
-   "path": "chapter_banners/DSC Türk Hava Kurumu University Logo x1 (1).png",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/XDd6nPJv.jpg",
+   "path": "chapter_banners/XDd6nPJv.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520T%25C3%25BCrk%2520Hava%2520Kurumu%2520University%2520Logo%2520x1%2520%25281%2529.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/XDd6nPJv.jpg"
+  },
+  "longitude": 32.8597419,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-10-05%2520at%252022.14.12.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-10-05 at 22.14.12.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-10-05%2520at%252022.14.12.jpeg"
   },
   "state": "",
   "title": "Turkish Aeronautical Association University",
@@ -38839,21 +38853,6 @@
   "title": "University Visvesvaraya College of Engineering - Bangalore",
   "relative_url": "/university-visvesvaraya-college-of-engineering-bangalore/",
   "url": "https://gdsc.community.dev/university-visvesvaraya-college-of-engineering-bangalore/"
- },
- {
-  "active": true,
-  "city": "Adelaide",
-  "country": "AU",
-  "id": 2400,
-  "hide_country_info": false,
-  "latitude": -34.9284989,
-  "logo": {},
-  "longitude": 138.6007456,
-  "picture": {},
-  "state": "",
-  "title": "University of Adelaide",
-  "relative_url": "/university-of-adelaide/",
-  "url": "https://gdsc.community.dev/university-of-adelaide/"
  },
  {
   "active": true,
