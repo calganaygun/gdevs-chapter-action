@@ -7716,7 +7716,14 @@
   "latitude": 37.61,
   "logo": {},
   "longitude": -0.98,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/1500x500%2520%25282%2529.jpg",
+   "path": "chapter_banners/1500x500 (2).jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/1500x500%2520%25282%2529.jpg"
+  },
   "state": "",
   "title": "GDG Cartagena",
   "relative_url": "/gdg-cartagena/",
@@ -11447,7 +11454,14 @@
   "latitude": 37.98,
   "logo": {},
   "longitude": -1.13,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/1500x500%2520%25281%2529_UecV8Dl.jpg",
+   "path": "chapter_banners/1500x500 (1)_UecV8Dl.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/1500x500%2520%25281%2529_UecV8Dl.jpg"
+  },
   "state": "",
   "title": "GDG Murcia",
   "relative_url": "/gdg-murcia/",
