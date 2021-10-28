@@ -3418,9 +3418,23 @@
   "id": 948,
   "hide_country_info": false,
   "latitude": 32.22,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/New%2520GDG%2520Tucson%2520Profile%2520Image.png",
+   "path": "chapter_banners/New GDG Tucson Profile Image.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/New%2520GDG%2520Tucson%2520Profile%2520Image.png"
+  },
   "longitude": -110.97,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Tucson.png",
+   "path": "chapter_banners/GDG Tucson.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Tucson.png"
+  },
   "state": "AZ",
   "title": "GDG Tucson",
   "relative_url": "/gdg-tucson/",
@@ -18553,6 +18567,21 @@
   "title": "GDG Cloud Taipei",
   "relative_url": "/gdg-cloud-taipei/",
   "url": "https://gdg.community.dev/gdg-cloud-taipei/"
+ },
+ {
+  "active": true,
+  "city": "Wellington",
+  "country": "NZ",
+  "id": 1239,
+  "hide_country_info": false,
+  "latitude": -41.2923814,
+  "logo": {},
+  "longitude": 174.7787463,
+  "picture": {},
+  "state": "Wellington",
+  "title": "GDG Cloud Wellington",
+  "relative_url": "/gdg-cloud-wellington/",
+  "url": "https://gdg.community.dev/gdg-cloud-wellington/"
  },
  {
   "active": true,
