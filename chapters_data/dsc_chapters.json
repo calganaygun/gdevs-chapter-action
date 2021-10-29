@@ -10709,12 +10709,12 @@
   "hide_country_info": false,
   "latitude": 41.2994958,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Emblem-IUT.jpeg",
-   "path": "chapter_banners/Emblem-IUT.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/photo_2021-10-25_16-19-35.jpg",
+   "path": "chapter_banners/photo_2021-10-25_16-19-35.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Emblem-IUT.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/photo_2021-10-25_16-19-35.jpg"
   },
   "longitude": 69.2400734,
   "picture": {
@@ -10797,9 +10797,23 @@
   "id": 1621,
   "hide_country_info": false,
   "latitude": 52.8365072,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/profile-linkedin-red.jpg",
+   "path": "chapter_banners/profile-linkedin-red.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/profile-linkedin-red.jpg"
+  },
   "longitude": -6.9341359,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc-ecosystem-banners-linkedin-red_P531Zk5.png",
+   "path": "chapter_banners/dsc-ecosystem-banners-linkedin-red_P531Zk5.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc-ecosystem-banners-linkedin-red_P531Zk5.png"
+  },
   "state": "",
   "title": "Institute of Technology Carlow",
   "relative_url": "/institute-of-technology-carlow/",
@@ -15008,9 +15022,23 @@
   "id": 2401,
   "hide_country_info": false,
   "latitude": 52.52000659999999,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PXL_20211014_161009250_TIU2CiB.jpg",
+   "path": "chapter_banners/PXL_20211014_161009250_TIU2CiB.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PXL_20211014_161009250_TIU2CiB.jpg"
+  },
   "longitude": 13.404954,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PXL_20211014_161009250.jpg",
+   "path": "chapter_banners/PXL_20211014_161009250.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PXL_20211014_161009250.jpg"
+  },
   "state": "",
   "title": "Technische Universität Berlin",
   "relative_url": "/technische-universitat-berlin/",
@@ -32532,21 +32560,6 @@
  },
  {
   "active": true,
-  "city": "Mishima",
-  "country": "JP",
-  "id": 1563,
-  "hide_country_info": false,
-  "latitude": 35.1184912,
-  "logo": {},
-  "longitude": 138.9184977,
-  "picture": {},
-  "state": "",
-  "title": "National Institute of Genetics, Graduate University for Advanced Studies (SOKENDAI)",
-  "relative_url": "/national-institute-of-genetics-graduate-university-for-advanced-studies-sokendai/",
-  "url": "https://gdsc.community.dev/national-institute-of-genetics-graduate-university-for-advanced-studies-sokendai/"
- },
- {
-  "active": true,
   "city": "Brahmapur",
   "country": "IN",
   "id": 1005,
@@ -33624,21 +33637,6 @@
   "title": "PDPM Indian Institute of Information Technology, Design and Manufacturing - Jabalpur",
   "relative_url": "/pdpm-indian-institute-of-information-technology-design-and-manufacturing-jabalpur/",
   "url": "https://gdsc.community.dev/pdpm-indian-institute-of-information-technology-design-and-manufacturing-jabalpur/"
- },
- {
-  "active": true,
-  "city": "Bengaluru",
-  "country": "IN",
-  "id": 1661,
-  "hide_country_info": false,
-  "latitude": 12.9715987,
-  "logo": {},
-  "longitude": 77.5945627,
-  "picture": {},
-  "state": "",
-  "title": "PES Institute of Technology, South Campus - Bengaluru",
-  "relative_url": "/pes-institute-of-technology-south-campus-bengaluru/",
-  "url": "https://gdsc.community.dev/pes-institute-of-technology-south-campus-bengaluru/"
  },
  {
   "active": true,
@@ -36947,6 +36945,21 @@
  },
  {
   "active": true,
+  "city": "Mishima",
+  "country": "JP",
+  "id": 1563,
+  "hide_country_info": false,
+  "latitude": 35.1184912,
+  "logo": {},
+  "longitude": 138.9184977,
+  "picture": {},
+  "state": "",
+  "title": "The Graduate University for Advanced Studies, SOKENDAI",
+  "relative_url": "/the-graduate-university-for-advanced-studies-sokendai/",
+  "url": "https://gdsc.community.dev/the-graduate-university-for-advanced-studies-sokendai/"
+ },
+ {
+  "active": true,
   "city": "Hong Kong",
   "country": "HK",
   "id": 1006,
@@ -37764,12 +37777,12 @@
   },
   "longitude": 119.4327314,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520LOGO_UNHAS_STACKEDLOGO_F655Qio.jpg",
-   "path": "chapter_banners/DSC LOGO_UNHAS_STACKEDLOGO_F655Qio.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/12_sy67GSp.png",
+   "path": "chapter_banners/12_sy67GSp.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520LOGO_UNHAS_STACKEDLOGO_F655Qio.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/12_sy67GSp.png"
   },
   "state": "",
   "title": "Universitas Hasanuddin",
