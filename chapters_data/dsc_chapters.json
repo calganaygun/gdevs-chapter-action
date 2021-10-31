@@ -10965,15 +10965,22 @@
   "id": 117,
   "hide_country_info": false,
   "latitude": 31.5016951,
-  "logo": {},
-  "longitude": 34.4668445,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cover_N8rnLdn.jpg",
-   "path": "chapter_banners/cover_N8rnLdn.jpg",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252015%25404x-100.jpg",
+   "path": "chapter_banners/Artboard 15@4x-100.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cover_N8rnLdn.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252015%25404x-100.jpg"
+  },
+  "longitude": 34.4668445,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252021%25404x-100_f2EQJHX.jpg",
+   "path": "chapter_banners/Artboard 21@4x-100_f2EQJHX.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252021%25404x-100_f2EQJHX.jpg"
   },
   "state": "",
   "title": "Islamic University of Gaza",
@@ -11258,7 +11265,14 @@
   "id": 1208,
   "hide_country_info": false,
   "latitude": 41.174903,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1574973359368.jpg",
+   "path": "chapter_banners/1574973359368.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1574973359368.jpg"
+  },
   "longitude": 29.609588,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/linkedinbanner_KA60sO0.png",
@@ -22735,7 +22749,14 @@
   "id": 2288,
   "hide_country_info": false,
   "latitude": 7.3349414,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC-Banner_GYmF5TU.jpg",
+   "path": "chapter_banners/GDSC-Banner_GYmF5TU.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC-Banner_GYmF5TU.jpg"
+  },
   "longitude": -2.3123031,
   "picture": {},
   "state": "",
@@ -23463,8 +23484,8 @@
   "title": "École Nationale Polytechnique de Douala",
   "relative_url": "/ecole-nationale-polytechnique-de-douala/",
   "url": "https://gdsc.community.dev/ecole-nationale-polytechnique-de-douala/"
- }
-] {
+ },
+ {
   "active": true,
   "city": "Anand",
   "country": "IN",
@@ -37312,7 +37333,14 @@
   "latitude": 33.6844202,
   "logo": {},
   "longitude": 73.04788479999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG-20211031-WA0040.jpg",
+   "path": "chapter_banners/IMG-20211031-WA0040.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG-20211031-WA0040.jpg"
+  },
   "state": "Islamabad Capital Territory",
   "title": "The Virtual University of Pakistan, Islamabad Campus",
   "relative_url": "/the-virtual-university-of-pakistan-islamabad-campus/",
