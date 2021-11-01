@@ -2589,7 +2589,14 @@
   "id": 36,
   "hide_country_info": false,
   "latitude": 21.31,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Chapter%2520lockup%2520-%2520GDG%2520Oahu.png",
+   "path": "chapter_banners/GDG Chapter lockup - GDG Oahu.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Chapter%2520lockup%2520-%2520GDG%2520Oahu.png"
+  },
   "longitude": -157.85,
   "picture": {},
   "state": "HI",
