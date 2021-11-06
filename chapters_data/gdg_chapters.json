@@ -19825,12 +19825,12 @@
   },
   "longitude": 76.64,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/highres_474129897_ABeo3BX.jpeg",
-   "path": "chapter_banners/highres_474129897_ABeo3BX.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Hero%2520banner%25202400%2520x%2520703.png",
+   "path": "chapter_banners/Hero banner 2400 x 703.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/highres_474129897_ABeo3BX.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Hero%2520banner%25202400%2520x%2520703.png"
   },
   "state": "",
   "title": "GDG Mysuru",
