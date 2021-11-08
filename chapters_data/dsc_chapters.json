@@ -23055,15 +23055,22 @@
   "id": 765,
   "hide_country_info": false,
   "latitude": 6.8429422,
-  "logo": {},
-  "longitude": 7.3732655,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520UNN%2520Light%2520Vertical-Logo.png",
-   "path": "chapter_banners/DSC UNN Light Vertical-Logo.png",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/chapter_qnzQkuL.jpg",
+   "path": "chapter_banners/chapter_qnzQkuL.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520UNN%2520Light%2520Vertical-Logo.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/chapter_qnzQkuL.jpg"
+  },
+  "longitude": 7.3732655,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Nigeria%252C%2520Nsukka%2520horizontal%2520color.png",
+   "path": "chapter_banners/GDSC University of Nigeria, Nsukka horizontal color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520University%2520of%2520Nigeria%252C%2520Nsukka%2520horizontal%2520color.png"
   },
   "state": "",
   "title": "University of Nigeria Nsukka",
@@ -37699,12 +37706,12 @@
   },
   "longitude": 106.7112933,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc-ecosystem-blogstory-01.png",
-   "path": "chapter_banners/dsc-ecosystem-blogstory-01.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Event%2520Banner%2520GDSC.png",
+   "path": "chapter_banners/Event Banner GDSC.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc-ecosystem-blogstory-01.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Event%2520Banner%2520GDSC.png"
   },
   "state": "",
   "title": "UIN Syarif Hidayatullah Jakarta",
