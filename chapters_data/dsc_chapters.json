@@ -74,35 +74,6 @@
  },
  {
   "active": true,
-  "city": "Alcorn",
-  "country": "US",
-  "id": 369,
-  "hide_country_info": false,
-  "latitude": 31.877778,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/try.jpg",
-   "path": "chapter_banners/try.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/try.jpg"
-  },
-  "longitude": -91.139167,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/try_YwNMZKQ.png",
-   "path": "chapter_banners/try_YwNMZKQ.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/try_YwNMZKQ.png"
-  },
-  "state": "",
-  "title": "Alcorn State University",
-  "relative_url": "/alcorn-state-university/",
-  "url": "https://gdsc.community.dev/alcorn-state-university/"
- },
- {
-  "active": true,
   "city": "Sault Ste. Marie",
   "country": "CA",
   "id": 1522,
@@ -265,21 +236,6 @@
  },
  {
   "active": true,
-  "city": "Binghamton",
-  "country": "US",
-  "id": 555,
-  "hide_country_info": false,
-  "latitude": 42.09868669999999,
-  "logo": {},
-  "longitude": -75.91797380000001,
-  "picture": {},
-  "state": "",
-  "title": "Binghamton University",
-  "relative_url": "/binghamton-university/",
-  "url": "https://gdsc.community.dev/binghamton-university/"
- },
- {
-  "active": true,
   "city": "New York",
   "country": "US",
   "id": 470,
@@ -412,57 +368,6 @@
  },
  {
   "active": true,
-  "city": "Bryn Mawr",
-  "country": "US",
-  "id": 562,
-  "hide_country_info": false,
-  "latitude": 40.0230237,
-  "logo": {},
-  "longitude": -75.3151772,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Bryn%2520Mawr%2520College%2520Logo%2520x1.png",
-   "path": "chapter_banners/DSC Bryn Mawr College Logo x1.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Bryn%2520Mawr%2520College%2520Logo%2520x1.png"
-  },
-  "state": "",
-  "title": "Bryn Mawr College",
-  "relative_url": "/bryn-mawr-college/",
-  "url": "https://gdsc.community.dev/bryn-mawr-college/"
- },
- {
-  "active": true,
-  "city": "San Luis Obispo",
-  "country": "US",
-  "id": 569,
-  "hide_country_info": false,
-  "latitude": 35.2827524,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Cal%2520Poly%2520San%2520Luis%2520Obispo.jpg",
-   "path": "chapter_banners/Cal Poly San Luis Obispo.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Cal%2520Poly%2520San%2520Luis%2520Obispo.jpg"
-  },
-  "longitude": -120.6596156,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Cal%2520Poly%2520San%2520Luis%2520Obispo%2520copy.png",
-   "path": "chapter_banners/Cal Poly San Luis Obispo copy.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Cal%2520Poly%2520San%2520Luis%2520Obispo%2520copy.png"
-  },
-  "state": "",
-  "title": "California Polytechnic State University",
-  "relative_url": "/california-polytechnic-state-university/",
-  "url": "https://gdsc.community.dev/california-polytechnic-state-university/"
- },
- {
-  "active": true,
   "city": "Fresno",
   "country": "US",
   "id": 1389,
@@ -551,21 +456,6 @@
  },
  {
   "active": true,
-  "city": "Camarillo",
-  "country": "US",
-  "id": 327,
-  "hide_country_info": false,
-  "latitude": 34.2163937,
-  "logo": {},
-  "longitude": -119.0376023,
-  "picture": {},
-  "state": "",
-  "title": "California State University Channel Islands",
-  "relative_url": "/california-state-university-channel-islands/",
-  "url": "https://gdsc.community.dev/california-state-university-channel-islands/"
- },
- {
-  "active": true,
   "city": "Grand Rapids",
   "country": "US",
   "id": 1253,
@@ -644,36 +534,6 @@
   "title": "Carleton University",
   "relative_url": "/carleton-university/",
   "url": "https://gdsc.community.dev/carleton-university/"
- },
- {
-  "active": true,
-  "city": "Pittsburgh",
-  "country": "US",
-  "id": 564,
-  "hide_country_info": false,
-  "latitude": 40.44062479999999,
-  "logo": {},
-  "longitude": -79.9958864,
-  "picture": {},
-  "state": "",
-  "title": "Carnegie Mellon University",
-  "relative_url": "/carnegie-mellon-university/",
-  "url": "https://gdsc.community.dev/carnegie-mellon-university/"
- },
- {
-  "active": true,
-  "city": "Cleveland",
-  "country": "US",
-  "id": 213,
-  "hide_country_info": false,
-  "latitude": 41.49932,
-  "logo": {},
-  "longitude": -81.6943605,
-  "picture": {},
-  "state": "",
-  "title": "Case Western Reserve University",
-  "relative_url": "/case-western-reserve-university/",
-  "url": "https://gdsc.community.dev/case-western-reserve-university/"
  },
  {
   "active": true,
@@ -795,21 +655,6 @@
  },
  {
   "active": true,
-  "city": "New York",
-  "country": "US",
-  "id": 311,
-  "hide_country_info": false,
-  "latitude": 40.7127753,
-  "logo": {},
-  "longitude": -74.0059728,
-  "picture": {},
-  "state": "",
-  "title": "Columbia University",
-  "relative_url": "/columbia-university/",
-  "url": "https://gdsc.community.dev/columbia-university/"
- },
- {
-  "active": true,
   "city": "Montreal",
   "country": "CA",
   "id": 1306,
@@ -873,21 +718,6 @@
   "title": "Cornell University",
   "relative_url": "/cornell-university/",
   "url": "https://gdsc.community.dev/cornell-university/"
- },
- {
-  "active": true,
-  "city": "Sacramento",
-  "country": "US",
-  "id": 533,
-  "hide_country_info": false,
-  "latitude": 38.5815719,
-  "logo": {},
-  "longitude": -121.4943996,
-  "picture": {},
-  "state": "",
-  "title": "Cosumnes River College",
-  "relative_url": "/cosumnes-river-college/",
-  "url": "https://gdsc.community.dev/cosumnes-river-college/"
  },
  {
   "active": true,
@@ -1046,28 +876,6 @@
  },
  {
   "active": true,
-  "city": "Philadelphia",
-  "country": "US",
-  "id": 284,
-  "hide_country_info": false,
-  "latitude": 39.9525839,
-  "logo": {},
-  "longitude": -75.1652215,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DREXE-BANNER.jpg",
-   "path": "chapter_banners/DREXE-BANNER.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DREXE-BANNER.jpg"
-  },
-  "state": "",
-  "title": "Drexel University",
-  "relative_url": "/drexel-university/",
-  "url": "https://gdsc.community.dev/drexel-university/"
- },
- {
-  "active": true,
   "city": "Durham",
   "country": "US",
   "id": 579,
@@ -1090,21 +898,6 @@
  },
  {
   "active": true,
-  "city": "Richmond",
-  "country": "US",
-  "id": 537,
-  "hide_country_info": false,
-  "latitude": 37.5407246,
-  "logo": {},
-  "longitude": -77.4360481,
-  "picture": {},
-  "state": "",
-  "title": "Earlham College",
-  "relative_url": "/earlham-college/",
-  "url": "https://gdsc.community.dev/earlham-college/"
- },
- {
-  "active": true,
   "city": "Greenville",
   "country": "US",
   "id": 672,
@@ -1117,35 +910,6 @@
   "title": "East Carolina University",
   "relative_url": "/east-carolina-university/",
   "url": "https://gdsc.community.dev/east-carolina-university/"
- },
- {
-  "active": true,
-  "city": "Salt Lake City",
-  "country": "US",
-  "id": 253,
-  "hide_country_info": false,
-  "latitude": 40.7607793,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/400x400.png",
-   "path": "chapter_banners/400x400.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/400x400.png"
-  },
-  "longitude": -111.8910474,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/2560x650.png",
-   "path": "chapter_banners/2560x650.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2560x650.png"
-  },
-  "state": "",
-  "title": "Ensign College",
-  "relative_url": "/ensign-college/",
-  "url": "https://gdsc.community.dev/ensign-college/"
  },
  {
   "active": true,
@@ -1326,43 +1090,6 @@
  },
  {
   "active": true,
-  "city": "Statesboro, Ga",
-  "country": "US",
-  "id": 203,
-  "hide_country_info": false,
-  "latitude": 32.4487876,
-  "logo": {},
-  "longitude": -81.7831674,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner_yvML3NS.png",
-   "path": "chapter_banners/Banner_yvML3NS.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner_yvML3NS.png"
-  },
-  "state": "",
-  "title": "Georgia Southern University",
-  "relative_url": "/georgia-southern-university/",
-  "url": "https://gdsc.community.dev/georgia-southern-university/"
- },
- {
-  "active": true,
-  "city": "Sandy Springs",
-  "country": "US",
-  "id": 223,
-  "hide_country_info": false,
-  "latitude": 33.9304352,
-  "logo": {},
-  "longitude": -84.3733147,
-  "picture": {},
-  "state": "",
-  "title": "Georgia State University",
-  "relative_url": "/georgia-state-university/",
-  "url": "https://gdsc.community.dev/georgia-state-university/"
- },
- {
-  "active": true,
   "city": "Phoenix",
   "country": "US",
   "id": 640,
@@ -1397,21 +1124,6 @@
   "title": "Hampton University",
   "relative_url": "/hampton-university/",
   "url": "https://gdsc.community.dev/hampton-university/"
- },
- {
-  "active": true,
-  "city": "Harrisburg",
-  "country": "US",
-  "id": 431,
-  "hide_country_info": false,
-  "latitude": 40.2731911,
-  "logo": {},
-  "longitude": -76.8867008,
-  "picture": {},
-  "state": "",
-  "title": "Harrisburg University of Science and Technology",
-  "relative_url": "/harrisburg-university-of-science-and-technology/",
-  "url": "https://gdsc.community.dev/harrisburg-university-of-science-and-technology/"
  },
  {
   "active": true,
@@ -1582,21 +1294,6 @@
   "title": "Ivy Tech Community College",
   "relative_url": "/ivy-tech-community-college/",
   "url": "https://gdsc.community.dev/ivy-tech-community-college/"
- },
- {
-  "active": true,
-  "city": "Baltimore",
-  "country": "US",
-  "id": 322,
-  "hide_country_info": false,
-  "latitude": 39.2903848,
-  "logo": {},
-  "longitude": -76.6121893,
-  "picture": {},
-  "state": "",
-  "title": "Johns Hopkins University",
-  "relative_url": "/johns-hopkins-university/",
-  "url": "https://gdsc.community.dev/johns-hopkins-university/"
  },
  {
   "active": true,
@@ -1938,35 +1635,6 @@
  },
  {
   "active": true,
-  "city": "Oakland",
-  "country": "US",
-  "id": 515,
-  "hide_country_info": false,
-  "latitude": 37.8043514,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/118525550_995173350911047_2386225237937274939_n.jpg",
-   "path": "chapter_banners/118525550_995173350911047_2386225237937274939_n.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/118525550_995173350911047_2386225237937274939_n.jpg"
-  },
-  "longitude": -122.2711639,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/FB%2520Mills%2520Hall%2520Banner.jpg",
-   "path": "chapter_banners/FB Mills Hall Banner.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/FB%2520Mills%2520Hall%2520Banner.jpg"
-  },
-  "state": "",
-  "title": "Mills College",
-  "relative_url": "/mills-college/",
-  "url": "https://gdsc.community.dev/mills-college/"
- },
- {
-  "active": true,
   "city": "Milwaukee",
   "country": "US",
   "id": 493,
@@ -1986,21 +1654,6 @@
   "title": "Milwaukee School of Engineering",
   "relative_url": "/milwaukee-school-of-engineering/",
   "url": "https://gdsc.community.dev/milwaukee-school-of-engineering/"
- },
- {
-  "active": true,
-  "city": "Santa Clara",
-  "country": "US",
-  "id": 390,
-  "hide_country_info": false,
-  "latitude": 37.3541079,
-  "logo": {},
-  "longitude": -121.9552356,
-  "picture": {},
-  "state": "",
-  "title": "Mission College",
-  "relative_url": "/mission-college/",
-  "url": "https://gdsc.community.dev/mission-college/"
  },
  {
   "active": true,
@@ -2104,28 +1757,6 @@
   "title": "New Mexico Institute of Mining and Technology",
   "relative_url": "/new-mexico-institute-of-mining-and-technology/",
   "url": "https://gdsc.community.dev/new-mexico-institute-of-mining-and-technology/"
- },
- {
-  "active": true,
-  "city": "New York",
-  "country": "US",
-  "id": 489,
-  "hide_country_info": false,
-  "latitude": 40.7127753,
-  "logo": {},
-  "longitude": -74.0059728,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/New%2520York%2520Institute%2520of%2520Technology%2520-%2520FB%2520Banner.jpg",
-   "path": "chapter_banners/New York Institute of Technology - FB Banner.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/New%2520York%2520Institute%2520of%2520Technology%2520-%2520FB%2520Banner.jpg"
-  },
-  "state": "",
-  "title": "New York Institute of Technology",
-  "relative_url": "/new-york-institute-of-technology/",
-  "url": "https://gdsc.community.dev/new-york-institute-of-technology/"
  },
  {
   "active": true,
@@ -2332,21 +1963,6 @@
   "title": "Northwest Nazarene University",
   "relative_url": "/northwest-nazarene-university/",
   "url": "https://gdsc.community.dev/northwest-nazarene-university/"
- },
- {
-  "active": true,
-  "city": "Chicago",
-  "country": "US",
-  "id": 510,
-  "hide_country_info": false,
-  "latitude": 41.8781136,
-  "logo": {},
-  "longitude": -87.6297982,
-  "picture": {},
-  "state": "",
-  "title": "Northwestern University,  Evanston",
-  "relative_url": "/northwestern-university-evanston/",
-  "url": "https://gdsc.community.dev/northwestern-university-evanston/"
  },
  {
   "active": true,
@@ -2570,50 +2186,6 @@
  },
  {
   "active": true,
-  "city": "Mahwah",
-  "country": "US",
-  "id": 456,
-  "hide_country_info": false,
-  "latitude": 41.0886216,
-  "logo": {},
-  "longitude": -74.1435843,
-  "picture": {},
-  "state": "",
-  "title": "Ramapo College Of New Jersey",
-  "relative_url": "/ramapo-college-of-new-jersey/",
-  "url": "https://gdsc.community.dev/ramapo-college-of-new-jersey/"
- },
- {
-  "active": true,
-  "city": "Virginia",
-  "country": "US",
-  "id": 341,
-  "hide_country_info": false,
-  "latitude": 37.4315734,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/7Hoova_Profile.jpg",
-   "path": "chapter_banners/7Hoova_Profile.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/7Hoova_Profile.jpg"
-  },
-  "longitude": -78.6568942,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Red_BG.png",
-   "path": "chapter_banners/Red_BG.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Red_BG.png"
-  },
-  "state": "",
-  "title": "Regent University College of Science & Technology, Virginia",
-  "relative_url": "/regent-university-college-of-science-technology-virginia/",
-  "url": "https://gdsc.community.dev/regent-university-college-of-science-technology-virginia/"
- },
- {
-  "active": true,
   "city": "Troy, NY",
   "country": "US",
   "id": 1132,
@@ -2648,21 +2220,6 @@
   "title": "Rochester Institute of Technology",
   "relative_url": "/rochester-institute-of-technology/",
   "url": "https://gdsc.community.dev/rochester-institute-of-technology/"
- },
- {
-  "active": true,
-  "city": "New Jersey",
-  "country": "US",
-  "id": 541,
-  "hide_country_info": false,
-  "latitude": 40.0583238,
-  "logo": {},
-  "longitude": -74.4056612,
-  "picture": {},
-  "state": "",
-  "title": "Rowan University",
-  "relative_url": "/rowan-university/",
-  "url": "https://gdsc.community.dev/rowan-university/"
  },
  {
   "active": true,
@@ -2758,28 +2315,6 @@
   "title": "San Diego State University",
   "relative_url": "/san-diego-state-university/",
   "url": "https://gdsc.community.dev/san-diego-state-university/"
- },
- {
-  "active": true,
-  "city": "San francisco",
-  "country": "US",
-  "id": 558,
-  "hide_country_info": false,
-  "latitude": 37.7749295,
-  "logo": {},
-  "longitude": -122.4194155,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/uni-campus.jpg",
-   "path": "chapter_banners/uni-campus.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/uni-campus.jpg"
-  },
-  "state": "",
-  "title": "San Francisco State University",
-  "relative_url": "/san-francisco-state-university/",
-  "url": "https://gdsc.community.dev/san-francisco-state-university/"
  },
  {
   "active": true,
@@ -3196,21 +2731,6 @@
  },
  {
   "active": true,
-  "city": "Massachusetts",
-  "country": "US",
-  "id": 552,
-  "hide_country_info": false,
-  "latitude": 42.4072107,
-  "logo": {},
-  "longitude": -71.3824374,
-  "picture": {},
-  "state": "",
-  "title": "Tufts University",
-  "relative_url": "/tufts-university/",
-  "url": "https://gdsc.community.dev/tufts-university/"
- },
- {
-  "active": true,
   "city": "Davis",
   "country": "US",
   "id": 260,
@@ -3304,21 +2824,6 @@
   "title": "University of Calgary",
   "relative_url": "/university-of-calgary/",
   "url": "https://gdsc.community.dev/university-of-calgary/"
- },
- {
-  "active": true,
-  "city": "berkeley",
-  "country": "US",
-  "id": 557,
-  "hide_country_info": false,
-  "latitude": 37.8715226,
-  "logo": {},
-  "longitude": -122.273042,
-  "picture": {},
-  "state": "",
-  "title": "University of California - Berkeley",
-  "relative_url": "/university-of-california-berkeley/",
-  "url": "https://gdsc.community.dev/university-of-california-berkeley/"
  },
  {
   "active": true,
@@ -3564,28 +3069,6 @@
  },
  {
   "active": true,
-  "city": "Champaign",
-  "country": "US",
-  "id": 544,
-  "hide_country_info": false,
-  "latitude": 40.1164204,
-  "logo": {},
-  "longitude": -88.2433829,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/44228370_10157001390024905_2435723271216300032_o.jpg",
-   "path": "chapter_banners/44228370_10157001390024905_2435723271216300032_o.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/44228370_10157001390024905_2435723271216300032_o.jpg"
-  },
-  "state": "",
-  "title": "University of Illinois at Urbana - Champaign",
-  "relative_url": "/university-of-illinois-at-urbana-champaign/",
-  "url": "https://gdsc.community.dev/university-of-illinois-at-urbana-champaign/"
- },
- {
-  "active": true,
   "city": "Lethbridge",
   "country": "CA",
   "id": 1519,
@@ -3598,21 +3081,6 @@
   "title": "University of Lethbridge",
   "relative_url": "/university-of-lethbridge/",
   "url": "https://gdsc.community.dev/university-of-lethbridge/"
- },
- {
-  "active": true,
-  "city": "Louisville",
-  "country": "US",
-  "id": 501,
-  "hide_country_info": false,
-  "latitude": 38.2526647,
-  "logo": {},
-  "longitude": -85.7584557,
-  "picture": {},
-  "state": "",
-  "title": "University of Louisville",
-  "relative_url": "/university-of-louisville/",
-  "url": "https://gdsc.community.dev/university-of-louisville/"
  },
  {
   "active": true,
@@ -3686,21 +3154,6 @@
   "title": "University of Massachusetts - Amherst",
   "relative_url": "/university-of-massachusetts-amherst/",
   "url": "https://gdsc.community.dev/university-of-massachusetts-amherst/"
- },
- {
-  "active": true,
-  "city": "Memphis",
-  "country": "US",
-  "id": 395,
-  "hide_country_info": false,
-  "latitude": 35.1495343,
-  "logo": {},
-  "longitude": -90.0489801,
-  "picture": {},
-  "state": "",
-  "title": "University of Memphis",
-  "relative_url": "/university-of-memphis/",
-  "url": "https://gdsc.community.dev/university-of-memphis/"
  },
  {
   "active": true,
@@ -4139,28 +3592,6 @@
  },
  {
   "active": true,
-  "city": "Edinburg",
-  "country": "US",
-  "id": 490,
-  "hide_country_info": false,
-  "latitude": 26.3017374,
-  "logo": {},
-  "longitude": -98.1633432,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc00178-2.jpg",
-   "path": "chapter_banners/dsc00178-2.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc00178-2.jpg"
-  },
-  "state": "",
-  "title": "University of Texas Rio Grande Valley",
-  "relative_url": "/university-of-texas-rio-grande-valley/",
-  "url": "https://gdsc.community.dev/university-of-texas-rio-grande-valley/"
- },
- {
-  "active": true,
   "city": "Mississauga",
   "country": "CA",
   "id": 615,
@@ -4195,28 +3626,6 @@
   "title": "University of Toronto - St. George Campus",
   "relative_url": "/university-of-toronto-st-george-campus/",
   "url": "https://gdsc.community.dev/university-of-toronto-st-george-campus/"
- },
- {
-  "active": true,
-  "city": "Salt Lake City",
-  "country": "US",
-  "id": 498,
-  "hide_country_info": false,
-  "latitude": 40.7607793,
-  "logo": {},
-  "longitude": -111.8910474,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/uofubackdrop.jpg",
-   "path": "chapter_banners/uofubackdrop.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/uofubackdrop.jpg"
-  },
-  "state": "",
-  "title": "University of Utah",
-  "relative_url": "/university-of-utah/",
-  "url": "https://gdsc.community.dev/university-of-utah/"
  },
  {
   "active": true,
@@ -4829,36 +4238,6 @@
  },
  {
   "active": true,
-  "city": "Manaus",
-  "country": "BR",
-  "id": 152,
-  "hide_country_info": false,
-  "latitude": -3.1190275,
-  "logo": {},
-  "longitude": -60.0217314,
-  "picture": {},
-  "state": "",
-  "title": "CESAR School",
-  "relative_url": "/cesar-school/",
-  "url": "https://gdsc.community.dev/cesar-school/"
- },
- {
-  "active": true,
-  "city": "Córdoba",
-  "country": "AR",
-  "id": 115,
-  "hide_country_info": false,
-  "latitude": -31.42008329999999,
-  "logo": {},
-  "longitude": -64.1887761,
-  "picture": {},
-  "state": "",
-  "title": "Catholic University of Córdoba",
-  "relative_url": "/catholic-university-of-cordoba/",
-  "url": "https://gdsc.community.dev/catholic-university-of-cordoba/"
- },
- {
-  "active": true,
   "city": "Guadalajara",
   "country": "MX",
   "id": 604,
@@ -4908,28 +4287,6 @@
   "title": "Continental",
   "relative_url": "/continental/",
   "url": "https://gdsc.community.dev/continental/"
- },
- {
-  "active": true,
-  "city": "Villavicencio",
-  "country": "CO",
-  "id": 147,
-  "hide_country_info": false,
-  "latitude": 4.1491688,
-  "logo": {},
-  "longitude": -73.6285475,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/118152797_102199661615507_127333858095861701_o.jpg",
-   "path": "chapter_banners/118152797_102199661615507_127333858095861701_o.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/118152797_102199661615507_127333858095861701_o.jpg"
-  },
-  "state": "",
-  "title": "Cooperative University of Colombia",
-  "relative_url": "/cooperative-university-of-colombia/",
-  "url": "https://gdsc.community.dev/cooperative-university-of-colombia/"
  },
  {
   "active": true,
@@ -4989,28 +4346,6 @@
   "title": "Estácio de Sá",
   "relative_url": "/estacio-de-sa/",
   "url": "https://gdsc.community.dev/estacio-de-sa/"
- },
- {
-  "active": true,
-  "city": "Moji-Mirim",
-  "country": "BR",
-  "id": 130,
-  "hide_country_info": false,
-  "latitude": -22.423188,
-  "logo": {},
-  "longitude": -46.9582762,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/118599640_102301718276835_8510262872573893828_o.png",
-   "path": "chapter_banners/118599640_102301718276835_8510262872573893828_o.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/118599640_102301718276835_8510262872573893828_o.png"
-  },
-  "state": "",
-  "title": "Fatec Mogi Mirim",
-  "relative_url": "/fatec-mogi-mirim/",
-  "url": "https://gdsc.community.dev/fatec-mogi-mirim/"
  },
  {
   "active": true,
@@ -5154,28 +4489,6 @@
  },
  {
   "active": true,
-  "city": "H. Zitácuaro",
-  "country": "MX",
-  "id": 191,
-  "hide_country_info": false,
-  "latitude": 19.4376056,
-  "logo": {},
-  "longitude": -100.3558695,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Dise%25C3%25B1o%2520sin%2520t%25C3%25ADtulo%2520%25281%2529_UXMIaS4.png",
-   "path": "chapter_banners/Diseño sin título (1)_UXMIaS4.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Dise%25C3%25B1o%2520sin%2520t%25C3%25ADtulo%2520%25281%2529_UXMIaS4.png"
-  },
-  "state": "",
-  "title": "Instituto Tecnológico de Zitácuaro",
-  "relative_url": "/instituto-tecnologico-de-zitacuaro/",
-  "url": "https://gdsc.community.dev/instituto-tecnologico-de-zitacuaro/"
- },
- {
-  "active": true,
   "city": "La Caleta",
   "country": "DO",
   "id": 1398,
@@ -5227,21 +4540,6 @@
  },
  {
   "active": true,
-  "city": "Guadalajara",
-  "country": "MX",
-  "id": 240,
-  "hide_country_info": false,
-  "latitude": 20.6596988,
-  "logo": {},
-  "longitude": -103.3496092,
-  "picture": {},
-  "state": "",
-  "title": "Monterrey Institute of Technology, Guadalajara",
-  "relative_url": "/monterrey-institute-of-technology-guadalajara/",
-  "url": "https://gdsc.community.dev/monterrey-institute-of-technology-guadalajara/"
- },
- {
-  "active": true,
   "city": "Monterrey",
   "country": "MX",
   "id": 197,
@@ -5276,28 +4574,6 @@
   "title": "Monterrey Institute of Technology, Puebla",
   "relative_url": "/monterrey-institute-of-technology-puebla/",
   "url": "https://gdsc.community.dev/monterrey-institute-of-technology-puebla/"
- },
- {
-  "active": true,
-  "city": "Mexico city",
-  "country": "MX",
-  "id": 137,
-  "hide_country_info": false,
-  "latitude": 19.4326077,
-  "logo": {},
-  "longitude": -99.133208,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/back_mGWjhvX.jpg",
-   "path": "chapter_banners/back_mGWjhvX.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/back_mGWjhvX.jpg"
-  },
-  "state": "",
-  "title": "National Autonomous University of Mexico",
-  "relative_url": "/national-autonomous-university-of-mexico/",
-  "url": "https://gdsc.community.dev/national-autonomous-university-of-mexico/"
  },
  {
   "active": true,
@@ -5396,21 +4672,6 @@
  },
  {
   "active": true,
-  "city": "Buenos Aires",
-  "country": "AR",
-  "id": 527,
-  "hide_country_info": false,
-  "latitude": -34.6036844,
-  "logo": {},
-  "longitude": -58.3815591,
-  "picture": {},
-  "state": "",
-  "title": "National Technological University, Buenos Aires",
-  "relative_url": "/national-technological-university-buenos-aires/",
-  "url": "https://gdsc.community.dev/national-technological-university-buenos-aires/"
- },
- {
-  "active": true,
   "city": "Córdoba",
   "country": "AR",
   "id": 1598,
@@ -5440,28 +4701,6 @@
  },
  {
   "active": true,
-  "city": "HUANCAYO",
-  "country": "PE",
-  "id": 155,
-  "hide_country_info": false,
-  "latitude": -12.0686357,
-  "logo": {},
-  "longitude": -75.21029759999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Captura%2520de%2520Pantalla%25202020-10-13%2520a%2520la%2528s%2529%25206.50.30%2520p.%25C2%25A0m..png",
-   "path": "chapter_banners/Captura de Pantalla 2020-10-13 a la(s) 6.50.30 p. m..png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Captura%2520de%2520Pantalla%25202020-10-13%2520a%2520la%2528s%2529%25206.50.30%2520p.%25C2%25A0m..png"
-  },
-  "state": "",
-  "title": "National University of the Center of Peru",
-  "relative_url": "/national-university-of-the-center-of-peru/",
-  "url": "https://gdsc.community.dev/national-university-of-the-center-of-peru/"
- },
- {
-  "active": true,
   "city": "Mandeville",
   "country": "JM",
   "id": 1538,
@@ -5474,50 +4713,6 @@
   "title": "Northern Caribbean University",
   "relative_url": "/northern-caribbean-university/",
   "url": "https://gdsc.community.dev/northern-caribbean-university/"
- },
- {
-  "active": true,
-  "city": "Mexico City",
-  "country": "MX",
-  "id": 526,
-  "hide_country_info": false,
-  "latitude": 19.4326077,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/social_networks.png",
-   "path": "chapter_banners/social_networks.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/social_networks.png"
-  },
-  "longitude": -99.133208,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc_platzi-bg.png",
-   "path": "chapter_banners/dsc_platzi-bg.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc_platzi-bg.png"
-  },
-  "state": "",
-  "title": "Platzi, Mexico City",
-  "relative_url": "/platzi-mexico-city/",
-  "url": "https://gdsc.community.dev/platzi-mexico-city/"
- },
- {
-  "active": true,
-  "city": "Valencia",
-  "country": "VE",
-  "id": 525,
-  "hide_country_info": false,
-  "latitude": 10.4805937,
-  "logo": {},
-  "longitude": -66.90360629999999,
-  "picture": {},
-  "state": "",
-  "title": "Platzi, Valencia",
-  "relative_url": "/platzi-valencia/",
-  "url": "https://gdsc.community.dev/platzi-valencia/"
  },
  {
   "active": true,
@@ -5580,28 +4775,6 @@
  },
  {
   "active": true,
-  "city": "Panama",
-  "country": "PA",
-  "id": 103,
-  "hide_country_info": false,
-  "latitude": 8.537981,
-  "logo": {},
-  "longitude": -80.782127,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Technological%2520University%2520of%2520Panama%2520Light%2520Vertical-Logo.png",
-   "path": "chapter_banners/DSC Technological University of Panama Light Vertical-Logo.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Technological%2520University%2520of%2520Panama%2520Light%2520Vertical-Logo.png"
-  },
-  "state": "",
-  "title": "Technology University of Panama",
-  "relative_url": "/technology-university-of-panama/",
-  "url": "https://gdsc.community.dev/technology-university-of-panama/"
- },
- {
-  "active": true,
   "city": "León",
   "country": "MX",
   "id": 1552,
@@ -5614,21 +4787,6 @@
   "title": "Tecnologico Nacional de Mexico en León",
   "relative_url": "/tecnologico-nacional-de-mexico-en-leon/",
   "url": "https://gdsc.community.dev/tecnologico-nacional-de-mexico-en-leon/"
- },
- {
-  "active": true,
-  "city": "Paraná",
-  "country": "AR",
-  "id": 363,
-  "hide_country_info": false,
-  "latitude": -31.7413197,
-  "logo": {},
-  "longitude": -60.51154709999999,
-  "picture": {},
-  "state": "",
-  "title": "The National Technological University, Paraná",
-  "relative_url": "/the-national-technological-university-parana/",
-  "url": "https://gdsc.community.dev/the-national-technological-university-parana/"
  },
  {
   "active": true,
@@ -5702,28 +4860,6 @@
   "title": "UNINTER",
   "relative_url": "/uninter/",
   "url": "https://gdsc.community.dev/uninter/"
- },
- {
-  "active": true,
-  "city": "Santo Domingo",
-  "country": "DO",
-  "id": 151,
-  "hide_country_info": false,
-  "latitude": 18.4860575,
-  "logo": {},
-  "longitude": -69.93121169999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DevFest%25202019.jpg",
-   "path": "chapter_banners/DevFest 2019.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DevFest%25202019.jpg"
-  },
-  "state": "",
-  "title": "Universidad APEC",
-  "relative_url": "/universidad-apec/",
-  "url": "https://gdsc.community.dev/universidad-apec/"
  },
  {
   "active": true,
@@ -6160,28 +5296,6 @@
  },
  {
   "active": true,
-  "city": "Lambayeque",
-  "country": "PE",
-  "id": 64,
-  "hide_country_info": false,
-  "latitude": -6.7197666,
-  "logo": {},
-  "longitude": -79.9080757,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/portada3.png",
-   "path": "chapter_banners/portada3.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/portada3.png"
-  },
-  "state": "",
-  "title": "Universidad Nacional Pedro Ruíz Gallo",
-  "relative_url": "/universidad-nacional-pedro-ruiz-gallo/",
-  "url": "https://gdsc.community.dev/universidad-nacional-pedro-ruiz-gallo/"
- },
- {
-  "active": true,
   "city": "Bogotá",
   "country": "CO",
   "id": 1615,
@@ -6245,87 +5359,6 @@
   "title": "Universidad Nacional de La Patagonia San Juan Bosco (UNPSJB)",
   "relative_url": "/universidad-nacional-de-la-patagonia-san-juan-bosco-unpsjb/",
   "url": "https://gdsc.community.dev/universidad-nacional-de-la-patagonia-san-juan-bosco-unpsjb/"
- },
- {
-  "active": true,
-  "city": "Puno",
-  "country": "PE",
-  "id": 153,
-  "hide_country_info": false,
-  "latitude": -15.8402218,
-  "logo": {},
-  "longitude": -70.0218805,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner%2520DSC.jpg",
-   "path": "chapter_banners/banner DSC.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner%2520DSC.jpg"
-  },
-  "state": "",
-  "title": "Universidad Nacional del Altiplano",
-  "relative_url": "/universidad-nacional-del-altiplano/",
-  "url": "https://gdsc.community.dev/universidad-nacional-del-altiplano/"
- },
- {
-  "active": true,
-  "city": "Callao",
-  "country": "PE",
-  "id": 67,
-  "hide_country_info": false,
-  "latitude": -12.0508491,
-  "logo": {},
-  "longitude": -77.1259843,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/HPG-FY20TEC-FB-38613-2560x65d0_kYOnXlE.jpg",
-   "path": "chapter_banners/HPG-FY20TEC-FB-38613-2560x65d0_kYOnXlE.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/HPG-FY20TEC-FB-38613-2560x65d0_kYOnXlE.jpg"
-  },
-  "state": "",
-  "title": "Universidad Nacional del Callao",
-  "relative_url": "/universidad-nacional-del-callao/",
-  "url": "https://gdsc.community.dev/universidad-nacional-del-callao/"
- },
- {
-  "active": true,
-  "city": "Zapopan",
-  "country": "MX",
-  "id": 63,
-  "hide_country_info": false,
-  "latitude": 20.6719563,
-  "logo": {},
-  "longitude": -103.416501,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Universidad%2520Panamericana%2520Campus%2520Guadalajara%2520Light%2520Vertical-Logo_1big5lh.png",
-   "path": "chapter_banners/DSC Universidad Panamericana Campus Guadalajara Light Vertical-Logo_1big5lh.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Universidad%2520Panamericana%2520Campus%2520Guadalajara%2520Light%2520Vertical-Logo_1big5lh.png"
-  },
-  "state": "",
-  "title": "Universidad Panamericana Guadalajara",
-  "relative_url": "/universidad-panamericana-guadalajara/",
-  "url": "https://gdsc.community.dev/universidad-panamericana-guadalajara/"
- },
- {
-  "active": true,
-  "city": "Yucatán",
-  "country": "MX",
-  "id": 219,
-  "hide_country_info": false,
-  "latitude": 20.7098786,
-  "logo": {},
-  "longitude": -89.0943377,
-  "picture": {},
-  "state": "",
-  "title": "Universidad Politécnica de Yucatán",
-  "relative_url": "/universidad-politecnica-de-yucatan/",
-  "url": "https://gdsc.community.dev/universidad-politecnica-de-yucatan/"
  },
  {
   "active": true,
@@ -6756,21 +5789,6 @@
  },
  {
   "active": true,
-  "city": "São Paulo",
-  "country": "BR",
-  "id": 126,
-  "hide_country_info": false,
-  "latitude": -23.5505199,
-  "logo": {},
-  "longitude": -46.63330939999999,
-  "picture": {},
-  "state": "",
-  "title": "Universidade Paulista",
-  "relative_url": "/universidade-paulista/",
-  "url": "https://gdsc.community.dev/universidade-paulista/"
- },
- {
-  "active": true,
   "city": "Cali",
   "country": "CO",
   "id": 1586,
@@ -6859,21 +5877,6 @@
  },
  {
   "active": true,
-  "city": "6th of October",
-  "country": "EG",
-  "id": 51,
-  "hide_country_info": false,
-  "latitude": 29.9285429,
-  "logo": {},
-  "longitude": 30.9187827,
-  "picture": {},
-  "state": "",
-  "title": "6 October Culture and sciences City",
-  "relative_url": "/6-october-culture-and-sciences-city/",
-  "url": "https://gdsc.community.dev/6-october-culture-and-sciences-city/"
- },
- {
-  "active": true,
   "city": "Baku",
   "country": "AZ",
   "id": 1196,
@@ -6893,21 +5896,6 @@
   "title": "ADA University",
   "relative_url": "/ada-university/",
   "url": "https://gdsc.community.dev/ada-university/"
- },
- {
-  "active": true,
-  "city": "Espoo",
-  "country": "FI",
-  "id": 539,
-  "hide_country_info": false,
-  "latitude": 60.2054911,
-  "logo": {},
-  "longitude": 24.6559,
-  "picture": {},
-  "state": "",
-  "title": "Aalto University, Espoo",
-  "relative_url": "/aalto-university-espoo/",
-  "url": "https://gdsc.community.dev/aalto-university-espoo/"
  },
  {
   "active": true,
@@ -6952,21 +5940,6 @@
   "title": "Abou Bekr Belkaid Tlemcen University",
   "relative_url": "/abou-bekr-belkaid-tlemcen-university/",
   "url": "https://gdsc.community.dev/abou-bekr-belkaid-tlemcen-university/"
- },
- {
-  "active": true,
-  "city": "Al Ain",
-  "country": "AE",
-  "id": 186,
-  "hide_country_info": false,
-  "latitude": 24.1301619,
-  "logo": {},
-  "longitude": 55.8023118,
-  "picture": {},
-  "state": "",
-  "title": "Abu Dhabi University",
-  "relative_url": "/abu-dhabi-university/",
-  "url": "https://gdsc.community.dev/abu-dhabi-university/"
  },
  {
   "active": true,
@@ -7062,21 +6035,6 @@
   "title": "Ajman University",
   "relative_url": "/ajman-university/",
   "url": "https://gdsc.community.dev/ajman-university/"
- },
- {
-  "active": true,
-  "city": "Kutaisi",
-  "country": "GE",
-  "id": 416,
-  "hide_country_info": false,
-  "latitude": 42.2662428,
-  "logo": {},
-  "longitude": 42.7180019,
-  "picture": {},
-  "state": "",
-  "title": "Akaki Tsereteli State University",
-  "relative_url": "/akaki-tsereteli-state-university/",
-  "url": "https://gdsc.community.dev/akaki-tsereteli-state-university/"
  },
  {
   "active": true,
@@ -7202,28 +6160,6 @@
   "title": "Al Yamamah",
   "relative_url": "/al-yamamah/",
   "url": "https://gdsc.community.dev/al-yamamah/"
- },
- {
-  "active": true,
-  "city": "Mukalla",
-  "country": "YE",
-  "id": 94,
-  "hide_country_info": false,
-  "latitude": 14.5404328,
-  "logo": {},
-  "longitude": 49.127197,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/80E6012A-1F99-4236-BBFE-12D77F53F33D.jpeg",
-   "path": "chapter_banners/80E6012A-1F99-4236-BBFE-12D77F53F33D.jpeg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/80E6012A-1F99-4236-BBFE-12D77F53F33D.jpeg"
-  },
-  "state": "",
-  "title": "Al-Arab University",
-  "relative_url": "/al-arab-university/",
-  "url": "https://gdsc.community.dev/al-arab-university/"
  },
  {
   "active": true,
@@ -7617,35 +6553,6 @@
  },
  {
   "active": true,
-  "city": "Nablus",
-  "country": "PS",
-  "id": 169,
-  "hide_country_info": false,
-  "latitude": 32.2226678,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/88228496_106116117664361_4537246813484220416_o.jpg",
-   "path": "chapter_banners/88228496_106116117664361_4537246813484220416_o.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/88228496_106116117664361_4537246813484220416_o.jpg"
-  },
-  "longitude": 35.2621461,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/85147010_106122554330384_7436183853762347008_n.jpg",
-   "path": "chapter_banners/85147010_106122554330384_7436183853762347008_n.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/85147010_106122554330384_7436183853762347008_n.jpg"
-  },
-  "state": "",
-  "title": "An-Najah National University",
-  "relative_url": "/an-najah-national-university/",
-  "url": "https://gdsc.community.dev/an-najah-national-university/"
- },
- {
-  "active": true,
   "city": "Sana'a",
   "country": "YE",
   "id": 1787,
@@ -7822,50 +6729,6 @@
  },
  {
   "active": true,
-  "city": "Jenin",
-  "country": "PS",
-  "id": 70,
-  "hide_country_info": false,
-  "latitude": 32.4646353,
-  "logo": {},
-  "longitude": 35.2938591,
-  "picture": {},
-  "state": "",
-  "title": "Arab American University",
-  "relative_url": "/arab-american-university/",
-  "url": "https://gdsc.community.dev/arab-american-university/"
- },
- {
-  "active": true,
-  "city": "Jeddah",
-  "country": "SA",
-  "id": 128,
-  "hide_country_info": false,
-  "latitude": 21.485811,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG_20190324_012537_788.jpg",
-   "path": "chapter_banners/IMG_20190324_012537_788.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG_20190324_012537_788.jpg"
-  },
-  "longitude": 39.19250479999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Arab%2520open%2520university%2528jeddah%2529%2520Logo%2520x1.png",
-   "path": "chapter_banners/DSC Arab open university(jeddah) Logo x1.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Arab%2520open%2520university%2528jeddah%2529%2520Logo%2520x1.png"
-  },
-  "state": "",
-  "title": "Arab Open University - Jeddah",
-  "relative_url": "/arab-open-university-jeddah/",
-  "url": "https://gdsc.community.dev/arab-open-university-jeddah/"
- },
- {
-  "active": true,
   "city": "Beirut",
   "country": "LB",
   "id": 1149,
@@ -8005,28 +6868,6 @@
  },
  {
   "active": true,
-  "city": "Athens",
-  "country": "GR",
-  "id": 328,
-  "hide_country_info": false,
-  "latitude": 37.9838096,
-  "logo": {},
-  "longitude": 23.7275388,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc_Ly8KlnM.jpg",
-   "path": "chapter_banners/dsc_Ly8KlnM.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc_Ly8KlnM.jpg"
-  },
-  "state": "",
-  "title": "Athens University of Economics and Business",
-  "relative_url": "/athens-university-of-economics-and-business/",
-  "url": "https://gdsc.community.dev/athens-university-of-economics-and-business/"
- },
- {
-  "active": true,
   "city": "Aydın",
   "country": "TR",
   "id": 2445,
@@ -8068,21 +6909,6 @@
   "title": "Azerbaijan State Oil and Industry University",
   "relative_url": "/azerbaijan-state-oil-and-industry-university/",
   "url": "https://gdsc.community.dev/azerbaijan-state-oil-and-industry-university/"
- },
- {
-  "active": true,
-  "city": "Bryansk",
-  "country": "RU",
-  "id": 228,
-  "hide_country_info": false,
-  "latitude": 53.2635306,
-  "logo": {},
-  "longitude": 34.41611,
-  "picture": {},
-  "state": "",
-  "title": "BSTU, Bryansk State Technical University",
-  "relative_url": "/bstu-bryansk-state-technical-university/",
-  "url": "https://gdsc.community.dev/bstu-bryansk-state-technical-university/"
  },
  {
   "active": true,
@@ -8211,21 +7037,6 @@
  },
  {
   "active": true,
-  "city": "Ulan-Ude",
-  "country": "RU",
-  "id": 329,
-  "hide_country_info": false,
-  "latitude": 51.8335896,
-  "logo": {},
-  "longitude": 107.5840433,
-  "picture": {},
-  "state": "",
-  "title": "Banzarov Buryat State University",
-  "relative_url": "/banzarov-buryat-state-university/",
-  "url": "https://gdsc.community.dev/banzarov-buryat-state-university/"
- },
- {
-  "active": true,
   "city": "Ankara",
   "country": "TR",
   "id": 2439,
@@ -8318,36 +7129,6 @@
   "title": "Beirut Arab University",
   "relative_url": "/beirut-arab-university/",
   "url": "https://gdsc.community.dev/beirut-arab-university/"
- },
- {
-  "active": true,
-  "city": "Minsk",
-  "country": "BY",
-  "id": 337,
-  "hide_country_info": false,
-  "latitude": 53.9006011,
-  "logo": {},
-  "longitude": 27.558972,
-  "picture": {},
-  "state": "",
-  "title": "Belarusian State Economic University",
-  "relative_url": "/belarusian-state-economic-university/",
-  "url": "https://gdsc.community.dev/belarusian-state-economic-university/"
- },
- {
-  "active": true,
-  "city": "Minsk",
-  "country": "BY",
-  "id": 453,
-  "hide_country_info": false,
-  "latitude": 53.9006011,
-  "logo": {},
-  "longitude": 27.558972,
-  "picture": {},
-  "state": "",
-  "title": "Belarusian State University of Informatics and Radioelectronics",
-  "relative_url": "/belarusian-state-university-of-informatics-and-radioelectronics/",
-  "url": "https://gdsc.community.dev/belarusian-state-university-of-informatics-and-radioelectronics/"
  },
  {
   "active": true,
@@ -8599,21 +7380,6 @@
  },
  {
   "active": true,
-  "city": "Bucharest",
-  "country": "RO",
-  "id": 469,
-  "hide_country_info": false,
-  "latitude": 44.4267674,
-  "logo": {},
-  "longitude": 26.1025384,
-  "picture": {},
-  "state": "",
-  "title": "Bucharest University of Economic Studies",
-  "relative_url": "/bucharest-university-of-economic-studies/",
-  "url": "https://gdsc.community.dev/bucharest-university-of-economic-studies/"
- },
- {
-  "active": true,
   "city": "Budapest",
   "country": "HU",
   "id": 1759,
@@ -8826,28 +7592,6 @@
  },
  {
   "active": true,
-  "city": "Chernihiv",
-  "country": "UA",
-  "id": 314,
-  "hide_country_info": false,
-  "latitude": 51.4982,
-  "logo": {},
-  "longitude": 31.28934989999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/96797012_2845007618901015_1673027844990566400_o.jpg",
-   "path": "chapter_banners/96797012_2845007618901015_1673027844990566400_o.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/96797012_2845007618901015_1673027844990566400_o.jpg"
-  },
-  "state": "",
-  "title": "Chernihiv Polytechnic National University",
-  "relative_url": "/chernihiv-polytechnic-national-university/",
-  "url": "https://gdsc.community.dev/chernihiv-polytechnic-national-university/"
- },
- {
-  "active": true,
   "city": "El Jadida",
   "country": "MA",
   "id": 1816,
@@ -8867,21 +7611,6 @@
   "title": "Chouaib Doukkali University",
   "relative_url": "/chouaib-doukkali-university/",
   "url": "https://gdsc.community.dev/chouaib-doukkali-university/"
- },
- {
-  "active": true,
-  "city": "Sur",
-  "country": "OM",
-  "id": 59,
-  "hide_country_info": false,
-  "latitude": null,
-  "logo": {},
-  "longitude": null,
-  "picture": {},
-  "state": "",
-  "title": "College of Applied Sciences , Sur",
-  "relative_url": "/college-of-applied-sciences-sur/",
-  "url": "https://gdsc.community.dev/college-of-applied-sciences-sur/"
  },
  {
   "active": true,
@@ -8940,21 +7669,6 @@
   "title": "Damanhour University",
   "relative_url": "/damanhour-university/",
   "url": "https://gdsc.community.dev/damanhour-university/"
- },
- {
-  "active": true,
-  "city": "New Damietta (Damietta aljadida)",
-  "country": "EG",
-  "id": 166,
-  "hide_country_info": false,
-  "latitude": 31.45222889999999,
-  "logo": {},
-  "longitude": 31.6813013,
-  "picture": {},
-  "state": "",
-  "title": "Damietta University",
-  "relative_url": "/damietta-university/",
-  "url": "https://gdsc.community.dev/damietta-university/"
  },
  {
   "active": true,
@@ -9053,35 +7767,6 @@
  },
  {
   "active": true,
-  "city": "Durham",
-  "country": "GB",
-  "id": 378,
-  "hide_country_info": false,
-  "latitude": 54.77525,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/discord_icon.png",
-   "path": "chapter_banners/discord_icon.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/discord_icon.png"
-  },
-  "longitude": -1.584852,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/_methode_times_prod_web_bin_0a70588e-7a26-11e8-9c4a-473552a1b7c8.jpg",
-   "path": "chapter_banners/_methode_times_prod_web_bin_0a70588e-7a26-11e8-9c4a-473552a1b7c8.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/_methode_times_prod_web_bin_0a70588e-7a26-11e8-9c4a-473552a1b7c8.jpg"
-  },
-  "state": "",
-  "title": "Durham University",
-  "relative_url": "/durham-university/",
-  "url": "https://gdsc.community.dev/durham-university/"
- },
- {
-  "active": true,
   "city": "Duzce",
   "country": "TR",
   "id": 1181,
@@ -9094,21 +7779,6 @@
   "title": "Düzce University",
   "relative_url": "/duzce-university/",
   "url": "https://gdsc.community.dev/duzce-university/"
- },
- {
-  "active": true,
-  "city": "casablanca",
-  "country": "MA",
-  "id": 127,
-  "hide_country_info": false,
-  "latitude": 33.5731104,
-  "logo": {},
-  "longitude": -7.589843399999999,
-  "picture": {},
-  "state": "",
-  "title": "EMSI",
-  "relative_url": "/emsi/",
-  "url": "https://gdsc.community.dev/emsi/"
  },
  {
   "active": true,
@@ -9479,73 +8149,6 @@
  },
  {
   "active": true,
-  "city": "Paris",
-  "country": "FR",
-  "id": 499,
-  "hide_country_info": false,
-  "latitude": 48.856614,
-  "logo": {},
-  "longitude": 2.3522219,
-  "picture": {},
-  "state": "",
-  "title": "Epitech Paris",
-  "relative_url": "/epitech-paris/",
-  "url": "https://gdsc.community.dev/epitech-paris/"
- },
- {
-  "active": true,
-  "city": "Rennes",
-  "country": "FR",
-  "id": 516,
-  "hide_country_info": false,
-  "latitude": 48.117266,
-  "logo": {},
-  "longitude": -1.6777926,
-  "picture": {},
-  "state": "",
-  "title": "Epitech Rennes",
-  "relative_url": "/epitech-rennes/",
-  "url": "https://gdsc.community.dev/epitech-rennes/"
- },
- {
-  "active": true,
-  "city": "Strasbourg",
-  "country": "FR",
-  "id": 452,
-  "hide_country_info": false,
-  "latitude": 48.5734053,
-  "logo": {},
-  "longitude": 7.752111299999999,
-  "picture": {},
-  "state": "",
-  "title": "Epitech Strasbourg",
-  "relative_url": "/epitech-strasbourg/",
-  "url": "https://gdsc.community.dev/epitech-strasbourg/"
- },
- {
-  "active": true,
-  "city": "Tirana",
-  "country": "AL",
-  "id": 379,
-  "hide_country_info": false,
-  "latitude": 41.3275459,
-  "logo": {},
-  "longitude": 19.8186982,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/po.jpg",
-   "path": "chapter_banners/po.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/po.jpg"
-  },
-  "state": "",
-  "title": "Epoka University",
-  "relative_url": "/epoka-university/",
-  "url": "https://gdsc.community.dev/epoka-university/"
- },
- {
-  "active": true,
   "city": "Kayseri",
   "country": "TR",
   "id": 1195,
@@ -9587,57 +8190,6 @@
   "title": "Eskişehir Technical University",
   "relative_url": "/eskisehir-technical-university/",
   "url": "https://gdsc.community.dev/eskisehir-technical-university/"
- },
- {
-  "active": true,
-  "city": "Ariana",
-  "country": "TN",
-  "id": 57,
-  "hide_country_info": false,
-  "latitude": 36.9922751,
-  "logo": {},
-  "longitude": 10.1255164,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520banner.png",
-   "path": "chapter_banners/dsc banner.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520banner.png"
-  },
-  "state": "",
-  "title": "Esprit School of Engineering",
-  "relative_url": "/esprit-school-of-engineering/",
-  "url": "https://gdsc.community.dev/esprit-school-of-engineering/"
- },
- {
-  "active": true,
-  "city": "Tallinn",
-  "country": "EE",
-  "id": 540,
-  "hide_country_info": false,
-  "latitude": 59.43696079999999,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/EEKtitleimg.png",
-   "path": "chapter_banners/EEKtitleimg.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/EEKtitleimg.png"
-  },
-  "longitude": 24.7535747,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/EUAS-Main-Building.jpg",
-   "path": "chapter_banners/EUAS-Main-Building.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/EUAS-Main-Building.jpg"
-  },
-  "state": "",
-  "title": "Estonian Entrepreneurship University of Applied Sciences",
-  "relative_url": "/estonian-entrepreneurship-university-of-applied-sciences/",
-  "url": "https://gdsc.community.dev/estonian-entrepreneurship-university-of-applied-sciences/"
  },
  {
   "active": true,
@@ -9804,21 +8356,6 @@
  },
  {
   "active": true,
-  "city": "Fulda",
-  "country": "DE",
-  "id": 222,
-  "hide_country_info": false,
-  "latitude": 50.5558095,
-  "logo": {},
-  "longitude": 9.6808449,
-  "picture": {},
-  "state": "",
-  "title": "Fulda University of Applied Sciences",
-  "relative_url": "/fulda-university-of-applied-sciences/",
-  "url": "https://gdsc.community.dev/fulda-university-of-applied-sciences/"
- },
- {
-  "active": true,
   "city": "Cairo",
   "country": "EG",
   "id": 72,
@@ -9936,21 +8473,6 @@
  },
  {
   "active": true,
-  "city": "Gdańsk",
-  "country": "PL",
-  "id": 473,
-  "hide_country_info": false,
-  "latitude": 54.35202520000001,
-  "logo": {},
-  "longitude": 18.6466384,
-  "picture": {},
-  "state": "",
-  "title": "Gdansk University of Technology / Politechnika Gdańska",
-  "relative_url": "/gdansk-university-of-technology-politechnika-gdanska/",
-  "url": "https://gdsc.community.dev/gdansk-university-of-technology-politechnika-gdanska/"
- },
- {
-  "active": true,
   "city": "Gebze",
   "country": "TR",
   "id": 2442,
@@ -9970,21 +8492,6 @@
   "title": "Gebze Teknik University",
   "relative_url": "/gebze-teknik-university/",
   "url": "https://gdsc.community.dev/gebze-teknik-university/"
- },
- {
-  "active": true,
-  "city": "Abu Dhabi",
-  "country": "AE",
-  "id": 171,
-  "hide_country_info": false,
-  "latitude": 24.453884,
-  "logo": {},
-  "longitude": 54.3773438,
-  "picture": {},
-  "state": "",
-  "title": "Gems Cambridge International",
-  "relative_url": "/gems-cambridge-international/",
-  "url": "https://gdsc.community.dev/gems-cambridge-international/"
  },
  {
   "active": true,
@@ -10201,35 +8708,6 @@
  },
  {
   "active": true,
-  "city": "6th of October",
-  "country": "EG",
-  "id": 104,
-  "hide_country_info": false,
-  "latitude": 29.9285429,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/78372185_103519837785536_7994676039152304128_o.png",
-   "path": "chapter_banners/78372185_103519837785536_7994676039152304128_o.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/78372185_103519837785536_7994676039152304128_o.png"
-  },
-  "longitude": 30.9187827,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/77053039_104081961062657_1555236051910393856_n.png",
-   "path": "chapter_banners/77053039_104081961062657_1555236051910393856_n.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/77053039_104081961062657_1555236051910393856_n.png"
-  },
-  "state": "",
-  "title": "HTI 10th of Ramadan - 6th of October branch",
-  "relative_url": "/hti-10th-of-ramadan-6th-of-october-branch/",
-  "url": "https://gdsc.community.dev/hti-10th-of-ramadan-6th-of-october-branch/"
- },
- {
-  "active": true,
   "city": "Ankara",
   "country": "TR",
   "id": 1164,
@@ -10326,21 +8804,6 @@
  },
  {
   "active": true,
-  "city": "Jerusalem",
-  "country": "IL",
-  "id": 214,
-  "hide_country_info": false,
-  "latitude": 31.768319,
-  "logo": {},
-  "longitude": 35.21371,
-  "picture": {},
-  "state": "",
-  "title": "Hebrew University of Jerusalem",
-  "relative_url": "/hebrew-university-of-jerusalem/",
-  "url": "https://gdsc.community.dev/hebrew-university-of-jerusalem/"
- },
- {
-  "active": true,
   "city": "القاهره",
   "country": "EG",
   "id": 61,
@@ -10382,36 +8845,6 @@
   "title": "Heriot-Watt University",
   "relative_url": "/heriot-watt-university/",
   "url": "https://gdsc.community.dev/heriot-watt-university/"
- },
- {
-  "active": true,
-  "city": "Muscat/ Al Khuwayr",
-  "country": "OM",
-  "id": 133,
-  "hide_country_info": false,
-  "latitude": 23.5870078,
-  "logo": {},
-  "longitude": 58.43445759999999,
-  "picture": {},
-  "state": "",
-  "title": "Higher College of Technology",
-  "relative_url": "/higher-college-of-technology/",
-  "url": "https://gdsc.community.dev/higher-college-of-technology/"
- },
- {
-  "active": true,
-  "city": "Abu Dhabi",
-  "country": "AE",
-  "id": 58,
-  "hide_country_info": false,
-  "latitude": 24.453884,
-  "logo": {},
-  "longitude": 54.3773438,
-  "picture": {},
-  "state": "",
-  "title": "Higher Colleges of Technology",
-  "relative_url": "/higher-colleges-of-technology/",
-  "url": "https://gdsc.community.dev/higher-colleges-of-technology/"
  },
  {
   "active": true,
@@ -10627,7 +9060,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2021-09-01%252000.07.36.jpg"
   },
   "longitude": 37.6172999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/2560x650-03.jpg",
+   "path": "chapter_banners/2560x650-03.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2560x650-03.jpg"
+  },
   "state": "",
   "title": "IThub",
   "relative_url": "/ithub/",
@@ -10809,21 +9249,6 @@
   "title": "Inonu Universitesi",
   "relative_url": "/inonu-universitesi/",
   "url": "https://gdsc.community.dev/inonu-universitesi/"
- },
- {
-  "active": true,
-  "city": "Lyon",
-  "country": "FR",
-  "id": 321,
-  "hide_country_info": false,
-  "latitude": 45.764043,
-  "logo": {},
-  "longitude": 4.835659,
-  "picture": {},
-  "state": "",
-  "title": "Institut National des Sciences Appliquées de Lyon",
-  "relative_url": "/institut-national-des-sciences-appliquees-de-lyon/",
-  "url": "https://gdsc.community.dev/institut-national-des-sciences-appliquees-de-lyon/"
  },
  {
   "active": true,
@@ -11280,21 +9705,6 @@
  },
  {
   "active": true,
-  "city": "Lviv",
-  "country": "UA",
-  "id": 476,
-  "hide_country_info": false,
-  "latitude": 49.839683,
-  "logo": {},
-  "longitude": 24.029717,
-  "picture": {},
-  "state": "",
-  "title": "Ivan Franko National University of Lviv",
-  "relative_url": "/ivan-franko-national-university-of-lviv/",
-  "url": "https://gdsc.community.dev/ivan-franko-national-university-of-lviv/"
- },
- {
-  "active": true,
   "city": "Tibilisi",
   "country": "GE",
   "id": 309,
@@ -11566,21 +9976,6 @@
  },
  {
   "active": true,
-  "city": "Kaluga",
-  "country": "RU",
-  "id": 289,
-  "hide_country_info": false,
-  "latitude": 54.5135904,
-  "logo": {},
-  "longitude": 36.2636786,
-  "picture": {},
-  "state": "",
-  "title": "Kaluga State University",
-  "relative_url": "/kaluga-state-university/",
-  "url": "https://gdsc.community.dev/kaluga-state-university/"
- },
- {
-  "active": true,
   "city": "Kandahar",
   "country": "AF",
   "id": 1175,
@@ -11684,21 +10079,6 @@
  },
  {
   "active": true,
-  "city": "Kazan",
-  "country": "RU",
-  "id": 519,
-  "hide_country_info": false,
-  "latitude": 55.7878944,
-  "logo": {},
-  "longitude": 49.1233294,
-  "picture": {},
-  "state": "",
-  "title": "Kazan Federal University",
-  "relative_url": "/kazan-federal-university/",
-  "url": "https://gdsc.community.dev/kazan-federal-university/"
- },
- {
-  "active": true,
   "city": "Abu Dhabi - United Arab Emirates",
   "country": "AE",
   "id": 1689,
@@ -11750,28 +10130,6 @@
  },
  {
   "active": true,
-  "city": "Rabigh",
-  "country": "SA",
-  "id": 158,
-  "hide_country_info": false,
-  "latitude": 22.7906701,
-  "logo": {},
-  "longitude": 39.0189623,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/96807.jpg",
-   "path": "chapter_banners/96807.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/96807.jpg"
-  },
-  "state": "",
-  "title": "King Abdulaziz University - Rabigh",
-  "relative_url": "/king-abdulaziz-university-rabigh/",
-  "url": "https://gdsc.community.dev/king-abdulaziz-university-rabigh/"
- },
- {
-  "active": true,
   "city": "Jeddah",
   "country": "SA",
   "id": 2416,
@@ -11784,21 +10142,6 @@
   "title": "King Abdulaziz University F - Jeddah",
   "relative_url": "/king-abdulaziz-university-f-jeddah/",
   "url": "https://gdsc.community.dev/king-abdulaziz-university-f-jeddah/"
- },
- {
-  "active": true,
-  "city": "Jeddah",
-  "country": "SA",
-  "id": 54,
-  "hide_country_info": false,
-  "latitude": 21.485811,
-  "logo": {},
-  "longitude": 39.19250479999999,
-  "picture": {},
-  "state": "",
-  "title": "King Abdulaziz University M - Jeddah",
-  "relative_url": "/king-abdulaziz-university-m-jeddah/",
-  "url": "https://gdsc.community.dev/king-abdulaziz-university-m-jeddah/"
  },
  {
   "active": true,
@@ -11894,35 +10237,6 @@
   "title": "King Saud university",
   "relative_url": "/king-saud-university/",
   "url": "https://gdsc.community.dev/king-saud-university/"
- },
- {
-  "active": true,
-  "city": "London",
-  "country": "GB",
-  "id": 460,
-  "hide_country_info": false,
-  "latitude": 51.5073509,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/KCL.png",
-   "path": "chapter_banners/KCL.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/KCL.png"
-  },
-  "longitude": -0.1277583,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/kclbanner.jpeg",
-   "path": "chapter_banners/kclbanner.jpeg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/kclbanner.jpeg"
-  },
-  "state": "",
-  "title": "King's College London",
-  "relative_url": "/kings-college-london/",
-  "url": "https://gdsc.community.dev/kings-college-london/"
  },
  {
   "active": true,
@@ -12034,21 +10348,6 @@
   "title": "Koç University",
   "relative_url": "/koc-university/",
   "url": "https://gdsc.community.dev/koc-university/"
- },
- {
-  "active": true,
-  "city": "Krasnodar",
-  "country": "RU",
-  "id": 477,
-  "hide_country_info": false,
-  "latitude": 45.036035,
-  "logo": {},
-  "longitude": 38.97457060000001,
-  "picture": {},
-  "state": "",
-  "title": "Kuban State University",
-  "relative_url": "/kuban-state-university/",
-  "url": "https://gdsc.community.dev/kuban-state-university/"
  },
  {
   "active": true,
@@ -12336,28 +10635,6 @@
   "title": "Loughborough University",
   "relative_url": "/loughborough-university/",
   "url": "https://gdsc.community.dev/loughborough-university/"
- },
- {
-  "active": true,
-  "city": "Lulea",
-  "country": "SE",
-  "id": 532,
-  "hide_country_info": false,
-  "latitude": 65.584819,
-  "logo": {},
-  "longitude": 22.1567026,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Lule%25C3%25A5%2520University%2520of%2520Technology%2520Logo%2520x1.png",
-   "path": "chapter_banners/DSC Luleå University of Technology Logo x1.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Lule%25C3%25A5%2520University%2520of%2520Technology%2520Logo%2520x1.png"
-  },
-  "state": "",
-  "title": "Lulea University of Technology",
-  "relative_url": "/lulea-university-of-technology/",
-  "url": "https://gdsc.community.dev/lulea-university-of-technology/"
  },
  {
   "active": true,
@@ -12670,50 +10947,6 @@
  },
  {
   "active": true,
-  "city": "Mila",
-  "country": "DZ",
-  "id": 77,
-  "hide_country_info": false,
-  "latitude": 36.4519049,
-  "logo": {},
-  "longitude": 6.2584338,
-  "picture": {},
-  "state": "",
-  "title": "Mila AbdelHafid Boussouf University",
-  "relative_url": "/mila-abdelhafid-boussouf-university/",
-  "url": "https://gdsc.community.dev/mila-abdelhafid-boussouf-university/"
- },
- {
-  "active": true,
-  "city": "Minia",
-  "country": "EG",
-  "id": 176,
-  "hide_country_info": false,
-  "latitude": 28.0870967,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/83877667_109005857335550_8888832696252366848_o_Wqko6Dh.jpg",
-   "path": "chapter_banners/83877667_109005857335550_8888832696252366848_o_Wqko6Dh.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/83877667_109005857335550_8888832696252366848_o_Wqko6Dh.jpg"
-  },
-  "longitude": 30.7618397,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/999.png",
-   "path": "chapter_banners/999.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/999.png"
-  },
-  "state": "",
-  "title": "Minia University",
-  "relative_url": "/minia-university/",
-  "url": "https://gdsc.community.dev/minia-university/"
- },
- {
-  "active": true,
   "city": "Cairo",
   "country": "EG",
   "id": 1813,
@@ -12838,28 +11071,6 @@
  },
  {
   "active": true,
-  "city": "Cairo",
-  "country": "EG",
-  "id": 156,
-  "hide_country_info": false,
-  "latitude": 30.0444196,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/profile_SAqoSqS.png",
-   "path": "chapter_banners/profile_SAqoSqS.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/profile_SAqoSqS.png"
-  },
-  "longitude": 31.2357116,
-  "picture": {},
-  "state": "",
-  "title": "Modern Academy - Maadi",
-  "relative_url": "/modern-academy-maadi/",
-  "url": "https://gdsc.community.dev/modern-academy-maadi/"
- },
- {
-  "active": true,
   "city": "Ben Guerir",
   "country": "MA",
   "id": 1834,
@@ -12879,21 +11090,6 @@
   "title": "Mohammed VI Polytechnic University",
   "relative_url": "/mohammed-vi-polytechnic-university/",
   "url": "https://gdsc.community.dev/mohammed-vi-polytechnic-university/"
- },
- {
-  "active": true,
-  "city": "Muscat",
-  "country": "OM",
-  "id": 124,
-  "hide_country_info": false,
-  "latitude": 23.5880307,
-  "logo": {},
-  "longitude": 58.3828717,
-  "picture": {},
-  "state": "",
-  "title": "Muscat college",
-  "relative_url": "/muscat-college/",
-  "url": "https://gdsc.community.dev/muscat-college/"
  },
  {
   "active": true,
@@ -12931,21 +11127,6 @@
   "title": "Muğla Sıtkı Koçman University",
   "relative_url": "/mugla-sitki-kocman-university/",
   "url": "https://gdsc.community.dev/mugla-sitki-kocman-university/"
- },
- {
-  "active": true,
-  "city": "Boumerdès",
-  "country": "DZ",
-  "id": 39,
-  "hide_country_info": false,
-  "latitude": 36.7510697,
-  "logo": {},
-  "longitude": 3.4788905,
-  "picture": {},
-  "state": "",
-  "title": "M’Hamed Bouguerra University of Boumerdés",
-  "relative_url": "/mhamed-bouguerra-university-of-boumerdes/",
-  "url": "https://gdsc.community.dev/mhamed-bouguerra-university-of-boumerdes/"
  },
  {
   "active": true,
@@ -13373,21 +11554,6 @@
  },
  {
   "active": true,
-  "city": "Vladikavkaz",
-  "country": "RU",
-  "id": 257,
-  "hide_country_info": false,
-  "latitude": 43.0252344,
-  "logo": {},
-  "longitude": 44.6659759,
-  "picture": {},
-  "state": "",
-  "title": "North Ossetian State University",
-  "relative_url": "/north-ossetian-state-university/",
-  "url": "https://gdsc.community.dev/north-ossetian-state-university/"
- },
- {
-  "active": true,
   "city": "Arar",
   "country": "SA",
   "id": 131,
@@ -13429,21 +11595,6 @@
   "title": "Novosibirsk State Technical University",
   "relative_url": "/novosibirsk-state-technical-university/",
   "url": "https://gdsc.community.dev/novosibirsk-state-technical-university/"
- },
- {
-  "active": true,
-  "city": "Karmiel",
-  "country": "IL",
-  "id": 294,
-  "hide_country_info": false,
-  "latitude": 32.914671,
-  "logo": {},
-  "longitude": 35.292417,
-  "picture": {},
-  "state": "",
-  "title": "ORT Braude College of Engineering",
-  "relative_url": "/ort-braude-college-of-engineering/",
-  "url": "https://gdsc.community.dev/ort-braude-college-of-engineering/"
  },
  {
   "active": true,
@@ -13608,36 +11759,6 @@
  },
  {
   "active": true,
-  "city": "Saint Petersburg",
-  "country": "RU",
-  "id": 412,
-  "hide_country_info": false,
-  "latitude": 59.9310584,
-  "logo": {},
-  "longitude": 30.3609096,
-  "picture": {},
-  "state": "",
-  "title": "Peter the Great St.Petersburg Polytechnic University",
-  "relative_url": "/peter-the-great-stpetersburg-polytechnic-university/",
-  "url": "https://gdsc.community.dev/peter-the-great-stpetersburg-polytechnic-university/"
- },
- {
-  "active": true,
-  "city": "Petrozavodsk",
-  "country": "RU",
-  "id": 479,
-  "hide_country_info": false,
-  "latitude": 61.77816170000001,
-  "logo": {},
-  "longitude": 34.3640395,
-  "picture": {},
-  "state": "",
-  "title": "Petrozavodsk State University",
-  "relative_url": "/petrozavodsk-state-university/",
-  "url": "https://gdsc.community.dev/petrozavodsk-state-university/"
- },
- {
-  "active": true,
   "city": "Istanbul",
   "country": "TR",
   "id": 1234,
@@ -13672,21 +11793,6 @@
   "title": "Plovdiv University",
   "relative_url": "/plovdiv-university/",
   "url": "https://gdsc.community.dev/plovdiv-university/"
- },
- {
-  "active": true,
-  "city": "Gdansk",
-  "country": "PL",
-  "id": 209,
-  "hide_country_info": false,
-  "latitude": 54.35202520000001,
-  "logo": {},
-  "longitude": 18.6466384,
-  "picture": {},
-  "state": "",
-  "title": "Polish-Japanese Academy of Information Technology",
-  "relative_url": "/polish-japanese-academy-of-information-technology/",
-  "url": "https://gdsc.community.dev/polish-japanese-academy-of-information-technology/"
  },
  {
   "active": true,
@@ -13746,21 +11852,6 @@
   "title": "Polytech INTL",
   "relative_url": "/polytech-intl/",
   "url": "https://gdsc.community.dev/polytech-intl/"
- },
- {
-  "active": true,
-  "city": "Bari",
-  "country": "IT",
-  "id": 366,
-  "hide_country_info": false,
-  "latitude": 41.1171432,
-  "logo": {},
-  "longitude": 16.8718715,
-  "picture": {},
-  "state": "",
-  "title": "Polytechnic University of Bari",
-  "relative_url": "/polytechnic-university-of-bari/",
-  "url": "https://gdsc.community.dev/polytechnic-university-of-bari/"
  },
  {
   "active": true,
@@ -13903,28 +11994,6 @@
  },
  {
   "active": true,
-  "city": "Prague",
-  "country": "CZ",
-  "id": 233,
-  "hide_country_info": false,
-  "latitude": 50.0755381,
-  "logo": {},
-  "longitude": 14.4378005,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC_1jeIuxB.png",
-   "path": "chapter_banners/DSC_1jeIuxB.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC_1jeIuxB.png"
-  },
-  "state": "",
-  "title": "Prague College",
-  "relative_url": "/prague-college/",
-  "url": "https://gdsc.community.dev/prague-college/"
- },
- {
-  "active": true,
   "city": "الخرج",
   "country": "SA",
   "id": 99,
@@ -13976,21 +12045,6 @@
  },
  {
   "active": true,
-  "city": "Doha",
-  "country": "QA",
-  "id": 24,
-  "hide_country_info": false,
-  "latitude": 25.2854473,
-  "logo": {},
-  "longitude": 51.53103979999999,
-  "picture": {},
-  "state": "",
-  "title": "Qatar University",
-  "relative_url": "/qatar-university/",
-  "url": "https://gdsc.community.dev/qatar-university/"
- },
- {
-  "active": true,
   "city": "London",
   "country": "GB",
   "id": 505,
@@ -14010,21 +12064,6 @@
   "title": "Queen Mary University of London",
   "relative_url": "/queen-mary-university-of-london/",
   "url": "https://gdsc.community.dev/queen-mary-university-of-london/"
- },
- {
-  "active": true,
-  "city": "Belfast",
-  "country": "GB",
-  "id": 475,
-  "hide_country_info": false,
-  "latitude": 54.59728500000001,
-  "logo": {},
-  "longitude": -5.93012,
-  "picture": {},
-  "state": "",
-  "title": "Queen's University Belfast",
-  "relative_url": "/queens-university-belfast/",
-  "url": "https://gdsc.community.dev/queens-university-belfast/"
  },
  {
   "active": true,
@@ -14084,36 +12123,6 @@
   "title": "Rafik Hariri University",
   "relative_url": "/rafik-hariri-university/",
   "url": "https://gdsc.community.dev/rafik-hariri-university/"
- },
- {
-  "active": true,
-  "city": "Riga",
-  "country": "LV",
-  "id": 506,
-  "hide_country_info": false,
-  "latitude": 56.9496487,
-  "logo": {},
-  "longitude": 24.1051865,
-  "picture": {},
-  "state": "",
-  "title": "Riga Technical University / Rīgas Tehniskā universitāte",
-  "relative_url": "/riga-technical-university-rigas-tehniska-universitate/",
-  "url": "https://gdsc.community.dev/riga-technical-university-rigas-tehniska-universitate/"
- },
- {
-  "active": true,
-  "city": "Rostov-on-Don",
-  "country": "RU",
-  "id": 563,
-  "hide_country_info": false,
-  "latitude": 47.2357137,
-  "logo": {},
-  "longitude": 39.701505,
-  "picture": {},
-  "state": "",
-  "title": "Rostov College of Communications and Informatics",
-  "relative_url": "/rostov-college-of-communications-and-informatics/",
-  "url": "https://gdsc.community.dev/rostov-college-of-communications-and-informatics/"
  },
  {
   "active": true,
@@ -14493,36 +12502,6 @@
  },
  {
   "active": true,
-  "city": "Shinas",
-  "country": "OM",
-  "id": 33,
-  "hide_country_info": false,
-  "latitude": 24.7242467,
-  "logo": {},
-  "longitude": 56.4607919,
-  "picture": {},
-  "state": "",
-  "title": "Shinas college of technology",
-  "relative_url": "/shinas-college-of-technology/",
-  "url": "https://gdsc.community.dev/shinas-college-of-technology/"
- },
- {
-  "active": true,
-  "city": "Cairo",
-  "country": "EG",
-  "id": 140,
-  "hide_country_info": false,
-  "latitude": 30.0444196,
-  "logo": {},
-  "longitude": 31.2357116,
-  "picture": {},
-  "state": "",
-  "title": "Sinai University",
-  "relative_url": "/sinai-university/",
-  "url": "https://gdsc.community.dev/sinai-university/"
- },
- {
-  "active": true,
   "city": "Sivas",
   "country": "TR",
   "id": 1239,
@@ -14667,21 +12646,6 @@
   "title": "Suez Canal University",
   "relative_url": "/suez-canal-university/",
   "url": "https://gdsc.community.dev/suez-canal-university/"
- },
- {
-  "active": true,
-  "city": "Suez",
-  "country": "EG",
-  "id": 89,
-  "hide_country_info": false,
-  "latitude": 29.9668343,
-  "logo": {},
-  "longitude": 32.5498069,
-  "picture": {},
-  "state": "",
-  "title": "Suez University",
-  "relative_url": "/suez-university/",
-  "url": "https://gdsc.community.dev/suez-university/"
  },
  {
   "active": true,
@@ -14962,28 +12926,6 @@
  },
  {
   "active": true,
-  "city": "Kyiv",
-  "country": "UA",
-  "id": 528,
-  "hide_country_info": false,
-  "latitude": 50.4501,
-  "logo": {},
-  "longitude": 30.5234,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/knu.jpg",
-   "path": "chapter_banners/knu.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/knu.jpg"
-  },
-  "state": "",
-  "title": "Taras Shevchenko National University of Kyiv",
-  "relative_url": "/taras-shevchenko-national-university-of-kyiv/",
-  "url": "https://gdsc.community.dev/taras-shevchenko-national-university-of-kyiv/"
- },
- {
-  "active": true,
   "city": "Iași",
   "country": "RO",
   "id": 1641,
@@ -15040,21 +12982,6 @@
   "title": "Technical University of Munich",
   "relative_url": "/technical-university-of-munich/",
   "url": "https://gdsc.community.dev/technical-university-of-munich/"
- },
- {
-  "active": true,
-  "city": "Ostrava",
-  "country": "CZ",
-  "id": 346,
-  "hide_country_info": false,
-  "latitude": 49.8209226,
-  "logo": {},
-  "longitude": 18.2625243,
-  "picture": {},
-  "state": "",
-  "title": "Technical University of Ostrava",
-  "relative_url": "/technical-university-of-ostrava/",
-  "url": "https://gdsc.community.dev/technical-university-of-ostrava/"
  },
  {
   "active": true,
@@ -15121,28 +13048,6 @@
   "title": "Technische Universität Berlin",
   "relative_url": "/technische-universitat-berlin/",
   "url": "https://gdsc.community.dev/technische-universitat-berlin/"
- },
- {
-  "active": true,
-  "city": "Dresden",
-  "country": "DE",
-  "id": 394,
-  "hide_country_info": false,
-  "latitude": 51.0504088,
-  "logo": {},
-  "longitude": 13.7372621,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsctud.png",
-   "path": "chapter_banners/dsctud.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsctud.png"
-  },
-  "state": "",
-  "title": "Technische Universität Dresden",
-  "relative_url": "/technische-universitat-dresden/",
-  "url": "https://gdsc.community.dev/technische-universitat-dresden/"
  },
  {
   "active": true,
@@ -15314,21 +13219,6 @@
  },
  {
   "active": true,
-  "city": "Tikrit",
-  "country": "IQ",
-  "id": 73,
-  "hide_country_info": false,
-  "latitude": 34.5990025,
-  "logo": {},
-  "longitude": 43.675025,
-  "picture": {},
-  "state": "",
-  "title": "Tikrit University",
-  "relative_url": "/tikrit-university/",
-  "url": "https://gdsc.community.dev/tikrit-university/"
- },
- {
-  "active": true,
   "city": "Tomsk",
   "country": "RU",
   "id": 2424,
@@ -15400,21 +13290,6 @@
   "title": "Trinity College Dublin",
   "relative_url": "/trinity-college-dublin/",
   "url": "https://gdsc.community.dev/trinity-college-dublin/"
- },
- {
-  "active": true,
-  "city": "Tula",
-  "country": "RU",
-  "id": 324,
-  "hide_country_info": false,
-  "latitude": 54.204836,
-  "logo": {},
-  "longitude": 37.6184915,
-  "picture": {},
-  "state": "",
-  "title": "Tula State University",
-  "relative_url": "/tula-state-university/",
-  "url": "https://gdsc.community.dev/tula-state-university/"
  },
  {
   "active": true,
@@ -15638,21 +13513,6 @@
  },
  {
   "active": true,
-  "city": "Prague",
-  "country": "CZ",
-  "id": 481,
-  "hide_country_info": false,
-  "latitude": 50.0755381,
-  "logo": {},
-  "longitude": 14.4378005,
-  "picture": {},
-  "state": "",
-  "title": "Unicorn College",
-  "relative_url": "/unicorn-college/",
-  "url": "https://gdsc.community.dev/unicorn-college/"
- },
- {
-  "active": true,
   "city": "Madrid",
   "country": "ES",
   "id": 1251,
@@ -15702,21 +13562,6 @@
   "title": "Universidad de Navarra",
   "relative_url": "/universidad-de-navarra/",
   "url": "https://gdsc.community.dev/universidad-de-navarra/"
- },
- {
-  "active": true,
-  "city": "Zaragoza",
-  "country": "ES",
-  "id": 221,
-  "hide_country_info": false,
-  "latitude": 41.6488226,
-  "logo": {},
-  "longitude": -0.8890853,
-  "picture": {},
-  "state": "",
-  "title": "Universidad de Zaragoza",
-  "relative_url": "/universidad-de-zaragoza/",
-  "url": "https://gdsc.community.dev/universidad-de-zaragoza/"
  },
  {
   "active": true,
@@ -15827,79 +13672,6 @@
   "title": "University College London",
   "relative_url": "/university-college-london/",
   "url": "https://gdsc.community.dev/university-college-london/"
- },
- {
-  "active": true,
-  "city": "Hjørring",
-  "country": "DK",
-  "id": 350,
-  "hide_country_info": false,
-  "latitude": 57.4567788,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/profile_pic.jpg",
-   "path": "chapter_banners/profile_pic.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/profile_pic.jpg"
-  },
-  "longitude": 9.995763499999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520UCN%2520Homepage%2520Banner%25202-1.jpg",
-   "path": "chapter_banners/DSC UCN Homepage Banner 2-1.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520UCN%2520Homepage%2520Banner%25202-1.jpg"
-  },
-  "state": "",
-  "title": "University College of Northern Denmark",
-  "relative_url": "/university-college-of-northern-denmark/",
-  "url": "https://gdsc.community.dev/university-college-of-northern-denmark/"
- },
- {
-  "active": true,
-  "city": "Rabat",
-  "country": "MA",
-  "id": 172,
-  "hide_country_info": false,
-  "latitude": 33.9715904,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/prfl.jpg",
-   "path": "chapter_banners/prfl.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/prfl.jpg"
-  },
-  "longitude": -6.8498129,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/khdma_bla_floss.jpg",
-   "path": "chapter_banners/khdma_bla_floss.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/khdma_bla_floss.jpg"
-  },
-  "state": "",
-  "title": "University Mohemmed V (ENSIAS)",
-  "relative_url": "/university-mohemmed-v-ensias/",
-  "url": "https://gdsc.community.dev/university-mohemmed-v-ensias/"
- },
- {
-  "active": true,
-  "city": "Bucharest",
-  "country": "RO",
-  "id": 344,
-  "hide_country_info": false,
-  "latitude": 44.4267674,
-  "logo": {},
-  "longitude": 26.1025384,
-  "picture": {},
-  "state": "",
-  "title": "University Of Bucharest",
-  "relative_url": "/university-of-bucharest/",
-  "url": "https://gdsc.community.dev/university-of-bucharest/"
  },
  {
   "active": true,
@@ -16284,21 +14056,6 @@
  },
  {
   "active": true,
-  "city": "Exeter",
-  "country": "GB",
-  "id": 258,
-  "hide_country_info": false,
-  "latitude": 50.718412,
-  "logo": {},
-  "longitude": -3.533899,
-  "picture": {},
-  "state": "",
-  "title": "University of Exeter",
-  "relative_url": "/university-of-exeter/",
-  "url": "https://gdsc.community.dev/university-of-exeter/"
- },
- {
-  "active": true,
   "city": "Setif",
   "country": "DZ",
   "id": 21,
@@ -16365,35 +14122,6 @@
  },
  {
   "active": true,
-  "city": "Groningen",
-  "country": "NL",
-  "id": 220,
-  "hide_country_info": false,
-  "latitude": 53.2193835,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc_logo_transparent.png",
-   "path": "chapter_banners/dsc_logo_transparent.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc_logo_transparent.png"
-  },
-  "longitude": 6.5665017,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner_hvbUVn2.png",
-   "path": "chapter_banners/banner_hvbUVn2.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner_hvbUVn2.png"
-  },
-  "state": "",
-  "title": "University of Groningen / Rijksuniversiteit Groningen",
-  "relative_url": "/university-of-groningen-rijksuniversiteit-groningen/",
-  "url": "https://gdsc.community.dev/university-of-groningen-rijksuniversiteit-groningen/"
- },
- {
-  "active": true,
   "city": "Hail",
   "country": "SA",
   "id": 1784,
@@ -16406,21 +14134,6 @@
   "title": "University of Hail",
   "relative_url": "/university-of-hail/",
   "url": "https://gdsc.community.dev/university-of-hail/"
- },
- {
-  "active": true,
-  "city": "Hamburg",
-  "country": "DE",
-  "id": 338,
-  "hide_country_info": false,
-  "latitude": 53.5510846,
-  "logo": {},
-  "longitude": 9.9936819,
-  "picture": {},
-  "state": "",
-  "title": "University of Hamburg",
-  "relative_url": "/university-of-hamburg/",
-  "url": "https://gdsc.community.dev/university-of-hamburg/"
  },
  {
   "active": true,
@@ -16710,28 +14423,6 @@
  },
  {
   "active": true,
-  "city": "Thessaloniki",
-  "country": "GR",
-  "id": 509,
-  "hide_country_info": false,
-  "latitude": 40.6400629,
-  "logo": {},
-  "longitude": 22.9444191,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/uom.jpg",
-   "path": "chapter_banners/uom.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/uom.jpg"
-  },
-  "state": "",
-  "title": "University of Macedonia",
-  "relative_url": "/university-of-macedonia/",
-  "url": "https://gdsc.community.dev/university-of-macedonia/"
- },
- {
-  "active": true,
   "city": "Manchester",
   "country": "GB",
   "id": 291,
@@ -16758,21 +14449,6 @@
   "title": "University of Manchester",
   "relative_url": "/university-of-manchester/",
   "url": "https://gdsc.community.dev/university-of-manchester/"
- },
- {
-  "active": true,
-  "city": "Milan",
-  "country": "IT",
-  "id": 349,
-  "hide_country_info": false,
-  "latitude": 45.4642035,
-  "logo": {},
-  "longitude": 9.189982,
-  "picture": {},
-  "state": "",
-  "title": "University of Milan",
-  "relative_url": "/university-of-milan/",
-  "url": "https://gdsc.community.dev/university-of-milan/"
  },
  {
   "active": true,
@@ -16832,28 +14508,6 @@
   "title": "University of Málaga",
   "relative_url": "/university-of-malaga/",
   "url": "https://gdsc.community.dev/university-of-malaga/"
- },
- {
-  "active": true,
-  "city": "Nottingham",
-  "country": "GB",
-  "id": 225,
-  "hide_country_info": false,
-  "latitude": 52.95478319999999,
-  "logo": {},
-  "longitude": -1.1581086,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GoogleDevelopers_Launchpad_YouTubeBanner_8ayBAFK.png",
-   "path": "chapter_banners/GoogleDevelopers_Launchpad_YouTubeBanner_8ayBAFK.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GoogleDevelopers_Launchpad_YouTubeBanner_8ayBAFK.png"
-  },
-  "state": "",
-  "title": "University of Nottingham",
-  "relative_url": "/university-of-nottingham/",
-  "url": "https://gdsc.community.dev/university-of-nottingham/"
  },
  {
   "active": true,
@@ -16946,21 +14600,6 @@
  },
  {
   "active": true,
-  "city": "Paris",
-  "country": "FR",
-  "id": 195,
-  "hide_country_info": false,
-  "latitude": 48.856614,
-  "logo": {},
-  "longitude": 2.3522219,
-  "picture": {},
-  "state": "",
-  "title": "University of Paris-Est Marne-la-Vallée",
-  "relative_url": "/university-of-paris-est-marne-la-vallee/",
-  "url": "https://gdsc.community.dev/university-of-paris-est-marne-la-vallee/"
- },
- {
-  "active": true,
   "city": "Orsay",
   "country": "FR",
   "id": 1872,
@@ -16973,21 +14612,6 @@
   "title": "University of Paris-Saclay",
   "relative_url": "/university-of-paris-saclay/",
   "url": "https://gdsc.community.dev/university-of-paris-saclay/"
- },
- {
-  "active": true,
-  "city": "Pireas",
-  "country": "GR",
-  "id": 480,
-  "hide_country_info": false,
-  "latitude": 37.9429857,
-  "logo": {},
-  "longitude": 23.6469832,
-  "picture": {},
-  "state": "",
-  "title": "University of Piraeus",
-  "relative_url": "/university-of-piraeus/",
-  "url": "https://gdsc.community.dev/university-of-piraeus/"
  },
  {
   "active": true,
@@ -17113,21 +14737,6 @@
   "title": "University of Pécs",
   "relative_url": "/university-of-pecs/",
   "url": "https://gdsc.community.dev/university-of-pecs/"
- },
- {
-  "active": true,
-  "city": "Reading",
-  "country": "GB",
-  "id": 439,
-  "hide_country_info": false,
-  "latitude": 51.4542645,
-  "logo": {},
-  "longitude": -0.9781303,
-  "picture": {},
-  "state": "",
-  "title": "University of Reading",
-  "relative_url": "/university-of-reading/",
-  "url": "https://gdsc.community.dev/university-of-reading/"
  },
  {
   "active": true,
@@ -17290,21 +14899,6 @@
   "title": "University of Tripoli",
   "relative_url": "/university-of-tripoli/",
   "url": "https://gdsc.community.dev/university-of-tripoli/"
- },
- {
-  "active": true,
-  "city": "Vienna",
-  "country": "AT",
-  "id": 211,
-  "hide_country_info": false,
-  "latitude": 48.2081743,
-  "logo": {},
-  "longitude": 16.3738189,
-  "picture": {},
-  "state": "",
-  "title": "University of Vienna",
-  "relative_url": "/university-of-vienna/",
-  "url": "https://gdsc.community.dev/university-of-vienna/"
  },
  {
   "active": true,
@@ -17580,36 +15174,28 @@
  },
  {
   "active": true,
-  "city": "Warszawa",
-  "country": "PL",
-  "id": 339,
-  "hide_country_info": false,
-  "latitude": 52.2296756,
-  "logo": {},
-  "longitude": 21.0122287,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Warsaw%2520University%2520of%2520Technology%2520Logo%2520x1.png",
-   "path": "chapter_banners/DSC Warsaw University of Technology Logo x1.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Warsaw%2520University%2520of%2520Technology%2520Logo%2520x1.png"
-  },
-  "state": "",
-  "title": "Warsaw University of Technology",
-  "relative_url": "/warsaw-university-of-technology/",
-  "url": "https://gdsc.community.dev/warsaw-university-of-technology/"
- },
- {
-  "active": true,
   "city": "Timișoara",
   "country": "RO",
   "id": 1898,
   "hide_country_info": false,
   "latitude": 45.7488716,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-08%2520at%252022.36.48.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-11-08 at 22.36.48.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-08%2520at%252022.36.48.jpeg"
+  },
   "longitude": 21.2086793,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-08%2520at%252022.32.05.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-11-08 at 22.32.05.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-08%2520at%252022.32.05.jpeg"
+  },
   "state": "",
   "title": "West University of Timișoara",
   "relative_url": "/west-university-of-timisoara/",
@@ -17753,35 +15339,6 @@
   "title": "Yıldız Technical University",
   "relative_url": "/yildiz-technical-university/",
   "url": "https://gdsc.community.dev/yildiz-technical-university/"
- },
- {
-  "active": true,
-  "city": "Zagazig",
-  "country": "EG",
-  "id": 55,
-  "hide_country_info": false,
-  "latitude": 30.5765383,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC-FB-01.png",
-   "path": "chapter_banners/DSC-FB-01.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC-FB-01.png"
-  },
-  "longitude": 31.5040656,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC-FB-02.png",
-   "path": "chapter_banners/DSC-FB-02.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC-FB-02.png"
-  },
-  "state": "",
-  "title": "Zagazig University",
-  "relative_url": "/zagazig-university/",
-  "url": "https://gdsc.community.dev/zagazig-university/"
  },
  {
   "active": true,
@@ -18276,28 +15833,6 @@
  },
  {
   "active": true,
-  "city": "Martil",
-  "country": "MA",
-  "id": 129,
-  "hide_country_info": false,
-  "latitude": 35.6196262,
-  "logo": {},
-  "longitude": -5.284117699999999,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/New%2520Project.png",
-   "path": "chapter_banners/New Project.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/New%2520Project.png"
-  },
-  "state": "",
-  "title": "ÉCOLE NORMALE SUPÉRIEURE",
-  "relative_url": "/ecole-normale-superieure/",
-  "url": "https://gdsc.community.dev/ecole-normale-superieure/"
- },
- {
-  "active": true,
   "city": "Paris",
   "country": "FR",
   "id": 566,
@@ -18317,28 +15852,6 @@
   "title": "École Polytechnique (comUE Université Paris Saclay)",
   "relative_url": "/ecole-polytechnique-comue-universite-paris-saclay/",
   "url": "https://gdsc.community.dev/ecole-polytechnique-comue-universite-paris-saclay/"
- },
- {
-  "active": true,
-  "city": "Gafsa",
-  "country": "TN",
-  "id": 32,
-  "hide_country_info": false,
-  "latitude": 34.4311398,
-  "logo": {},
-  "longitude": 8.7756556,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/image1.png",
-   "path": "chapter_banners/image1.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/image1.png"
-  },
-  "state": "",
-  "title": "École Supérieure d'Ingénieurs Privée de Gafsa",
-  "relative_url": "/ecole-superieure-dingenieurs-privee-de-gafsa/",
-  "url": "https://gdsc.community.dev/ecole-superieure-dingenieurs-privee-de-gafsa/"
  },
  {
   "active": true,
@@ -20468,7 +17981,14 @@
   "latitude": -25.969248,
   "logo": {},
   "longitude": 32.5731746,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252021_2s1VLXc.png",
+   "path": "chapter_banners/Artboard 21_2s1VLXc.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252021_2s1VLXc.png"
+  },
   "state": "",
   "title": "Instituto de transporte e comunicacoes- ITC",
   "relative_url": "/instituto-de-transporte-e-comunicacoes-itc/",
@@ -25085,21 +22605,6 @@
  },
  {
   "active": true,
-  "city": "Bandung",
-  "country": "ID",
-  "id": 200,
-  "hide_country_info": false,
-  "latitude": -6.9174639,
-  "logo": {},
-  "longitude": 107.6191228,
-  "picture": {},
-  "state": "",
-  "title": "Binus University Bandung",
-  "relative_url": "/binus-university-bandung/",
-  "url": "https://gdsc.community.dev/binus-university-bandung/"
- },
- {
-  "active": true,
   "city": "Jakarta",
   "country": "ID",
   "id": 1206,
@@ -25310,21 +22815,6 @@
   "title": "Birsa Institute of Technology (BIT Sindri) - Dhanbad",
   "relative_url": "/birsa-institute-of-technology-bit-sindri-dhanbad-1/",
   "url": "https://gdsc.community.dev/birsa-institute-of-technology-bit-sindri-dhanbad-1/"
- },
- {
-  "active": true,
-  "city": "Mont Albert",
-  "country": "AU",
-  "id": 18,
-  "hide_country_info": false,
-  "latitude": -37.816111,
-  "logo": {},
-  "longitude": 145.11,
-  "picture": {},
-  "state": "",
-  "title": "Box Hill Institute",
-  "relative_url": "/box-hill-institute/",
-  "url": "https://gdsc.community.dev/box-hill-institute/"
  },
  {
   "active": true,
@@ -25839,21 +23329,6 @@
   "title": "City University of Hong Kong",
   "relative_url": "/city-university-of-hong-kong/",
   "url": "https://gdsc.community.dev/city-university-of-hong-kong/"
- },
- {
-  "active": true,
-  "city": "Peshawar",
-  "country": "PK",
-  "id": 549,
-  "hide_country_info": false,
-  "latitude": 34.0151366,
-  "logo": {},
-  "longitude": 71.5249154,
-  "picture": {},
-  "state": "",
-  "title": "City University of Science and Information Technology, Peshawar.",
-  "relative_url": "/city-university-of-science-and-information-technology-peshawar/",
-  "url": "https://gdsc.community.dev/city-university-of-science-and-information-technology-peshawar/"
  },
  {
   "active": true,
@@ -26935,21 +24410,6 @@
  },
  {
   "active": true,
-  "city": "Thủ Dầu Một",
-  "country": "VN",
-  "id": 559,
-  "hide_country_info": false,
-  "latitude": 10.9929842,
-  "logo": {},
-  "longitude": 106.6557073,
-  "picture": {},
-  "state": "",
-  "title": "Eastern International University",
-  "relative_url": "/eastern-international-university/",
-  "url": "https://gdsc.community.dev/eastern-international-university/"
- },
- {
-  "active": true,
   "city": "Seoul",
   "country": "KR",
   "id": 635,
@@ -27049,50 +24509,6 @@
   "title": "FPT University",
   "relative_url": "/fpt-university/",
   "url": "https://gdsc.community.dev/fpt-university/"
- },
- {
-  "active": true,
-  "city": "Danang",
-  "country": "VN",
-  "id": 445,
-  "hide_country_info": false,
-  "latitude": 16.0544068,
-  "logo": {},
-  "longitude": 108.2021667,
-  "picture": {},
-  "state": "",
-  "title": "FPT University Danang",
-  "relative_url": "/fpt-university-danang/",
-  "url": "https://gdsc.community.dev/fpt-university-danang/"
- },
- {
-  "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 254,
-  "hide_country_info": false,
-  "latitude": 10.8230989,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520FPTU%2520HCMC%2520LOGO%25201X1.png",
-   "path": "chapter_banners/DSC FPTU HCMC LOGO 1X1.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520FPTU%2520HCMC%2520LOGO%25201X1.png"
-  },
-  "longitude": 106.6296638,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/2020_1109_18320300.jpg",
-   "path": "chapter_banners/2020_1109_18320300.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2020_1109_18320300.jpg"
-  },
-  "state": "",
-  "title": "FPT University HCMC",
-  "relative_url": "/fpt-university-hcmc/",
-  "url": "https://gdsc.community.dev/fpt-university-hcmc/"
  },
  {
   "active": true,
@@ -28290,28 +25706,6 @@
  },
  {
   "active": true,
-  "city": "Kuala Lumpur",
-  "country": "MY",
-  "id": 507,
-  "hide_country_info": false,
-  "latitude": 3.139003,
-  "logo": {},
-  "longitude": 101.686855,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520HELP%2520University%2520%2520Logo%2520x1.png",
-   "path": "chapter_banners/DSC HELP University  Logo x1.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520HELP%2520University%2520%2520Logo%2520x1.png"
-  },
-  "state": "",
-  "title": "HELP University",
-  "relative_url": "/help-university/",
-  "url": "https://gdsc.community.dev/help-university/"
- },
- {
-  "active": true,
   "city": "New Delhi",
   "country": "IN",
   "id": 1062,
@@ -28553,21 +25947,6 @@
  },
  {
   "active": true,
-  "city": "Ho Chi Minh",
-  "country": "VN",
-  "id": 502,
-  "hide_country_info": false,
-  "latitude": 10.8230989,
-  "logo": {},
-  "longitude": 106.6296638,
-  "picture": {},
-  "state": "",
-  "title": "Ho Chi Minh City University of Technology",
-  "relative_url": "/ho-chi-minh-city-university-of-technology/",
-  "url": "https://gdsc.community.dev/ho-chi-minh-city-university-of-technology/"
- },
- {
-  "active": true,
   "city": "Ho Chi Minh City",
   "country": "VN",
   "id": 1766,
@@ -28646,21 +26025,6 @@
   "title": "Holy Angel University, Angeles City",
   "relative_url": "/holy-angel-university-angeles-city/",
   "url": "https://gdsc.community.dev/holy-angel-university-angeles-city/"
- },
- {
-  "active": true,
-  "city": "Kowloon Tong",
-  "country": "HK",
-  "id": 392,
-  "hide_country_info": false,
-  "latitude": 22.3369319,
-  "logo": {},
-  "longitude": 114.1763367,
-  "picture": {},
-  "state": "",
-  "title": "Hong Kong Baptist University",
-  "relative_url": "/hong-kong-baptist-university/",
-  "url": "https://gdsc.community.dev/hong-kong-baptist-university/"
  },
  {
   "active": true,
@@ -29676,28 +27040,6 @@
  },
  {
   "active": true,
-  "city": "Balikpapan",
-  "country": "ID",
-  "id": 427,
-  "hide_country_info": false,
-  "latitude": -1.2379274,
-  "logo": {},
-  "longitude": 116.8528526,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/ITK-1024x5106.png",
-   "path": "chapter_banners/ITK-1024x5106.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/ITK-1024x5106.png"
-  },
-  "state": "",
-  "title": "Institut Teknologi Kalimantan",
-  "relative_url": "/institut-teknologi-kalimantan/",
-  "url": "https://gdsc.community.dev/institut-teknologi-kalimantan/"
- },
- {
-  "active": true,
   "city": "West Jakarta City",
   "country": "ID",
   "id": 1770,
@@ -30163,35 +27505,6 @@
   "title": "Iqra University, Karachi Campus",
   "relative_url": "/iqra-university-karachi-campus/",
   "url": "https://gdsc.community.dev/iqra-university-karachi-campus/"
- },
- {
-  "active": true,
-  "city": "Timurgara",
-  "country": "PK",
-  "id": 245,
-  "hide_country_info": false,
-  "latitude": 34.827769,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dscicup%2520logo.jpg",
-   "path": "chapter_banners/dscicup logo.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dscicup%2520logo.jpg"
-  },
-  "longitude": 71.8423092,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/12247807_10153652455149361_7738671523121593704_o.jpg",
-   "path": "chapter_banners/12247807_10153652455149361_7738671523121593704_o.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/12247807_10153652455149361_7738671523121593704_o.jpg"
-  },
-  "state": "",
-  "title": "Islamia College University Peshawar",
-  "relative_url": "/islamia-college-university-peshawar/",
-  "url": "https://gdsc.community.dev/islamia-college-university-peshawar/"
  },
  {
   "active": true,
@@ -31080,35 +28393,6 @@
   "active": true,
   "city": "Bangkok",
   "country": "TH",
-  "id": 273,
-  "hide_country_info": false,
-  "latitude": 13.7563309,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/kmutnb.png",
-   "path": "chapter_banners/kmutnb.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/kmutnb.png"
-  },
-  "longitude": 100.5017651,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner_48PqDMq.jpg",
-   "path": "chapter_banners/banner_48PqDMq.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner_48PqDMq.jpg"
-  },
-  "state": "",
-  "title": "King Mongkut's University of Technology North Bangkok",
-  "relative_url": "/king-mongkuts-university-of-technology-north-bangkok/",
-  "url": "https://gdsc.community.dev/king-mongkuts-university-of-technology-north-bangkok/"
- },
- {
-  "active": true,
-  "city": "Bangkok",
-  "country": "TH",
   "id": 283,
   "hide_country_info": false,
   "latitude": 13.7563309,
@@ -31628,28 +28912,6 @@
  },
  {
   "active": true,
-  "city": "Sydney",
-  "country": "AU",
-  "id": 14,
-  "hide_country_info": false,
-  "latitude": -33.8688197,
-  "logo": {},
-  "longitude": 151.2092955,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/MQ-Media-2-1.jpg",
-   "path": "chapter_banners/MQ-Media-2-1.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/MQ-Media-2-1.jpg"
-  },
-  "state": "",
-  "title": "Macquarie University",
-  "relative_url": "/macquarie-university/",
-  "url": "https://gdsc.community.dev/macquarie-university/"
- },
- {
-  "active": true,
   "city": "Gorakhpur",
   "country": "IN",
   "id": 1214,
@@ -31764,35 +29026,6 @@
   "title": "Maharshi Dayanand University",
   "relative_url": "/maharshi-dayanand-university/",
   "url": "https://gdsc.community.dev/maharshi-dayanand-university/"
- },
- {
-  "active": true,
-  "city": "Salaya",
-  "country": "TH",
-  "id": 355,
-  "hide_country_info": false,
-  "latitude": 13.7876888,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Uni%2520Logo.png",
-   "path": "chapter_banners/Uni Logo.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Uni%2520Logo.png"
-  },
-  "longitude": 100.3276186,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DEP%2520Cover.jpg",
-   "path": "chapter_banners/DEP Cover.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DEP%2520Cover.jpg"
-  },
-  "state": "",
-  "title": "Mahidol University, Salaya",
-  "relative_url": "/mahidol-university-salaya/",
-  "url": "https://gdsc.community.dev/mahidol-university-salaya/"
  },
  {
   "active": true,
@@ -32382,28 +29615,6 @@
   "title": "Multimedia University",
   "relative_url": "/multimedia-university/",
   "url": "https://gdsc.community.dev/multimedia-university/"
- },
- {
-  "active": true,
-  "city": "Kudus",
-  "country": "ID",
-  "id": 388,
-  "hide_country_info": false,
-  "latitude": -6.807260299999999,
-  "logo": {},
-  "longitude": 110.8413706,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/umk2.png",
-   "path": "chapter_banners/umk2.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/umk2.png"
-  },
-  "state": "",
-  "title": "Muria Kudus University",
-  "relative_url": "/muria-kudus-university/",
-  "url": "https://gdsc.community.dev/muria-kudus-university/"
  },
  {
   "active": true,
@@ -33039,36 +30250,6 @@
  },
  {
   "active": true,
-  "city": "Kaohsiung",
-  "country": "TW",
-  "id": 362,
-  "hide_country_info": false,
-  "latitude": 22.6272784,
-  "logo": {},
-  "longitude": 120.3014353,
-  "picture": {},
-  "state": "",
-  "title": "National Kaohsiung University of Science and Technology First Campus",
-  "relative_url": "/national-kaohsiung-university-of-science-and-technology-first-campus/",
-  "url": "https://gdsc.community.dev/national-kaohsiung-university-of-science-and-technology-first-campus/"
- },
- {
-  "active": true,
-  "city": "Kaohsiung",
-  "country": "TW",
-  "id": 534,
-  "hide_country_info": false,
-  "latitude": 22.6272784,
-  "logo": {},
-  "longitude": 120.3014353,
-  "picture": {},
-  "state": "",
-  "title": "National Kaohsiung University of Science and Technology Jiangong Campus",
-  "relative_url": "/national-kaohsiung-university-of-science-and-technology-jiangong-campus/",
-  "url": "https://gdsc.community.dev/national-kaohsiung-university-of-science-and-technology-jiangong-campus/"
- },
- {
-  "active": true,
   "city": "Nanzih District",
   "country": "TW",
   "id": 1825,
@@ -33451,28 +30632,6 @@
  },
  {
   "active": true,
-  "city": "Douliu City",
-  "country": "TW",
-  "id": 521,
-  "hide_country_info": false,
-  "latitude": 23.7077947,
-  "logo": {},
-  "longitude": 120.5409089,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Yuntech%2520Light%2520Horizontal-Logo.png",
-   "path": "chapter_banners/DSC Yuntech Light Horizontal-Logo.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Yuntech%2520Light%2520Horizontal-Logo.png"
-  },
-  "state": "",
-  "title": "National Yunlin university of science and technology",
-  "relative_url": "/national-yunlin-university-of-science-and-technology/",
-  "url": "https://gdsc.community.dev/national-yunlin-university-of-science-and-technology/"
- },
- {
-  "active": true,
   "city": "Vadodara",
   "country": "IN",
   "id": 721,
@@ -33661,21 +30820,6 @@
   "title": "Noida Institute of Engineering and Technology - Greater Noida",
   "relative_url": "/noida-institute-of-engineering-and-technology-greater-noida/",
   "url": "https://gdsc.community.dev/noida-institute-of-engineering-and-technology-greater-noida/"
- },
- {
-  "active": true,
-  "city": "Tokyo",
-  "country": "JP",
-  "id": 1608,
-  "hide_country_info": false,
-  "latitude": 35.6761919,
-  "logo": {},
-  "longitude": 139.6503106,
-  "picture": {},
-  "state": "",
-  "title": "Ochanomizu University",
-  "relative_url": "/ochanomizu-university/",
-  "url": "https://gdsc.community.dev/ochanomizu-university/"
  },
  {
   "active": true,
@@ -34066,57 +31210,6 @@
  },
  {
   "active": true,
-  "city": "Surabaya",
-  "country": "ID",
-  "id": 458,
-  "hide_country_info": false,
-  "latitude": -7.2574719,
-  "logo": {},
-  "longitude": 112.7520883,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Politeknik%2520Elektronika%2520Negeri%2520Surabaya%2520Logo%2520x1_znKyQco.png",
-   "path": "chapter_banners/DSC Politeknik Elektronika Negeri Surabaya Logo x1_znKyQco.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Politeknik%2520Elektronika%2520Negeri%2520Surabaya%2520Logo%2520x1_znKyQco.png"
-  },
-  "state": "",
-  "title": "Politeknik Elektronika Negeri Surabaya",
-  "relative_url": "/politeknik-elektronika-negeri-surabaya/",
-  "url": "https://gdsc.community.dev/politeknik-elektronika-negeri-surabaya/"
- },
- {
-  "active": true,
-  "city": "DKI Jakarta",
-  "country": "ID",
-  "id": 548,
-  "hide_country_info": false,
-  "latitude": -6.2087634,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo%2520dsc%25201_SeaAvyf.jpg",
-   "path": "chapter_banners/logo dsc 1_SeaAvyf.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo%2520dsc%25201_SeaAvyf.jpg"
-  },
-  "longitude": 106.845599,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-02-18%2520at%252011.55.12.jpeg",
-   "path": "chapter_banners/WhatsApp Image 2021-02-18 at 11.55.12.jpeg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-02-18%2520at%252011.55.12.jpeg"
-  },
-  "state": "",
-  "title": "Politeknik Negeri Jakarta",
-  "relative_url": "/politeknik-negeri-jakarta/",
-  "url": "https://gdsc.community.dev/politeknik-negeri-jakarta/"
- },
- {
-  "active": true,
   "city": "Semarang",
   "country": "ID",
   "id": 620,
@@ -34474,28 +31567,6 @@
   "title": "Pusan National University",
   "relative_url": "/pusan-national-university/",
   "url": "https://gdsc.community.dev/pusan-national-university/"
- },
- {
-  "active": true,
-  "city": "Nawabshah",
-  "country": "PK",
-  "id": 430,
-  "hide_country_info": false,
-  "latitude": 26.2446966,
-  "logo": {},
-  "longitude": 68.3935487,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/13094390_218774248503455_933010906035684927_n.jpg",
-   "path": "chapter_banners/13094390_218774248503455_933010906035684927_n.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/13094390_218774248503455_933010906035684927_n.jpg"
-  },
-  "state": "",
-  "title": "Quaid-e-Awam University of Engineering Science & Technology",
-  "relative_url": "/quaid-e-awam-university-of-engineering-science-technology/",
-  "url": "https://gdsc.community.dev/quaid-e-awam-university-of-engineering-science-technology/"
  },
  {
   "active": true,
@@ -35031,50 +32102,6 @@
   "title": "STI College Cagayan de Oro",
   "relative_url": "/sti-college-cagayan-de-oro/",
   "url": "https://gdsc.community.dev/sti-college-cagayan-de-oro/"
- },
- {
-  "active": true,
-  "city": "kabupaten bogor",
-  "country": "ID",
-  "id": 242,
-  "hide_country_info": false,
-  "latitude": -6.5517758,
-  "logo": {},
-  "longitude": 106.6291304,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Custom%2520Size%2520%25E2%2580%2593%25201_XLR86y2.png",
-   "path": "chapter_banners/Custom Size – 1_XLR86y2.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Custom%2520Size%2520%25E2%2580%2593%25201_XLR86y2.png"
-  },
-  "state": "",
-  "title": "STIKOM CKI",
-  "relative_url": "/stikom-cki/",
-  "url": "https://gdsc.community.dev/stikom-cki/"
- },
- {
-  "active": true,
-  "city": "Banjarnegara",
-  "country": "ID",
-  "id": 393,
-  "hide_country_info": false,
-  "latitude": -7.441938100000001,
-  "logo": {},
-  "longitude": 109.5467738,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG-20200930-WA0017.jpg",
-   "path": "chapter_banners/IMG-20200930-WA0017.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG-20200930-WA0017.jpg"
-  },
-  "state": "",
-  "title": "STIMIK Tunas Bangsa",
-  "relative_url": "/stimik-tunas-bangsa/",
-  "url": "https://gdsc.community.dev/stimik-tunas-bangsa/"
  },
  {
   "active": true,
@@ -36397,28 +33424,6 @@
  },
  {
   "active": true,
-  "city": "Tuguegarao City",
-  "country": "PH",
-  "id": 336,
-  "hide_country_info": false,
-  "latitude": 17.6131813,
-  "logo": {},
-  "longitude": 121.7270206,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520spup%2520banner.jpg",
-   "path": "chapter_banners/dsc spup banner.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520spup%2520banner.jpg"
-  },
-  "state": "",
-  "title": "St. Paul University Philippines",
-  "relative_url": "/st-paul-university-philippines/",
-  "url": "https://gdsc.community.dev/st-paul-university-philippines/"
- },
- {
-  "active": true,
   "city": "Nagpur",
   "country": "IN",
   "id": 1436,
@@ -36453,21 +33458,6 @@
   "title": "State College of Meteorology Climatology and Geophysics",
   "relative_url": "/state-college-of-meteorology-climatology-and-geophysics/",
   "url": "https://gdsc.community.dev/state-college-of-meteorology-climatology-and-geophysics/"
- },
- {
-  "active": true,
-  "city": "Palembang",
-  "country": "ID",
-  "id": 446,
-  "hide_country_info": false,
-  "latitude": -2.9760735,
-  "logo": {},
-  "longitude": 104.7754307,
-  "picture": {},
-  "state": "",
-  "title": "State Islamic University Raden Fatah",
-  "relative_url": "/state-islamic-university-raden-fatah/",
-  "url": "https://gdsc.community.dev/state-islamic-university-raden-fatah/"
  },
  {
   "active": true,
@@ -36896,28 +33886,6 @@
  },
  {
   "active": true,
-  "city": "South Tangerang",
-  "country": "ID",
-  "id": 208,
-  "hide_country_info": false,
-  "latitude": -6.2835218,
-  "logo": {},
-  "longitude": 106.7112933,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/chapter_banner.jpg",
-   "path": "chapter_banners/chapter_banner.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/chapter_banner.jpg"
-  },
-  "state": "",
-  "title": "Telkom University",
-  "relative_url": "/telkom-university/",
-  "url": "https://gdsc.community.dev/telkom-university/"
- },
- {
-  "active": true,
   "city": "Mumbai",
   "country": "IN",
   "id": 1008,
@@ -37015,21 +33983,6 @@
   "active": true,
   "city": "Hong Kong",
   "country": "HK",
-  "id": 444,
-  "hide_country_info": false,
-  "latitude": 22.3193039,
-  "logo": {},
-  "longitude": 114.1693611,
-  "picture": {},
-  "state": "",
-  "title": "The Chinese University of Hong Kong",
-  "relative_url": "/the-chinese-university-of-hong-kong/",
-  "url": "https://gdsc.community.dev/the-chinese-university-of-hong-kong/"
- },
- {
-  "active": true,
-  "city": "Hong Kong",
-  "country": "HK",
   "id": 1790,
   "hide_country_info": false,
   "latitude": 22.3193039,
@@ -37092,28 +34045,6 @@
   "title": "The Hong Kong Polytechnic University",
   "relative_url": "/the-hong-kong-polytechnic-university/",
   "url": "https://gdsc.community.dev/the-hong-kong-polytechnic-university/"
- },
- {
-  "active": true,
-  "city": "Hong Kong",
-  "country": "HK",
-  "id": 296,
-  "hide_country_info": false,
-  "latitude": 22.3193039,
-  "logo": {},
-  "longitude": 114.1693611,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/aboutus-cover03.jpg",
-   "path": "chapter_banners/aboutus-cover03.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/aboutus-cover03.jpg"
-  },
-  "state": "",
-  "title": "The Hong Kong University of Science and Technology",
-  "relative_url": "/the-hong-kong-university-of-science-and-technology/",
-  "url": "https://gdsc.community.dev/the-hong-kong-university-of-science-and-technology/"
  },
  {
   "active": true,
@@ -37217,28 +34148,6 @@
   "title": "The Oxford College of Engineering",
   "relative_url": "/the-oxford-college-of-engineering/",
   "url": "https://gdsc.community.dev/the-oxford-college-of-engineering/"
- },
- {
-  "active": true,
-  "city": "Adelaide",
-  "country": "AU",
-  "id": 11,
-  "hide_country_info": false,
-  "latitude": -34.92849890000001,
-  "logo": {},
-  "longitude": 138.6007456,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GoogleDevelopers_GDG_YouTubeBanner.png",
-   "path": "chapter_banners/GoogleDevelopers_GDG_YouTubeBanner.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GoogleDevelopers_GDG_YouTubeBanner.png"
-  },
-  "state": "",
-  "title": "The University of Adelaide",
-  "relative_url": "/the-university-of-adelaide/",
-  "url": "https://gdsc.community.dev/the-university-of-adelaide/"
  },
  {
   "active": true,
@@ -37735,50 +34644,6 @@
  },
  {
   "active": true,
-  "city": "Dagupan",
-  "country": "PH",
-  "id": 535,
-  "hide_country_info": false,
-  "latitude": 16.0432998,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc_phinma_upang_logo_vertical_black_bg.png",
-   "path": "chapter_banners/dsc_phinma_upang_logo_vertical_black_bg.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc_phinma_upang_logo_vertical_black_bg.png"
-  },
-  "longitude": 120.3333124,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/MBA-Hall-and-PHINMA-Ave.jpg",
-   "path": "chapter_banners/MBA-Hall-and-PHINMA-Ave.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/MBA-Hall-and-PHINMA-Ave.jpg"
-  },
-  "state": "",
-  "title": "UNIVERSITY OF PANGASINAN",
-  "relative_url": "/university-of-pangasinan/",
-  "url": "https://gdsc.community.dev/university-of-pangasinan/"
- },
- {
-  "active": true,
-  "city": "Georgetown",
-  "country": "MY",
-  "id": 255,
-  "hide_country_info": false,
-  "latitude": 38.9076089,
-  "logo": {},
-  "longitude": -77.07225849999999,
-  "picture": {},
-  "state": "",
-  "title": "UOW Malaysia KDU Penang University College",
-  "relative_url": "/uow-malaysia-kdu-penang-university-college/",
-  "url": "https://gdsc.community.dev/uow-malaysia-kdu-penang-university-college/"
- },
- {
-  "active": true,
   "city": "SIdoarjo",
   "country": "ID",
   "id": 443,
@@ -37820,21 +34685,6 @@
   "title": "Universitas Dian Nuswantoro",
   "relative_url": "/universitas-dian-nuswantoro/",
   "url": "https://gdsc.community.dev/universitas-dian-nuswantoro/"
- },
- {
-  "active": true,
-  "city": "Semarang",
-  "country": "ID",
-  "id": 281,
-  "hide_country_info": false,
-  "latitude": -7.0051453,
-  "logo": {},
-  "longitude": 110.4381254,
-  "picture": {},
-  "state": "",
-  "title": "Universitas Diponegoro",
-  "relative_url": "/universitas-diponegoro/",
-  "url": "https://gdsc.community.dev/universitas-diponegoro/"
  },
  {
   "active": true,
@@ -37959,28 +34809,6 @@
   "title": "Universitas Islam Negeri Alauddin Makassar",
   "relative_url": "/universitas-islam-negeri-alauddin-makassar/",
   "url": "https://gdsc.community.dev/universitas-islam-negeri-alauddin-makassar/"
- },
- {
-  "active": true,
-  "city": "Yogyakarta",
-  "country": "ID",
-  "id": 433,
-  "hide_country_info": false,
-  "latitude": -7.7955798,
-  "logo": {},
-  "longitude": 110.3694896,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/form.png",
-   "path": "chapter_banners/form.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/form.png"
-  },
-  "state": "",
-  "title": "Universitas Jenderal Achmad Yani Yogyakarta",
-  "relative_url": "/universitas-jenderal-achmad-yani-yogyakarta/",
-  "url": "https://gdsc.community.dev/universitas-jenderal-achmad-yani-yogyakarta/"
  },
  {
   "active": true,
@@ -38116,35 +34944,6 @@
  },
  {
   "active": true,
-  "city": "semarang",
-  "country": "ID",
-  "id": 297,
-  "hide_country_info": false,
-  "latitude": -7.0051453,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Unnes.jpg",
-   "path": "chapter_banners/Unnes.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Unnes.jpg"
-  },
-  "longitude": 110.4381254,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/slide-zo-slide.jpg",
-   "path": "chapter_banners/slide-zo-slide.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/slide-zo-slide.jpg"
-  },
-  "state": "",
-  "title": "Universitas Negeri Semarang",
-  "relative_url": "/universitas-negeri-semarang/",
-  "url": "https://gdsc.community.dev/universitas-negeri-semarang/"
- },
- {
-  "active": true,
   "city": "Yogyakarta",
   "country": "ID",
   "id": 407,
@@ -38215,28 +35014,6 @@
   "title": "Universitas PGRI Semarang",
   "relative_url": "/universitas-pgri-semarang/",
   "url": "https://gdsc.community.dev/universitas-pgri-semarang/"
- },
- {
-  "active": true,
-  "city": "Medan",
-  "country": "ID",
-  "id": 478,
-  "hide_country_info": false,
-  "latitude": 3.5951956,
-  "logo": {},
-  "longitude": 98.6722227,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/uphdsc.jpg",
-   "path": "chapter_banners/uphdsc.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/uphdsc.jpg"
-  },
-  "state": "",
-  "title": "Universitas Pelita Harapan Medan",
-  "relative_url": "/universitas-pelita-harapan-medan/",
-  "url": "https://gdsc.community.dev/universitas-pelita-harapan-medan/"
  },
  {
   "active": true,
@@ -38395,64 +35172,6 @@
  },
  {
   "active": true,
-  "city": "Surakarta",
-  "country": "ID",
-  "id": 298,
-  "hide_country_info": false,
-  "latitude": -7.575488699999999,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/cropped-logo-universitas-sebelas-maret-surakarta.png",
-   "path": "chapter_banners/cropped-logo-universitas-sebelas-maret-surakarta.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/cropped-logo-universitas-sebelas-maret-surakarta.png"
-  },
-  "longitude": 110.8243272,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gd_dsc_lockup_horizontal_color_v4xpjDj.png",
-   "path": "chapter_banners/gd_dsc_lockup_horizontal_color_v4xpjDj.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gd_dsc_lockup_horizontal_color_v4xpjDj.png"
-  },
-  "state": "",
-  "title": "Universitas Sebelas Maret UNS Surakarta",
-  "relative_url": "/universitas-sebelas-maret-uns-surakarta/",
-  "url": "https://gdsc.community.dev/universitas-sebelas-maret-uns-surakarta/"
- },
- {
-  "active": true,
-  "city": "Semarang",
-  "country": "ID",
-  "id": 271,
-  "hide_country_info": false,
-  "latitude": -7.0051453,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/asda_xBy5bnz.png",
-   "path": "chapter_banners/asda_xBy5bnz.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/asda_xBy5bnz.png"
-  },
-  "longitude": 110.4381254,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bannerkecil_tSqqY3p.png",
-   "path": "chapter_banners/bannerkecil_tSqqY3p.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bannerkecil_tSqqY3p.png"
-  },
-  "state": "",
-  "title": "Universitas Semarang",
-  "relative_url": "/universitas-semarang/",
-  "url": "https://gdsc.community.dev/universitas-semarang/"
- },
- {
-  "active": true,
   "city": "Tasikmalaya",
   "country": "ID",
   "id": 1724,
@@ -38516,35 +35235,6 @@
   "title": "Universitas Sultan Ageng Tirtayasa",
   "relative_url": "/universitas-sultan-ageng-tirtayasa/",
   "url": "https://gdsc.community.dev/universitas-sultan-ageng-tirtayasa/"
- },
- {
-  "active": true,
-  "city": "Medan",
-  "country": "ID",
-  "id": 496,
-  "hide_country_info": false,
-  "latitude": 3.5951956,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252019.jpg",
-   "path": "chapter_banners/Artboard 19.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252019.jpg"
-  },
-  "longitude": 98.6722227,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201%2520copy%25208.jpg",
-   "path": "chapter_banners/Artboard 1 copy 8.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%25201%2520copy%25208.jpg"
-  },
-  "state": "",
-  "title": "Universitas Sumatera Utara",
-  "relative_url": "/universitas-sumatera-utara/",
-  "url": "https://gdsc.community.dev/universitas-sumatera-utara/"
  },
  {
   "active": true,
@@ -38650,28 +35340,6 @@
  },
  {
   "active": true,
-  "city": "Selangor",
-  "country": "MY",
-  "id": 449,
-  "hide_country_info": false,
-  "latitude": 3.0738379,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/20201018_183316_0000_ov0vxqp.png",
-   "path": "chapter_banners/20201018_183316_0000_ov0vxqp.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/20201018_183316_0000_ov0vxqp.png"
-  },
-  "longitude": 101.5183469,
-  "picture": {},
-  "state": "",
-  "title": "Universiti Kuala Lumpur British Malaysian Institute",
-  "relative_url": "/universiti-kuala-lumpur-british-malaysian-institute/",
-  "url": "https://gdsc.community.dev/universiti-kuala-lumpur-british-malaysian-institute/"
- },
- {
-  "active": true,
   "city": "Serdang",
   "country": "MY",
   "id": 1705,
@@ -38721,28 +35389,6 @@
   "title": "Universiti Sains Malaysia",
   "relative_url": "/universiti-sains-malaysia/",
   "url": "https://gdsc.community.dev/universiti-sains-malaysia/"
- },
- {
-  "active": true,
-  "city": "Durian Tunggal",
-  "country": "MY",
-  "id": 415,
-  "hide_country_info": false,
-  "latitude": 2.312369,
-  "logo": {},
-  "longitude": 102.2819191,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Fb-Banner_Humaaans_Modified.png",
-   "path": "chapter_banners/Fb-Banner_Humaaans_Modified.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Fb-Banner_Humaaans_Modified.png"
-  },
-  "state": "",
-  "title": "Universiti Teknikal Malaysia Melaka",
-  "relative_url": "/universiti-teknikal-malaysia-melaka/",
-  "url": "https://gdsc.community.dev/universiti-teknikal-malaysia-melaka/"
  },
  {
   "active": true,
@@ -39018,28 +35664,6 @@
  },
  {
   "active": true,
-  "city": "Faislabad",
-  "country": "PK",
-  "id": 474,
-  "hide_country_info": false,
-  "latitude": 31.45036619999999,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dscuaf%2520logo.jpeg",
-   "path": "chapter_banners/dscuaf logo.jpeg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dscuaf%2520logo.jpeg"
-  },
-  "longitude": 73.13496049999999,
-  "picture": {},
-  "state": "",
-  "title": "University of Agriculture Faisalabad",
-  "relative_url": "/university-of-agriculture-faisalabad/",
-  "url": "https://gdsc.community.dev/university-of-agriculture-faisalabad/"
- },
- {
-  "active": true,
   "city": "Aizuwakamatsu",
   "country": "JP",
   "id": 1610,
@@ -39052,28 +35676,6 @@
   "title": "University of Aizu",
   "relative_url": "/university-of-aizu/",
   "url": "https://gdsc.community.dev/university-of-aizu/"
- },
- {
-  "active": true,
-  "city": "Yogyakarta",
-  "country": "ID",
-  "id": 359,
-  "hide_country_info": false,
-  "latitude": -7.7955798,
-  "logo": {},
-  "longitude": 110.3694896,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC_Banner_yfYcHgh.jpg",
-   "path": "chapter_banners/DSC_Banner_yfYcHgh.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC_Banner_yfYcHgh.jpg"
-  },
-  "state": "",
-  "title": "University of Amikom Yogyakarta",
-  "relative_url": "/university-of-amikom-yogyakarta/",
-  "url": "https://gdsc.community.dev/university-of-amikom-yogyakarta/"
  },
  {
   "active": true,
@@ -39333,28 +35935,6 @@
  },
  {
   "active": true,
-  "city": "Hanoi",
-  "country": "VN",
-  "id": 226,
-  "hide_country_info": false,
-  "latitude": 21.0277644,
-  "logo": {},
-  "longitude": 105.8341598,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc-abc-01.png",
-   "path": "chapter_banners/dsc-abc-01.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc-abc-01.png"
-  },
-  "state": "",
-  "title": "University of Greenwich Vietnam Hanoi",
-  "relative_url": "/university-of-greenwich-vietnam-hanoi/",
-  "url": "https://gdsc.community.dev/university-of-greenwich-vietnam-hanoi/"
- },
- {
-  "active": true,
   "city": "Depok",
   "country": "ID",
   "id": 662,
@@ -39567,28 +36147,6 @@
  },
  {
   "active": true,
-  "city": "Queensland",
-  "country": "AU",
-  "id": 17,
-  "hide_country_info": false,
-  "latitude": -26.65,
-  "logo": {},
-  "longitude": 153.066667,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520University%2520of%2520Queensland%2520Logo%2520x1.png",
-   "path": "chapter_banners/DSC University of Queensland Logo x1.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520University%2520of%2520Queensland%2520Logo%2520x1.png"
-  },
-  "state": "",
-  "title": "University of Queensland",
-  "relative_url": "/university-of-queensland/",
-  "url": "https://gdsc.community.dev/university-of-queensland/"
- },
- {
-  "active": true,
   "city": "Iloilo City",
   "country": "PH",
   "id": 1702,
@@ -39616,28 +36174,6 @@
   "title": "University of San Carlos",
   "relative_url": "/university-of-san-carlos/",
   "url": "https://gdsc.community.dev/university-of-san-carlos/"
- },
- {
-  "active": true,
-  "city": "Manila",
-  "country": "PH",
-  "id": 411,
-  "hide_country_info": false,
-  "latitude": 14.5995124,
-  "logo": {},
-  "longitude": 120.9842195,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Espana%2520Banner.png",
-   "path": "chapter_banners/DSC Espana Banner.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Espana%2520Banner.png"
-  },
-  "state": "",
-  "title": "University of Santo Tomas",
-  "relative_url": "/university-of-santo-tomas/",
-  "url": "https://gdsc.community.dev/university-of-santo-tomas/"
  },
  {
   "active": true,
@@ -40003,21 +36539,6 @@
   "title": "Usman Institute of Technology",
   "relative_url": "/usman-institute-of-technology/",
   "url": "https://gdsc.community.dev/usman-institute-of-technology/"
- },
- {
-  "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 513,
-  "hide_country_info": false,
-  "latitude": 10.8230989,
-  "logo": {},
-  "longitude": 106.6296638,
-  "picture": {},
-  "state": "",
-  "title": "VNU HCM - University of Industry",
-  "relative_url": "/vnu-hcm-university-of-industry/",
-  "url": "https://gdsc.community.dev/vnu-hcm-university-of-industry/"
  },
  {
   "active": true,
@@ -40694,28 +37215,6 @@
   "title": "Xavier University Ateneo de Cagayan",
   "relative_url": "/xavier-university-ateneo-de-cagayan/",
   "url": "https://gdsc.community.dev/xavier-university-ateneo-de-cagayan/"
- },
- {
-  "active": true,
-  "city": "Sepang",
-  "country": "MY",
-  "id": 232,
-  "hide_country_info": false,
-  "latitude": 2.691369,
-  "logo": {},
-  "longitude": 101.7505271,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Xiamen%2520University%2520Malaysia%2520Logo%2520x1.png",
-   "path": "chapter_banners/DSC Xiamen University Malaysia Logo x1.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Xiamen%2520University%2520Malaysia%2520Logo%2520x1.png"
-  },
-  "state": "",
-  "title": "Xiamen University Malaysia Campus",
-  "relative_url": "/xiamen-university-malaysia-campus/",
-  "url": "https://gdsc.community.dev/xiamen-university-malaysia-campus/"
  },
  {
   "active": true,
