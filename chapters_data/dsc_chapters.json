@@ -7880,15 +7880,22 @@
   "hide_country_info": false,
   "latitude": 23.6837432,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo%25203.png",
-   "path": "chapter_banners/DSC Logo 3.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-10-25%2520at%252022.05.56_fYGghNZ.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-10-25 at 22.05.56_fYGghNZ.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo%25203.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-10-25%2520at%252022.05.56_fYGghNZ.jpeg"
   },
   "longitude": 57.9048938,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-02%2520at%252020.57.23.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-11-02 at 20.57.23.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-02%2520at%252020.57.23.jpeg"
+  },
   "state": "",
   "title": "German university of technology in Oman",
   "relative_url": "/german-university-of-technology-in-oman/",
@@ -26873,7 +26880,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-29%2520at%25202.08.13%2520PM.jpeg"
   },
   "longitude": 77.2090212,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520banner%25202_6m0RFY0.png",
+   "path": "chapter_banners/gdsc banner 2_6m0RFY0.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520banner%25202_6m0RFY0.png"
+  },
   "state": "",
   "title": "National Institute of Technology (NIT) - Delhi",
   "relative_url": "/national-institute-of-technology-nit-delhi/",
