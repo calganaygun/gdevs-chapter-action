@@ -5275,7 +5275,14 @@
   "id": 735,
   "hide_country_info": false,
   "latitude": -3.12,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/1572542750456.jpeg",
+   "path": "chapter_banners/1572542750456.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/1572542750456.jpeg"
+  },
   "longitude": -60.02,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/DSC_0305.JPG",
@@ -11795,6 +11802,21 @@
   "title": "GDG Nizhny Novgorod",
   "relative_url": "/gdg-nizhny-novgorod/",
   "url": "https://gdg.community.dev/gdg-nizhny-novgorod/"
+ },
+ {
+  "active": true,
+  "city": "Norilsk",
+  "country": "RU",
+  "id": 1241,
+  "hide_country_info": false,
+  "latitude": 69.35579,
+  "logo": {},
+  "longitude": 88.18929380000002,
+  "picture": {},
+  "state": "Krasnoyarsk Krai",
+  "title": "GDG Norilsk",
+  "relative_url": "/gdg-norilsk/",
+  "url": "https://gdg.community.dev/gdg-norilsk/"
  },
  {
   "active": true,
