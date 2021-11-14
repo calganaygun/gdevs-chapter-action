@@ -3703,9 +3703,23 @@
   "id": 1588,
   "hide_country_info": false,
   "latitude": 5.8520355,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-Centered-Chapter_xawV1HL.jpg",
+   "path": "chapter_banners/Copy of Google-DSC-Lockup-Centered-Chapter_xawV1HL.jpg",
+   "thumbnail_width": 400,
+   "thumbnail_height": 400,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google-DSC-Lockup-Centered-Chapter_xawV1HL.jpg"
+  },
   "longitude": -55.2038278,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image_mRwn2Bv.png",
+   "path": "chapter_banners/Copy of Copy of Google Developer Student Clubs Chapter _ Blog Post Image_mRwn2Bv.png",
+   "thumbnail_width": 1280,
+   "thumbnail_height": 720,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image_mRwn2Bv.png"
+  },
   "state": "",
   "title": "Anton de Kom University of Suriname",
   "relative_url": "/anton-de-kom-university-of-suriname/",
@@ -3721,19 +3735,19 @@
   "logo": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/400px.png",
    "path": "chapter_banners/400px.png",
-   "thumbnail_width": 400,
-   "thumbnail_height": 400,
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-dsc/chapter_banners/400px.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/400px.png"
   },
   "longitude": -99.133208,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/174145282_4616925641658006_2975362898586200881_n.jpg",
    "path": "chapter_banners/174145282_4616925641658006_2975362898586200881_n.jpg",
-   "thumbnail_width": 1280,
-   "thumbnail_height": 720,
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-dsc/chapter_banners/174145282_4616925641658006_2975362898586200881_n.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/174145282_4616925641658006_2975362898586200881_n.jpg"
   },
   "state": "",
   "title": "Anáhuac University",
