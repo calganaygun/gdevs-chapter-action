@@ -15525,12 +15525,12 @@
   "logo": {},
   "longitude": 36.8219462,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG_20201017_163907.png",
-   "path": "chapter_banners/IMG_20201017_163907.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Phase%25201%2520A%2520-%2520III.jpeg",
+   "path": "chapter_banners/Phase 1 A - III.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG_20201017_163907.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Phase%25201%2520A%2520-%2520III.jpeg"
   },
   "state": "",
   "title": "Cooperative University Kenya",
@@ -17642,7 +17642,14 @@
   "id": 2283,
   "hide_country_info": false,
   "latitude": 6.222004300000001,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Nnamdi%2520Azikiwe%2520University%2520vertical%2520color%2520%25281%2529.png",
+   "path": "chapter_banners/GDSC Nnamdi Azikiwe University vertical color (1).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Nnamdi%2520Azikiwe%2520University%2520vertical%2520color%2520%25281%2529.png"
+  },
   "longitude": 7.0821162,
   "picture": {},
   "state": "",

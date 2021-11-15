@@ -15715,6 +15715,21 @@
  },
  {
   "active": true,
+  "city": "Ikot Ekpene",
+  "country": "NG",
+  "id": 1242,
+  "hide_country_info": false,
+  "latitude": 5.174447199999999,
+  "logo": {},
+  "longitude": 7.714515199999999,
+  "picture": {},
+  "state": "AK",
+  "title": "GDG Ikot-Ekpene",
+  "relative_url": "/gdg-ikot-ekpene/",
+  "url": "https://gdg.community.dev/gdg-ikot-ekpene/"
+ },
+ {
+  "active": true,
   "city": "Ilorin",
   "country": "NG",
   "id": 219,
