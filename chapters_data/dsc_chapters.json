@@ -9983,7 +9983,14 @@
   "id": 1796,
   "hide_country_info": false,
   "latitude": 30.550334,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520logo.2ai.png",
+   "path": "chapter_banners/gdsc logo.2ai.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520logo.2ai.png"
+  },
   "longitude": 31.0106341,
   "picture": {},
   "state": "",
@@ -23083,9 +23090,23 @@
   "id": 1059,
   "hide_country_info": false,
   "latitude": 22.3038945,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/square_mPuHqqB.png",
+   "path": "chapter_banners/square_mPuHqqB.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/square_mPuHqqB.png"
+  },
   "longitude": 70.80215989999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Connect%2520Learn%2520Grow%2520%25282560%2520x%2520560%2520px%2529.png",
+   "path": "chapter_banners/Connect Learn Grow (2560 x 560 px).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Connect%2520Learn%2520Grow%2520%25282560%2520x%2520560%2520px%2529.png"
+  },
   "state": "",
   "title": "Government Engineering College - Rajkot",
   "relative_url": "/government-engineering-college-rajkot/",
@@ -27814,6 +27835,21 @@
   "title": "PDPM Indian Institute of Information Technology, Design and Manufacturing - Jabalpur",
   "relative_url": "/pdpm-indian-institute-of-information-technology-design-and-manufacturing-jabalpur/",
   "url": "https://gdsc.community.dev/pdpm-indian-institute-of-information-technology-design-and-manufacturing-jabalpur/"
+ },
+ {
+  "active": true,
+  "city": "Bengaluru",
+  "country": "IN",
+  "id": 1661,
+  "hide_country_info": false,
+  "latitude": 12.9715987,
+  "logo": {},
+  "longitude": 77.5945627,
+  "picture": {},
+  "state": "",
+  "title": "PES Institute of Technology, South Campus - Bengaluru",
+  "relative_url": "/pes-institute-of-technology-south-campus-bengaluru/",
+  "url": "https://gdsc.community.dev/pes-institute-of-technology-south-campus-bengaluru/"
  },
  {
   "active": true,
