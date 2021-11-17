@@ -5223,7 +5223,14 @@
   "id": 145,
   "hide_country_info": false,
   "latitude": -0.931556,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520DSC_5oRk6PZ.png",
+   "path": "chapter_banners/Logo DSC_5oRk6PZ.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520DSC_5oRk6PZ.png"
+  },
   "longitude": -78.60584999999999,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520ESPE%2520University%2520Logo%2520x1.png",
@@ -5641,28 +5648,6 @@
   "title": "Al Neelain University",
   "relative_url": "/al-neelain-university/",
   "url": "https://gdsc.community.dev/al-neelain-university/"
- },
- {
-  "active": true,
-  "city": "Riyadh",
-  "country": "SA",
-  "id": 36,
-  "hide_country_info": false,
-  "latitude": 24.7135517,
-  "logo": {},
-  "longitude": 46.6752957,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520banner%2520zoomed%2520out.jpg",
-   "path": "chapter_banners/dsc banner zoomed out.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc%2520banner%2520zoomed%2520out.jpg"
-  },
-  "state": "",
-  "title": "Al Yamamah",
-  "relative_url": "/al-yamamah/",
-  "url": "https://gdsc.community.dev/al-yamamah/"
  },
  {
   "active": true,
@@ -8445,35 +8430,6 @@
  },
  {
   "active": true,
-  "city": "Riyadh",
-  "country": "SA",
-  "id": 179,
-  "hide_country_info": false,
-  "latitude": 24.7135517,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/rBJzDv5n_400x400.jpg",
-   "path": "chapter_banners/rBJzDv5n_400x400.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/rBJzDv5n_400x400.jpg"
-  },
-  "longitude": 46.6752957,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1500x500.jpg",
-   "path": "chapter_banners/1500x500.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1500x500.jpg"
-  },
-  "state": "",
-  "title": "Imam Mohammad Ibn Saud Islamic University",
-  "relative_url": "/imam-mohammad-ibn-saud-islamic-university/",
-  "url": "https://gdsc.community.dev/imam-mohammad-ibn-saud-islamic-university/"
- },
- {
-  "active": true,
   "city": "Kaliningrad",
   "country": "RU",
   "id": 385,
@@ -9381,21 +9337,6 @@
  },
  {
   "active": true,
-  "city": "Riyadh",
-  "country": "SA",
-  "id": 1875,
-  "hide_country_info": false,
-  "latitude": 24.7135517,
-  "logo": {},
-  "longitude": 46.6752957,
-  "picture": {},
-  "state": "",
-  "title": "King Saud university",
-  "relative_url": "/king-saud-university/",
-  "url": "https://gdsc.community.dev/king-saud-university/"
- },
- {
-  "active": true,
   "city": "Kingston upon Thames",
   "country": "GB",
   "id": 1627,
@@ -9416,15 +9357,22 @@
   "id": 1224,
   "hide_country_info": false,
   "latitude": 40.8532704,
-  "logo": {},
-  "longitude": 29.8815203,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202020-12-26%2520at%252013.06.18_OHl420i.jpeg",
-   "path": "chapter_banners/WhatsApp Image 2020-12-26 at 13.06.18_OHl420i.jpeg",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-08%2520at%252018.34.04.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-09-08 at 18.34.04.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202020-12-26%2520at%252013.06.18_OHl420i.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-09-08%2520at%252018.34.04.jpeg"
+  },
+  "longitude": 29.8815203,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo.jfif",
+   "path": "chapter_banners/logo.jfif",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo.jfif"
   },
   "state": "",
   "title": "Kocaeli University",
@@ -11083,6 +11031,35 @@
  },
  {
   "active": true,
+  "city": "Riyadh",
+  "country": "SA",
+  "id": 101,
+  "hide_country_info": false,
+  "latitude": 24.7135517,
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PHOTO-2021-09-23-15-51-14.jpg",
+   "path": "chapter_banners/PHOTO-2021-09-23-15-51-14.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PHOTO-2021-09-23-15-51-14.jpg"
+  },
+  "longitude": 46.6752957,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PHOTO-2021-10-22-00-47-45.jpg",
+   "path": "chapter_banners/PHOTO-2021-10-22-00-47-45.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PHOTO-2021-10-22-00-47-45.jpg"
+  },
+  "state": "",
+  "title": "Princess Nora university",
+  "relative_url": "/princess-nora-university/",
+  "url": "https://gdsc.community.dev/princess-nora-university/"
+ },
+ {
+  "active": true,
   "city": "Amman",
   "country": "JO",
   "id": 23,
@@ -11582,21 +11559,21 @@
   "hide_country_info": false,
   "latitude": 32.342443,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/116097807_103540571452605_625400871610488681_n.jpg",
-   "path": "chapter_banners/116097807_103540571452605_625400871610488681_n.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdg%2520logo.png",
+   "path": "chapter_banners/gdg logo.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/116097807_103540571452605_625400871610488681_n.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdg%2520logo.png"
   },
   "longitude": -6.375799,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/116097807_103540571452605_625400871610488681_n_OhSI7Ct.jpg",
-   "path": "chapter_banners/116097807_103540571452605_625400871610488681_n_OhSI7Ct.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner_VbnJmly.png",
+   "path": "chapter_banners/Banner_VbnJmly.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/116097807_103540571452605_625400871610488681_n_OhSI7Ct.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner_VbnJmly.png"
   },
   "state": "",
   "title": "Sultan Moulay Slimane University",
@@ -30872,6 +30849,28 @@
   "title": "UIN Maulana Malik Ibrahim Malang",
   "relative_url": "/uin-maulana-malik-ibrahim-malang/",
   "url": "https://gdsc.community.dev/uin-maulana-malik-ibrahim-malang/"
+ },
+ {
+  "active": true,
+  "city": "Bandung",
+  "country": "ID",
+  "id": 196,
+  "hide_country_info": false,
+  "latitude": -6.9174639,
+  "logo": {},
+  "longitude": 107.6191228,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/kampus%25202.jpeg",
+   "path": "chapter_banners/kampus 2.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/kampus%25202.jpeg"
+  },
+  "state": "",
+  "title": "UIN Sunan Gunung Djati Bandung",
+  "relative_url": "/uin-sunan-gunung-djati-bandung/",
+  "url": "https://gdsc.community.dev/uin-sunan-gunung-djati-bandung/"
  },
  {
   "active": true,

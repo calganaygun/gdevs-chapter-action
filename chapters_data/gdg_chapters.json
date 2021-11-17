@@ -2606,6 +2606,28 @@
  },
  {
   "active": true,
+  "city": "Ocotlán",
+  "country": "MX",
+  "id": 1243,
+  "hide_country_info": false,
+  "latitude": 20.3417485,
+  "logo": {},
+  "longitude": -102.7652326,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/85050749_123545739188627_2919397152079740928_n.jpg",
+   "path": "chapter_banners/85050749_123545739188627_2919397152079740928_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/85050749_123545739188627_2919397152079740928_n.jpg"
+  },
+  "state": "Jal.",
+  "title": "GDG Ocotlán",
+  "relative_url": "/gdg-ocotlan/",
+  "url": "https://gdg.community.dev/gdg-ocotlan/"
+ },
+ {
+  "active": true,
   "city": "Omaha",
   "country": "US",
   "id": 940,
