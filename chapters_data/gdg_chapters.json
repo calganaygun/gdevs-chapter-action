@@ -9656,6 +9656,21 @@
  },
  {
   "active": true,
+  "city": "Gabes",
+  "country": "TN",
+  "id": 1244,
+  "hide_country_info": false,
+  "latitude": 33.888077,
+  "logo": {},
+  "longitude": 10.0975221,
+  "picture": {},
+  "state": "Gabes",
+  "title": "GDG Gabes",
+  "relative_url": "/gdg-gabes/",
+  "url": "https://gdg.community.dev/gdg-gabes/"
+ },
+ {
+  "active": true,
   "city": "Galway",
   "country": "IE",
   "id": 970,
@@ -20271,15 +20286,22 @@
   "id": 1169,
   "hide_country_info": false,
   "latitude": 39.627012,
-  "logo": {},
-  "longitude": 66.9749731,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG-Samarkand%2520%25281%2529.png",
-   "path": "chapter_banners/GDG-Samarkand (1).png",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdg_kl6vKog.png",
+   "path": "chapter_banners/gdg_kl6vKog.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG-Samarkand%2520%25281%2529.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/gdg_kl6vKog.png"
+  },
+  "longitude": 66.9749731,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/WebBanner%25402x.png",
+   "path": "chapter_banners/WebBanner@2x.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/WebBanner%25402x.png"
   },
   "state": "Samarqand Region",
   "title": "GDG Samarkand",

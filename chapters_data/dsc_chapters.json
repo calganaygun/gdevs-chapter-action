@@ -30651,9 +30651,23 @@
   "id": 2427,
   "hide_country_info": false,
   "latitude": 32.1014067,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/VU-Logo-Virtual-University.jpg",
+   "path": "chapter_banners/VU-Logo-Virtual-University.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/VU-Logo-Virtual-University.jpg"
+  },
   "longitude": 74.8799518,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner%25202_Msrwsmz.jpg",
+   "path": "chapter_banners/banner 2_Msrwsmz.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner%25202_Msrwsmz.jpg"
+  },
   "state": "Punjab",
   "title": "The Virtual University of Pakistan, Narowal Campus",
   "relative_url": "/the-virtual-university-of-pakistan-narowal-campus/",
@@ -31920,6 +31934,21 @@
   "title": "University Visvesvaraya College of Engineering - Bangalore",
   "relative_url": "/university-visvesvaraya-college-of-engineering-bangalore/",
   "url": "https://gdsc.community.dev/university-visvesvaraya-college-of-engineering-bangalore/"
+ },
+ {
+  "active": true,
+  "city": "Adelaide",
+  "country": "AU",
+  "id": 2400,
+  "hide_country_info": false,
+  "latitude": -34.9284989,
+  "logo": {},
+  "longitude": 138.6007456,
+  "picture": {},
+  "state": "",
+  "title": "University of Adelaide",
+  "relative_url": "/university-of-adelaide/",
+  "url": "https://gdsc.community.dev/university-of-adelaide/"
  },
  {
   "active": true,
