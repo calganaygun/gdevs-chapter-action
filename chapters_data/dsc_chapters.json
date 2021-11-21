@@ -5208,9 +5208,23 @@
   "id": 1859,
   "hide_country_info": false,
   "latitude": 19.059957,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520GDSC-UDLAP%2520%2528Centrado%2529.png",
+   "path": "chapter_banners/Logo GDSC-UDLAP (Centrado).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520GDSC-UDLAP%2520%2528Centrado%2529.png"
+  },
   "longitude": -98.2949146,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/3F7A6770-E75D-428D-8773-68A4B2FCD346.png",
+   "path": "chapter_banners/3F7A6770-E75D-428D-8773-68A4B2FCD346.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/3F7A6770-E75D-428D-8773-68A4B2FCD346.png"
+  },
   "state": "",
   "title": "Universidad de las Américas Puebla",
   "relative_url": "/universidad-de-las-americas-puebla/",
@@ -7980,9 +7994,23 @@
   "id": 1852,
   "hide_country_info": false,
   "latitude": 48.859276,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/ll_gFEVsKN.png",
+   "path": "chapter_banners/ll_gFEVsKN.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/ll_gFEVsKN.png"
+  },
   "longitude": 2.598505,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner2_uLzv7oG.jpg",
+   "path": "chapter_banners/banner2_uLzv7oG.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner2_uLzv7oG.jpg"
+  },
   "state": "",
   "title": "Gustave Eiffel University",
   "relative_url": "/gustave-eiffel-university/",
@@ -8965,12 +8993,12 @@
   },
   "longitude": 29.609588,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/linkedinbanner_KA60sO0.png",
-   "path": "chapter_banners/linkedinbanner_KA60sO0.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/ekran%2520banner%2520dosyas%25C4%25B1n%25C4%25B1n%2520kopyas%25C4%25B1%2520%25281%2529_3KkwCVH.jpg",
+   "path": "chapter_banners/ekran banner dosyasının kopyası (1)_3KkwCVH.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/linkedinbanner_KA60sO0.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/ekran%2520banner%2520dosyas%25C4%25B1n%25C4%25B1n%2520kopyas%25C4%25B1%2520%25281%2529_3KkwCVH.jpg"
   },
   "state": "",
   "title": "Işık University",
@@ -14990,15 +15018,22 @@
   "id": 1068,
   "hide_country_info": false,
   "latitude": 5.3599517,
-  "logo": {},
-  "longitude": -4.0082563,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Agitel-Formation%2520Light%2520Vertical-Logo.png",
-   "path": "chapter_banners/DSC Agitel-Formation Light Vertical-Logo.png",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520AGITEL-FORMATION%2520%2520vertical%2520color%2520%25281%2529.png",
+   "path": "chapter_banners/GDSC AGITEL-FORMATION  vertical color (1).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Agitel-Formation%2520Light%2520Vertical-Logo.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520AGITEL-FORMATION%2520%2520vertical%2520color%2520%25281%2529.png"
+  },
+  "longitude": -4.0082563,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Fichier%25203bannerfb.png.png",
+   "path": "chapter_banners/Fichier 3bannerfb.png.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Fichier%25203bannerfb.png.png"
   },
   "state": "",
   "title": "Agitel-Formation",
@@ -21141,7 +21176,14 @@
   "id": 500,
   "hide_country_info": false,
   "latitude": 22.3193039,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520City%2520University%2520of%2520Hong%2520Kong%2520Light%2520Vertical-Logo%2520%25281%2529.png",
+   "path": "chapter_banners/DSC City University of Hong Kong Light Vertical-Logo (1).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520City%2520University%2520of%2520Hong%2520Kong%2520Light%2520Vertical-Logo%2520%25281%2529.png"
+  },
   "longitude": 114.1693611,
   "picture": {},
   "state": "",
@@ -21727,7 +21769,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%25282%2529_7vhZhYt.png"
   },
   "longitude": 120.9842195,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG_5170.PNG",
+   "path": "chapter_banners/IMG_5170.PNG",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG_5170.PNG"
+  },
   "state": "",
   "title": "De La Salle University Manila",
   "relative_url": "/de-la-salle-university-manila/",
@@ -31523,7 +31572,14 @@
   "id": 303,
   "hide_country_info": false,
   "latitude": -2.9760735,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-12%2520at%252023.17.04.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-11-12 at 23.17.04.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-12%2520at%252023.17.04.jpeg"
+  },
   "longitude": 104.7754307,
   "picture": {},
   "state": "",
