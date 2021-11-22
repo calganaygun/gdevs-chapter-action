@@ -15710,7 +15710,14 @@
   "id": 904,
   "hide_country_info": false,
   "latitude": -29.85868039999999,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-22%2520at%25208.22.45%2520AM.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-11-22 at 8.22.45 AM.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-22%2520at%25208.22.45%2520AM.jpeg"
+  },
   "longitude": 31.0218404,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Durban%2520University%2520of%2520Technology%2520Light%2520Horizontal-Logo_tM6iehq.png",
@@ -18792,12 +18799,12 @@
   "logo": {},
   "longitude": 7.9127945,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520INFO%2520SESSION.png",
-   "path": "chapter_banners/GDSC INFO SESSION.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-22%2520at%25202.06.01%2520PM.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2021-11-22 at 2.06.01 PM.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520INFO%2520SESSION.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-22%2520at%25202.06.01%2520PM.jpeg"
   },
   "state": "",
   "title": "University of Uyo",

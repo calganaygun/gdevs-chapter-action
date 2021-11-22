@@ -9787,15 +9787,22 @@
   "id": 559,
   "hide_country_info": false,
   "latitude": 55.87,
-  "logo": {},
-  "longitude": -4.27,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdg_glasgow.png",
-   "path": "chapter_banners/gdg_glasgow.png",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG-Glasgow_social-squared-icon.jpg",
+   "path": "chapter_banners/GDG-Glasgow_social-squared-icon.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/gdg_glasgow.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG-Glasgow_social-squared-icon.jpg"
+  },
+  "longitude": -4.27,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG-Glasgow_no-visual-asset.png",
+   "path": "chapter_banners/GDG-Glasgow_no-visual-asset.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG-Glasgow_no-visual-asset.png"
   },
   "state": "V2",
   "title": "GDG Glasgow",
@@ -15507,12 +15514,12 @@
   "logo": {},
   "longitude": 7.93,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdg.jpg",
-   "path": "chapter_banners/gdg.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/IMG_9140.CR2.jpg",
+   "path": "chapter_banners/IMG_9140.CR2.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/gdg.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/IMG_9140.CR2.jpg"
   },
   "state": "",
   "title": "GDG Eket",
@@ -19755,6 +19762,21 @@
   "title": "GDG Lanzhou",
   "relative_url": "/gdg-lanzhou/",
   "url": "https://gdg.community.dev/gdg-lanzhou/"
+ },
+ {
+  "active": true,
+  "city": "Peshawar",
+  "country": "PK",
+  "id": 1245,
+  "hide_country_info": false,
+  "latitude": 34.0151366,
+  "logo": {},
+  "longitude": 71.5249154,
+  "picture": {},
+  "state": "Khyber Pakhtunkhwa",
+  "title": "GDG Live Pakistan",
+  "relative_url": "/gdg-live-pakistan/",
+  "url": "https://gdg.community.dev/gdg-live-pakistan/"
  },
  {
   "active": true,
