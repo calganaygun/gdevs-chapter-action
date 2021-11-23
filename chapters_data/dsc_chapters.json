@@ -22278,9 +22278,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/14.png"
   },
   "state": "",
-  "title": "FPT University",
-  "relative_url": "/fpt-university/",
-  "url": "https://gdsc.community.dev/fpt-university/"
+  "title": "FPT University Danang",
+  "relative_url": "/fpt-university-danang/",
+  "url": "https://gdsc.community.dev/fpt-university-danang/"
  },
  {
   "active": true,
@@ -22526,9 +22526,9 @@
   "longitude": 106.676292,
   "picture": {},
   "state": "",
-  "title": "Foreign Trade University",
-  "relative_url": "/foreign-trade-university/",
-  "url": "https://gdsc.community.dev/foreign-trade-university/"
+  "title": "Foreign Trade University Ho Chi Minh City",
+  "relative_url": "/foreign-trade-university-ho-chi-minh-city/",
+  "url": "https://gdsc.community.dev/foreign-trade-university-ho-chi-minh-city/"
  },
  {
   "active": true,
@@ -23398,9 +23398,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner_1nrsVbD.png"
   },
   "state": "",
-  "title": "Hanoi",
-  "relative_url": "/hanoi/",
-  "url": "https://gdsc.community.dev/hanoi/"
+  "title": "Hanoi University",
+  "relative_url": "/hanoi-university/",
+  "url": "https://gdsc.community.dev/hanoi-university/"
  },
  {
   "active": true,
@@ -27876,13 +27876,27 @@
   "id": 1661,
   "hide_country_info": false,
   "latitude": 12.9715987,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%252823%2529_iGRj0fo.png",
+   "path": "chapter_banners/Untitled design (23)_iGRj0fo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%252823%2529_iGRj0fo.png"
+  },
   "longitude": 77.5945627,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%252823%2529_LzSreeg.png",
+   "path": "chapter_banners/Untitled design (23)_LzSreeg.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design%2520%252823%2529_LzSreeg.png"
+  },
   "state": "",
-  "title": "PES Institute of Technology, South Campus - Bengaluru",
-  "relative_url": "/pes-institute-of-technology-south-campus-bengaluru/",
-  "url": "https://gdsc.community.dev/pes-institute-of-technology-south-campus-bengaluru/"
+  "title": "PES University Electronic City Campus",
+  "relative_url": "/pes-university-electronic-city-campus/",
+  "url": "https://gdsc.community.dev/pes-university-electronic-city-campus/"
  },
  {
   "active": true,
@@ -28781,7 +28795,14 @@
   "latitude": -6.2087634,
   "logo": {},
   "longitude": 106.845599,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/banner_jCeoQY4.jpg",
+   "path": "chapter_banners/banner_jCeoQY4.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/banner_jCeoQY4.jpg"
+  },
   "state": "",
   "title": "STT Terpadu Nurul Fikri",
   "relative_url": "/stt-terpadu-nurul-fikri/",
@@ -31941,6 +31962,28 @@
  },
  {
   "active": true,
+  "city": "Ninh Kiều",
+  "country": "VN",
+  "id": 2413,
+  "hide_country_info": false,
+  "latitude": 10.0272537,
+  "logo": {},
+  "longitude": 105.7698039,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/413f50011de0eabeb3f1%2520%25281%2529.jpg",
+   "path": "chapter_banners/413f50011de0eabeb3f1 (1).jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/413f50011de0eabeb3f1%2520%25281%2529.jpg"
+  },
+  "state": "",
+  "title": "University Of Greenwich (Can Tho)",
+  "relative_url": "/university-of-greenwich-can-tho/",
+  "url": "https://gdsc.community.dev/university-of-greenwich-can-tho/"
+ },
+ {
+  "active": true,
   "city": "Dunedin",
   "country": "NZ",
   "id": 1921,
@@ -32228,9 +32271,9 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520GW%2520c%25C3%25B3%2520n%25E1%25BB%2581n.png"
   },
   "state": "",
-  "title": "University of Greenwich Vietnam",
-  "relative_url": "/university-of-greenwich-vietnam/",
-  "url": "https://gdsc.community.dev/university-of-greenwich-vietnam/"
+  "title": "University of Greenwich Vietnam (Danang)",
+  "relative_url": "/university-of-greenwich-vietnam-danang/",
+  "url": "https://gdsc.community.dev/university-of-greenwich-vietnam-danang/"
  },
  {
   "active": true,
@@ -32246,28 +32289,6 @@
   "title": "University of Greenwich Vietnam - Hoàn Kiếm",
   "relative_url": "/university-of-greenwich-vietnam-hoan-kiem/",
   "url": "https://gdsc.community.dev/university-of-greenwich-vietnam-hoan-kiem/"
- },
- {
-  "active": true,
-  "city": "Ninh Kiều",
-  "country": "VN",
-  "id": 2413,
-  "hide_country_info": false,
-  "latitude": 10.0272537,
-  "logo": {},
-  "longitude": 105.7698039,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/413f50011de0eabeb3f1%2520%25281%2529.jpg",
-   "path": "chapter_banners/413f50011de0eabeb3f1 (1).jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/413f50011de0eabeb3f1%2520%25281%2529.jpg"
-  },
-  "state": "",
-  "title": "University of Greenwich Vietnam - Ninh Kiều",
-  "relative_url": "/university-of-greenwich-vietnam-ninh-kieu/",
-  "url": "https://gdsc.community.dev/university-of-greenwich-vietnam-ninh-kieu/"
  },
  {
   "active": true,
