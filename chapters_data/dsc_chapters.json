@@ -2564,9 +2564,23 @@
   "id": 495,
   "hide_country_info": false,
   "latitude": 39.7589478,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520logo_bjuuw27.png",
+   "path": "chapter_banners/gdsc logo_bjuuw27.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520logo_bjuuw27.png"
+  },
   "longitude": -84.1916069,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/google%2520dsc%2520banner.jpeg",
+   "path": "chapter_banners/google dsc banner.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/google%2520dsc%2520banner.jpeg"
+  },
   "state": "",
   "title": "University of Dayton",
   "relative_url": "/university-of-dayton/",
@@ -13582,21 +13596,21 @@
   "hide_country_info": false,
   "latitude": 24.5246542,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Screen%2520Shot%25201442-01-18%2520at%25203.32.40%2520PM.png",
-   "path": "chapter_banners/Screen Shot 1442-01-18 at 3.32.40 PM.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/%25D9%2586%25D8%25B3%25D8%25AE%25D8%25A9%2520%25D9%2585%25D9%2586%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template_5YRfSTg.png",
+   "path": "chapter_banners/نسخة من Copy of GDSC Logo chapter lockup centered template_5YRfSTg.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Screen%2520Shot%25201442-01-18%2520at%25203.32.40%2520PM.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/%25D9%2586%25D8%25B3%25D8%25AE%25D8%25A9%2520%25D9%2585%25D9%2586%2520Copy%2520of%2520GDSC%2520Logo%2520chapter%2520lockup%2520centered%2520template_5YRfSTg.png"
   },
   "longitude": 39.5691841,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/6061D386-5388-4437-A11F-D9BFA0CEA6AB.JPEG",
-   "path": "chapter_banners/6061D386-5388-4437-A11F-D9BFA0CEA6AB.JPEG",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC-logo%2520%25281%2529.png",
+   "path": "chapter_banners/GDSC-logo (1).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/6061D386-5388-4437-A11F-D9BFA0CEA6AB.JPEG"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC-logo%2520%25281%2529.png"
   },
   "state": "",
   "title": "University of Prince Mugrin",
@@ -16475,7 +16489,14 @@
   "id": 2295,
   "hide_country_info": false,
   "latitude": -25.969248,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/download_LkAN3WF.png",
+   "path": "chapter_banners/download_LkAN3WF.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/download_LkAN3WF.png"
+  },
   "longitude": 32.5731746,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252021_2s1VLXc.png",
@@ -28912,28 +28933,6 @@
  },
  {
   "active": true,
-  "city": "Ho Chi Minh City",
-  "country": "VN",
-  "id": 1635,
-  "hide_country_info": false,
-  "latitude": 10.746903,
-  "logo": {},
-  "longitude": 106.676292,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/maxresdefault_fc99Yye.jpg",
-   "path": "chapter_banners/maxresdefault_fc99Yye.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/maxresdefault_fc99Yye.jpg"
-  },
-  "state": "",
-  "title": "Saigon Technology University",
-  "relative_url": "/saigon-technology-university/",
-  "url": "https://gdsc.community.dev/saigon-technology-university/"
- },
- {
-  "active": true,
   "city": "Karachi",
   "country": "PK",
   "id": 1776,
@@ -29364,12 +29363,12 @@
   "hide_country_info": false,
   "latitude": 22.7195687,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520%2520%25282%2529.png",
-   "path": "chapter_banners/DSC  (2).png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo%2520%25288%2529.png",
+   "path": "chapter_banners/GDSC Logo (8).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520%2520%25282%2529.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo%2520%25288%2529.png"
   },
   "longitude": 75.8577258,
   "picture": {
@@ -30462,9 +30461,23 @@
   "id": 1006,
   "hide_country_info": false,
   "latitude": 22.3193039,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PolyU%2520Logo_630x630.jpg",
+   "path": "chapter_banners/PolyU Logo_630x630.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PolyU%2520Logo_630x630.jpg"
+  },
   "longitude": 114.1693611,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/C0140.jpg",
+   "path": "chapter_banners/C0140.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/C0140.jpg"
+  },
   "state": "",
   "title": "The Hong Kong Polytechnic University",
   "relative_url": "/the-hong-kong-polytechnic-university/",
@@ -32274,21 +32287,6 @@
   "title": "University of Greenwich Vietnam (Danang)",
   "relative_url": "/university-of-greenwich-vietnam-danang/",
   "url": "https://gdsc.community.dev/university-of-greenwich-vietnam-danang/"
- },
- {
-  "active": true,
-  "city": "Hoàn Kiếm",
-  "country": "VN",
-  "id": 2414,
-  "hide_country_info": false,
-  "latitude": 21.027964,
-  "logo": {},
-  "longitude": 105.8510132,
-  "picture": {},
-  "state": "",
-  "title": "University of Greenwich Vietnam - Hoàn Kiếm",
-  "relative_url": "/university-of-greenwich-vietnam-hoan-kiem/",
-  "url": "https://gdsc.community.dev/university-of-greenwich-vietnam-hoan-kiem/"
  },
  {
   "active": true,
