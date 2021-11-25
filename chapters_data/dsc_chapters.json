@@ -1470,7 +1470,14 @@
   "id": 571,
   "hide_country_info": false,
   "latitude": 34.0202894,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520large%2520logo%2520only%25201.png",
+   "path": "chapter_banners/GDSC large logo only 1.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520large%2520logo%2520only%25201.png"
+  },
   "longitude": -117.8653386,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Banner_hUSze77.jpg",
@@ -4334,9 +4341,23 @@
   "id": 1552,
   "hide_country_info": false,
   "latitude": 21.1250077,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/foto-insta.png",
+   "path": "chapter_banners/foto-insta.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/foto-insta.png"
+  },
   "longitude": -101.6859605,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/portada-larga-fb.png",
+   "path": "chapter_banners/portada-larga-fb.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/portada-larga-fb.png"
+  },
   "state": "",
   "title": "Tecnologico Nacional de Mexico en León",
   "relative_url": "/tecnologico-nacional-de-mexico-en-leon/",
@@ -11519,15 +11540,22 @@
   "id": 167,
   "hide_country_info": false,
   "latitude": 24.3500672,
-  "logo": {},
-  "longitude": 56.71332580000001,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520SU%2520LOGO%2520BIG%2520WHITE%2520VER%25202_VYAr6od.png",
-   "path": "chapter_banners/DSC SU LOGO BIG WHITE VER 2_VYAr6od.png",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Sohar%2520University%2520Logo%2520%2528trans%2529.png",
+   "path": "chapter_banners/DSC Sohar University Logo (trans).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520SU%2520LOGO%2520BIG%2520WHITE%2520VER%25202_VYAr6od.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Sohar%2520University%2520Logo%2520%2528trans%2529.png"
+  },
+  "longitude": 56.71332580000001,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Form%2520Banner.png",
+   "path": "chapter_banners/Form Banner.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Form%2520Banner.png"
   },
   "state": "",
   "title": "Sohar University",
@@ -12104,15 +12132,22 @@
   "id": 1577,
   "hide_country_info": false,
   "latitude": 52.0406224,
-  "logo": {},
-  "longitude": -0.7594171,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/240421537_847514512573375_5691966588957123024_n.jpg",
-   "path": "chapter_banners/240421537_847514512573375_5691966588957123024_n.jpg",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/dsc-sticker-files-brackets_xQSSTr5.png",
+   "path": "chapter_banners/dsc-sticker-files-brackets_xQSSTr5.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/240421537_847514512573375_5691966588957123024_n.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/dsc-sticker-files-brackets_xQSSTr5.png"
+  },
+  "longitude": -0.7594171,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520Sticker%2520-%2520Papers.jpg",
+   "path": "chapter_banners/Copy of Google Developer Student Clubs Chapter Sticker - Papers.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520Sticker%2520-%2520Papers.jpg"
   },
   "state": "",
   "title": "The Open University",
