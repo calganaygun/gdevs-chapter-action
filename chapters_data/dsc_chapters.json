@@ -5478,9 +5478,23 @@
   "id": 2447,
   "hide_country_info": false,
   "latitude": 38.720489,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Abdullah%2520G%25C3%25BCl%2520University%2520Dark%2520Vertical-Logo.png",
+   "path": "chapter_banners/DSC Abdullah Gül University Dark Vertical-Logo.png",
+   "thumbnail_width": 400,
+   "thumbnail_height": 400,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Abdullah%2520G%25C3%25BCl%2520University%2520Dark%2520Vertical-Logo.png"
+  },
   "longitude": 35.48259700000001,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Abdullah%2520G%25C3%25BCl%2520University%2520Light%2520Horizontal-Logo%2520%25281%2529_IqNHsxs.png",
+   "path": "chapter_banners/DSC Abdullah Gül University Light Horizontal-Logo (1)_IqNHsxs.png",
+   "thumbnail_width": 1280,
+   "thumbnail_height": 720,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Abdullah%2520G%25C3%25BCl%2520University%2520Light%2520Horizontal-Logo%2520%25281%2529_IqNHsxs.png"
+  },
   "state": "Kayseri",
   "title": "Abdullah Gül University",
   "relative_url": "/abdullah-gul-university/",
@@ -5496,19 +5510,19 @@
   "logo": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSCLOGO_qaqPs8w.png",
    "path": "chapter_banners/GDSCLOGO_qaqPs8w.png",
-   "thumbnail_width": 400,
-   "thumbnail_height": 400,
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-dsc/chapter_banners/GDSCLOGO_qaqPs8w.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSCLOGO_qaqPs8w.png"
   },
   "longitude": -1.3166815,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gsc%2520twitter%2520cover%2520pic_yjAr7Bx.png",
    "path": "chapter_banners/gsc twitter cover pic_yjAr7Bx.png",
-   "thumbnail_width": 1280,
-   "thumbnail_height": 720,
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-dsc/chapter_banners/gsc%2520twitter%2520cover%2520pic_yjAr7Bx.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gsc%2520twitter%2520cover%2520pic_yjAr7Bx.png"
   },
   "state": "",
   "title": "Abou Bekr Belkaid Tlemcen University",
@@ -11470,12 +11484,12 @@
   "logo": {},
   "longitude": 14.4290236,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/0001-5376249081_20210804_232757_0000.png",
-   "path": "chapter_banners/0001-5376249081_20210804_232757_0000.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_3jNytH9.png",
+   "path": "chapter_banners/Copy of dsc-ecosystem-profilepicture-linkedin_3jNytH9.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/0001-5376249081_20210804_232757_0000.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_3jNytH9.png"
   },
   "state": "",
   "title": "Sebha University",
