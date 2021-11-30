@@ -10448,21 +10448,21 @@
   "hide_country_info": false,
   "latitude": 36.3570052,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Pink%2520october%2520pic.png",
-   "path": "chapter_banners/Pink october pic.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252015-8.png",
+   "path": "chapter_banners/Artboard 15-8.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Pink%2520october%2520pic.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Artboard%252015-8.png"
   },
   "longitude": 6.639028199999999,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520ENSB%2520Cover.jpg",
-   "path": "chapter_banners/DSC ENSB Cover.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG_7750.JPG",
+   "path": "chapter_banners/IMG_7750.JPG",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520ENSB%2520Cover.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG_7750.JPG"
   },
   "state": "",
   "title": "National School of Biotechnology",
@@ -20759,8 +20759,8 @@
   },
   "state": "JH",
   "title": "Birsa Institute of Technology (BIT Sindri) - Dhanbad",
-  "relative_url": "/birsa-institute-of-technology-bit-sindri-dhanbad-1/",
-  "url": "https://gdsc.community.dev/birsa-institute-of-technology-bit-sindri-dhanbad-1/"
+  "relative_url": "/birsa-institute-of-technology-bit-sindri-dhanbad/",
+  "url": "https://gdsc.community.dev/birsa-institute-of-technology-bit-sindri-dhanbad/"
  },
  {
   "active": true,
@@ -27047,12 +27047,12 @@
   },
   "longitude": 77.2090212,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520banner%25202_6m0RFY0.png",
-   "path": "chapter_banners/gdsc banner 2_6m0RFY0.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/new_campus.png",
+   "path": "chapter_banners/new_campus.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520banner%25202_6m0RFY0.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/new_campus.png"
   },
   "state": "",
   "title": "National Institute of Technology (NIT) - Delhi",
