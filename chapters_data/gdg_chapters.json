@@ -51,21 +51,21 @@
   "hide_country_info": false,
   "latitude": 33.9519347,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Arch_v2.png",
-   "path": "chapter_banners/GDG Arch_v2.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Group%25202_9nI0Yw0.png",
+   "path": "chapter_banners/Group 2_9nI0Yw0.png",
    "thumbnail_width": 400,
    "thumbnail_height": 400,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Arch_v2.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/chapter_banners/Group%25202_9nI0Yw0.png"
   },
   "longitude": -83.357567,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Athens%2520Banner_v2.png",
-   "path": "chapter_banners/GDG Athens Banner_v2.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Group%25202%2520%25281%2529.png",
+   "path": "chapter_banners/Group 2 (1).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Athens%2520Banner_v2.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Group%25202%2520%25281%2529.png"
   },
   "state": "GA",
   "title": "GDG Athens",
@@ -2938,7 +2938,14 @@
   "id": 244,
   "hide_country_info": false,
   "latitude": 32.89,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Cloud%2520Hero%2520Thumbnail.png",
+   "path": "chapter_banners/Cloud Hero Thumbnail.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Cloud%2520Hero%2520Thumbnail.png"
+  },
   "longitude": -117.2,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/san%2520diego.jpg",
@@ -5516,6 +5523,21 @@
   "title": "GDG Neuquén",
   "relative_url": "/gdg-neuquen/",
   "url": "https://gdg.community.dev/gdg-neuquen/"
+ },
+ {
+  "active": true,
+  "city": "Ocotepeque",
+  "country": "HN",
+  "id": 1246,
+  "hide_country_info": false,
+  "latitude": 14.4345368,
+  "logo": {},
+  "longitude": -89.1836929,
+  "picture": {},
+  "state": "Ocotepeque Department",
+  "title": "GDG Ocotepeque",
+  "relative_url": "/gdg-ocotepeque/",
+  "url": "https://gdg.community.dev/gdg-ocotepeque/"
  },
  {
   "active": true,

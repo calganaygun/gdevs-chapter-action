@@ -23137,12 +23137,12 @@
   },
   "longitude": 82.1409152,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design_cvhqdyW.png",
-   "path": "chapter_banners/Untitled design_cvhqdyW.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Android%2520Study%2520Jams%2520Banner_sSm442t.png",
+   "path": "chapter_banners/Android Study Jams Banner_sSm442t.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled%2520design_cvhqdyW.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Android%2520Study%2520Jams%2520Banner_sSm442t.png"
   },
   "state": "",
   "title": "Government Engineering College - Bilaspur",
@@ -30930,7 +30930,14 @@
   "latitude": 18.5204303,
   "logo": {},
   "longitude": 73.8567437,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/IMG-20211115-WA0012_SIkpmMJ.jpg",
+   "path": "chapter_banners/IMG-20211115-WA0012_SIkpmMJ.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/IMG-20211115-WA0012_SIkpmMJ.jpg"
+  },
   "state": "",
   "title": "Trinity College of Engineering and Research - Pune",
   "relative_url": "/trinity-college-of-engineering-and-research-pune/",
@@ -31971,7 +31978,14 @@
   "latitude": 30.7333148,
   "logo": {},
   "longitude": 76.7794179,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc_e5vPbQg.png",
+   "path": "chapter_banners/gdsc_e5vPbQg.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc_e5vPbQg.png"
+  },
   "state": "",
   "title": "University Institute of Engineering & Technology, Punjab University - Chandigarh",
   "relative_url": "/university-institute-of-engineering-technology-punjab-university-chandigarh/",
