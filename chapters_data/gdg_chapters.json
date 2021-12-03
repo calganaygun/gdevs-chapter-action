@@ -17511,9 +17511,23 @@
   "id": 29,
   "hide_country_info": false,
   "latitude": 37.95,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/20200625_231211.jpg",
+   "path": "chapter_banners/20200625_231211.jpg",
+   "thumbnail_width": 400,
+   "thumbnail_height": 400,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/chapter_banners/20200625_231211.jpg"
+  },
   "longitude": 58.38,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Ashgabat%2520Logo.png",
+   "path": "chapter_banners/GDG Ashgabat Logo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Ashgabat%2520Logo.png"
+  },
   "state": "",
   "title": "GDG Ashgabat",
   "relative_url": "/gdg-ashgabat/",
@@ -17596,10 +17610,10 @@
   "logo": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDGDevFest_SocialAssets5.jpg",
    "path": "chapter_banners/GDGDevFest_SocialAssets5.jpg",
-   "thumbnail_width": 400,
-   "thumbnail_height": 400,
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-goog/chapter_banners/GDGDevFest_SocialAssets5.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDGDevFest_SocialAssets5.jpg"
   },
   "longitude": 66.9,
   "picture": {},

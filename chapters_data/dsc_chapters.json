@@ -9495,7 +9495,14 @@
   "latitude": 41.0082376,
   "logo": {},
   "longitude": 28.9783589,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/ku_KSZya7x.jpg",
+   "path": "chapter_banners/ku_KSZya7x.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/ku_KSZya7x.jpg"
+  },
   "state": "",
   "title": "Koç University",
   "relative_url": "/koc-university/",
@@ -31484,7 +31491,14 @@
   "id": 1731,
   "hide_country_info": false,
   "latitude": -10.1771997,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logoundana.jpeg",
+   "path": "chapter_banners/logoundana.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logoundana.jpeg"
+  },
   "longitude": 123.6070329,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Universitas-Nusa-Cendana.jpg",
