@@ -2572,12 +2572,12 @@
   "hide_country_info": false,
   "latitude": 39.7589478,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520logo_bjuuw27.png",
-   "path": "chapter_banners/gdsc logo_bjuuw27.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/ud%2520%2520gdsc%2520logo.png",
+   "path": "chapter_banners/ud  gdsc logo.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc%2520logo_bjuuw27.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/ud%2520%2520gdsc%2520logo.png"
   },
   "longitude": -84.1916069,
   "picture": {
@@ -7626,7 +7626,14 @@
   "latitude": 47.497912,
   "logo": {},
   "longitude": 19.040235,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/elte%2520ik.jfif",
+   "path": "chapter_banners/elte ik.jfif",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/elte%2520ik.jfif"
+  },
   "state": "",
   "title": "Eötvös Loránd University",
   "relative_url": "/eotvos-lorand-university/",
@@ -8044,12 +8051,12 @@
   "hide_country_info": false,
   "latitude": 48.859276,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/ll_gFEVsKN.png",
-   "path": "chapter_banners/ll_gFEVsKN.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo_WbdJtdo.png",
+   "path": "chapter_banners/logo_WbdJtdo.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/ll_gFEVsKN.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo_WbdJtdo.png"
   },
   "longitude": 2.598505,
   "picture": {
