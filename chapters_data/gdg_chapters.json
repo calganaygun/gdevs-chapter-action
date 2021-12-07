@@ -12452,7 +12452,14 @@
   "id": 698,
   "hide_country_info": false,
   "latitude": 31.9,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdgRamallah_logo%25202020.png",
+   "path": "chapter_banners/gdgRamallah_logo 2020.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/gdgRamallah_logo%25202020.png"
+  },
   "longitude": 35.2,
   "picture": {},
   "state": "",
@@ -14077,6 +14084,21 @@
   "title": "GDG Würzburg",
   "relative_url": "/gdg-wurzburg/",
   "url": "https://gdg.community.dev/gdg-wurzburg/"
+ },
+ {
+  "active": true,
+  "city": "Yalova",
+  "country": "TR",
+  "id": 1247,
+  "hide_country_info": false,
+  "latitude": 40.654895,
+  "logo": {},
+  "longitude": 29.284186,
+  "picture": {},
+  "state": "Yalova",
+  "title": "GDG Yalova",
+  "relative_url": "/gdg-yalova/",
+  "url": "https://gdg.community.dev/gdg-yalova/"
  },
  {
   "active": true,
