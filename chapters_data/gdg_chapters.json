@@ -5591,12 +5591,12 @@
   "hide_country_info": false,
   "latitude": 8.97,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/WhatsApp%2520Image%25202021-04-04%2520at%25202.26.59%2520PM.jpeg",
-   "path": "chapter_banners/WhatsApp Image 2021-04-04 at 2.26.59 PM.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG-logos-nuevos-03.jpg",
+   "path": "chapter_banners/GDG-logos-nuevos-03.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/WhatsApp%2520Image%25202021-04-04%2520at%25202.26.59%2520PM.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG-logos-nuevos-03.jpg"
   },
   "longitude": -79.53,
   "picture": {
@@ -6790,6 +6790,21 @@
   "title": "GDG Antalya",
   "relative_url": "/gdg-antalya/",
   "url": "https://gdg.community.dev/gdg-antalya/"
+ },
+ {
+  "active": true,
+  "city": "Asyut",
+  "country": "EG",
+  "id": 1248,
+  "hide_country_info": false,
+  "latitude": 27.1783117,
+  "logo": {},
+  "longitude": 31.1859257,
+  "picture": {},
+  "state": "Assiut Governorate",
+  "title": "GDG Assiut",
+  "relative_url": "/gdg-assiut/",
+  "url": "https://gdg.community.dev/gdg-assiut/"
  },
  {
   "active": true,
