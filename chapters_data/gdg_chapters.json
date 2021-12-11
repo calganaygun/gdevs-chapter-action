@@ -6798,9 +6798,23 @@
   "id": 1248,
   "hide_country_info": false,
   "latitude": 27.1783117,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/_GDG%2520Logo%2520Assiut%2520chapter%2520.png",
+   "path": "chapter_banners/_GDG Logo Assiut chapter .png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/_GDG%2520Logo%2520Assiut%2520chapter%2520.png"
+  },
   "longitude": 31.1859257,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/_Google%2520Developer%2520Groups%2520Assiut_%2520Facebook%2520Banners%2520%25281%2529.png",
+   "path": "chapter_banners/_Google Developer Groups Assiut_ Facebook Banners (1).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/_Google%2520Developer%2520Groups%2520Assiut_%2520Facebook%2520Banners%2520%25281%2529.png"
+  },
   "state": "Assiut Governorate",
   "title": "GDG Assiut",
   "relative_url": "/gdg-assiut/",
