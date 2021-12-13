@@ -12188,6 +12188,21 @@
  },
  {
   "active": true,
+  "city": "Padua",
+  "country": "IT",
+  "id": 1249,
+  "hide_country_info": false,
+  "latitude": 45.4064349,
+  "logo": {},
+  "longitude": 11.8767611,
+  "picture": {},
+  "state": "Veneto",
+  "title": "GDG Padova",
+  "relative_url": "/gdg-padova/",
+  "url": "https://gdg.community.dev/gdg-padova/"
+ },
+ {
+  "active": true,
   "city": "Palermo",
   "country": "IT",
   "id": 867,
@@ -17019,12 +17034,12 @@
   "logo": {},
   "longitude": -1.53,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/DevFest21-LI-Banner-v1.png",
-   "path": "chapter_banners/DevFest21-LI-Banner-v1.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/267342761_311621617637008_6541153109362674642_n.jpg",
+   "path": "chapter_banners/267342761_311621617637008_6541153109362674642_n.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/DevFest21-LI-Banner-v1.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/267342761_311621617637008_6541153109362674642_n.jpg"
   },
   "state": "",
   "title": "GDG Ouaga",
