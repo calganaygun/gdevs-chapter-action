@@ -5376,7 +5376,14 @@
   "latitude": -12.9777334,
   "logo": {},
   "longitude": -38.501648,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/UFBA.jpg",
+   "path": "chapter_banners/UFBA.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/UFBA.jpg"
+  },
   "state": "",
   "title": "Universidade Federal da Bahia",
   "relative_url": "/universidade-federal-da-bahia/",
@@ -7660,9 +7667,23 @@
   "id": 1673,
   "hide_country_info": false,
   "latitude": 47.9990077,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Untitled-4.png",
+   "path": "chapter_banners/Untitled-4.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Untitled-4.png"
+  },
   "longitude": 7.842104299999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/freiburg-fuer-alle_stadtansicht-vom-schlossberg.jpg",
+   "path": "chapter_banners/freiburg-fuer-alle_stadtansicht-vom-schlossberg.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/freiburg-fuer-alle_stadtansicht-vom-schlossberg.jpg"
+  },
   "state": "",
   "title": "Faculty of Engineering Albert-Ludwigs-Universität Freiburg",
   "relative_url": "/faculty-of-engineering-albert-ludwigs-universitat-freiburg/",

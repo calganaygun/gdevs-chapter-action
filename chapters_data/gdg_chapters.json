@@ -1529,7 +1529,14 @@
   "id": 71,
   "hide_country_info": false,
   "latitude": 44.98,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Screenshot%25202021-12-23%2520045121_l3m6Pn3.png",
+   "path": "chapter_banners/Screenshot 2021-12-23 045121_l3m6Pn3.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Screenshot%25202021-12-23%2520045121_l3m6Pn3.png"
+  },
   "longitude": -93.27,
   "picture": {},
   "state": "MN",
