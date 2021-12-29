@@ -6959,14 +6959,7 @@
   "latitude": 31.6294723,
   "logo": {},
   "longitude": -7.981084500000001,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/New%2520Project%2520%252815%2529.png",
-   "path": "chapter_banners/New Project (15).png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/New%2520Project%2520%252815%2529.png"
-  },
+  "picture": {},
   "state": "",
   "title": "Cadi Ayyad University",
   "relative_url": "/cadi-ayyad-university/",
