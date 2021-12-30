@@ -20337,8 +20337,8 @@
   },
   "state": "",
   "title": "Bahria University, Lahore Campus",
-  "relative_url": "/bahria-university-lahore-campus-1/",
-  "url": "https://gdsc.community.dev/bahria-university-lahore-campus-1/"
+  "relative_url": "/bahria-university-lahore-campus/",
+  "url": "https://gdsc.community.dev/bahria-university-lahore-campus/"
  },
  {
   "active": true,
@@ -22634,21 +22634,21 @@
   "hide_country_info": false,
   "latitude": 33.6844202,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Profile_DtSQRW6.png",
-   "path": "chapter_banners/Profile_DtSQRW6.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520FUUAST.jpg",
+   "path": "chapter_banners/Logo FUUAST.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Profile_DtSQRW6.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Logo%2520FUUAST.jpg"
   },
   "longitude": 73.04788479999999,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/bggggg_hM4Dn41.jpg",
-   "path": "chapter_banners/bggggg_hM4Dn41.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Linkedin%2520Cover_fXLXJry.png",
+   "path": "chapter_banners/Linkedin Cover_fXLXJry.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/bggggg_hM4Dn41.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Linkedin%2520Cover_fXLXJry.png"
   },
   "state": "",
   "title": "Federal Urdu University Of Arts, Science & Technology, Islamabad Campus",
@@ -27974,7 +27974,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/76762606_146186356773420_9167504210369970176_o_ZztjrdE.jpg"
   },
   "longitude": 67.0011364,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/logo_XCJiAcW.png",
+   "path": "chapter_banners/logo_XCJiAcW.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/logo_XCJiAcW.png"
+  },
   "state": "",
   "title": "PAF Karachi Institute of Economics and Technology",
   "relative_url": "/paf-karachi-institute-of-economics-and-technology/",
