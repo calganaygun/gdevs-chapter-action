@@ -16434,28 +16434,6 @@
  },
  {
   "active": true,
-  "city": "Kinshasa",
-  "country": "CD",
-  "id": 1017,
-  "hide_country_info": false,
-  "latitude": -4.4419311,
-  "logo": {},
-  "longitude": 15.2662931,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/e_mXpyVJH.png",
-   "path": "chapter_banners/e_mXpyVJH.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/e_mXpyVJH.png"
-  },
-  "state": "",
-  "title": "Higher School of Computer Science Salama",
-  "relative_url": "/higher-school-of-computer-science-salama/",
-  "url": "https://gdsc.community.dev/higher-school-of-computer-science-salama/"
- },
- {
-  "active": true,
   "city": "Yaounde",
   "country": "CM",
   "id": 1112,
@@ -18205,9 +18183,23 @@
   "id": 2080,
   "hide_country_info": false,
   "latitude": -0.228021,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/images%2520%25286%2529_clHP5B2.png",
+   "path": "chapter_banners/images (6)_clHP5B2.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/images%2520%25286%2529_clHP5B2.png"
+  },
   "longitude": 15.827659,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UNIVERSIT%25C3%2589%2520LOYOLA%2520DU%2520CONGO%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC UNIVERSITÉ LOYOLA DU CONGO vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UNIVERSIT%25C3%2589%2520LOYOLA%2520DU%2520CONGO%2520vertical%2520color.png"
+  },
   "state": "",
   "title": "ULC-Icam",
   "relative_url": "/ulc-icam/",
@@ -19142,28 +19134,6 @@
   "title": "Université d'Abomey-Calavi (UAC)",
   "relative_url": "/universite-dabomey-calavi-uac/",
   "url": "https://gdsc.community.dev/universite-dabomey-calavi-uac/"
- },
- {
-  "active": true,
-  "city": "Kinshasa",
-  "country": "CD",
-  "id": 874,
-  "hide_country_info": false,
-  "latitude": -4.4419311,
-  "logo": {},
-  "longitude": 15.2662931,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/l_fyDWhqi.PNG",
-   "path": "chapter_banners/l_fyDWhqi.PNG",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/l_fyDWhqi.PNG"
-  },
-  "state": "",
-  "title": "Université de Kinshasa",
-  "relative_url": "/universite-de-kinshasa/",
-  "url": "https://gdsc.community.dev/universite-de-kinshasa/"
  },
  {
   "active": true,
