@@ -9535,6 +9535,21 @@
  },
  {
   "active": true,
+  "city": "El Jadida",
+  "country": "MA",
+  "id": 1251,
+  "hide_country_info": false,
+  "latitude": 33.2316326,
+  "logo": {},
+  "longitude": -8.500711599999999,
+  "picture": {},
+  "state": "Casablanca-Settat",
+  "title": "GDG El Jadida",
+  "relative_url": "/gdg-el-jadida/",
+  "url": "https://gdg.community.dev/gdg-el-jadida/"
+ },
+ {
+  "active": true,
   "city": "Elazig",
   "country": "TR",
   "id": 39,
@@ -12487,6 +12502,21 @@
   "title": "GDG Prague",
   "relative_url": "/gdg-prague/",
   "url": "https://gdg.community.dev/gdg-prague/"
+ },
+ {
+  "active": true,
+  "city": "Rabat",
+  "country": "MA",
+  "id": 1250,
+  "hide_country_info": false,
+  "latitude": 33.9715904,
+  "logo": {},
+  "longitude": -6.8498129,
+  "picture": {},
+  "state": "Rabat-Salé-Kénitra",
+  "title": "GDG Rabat",
+  "relative_url": "/gdg-rabat/",
+  "url": "https://gdg.community.dev/gdg-rabat/"
  },
  {
   "active": true,
