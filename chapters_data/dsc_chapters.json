@@ -23894,7 +23894,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520IIIT%2520BHAGALPUR%2520vertical%2520color_E44UKAV.png"
   },
   "longitude": 86.9842256,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/20220104_225927_0000.png",
+   "path": "chapter_banners/20220104_225927_0000.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/20220104_225927_0000.png"
+  },
   "state": "",
   "title": "Indian Institute of Information Technology - Bhagalpur",
   "relative_url": "/indian-institute-of-information-technology-bhagalpur/",
