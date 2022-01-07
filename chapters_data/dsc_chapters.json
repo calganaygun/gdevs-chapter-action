@@ -8517,9 +8517,23 @@
   "id": 162,
   "hide_country_info": false,
   "latitude": 35.3708689,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/unnamederdddddddddddddddd-file-35_OLRBZrn.png",
+   "path": "chapter_banners/unnamederdddddddddddddddd-file-35_OLRBZrn.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/unnamederdddddddddddddddd-file-35_OLRBZrn.png"
+  },
   "longitude": 1.3217852,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/We%2520Learn%2520We%2520Share%2520We%2520Grow..%2520together_r8Ef5wX.png",
+   "path": "chapter_banners/We Learn We Share We Grow.. together_r8Ef5wX.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/We%2520Learn%2520We%2520Share%2520We%2520Grow..%2520together_r8Ef5wX.png"
+  },
   "state": "",
   "title": "Ibn Khaldoun University",
   "relative_url": "/ibn-khaldoun-university/",
