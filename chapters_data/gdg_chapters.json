@@ -17867,12 +17867,12 @@
   "logo": {},
   "longitude": 77.4,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/WhatsApp%2520Image%25202020-02-16%2520at%25209.35.55%2520PM.jpeg",
-   "path": "chapter_banners/WhatsApp Image 2020-02-16 at 9.35.55 PM.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/WhatsApp%2520Image%25202020-02-16%2520at%25209.35.55%2520PM_PAJ8I4N.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2020-02-16 at 9.35.55 PM_PAJ8I4N.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/WhatsApp%2520Image%25202020-02-16%2520at%25209.35.55%2520PM.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/WhatsApp%2520Image%25202020-02-16%2520at%25209.35.55%2520PM_PAJ8I4N.jpeg"
   },
   "state": "",
   "title": "GDG Bhopal",
