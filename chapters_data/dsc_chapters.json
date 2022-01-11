@@ -1902,7 +1902,14 @@
   "id": 437,
   "hide_country_info": false,
   "latitude": 43.15657789999999,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdscrit.jpg",
+   "path": "chapter_banners/gdscrit.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdscrit.jpg"
+  },
   "longitude": -77.6088465,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/rit-campus_tcjHrlN.jpg",
@@ -33199,7 +33206,14 @@
   "id": 1013,
   "hide_country_info": false,
   "latitude": 17.385044,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520VCE%2520full%2520image.png",
+   "path": "chapter_banners/GDSC VCE full image.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520VCE%2520full%2520image.png"
+  },
   "longitude": 78.486671,
   "picture": {},
   "state": "",
