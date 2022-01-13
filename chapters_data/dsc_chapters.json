@@ -19120,15 +19120,22 @@
   "hide_country_info": false,
   "latitude": -4.4419311,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/KO9d4AsQ_400x400.jpg",
-   "path": "chapter_banners/KO9d4AsQ_400x400.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/syvkl-ya_400x400.jpg",
+   "path": "chapter_banners/syvkl-ya_400x400.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/KO9d4AsQ_400x400.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/syvkl-ya_400x400.jpg"
   },
   "longitude": 15.2662931,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copie%2520de%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002.png",
+   "path": "chapter_banners/Copie de Copy of Google Developer Student Clubs Chapter _ Blog Post Image 02.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copie%2520de%2520Copy%2520of%2520Google%2520Developer%2520Student%2520Clubs%2520Chapter%2520_%2520Blog%2520Post%2520Image%252002.png"
+  },
   "state": "Kinshasa",
   "title": "Université Pédagogique Nationale",
   "relative_url": "/universite-pedagogique-nationale/",
@@ -23896,8 +23903,8 @@
   "picture": {},
   "state": "WB",
   "title": "Indian Institute of Engineering Science and Technology, Shibpur - Howrah",
-  "relative_url": "/indian-institute-of-engineering-science-and-technology-shibpur-howrah-1/",
-  "url": "https://gdsc.community.dev/indian-institute-of-engineering-science-and-technology-shibpur-howrah-1/"
+  "relative_url": "/indian-institute-of-engineering-science-and-technology-shibpur-howrah/",
+  "url": "https://gdsc.community.dev/indian-institute-of-engineering-science-and-technology-shibpur-howrah/"
  },
  {
   "active": true,
