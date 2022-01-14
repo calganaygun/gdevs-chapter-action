@@ -1945,7 +1945,14 @@
   "latitude": 43.2557206,
   "logo": {},
   "longitude": -79.8711024,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Hamilton.png",
+   "path": "chapter_banners/GDG Hamilton.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Hamilton.png"
+  },
   "state": "ON",
   "title": "GDG Hamilton",
   "relative_url": "/gdg-hamilton/",
@@ -17604,8 +17611,8 @@
   "title": "GDG Zaria",
   "relative_url": "/gdg-zaria/",
   "url": "https://gdg.community.dev/gdg-zaria/"
- },
- {
+ }
+] {
   "active": true,
   "city": "Adelaide",
   "country": "AU",
