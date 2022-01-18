@@ -19089,6 +19089,21 @@
  },
  {
   "active": true,
+  "city": "Durgapur",
+  "country": "IN",
+  "id": 1253,
+  "hide_country_info": false,
+  "latitude": 23.5204443,
+  "logo": {},
+  "longitude": 87.3119227,
+  "picture": {},
+  "state": "WB",
+  "title": "GDG Durgapur",
+  "relative_url": "/gdg-durgapur/",
+  "url": "https://gdg.community.dev/gdg-durgapur/"
+ },
+ {
+  "active": true,
   "city": "Koriyama",
   "country": "JP",
   "id": 180,
