@@ -28697,7 +28697,14 @@
   "latitude": 26.9124336,
   "logo": {},
   "longitude": 75.7872709,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Black%2520GDSC%2520Rajasthan%2520College%2520of%2520Engineering%2520for%2520Women%252C%2520Jaipur%2520vertical%2520white.png",
+   "path": "chapter_banners/Black GDSC Rajasthan College of Engineering for Women, Jaipur vertical white.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Black%2520GDSC%2520Rajasthan%2520College%2520of%2520Engineering%2520for%2520Women%252C%2520Jaipur%2520vertical%2520white.png"
+  },
   "state": "",
   "title": "Rajasthan College of Engineering for Women - Jaipur",
   "relative_url": "/rajasthan-college-of-engineering-for-women-jaipur/",
@@ -30672,12 +30679,12 @@
   "hide_country_info": false,
   "latitude": 22.3193039,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PolyU%2520Logo_630x630.jpg",
-   "path": "chapter_banners/PolyU Logo_630x630.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/PolyU20Logo_630x630.jpg.png",
+   "path": "chapter_banners/PolyU20Logo_630x630.jpg.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PolyU%2520Logo_630x630.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/PolyU20Logo_630x630.jpg.png"
   },
   "longitude": 114.1693611,
   "picture": {

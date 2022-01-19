@@ -6518,21 +6518,6 @@
  },
  {
   "active": true,
-  "city": "Milan",
-  "country": "IT",
-  "id": 1046,
-  "hide_country_info": false,
-  "latitude": 45.4642035,
-  "logo": {},
-  "longitude": 9.189982,
-  "picture": {},
-  "state": "Lombardy",
-  "title": "Developer Ecosystem - Europe Team",
-  "relative_url": "/developer-ecosystem-europe-team/",
-  "url": "https://gdg.community.dev/developer-ecosystem-europe-team/"
- },
- {
-  "active": true,
   "city": "Gdansk",
   "country": "PL",
   "id": 322,
