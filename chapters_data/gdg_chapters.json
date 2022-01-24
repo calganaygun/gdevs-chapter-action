@@ -4304,6 +4304,28 @@
  },
  {
   "active": true,
+  "city": "Itajaí",
+  "country": "BR",
+  "id": 1255,
+  "hide_country_info": false,
+  "latitude": -26.9082782,
+  "logo": {},
+  "longitude": -48.67751089999999,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/800x600_5-motivos-para-voce-viver-em-itajai-7-8837.jpg",
+   "path": "chapter_banners/800x600_5-motivos-para-voce-viver-em-itajai-7-8837.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/800x600_5-motivos-para-voce-viver-em-itajai-7-8837.jpg"
+  },
+  "state": "SC",
+  "title": "GDG Cloud Itajaí",
+  "relative_url": "/gdg-cloud-itajai/",
+  "url": "https://gdg.community.dev/gdg-cloud-itajai/"
+ },
+ {
+  "active": true,
   "city": "La Paz",
   "country": "BO",
   "id": 267,
@@ -15459,6 +15481,35 @@
  },
  {
   "active": true,
+  "city": "Mbarara",
+  "country": "UG",
+  "id": 1254,
+  "hide_country_info": false,
+  "latitude": -0.6071596,
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/dev1.png",
+   "path": "chapter_banners/dev1.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/dev1.png"
+  },
+  "longitude": 30.6545022,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/head.jpeg",
+   "path": "chapter_banners/head.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/head.jpeg"
+  },
+  "state": "Western Region",
+  "title": "GDG Cloud Mbarara",
+  "relative_url": "/gdg-cloud-mbarara/",
+  "url": "https://gdg.community.dev/gdg-cloud-mbarara/"
+ },
+ {
+  "active": true,
   "city": "Minna",
   "country": "NG",
   "id": 1086,
@@ -20437,6 +20488,21 @@
   "title": "GDG Pune",
   "relative_url": "/gdg-pune/",
   "url": "https://gdg.community.dev/gdg-pune/"
+ },
+ {
+  "active": true,
+  "city": "Raipur",
+  "country": "IN",
+  "id": 1256,
+  "hide_country_info": false,
+  "latitude": 21.2513844,
+  "logo": {},
+  "longitude": 81.62964130000002,
+  "picture": {},
+  "state": "CT",
+  "title": "GDG Raipur",
+  "relative_url": "/gdg-raipur/",
+  "url": "https://gdg.community.dev/gdg-raipur/"
  },
  {
   "active": true,
