@@ -38,12 +38,12 @@
   },
   "longitude": -84.33575259999999,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-13%2520at%25202.32.16%2520PM.jpeg",
-   "path": "chapter_banners/WhatsApp Image 2021-11-13 at 2.32.16 PM.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202022-01-27%2520at%25209.44.00%2520AM.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2022-01-27 at 9.44.00 AM.jpeg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-13%2520at%25202.32.16%2520PM.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202022-01-27%2520at%25209.44.00%2520AM.jpeg"
   },
   "state": "",
   "title": "Algoma University",
@@ -20405,7 +20405,14 @@
   "latitude": 20.745319,
   "logo": {},
   "longitude": 78.60219459999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/28.jpg",
+   "path": "chapter_banners/28.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/28.jpg"
+  },
   "state": "",
   "title": "Bajaj Institute of Technology - Wardha",
   "relative_url": "/bajaj-institute-of-technology-wardha/",
