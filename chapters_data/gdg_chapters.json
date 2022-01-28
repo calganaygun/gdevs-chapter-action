@@ -15044,7 +15044,14 @@
   "latitude": 12.46,
   "logo": {},
   "longitude": 4.19,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/IMG_20211120_144410_864.jpg",
+   "path": "chapter_banners/IMG_20211120_144410_864.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/IMG_20211120_144410_864.jpg"
+  },
   "state": "",
   "title": "GDG Birnin-Kebbi",
   "relative_url": "/gdg-birnin-kebbi/",
@@ -15981,6 +15988,21 @@
   "title": "GDG Igbologun",
   "relative_url": "/gdg-igbologun/",
   "url": "https://gdg.community.dev/gdg-igbologun/"
+ },
+ {
+  "active": true,
+  "city": "Ikot Abasi",
+  "country": "NG",
+  "id": 1257,
+  "hide_country_info": false,
+  "latitude": 4.5739124,
+  "logo": {},
+  "longitude": 7.5788975,
+  "picture": {},
+  "state": "AK",
+  "title": "GDG Ikot Abasi",
+  "relative_url": "/gdg-ikot-abasi/",
+  "url": "https://gdg.community.dev/gdg-ikot-abasi/"
  },
  {
   "active": true,
