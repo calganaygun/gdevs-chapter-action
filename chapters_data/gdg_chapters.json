@@ -6547,7 +6547,14 @@
   "latitude": 54.36,
   "logo": {},
   "longitude": 18.64,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Youtube%2520Banners.png",
+   "path": "chapter_banners/GDG Youtube Banners.png",
+   "thumbnail_width": 1280,
+   "thumbnail_height": 720,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/GDG%2520Youtube%2520Banners.png"
+  },
   "state": "",
   "title": "GDG 3City",
   "relative_url": "/gdg-3city/",
@@ -6565,10 +6572,10 @@
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/1500x500_q5UVuxs.jpeg",
    "path": "chapter_banners/1500x500_q5UVuxs.jpeg",
-   "thumbnail_width": 1280,
-   "thumbnail_height": 720,
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-goog/chapter_banners/1500x500_q5UVuxs.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/1500x500_q5UVuxs.jpeg"
   },
   "state": "",
   "title": "GDG 6 October",
