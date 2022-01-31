@@ -23350,7 +23350,14 @@
   "latitude": 10.5276416,
   "logo": {},
   "longitude": 76.2144349,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/m.jpg",
+   "path": "chapter_banners/m.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/m.jpg"
+  },
   "state": "",
   "title": "Government Engineering College - Thrissur",
   "relative_url": "/government-engineering-college-thrissur/",
@@ -26639,12 +26646,12 @@
   "hide_country_info": false,
   "latitude": 25.3959687,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/2-DSC%2520MUET-%2520w%2520bg.png",
-   "path": "chapter_banners/2-DSC MUET- w bg.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo%2520rounded%2520%25281%2529.png",
+   "path": "chapter_banners/GDSC Logo rounded (1).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/2-DSC%2520MUET-%2520w%2520bg.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Logo%2520rounded%2520%25281%2529.png"
   },
   "longitude": 68.357776,
   "picture": {
