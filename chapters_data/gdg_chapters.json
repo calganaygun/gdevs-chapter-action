@@ -18314,21 +18314,6 @@
  },
  {
   "active": true,
-  "city": "Auckland",
-  "country": "NZ",
-  "id": 59,
-  "hide_country_info": false,
-  "latitude": -36.85,
-  "logo": {},
-  "longitude": 174.76,
-  "picture": {},
-  "state": "",
-  "title": "GDG Cloud Auckland",
-  "relative_url": "/gdg-cloud-auckland/",
-  "url": "https://gdg.community.dev/gdg-cloud-auckland/"
- },
- {
-  "active": true,
   "city": "Bandung",
   "country": "ID",
   "id": 137,
