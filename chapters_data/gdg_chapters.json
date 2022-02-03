@@ -5400,6 +5400,21 @@
  },
  {
   "active": true,
+  "city": "Manta",
+  "country": "EC",
+  "id": 1258,
+  "hide_country_info": false,
+  "latitude": -0.9676533,
+  "logo": {},
+  "longitude": -80.7089101,
+  "picture": {},
+  "state": "Manabí",
+  "title": "GDG Manta",
+  "relative_url": "/gdg-manta/",
+  "url": "https://gdg.community.dev/gdg-manta/"
+ },
+ {
+  "active": true,
   "city": "Marataízes",
   "country": "BR",
   "id": 1155,
@@ -5434,6 +5449,21 @@
   "title": "GDG Maringá",
   "relative_url": "/gdg-maringa/",
   "url": "https://gdg.community.dev/gdg-maringa/"
+ },
+ {
+  "active": true,
+  "city": "Marília",
+  "country": "BR",
+  "id": 1259,
+  "hide_country_info": false,
+  "latitude": -22.2175968,
+  "logo": {},
+  "longitude": -49.9487485,
+  "picture": {},
+  "state": "SP",
+  "title": "GDG Marília",
+  "relative_url": "/gdg-marilia/",
+  "url": "https://gdg.community.dev/gdg-marilia/"
  },
  {
   "active": true,
@@ -12621,7 +12651,14 @@
   "latitude": 51.42,
   "logo": {},
   "longitude": -0.99,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdg_cover2.png",
+   "path": "chapter_banners/gdg_cover2.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/gdg_cover2.png"
+  },
   "state": "03",
   "title": "GDG Reading & Thames Valley",
   "relative_url": "/gdg-reading-thames-valley/",
