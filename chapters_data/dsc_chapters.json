@@ -6664,15 +6664,22 @@
   "id": 121,
   "hide_country_info": false,
   "latitude": 30.4659929,
-  "logo": {},
-  "longitude": 31.1848307,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/0_4M1dleO.jpeg",
-   "path": "chapter_banners/0_4M1dleO.jpeg",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc1.jpg",
+   "path": "chapter_banners/gdsc1.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/0_4M1dleO.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc1.jpg"
+  },
+  "longitude": 31.1848307,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/gdsc_LpZkW5s.jpg",
+   "path": "chapter_banners/gdsc_LpZkW5s.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/gdsc_LpZkW5s.jpg"
   },
   "state": "",
   "title": "Benha University",
@@ -16570,7 +16577,14 @@
   "id": 2314,
   "hide_country_info": false,
   "latitude": -11.6876026,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/analyse-budget-exploitation-gestion-entreprise-publique-services1.png",
+   "path": "chapter_banners/analyse-budget-exploitation-gestion-entreprise-publique-services1.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/analyse-budget-exploitation-gestion-entreprise-publique-services1.png"
+  },
   "longitude": 27.5026174,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520INSTITUT%2520SUPERIEUR%2520DE%2520COMMERCE%2520vertical%2520color.png",
@@ -18988,12 +19002,12 @@
   "logo": {},
   "longitude": 7.9127945,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-28%2520at%25208.41.20%2520PM.jpeg",
-   "path": "chapter_banners/WhatsApp Image 2021-11-28 at 8.41.20 PM.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1643971138798.jpg",
+   "path": "chapter_banners/1643971138798.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202021-11-28%2520at%25208.41.20%2520PM.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/1643971138798.jpg"
   },
   "state": "",
   "title": "University of Uyo",
@@ -19353,8 +19367,8 @@
   "title": "École Nationale Polytechnique de Douala",
   "relative_url": "/ecole-nationale-polytechnique-de-douala/",
   "url": "https://gdsc.community.dev/ecole-nationale-polytechnique-de-douala/"
- }
-] {
+ },
+ {
   "active": true,
   "city": "Anand",
   "country": "IN",
