@@ -964,6 +964,21 @@
  },
  {
   "active": true,
+  "city": "Indianapolis",
+  "country": "US",
+  "id": 1261,
+  "hide_country_info": false,
+  "latitude": 39.768403,
+  "logo": {},
+  "longitude": -86.158068,
+  "picture": {},
+  "state": "IN",
+  "title": "GDG Cloud Indy",
+  "relative_url": "/gdg-cloud-indy/",
+  "url": "https://gdg.community.dev/gdg-cloud-indy/"
+ },
+ {
+  "active": true,
   "city": "Kansas City",
   "country": "US",
   "id": 99,
@@ -1249,6 +1264,21 @@
   "title": "GDG Cloud Phoenix",
   "relative_url": "/gdg-cloud-phoenix/",
   "url": "https://gdg.community.dev/gdg-cloud-phoenix/"
+ },
+ {
+  "active": true,
+  "city": "Pittsburgh",
+  "country": "US",
+  "id": 1262,
+  "hide_country_info": false,
+  "latitude": 40.44062479999999,
+  "logo": {},
+  "longitude": -79.9958864,
+  "picture": {},
+  "state": "PA",
+  "title": "GDG Cloud Pittsburgh",
+  "relative_url": "/gdg-cloud-pittsburgh/",
+  "url": "https://gdg.community.dev/gdg-cloud-pittsburgh/"
  },
  {
   "active": true,
