@@ -17407,12 +17407,12 @@
   },
   "longitude": 32.5825197,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/hori%2520white%25203.PNG",
-   "path": "chapter_banners/hori white 3.PNG",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Mbarara%2520University%2520of%2520Science%2520and%2520Technology%2520horizontal%2520color%2520%25282%2529.png",
+   "path": "chapter_banners/GDSC Mbarara University of Science and Technology horizontal color (2).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/hori%2520white%25203.PNG"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Mbarara%2520University%2520of%2520Science%2520and%2520Technology%2520horizontal%2520color%2520%25282%2529.png"
   },
   "state": "",
   "title": "Mbarara University of Science and Technology",
@@ -20271,7 +20271,14 @@
   "latitude": 23.7301928,
   "logo": {},
   "longitude": 84.55628779999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202022-02-10%2520at%25203.03.11%2520PM.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2022-02-10 at 3.03.11 PM.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202022-02-10%2520at%25203.03.11%2520PM.jpeg"
+  },
   "state": "JH",
   "title": "BITS Pilani, K K Birla, Goa Campus - Goa",
   "relative_url": "/bits-pilani-k-k-birla-goa-campus-goa/",
