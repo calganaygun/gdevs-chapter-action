@@ -6494,6 +6494,28 @@
  },
  {
   "active": true,
+  "city": "Trelew",
+  "country": "AR",
+  "id": 1263,
+  "hide_country_info": false,
+  "latitude": -43.2493016,
+  "logo": {},
+  "longitude": -65.30763510000001,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Banner_RkIIzPG.png",
+   "path": "chapter_banners/Banner_RkIIzPG.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Banner_RkIIzPG.png"
+  },
+  "state": "Chubut Province",
+  "title": "GDG Trelew",
+  "relative_url": "/gdg-trelew/",
+  "url": "https://gdg.community.dev/gdg-trelew/"
+ },
+ {
+  "active": true,
   "city": "Tres Ríos",
   "country": "BR",
   "id": 601,
