@@ -15687,7 +15687,14 @@
   "id": 1948,
   "hide_country_info": false,
   "latitude": 43.65127469999999,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/photo.jpg",
+   "path": "chapter_banners/photo.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/photo.jpg"
+  },
   "longitude": -79.3893945,
   "picture": {},
   "state": "",
@@ -18210,15 +18217,22 @@
   "id": 2000,
   "hide_country_info": false,
   "latitude": 7.3775355,
-  "logo": {},
-  "longitude": 3.9470396,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Facebook%2520Banners.jpg",
-   "path": "chapter_banners/Google Developer Student Clubs Chapter_ Facebook Banners.jpg",
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520The%2520Polytechnic%2520Ibadan%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC The Polytechnic Ibadan vertical color.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Google%2520Developer%2520Student%2520Clubs%2520Chapter_%2520Facebook%2520Banners.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520The%2520Polytechnic%2520Ibadan%2520vertical%2520color.png"
+  },
+  "longitude": 3.9470396,
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Banner_5V2JOM6.jpg",
+   "path": "chapter_banners/Banner_5V2JOM6.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Banner_5V2JOM6.jpg"
   },
   "state": "",
   "title": "The Polytechnic Ibadan",
@@ -18262,21 +18276,21 @@
   "hide_country_info": false,
   "latitude": -0.228021,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/images%2520%25286%2529_clHP5B2.png",
-   "path": "chapter_banners/images (6)_clHP5B2.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UNIVERSIT%25C3%2589%2520LOYOLA%2520DU%2520CONGO%2520vertical%2520color_ntJMj6t.png",
+   "path": "chapter_banners/GDSC UNIVERSITÉ LOYOLA DU CONGO vertical color_ntJMj6t.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/images%2520%25286%2529_clHP5B2.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UNIVERSIT%25C3%2589%2520LOYOLA%2520DU%2520CONGO%2520vertical%2520color_ntJMj6t.png"
   },
   "longitude": 15.827659,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UNIVERSIT%25C3%2589%2520LOYOLA%2520DU%2520CONGO%2520vertical%2520color.png",
-   "path": "chapter_banners/GDSC UNIVERSITÉ LOYOLA DU CONGO vertical color.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/images%2520%25286%2529_VgnwvAC.png",
+   "path": "chapter_banners/images (6)_VgnwvAC.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520UNIVERSIT%25C3%2589%2520LOYOLA%2520DU%2520CONGO%2520vertical%2520color.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/images%2520%25286%2529_VgnwvAC.png"
   },
   "state": "",
   "title": "ULC-Icam",
@@ -28282,12 +28296,12 @@
   "hide_country_info": false,
   "latitude": 22.3071588,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo_SIjH8kt.png",
-   "path": "chapter_banners/DSC Logo_SIjH8kt.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520PU%2520LOGO.jpg",
+   "path": "chapter_banners/GDSC PU LOGO.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520Logo_SIjH8kt.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520PU%2520LOGO.jpg"
   },
   "longitude": 73.1812187,
   "picture": {
