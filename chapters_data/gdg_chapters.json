@@ -10219,7 +10219,14 @@
   "latitude": 51.27,
   "logo": {},
   "longitude": -1.08,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Basingstoke.jpeg",
+   "path": "chapter_banners/Basingstoke.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Basingstoke.jpeg"
+  },
   "state": "F2",
   "title": "GDG Hants & Surrey",
   "relative_url": "/gdg-hants-surrey/",
