@@ -6161,9 +6161,23 @@
   "id": 614,
   "hide_country_info": false,
   "latitude": 15.47,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/59464302_2204093706372437_1754920304250978304_n.jpg",
+   "path": "chapter_banners/59464302_2204093706372437_1754920304250978304_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/59464302_2204093706372437_1754920304250978304_n.jpg"
+  },
   "longitude": -88.03,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/59646005_2204119789703162_3315741514453221376_n.png",
+   "path": "chapter_banners/59646005_2204119789703162_3315741514453221376_n.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/59646005_2204119789703162_3315741514453221376_n.png"
+  },
   "state": "",
   "title": "GDG San Pedro Sula",
   "relative_url": "/gdg-san-pedro-sula/",
@@ -13321,6 +13335,21 @@
  },
  {
   "active": true,
+  "city": "Valbonne",
+  "country": "FR",
+  "id": 1265,
+  "hide_country_info": false,
+  "latitude": 43.64152,
+  "logo": {},
+  "longitude": 7.009186,
+  "picture": {},
+  "state": "Provence-Alpes-Côte d'Azur",
+  "title": "GDG Sophia-Antipolis",
+  "relative_url": "/gdg-sophia-antipolis/",
+  "url": "https://gdg.community.dev/gdg-sophia-antipolis/"
+ },
+ {
+  "active": true,
   "city": "Susah",
   "country": "TN",
   "id": 643,
@@ -19332,7 +19361,14 @@
   "id": 1253,
   "hide_country_info": false,
   "latitude": 23.5204443,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG-Durgapur.jpg",
+   "path": "chapter_banners/GDG-Durgapur.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG-Durgapur.jpg"
+  },
   "longitude": 87.3119227,
   "picture": {},
   "state": "WB",
@@ -20549,6 +20585,21 @@
   "title": "GDG New Delhi",
   "relative_url": "/gdg-new-delhi/",
   "url": "https://gdg.community.dev/gdg-new-delhi/"
+ },
+ {
+  "active": true,
+  "city": "Noida",
+  "country": "IN",
+  "id": 1264,
+  "hide_country_info": false,
+  "latitude": 28.5355161,
+  "logo": {},
+  "longitude": 77.3910265,
+  "picture": {},
+  "state": "UP",
+  "title": "GDG Noida",
+  "relative_url": "/gdg-noida/",
+  "url": "https://gdg.community.dev/gdg-noida/"
  },
  {
   "active": true,
