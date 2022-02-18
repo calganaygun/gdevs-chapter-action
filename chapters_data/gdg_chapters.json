@@ -126,7 +126,14 @@
   "latitude": 30.4514677,
   "logo": {},
   "longitude": -91.18714659999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Untitled%2520design%2520%252810%2529.png",
+   "path": "chapter_banners/Untitled design (10).png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Untitled%2520design%2520%252810%2529.png"
+  },
   "state": "LA",
   "title": "GDG Baton Rouge",
   "relative_url": "/gdg-baton-rouge/",
@@ -6936,21 +6943,6 @@
  },
  {
   "active": true,
-  "city": "Alacant",
-  "country": "ES",
-  "id": 475,
-  "hide_country_info": false,
-  "latitude": 38.35,
-  "logo": {},
-  "longitude": -0.48,
-  "picture": {},
-  "state": "",
-  "title": "GDG Alicante",
-  "relative_url": "/gdg-alicante/",
-  "url": "https://gdg.community.dev/gdg-alicante/"
- },
- {
-  "active": true,
   "city": "Chambéry",
   "country": "FR",
   "id": 345,
@@ -7694,36 +7686,6 @@
  },
  {
   "active": true,
-  "city": "Bragança",
-  "country": "PT",
-  "id": 1105,
-  "hide_country_info": false,
-  "latitude": 41.81,
-  "logo": {},
-  "longitude": -6.76,
-  "picture": {},
-  "state": "",
-  "title": "GDG Bragança",
-  "relative_url": "/gdg-braganca/",
-  "url": "https://gdg.community.dev/gdg-braganca/"
- },
- {
-  "active": true,
-  "city": "Bratislava",
-  "country": "SK",
-  "id": 365,
-  "hide_country_info": false,
-  "latitude": 48.16,
-  "logo": {},
-  "longitude": 17.13,
-  "picture": {},
-  "state": "",
-  "title": "GDG Bratislava",
-  "relative_url": "/gdg-bratislava/",
-  "url": "https://gdg.community.dev/gdg-bratislava/"
- },
- {
-  "active": true,
   "city": "Braunschweig",
   "country": "DE",
   "id": 510,
@@ -7758,21 +7720,6 @@
   "title": "GDG Bremen",
   "relative_url": "/gdg-bremen/",
   "url": "https://gdg.community.dev/gdg-bremen/"
- },
- {
-  "active": true,
-  "city": "Brescia",
-  "country": "IT",
-  "id": 627,
-  "hide_country_info": false,
-  "latitude": 45.55,
-  "logo": {},
-  "longitude": 10.25,
-  "picture": {},
-  "state": "BS",
-  "title": "GDG Brescia",
-  "relative_url": "/gdg-brescia/",
-  "url": "https://gdg.community.dev/gdg-brescia/"
  },
  {
   "active": true,
@@ -8250,21 +8197,6 @@
  },
  {
   "active": true,
-  "city": "Athens",
-  "country": "GR",
-  "id": 107,
-  "hide_country_info": false,
-  "latitude": 37.98,
-  "logo": {},
-  "longitude": 23.73,
-  "picture": {},
-  "state": "",
-  "title": "GDG Cloud Athens",
-  "relative_url": "/gdg-cloud-athens/",
-  "url": "https://gdg.community.dev/gdg-cloud-athens/"
- },
- {
-  "active": true,
   "city": "Brussels",
   "country": "BE",
   "id": 362,
@@ -8292,21 +8224,6 @@
   "title": "GDG Cloud Berlin",
   "relative_url": "/gdg-cloud-berlin/",
   "url": "https://gdg.community.dev/gdg-cloud-berlin/"
- },
- {
-  "active": true,
-  "city": "Bucharest",
-  "country": "RO",
-  "id": 373,
-  "hide_country_info": false,
-  "latitude": 44.44,
-  "logo": {},
-  "longitude": 26.1,
-  "picture": {},
-  "state": "",
-  "title": "GDG Cloud Bucharest",
-  "relative_url": "/gdg-cloud-bucharest/",
-  "url": "https://gdg.community.dev/gdg-cloud-bucharest/"
  },
  {
   "active": true,
@@ -8381,21 +8298,6 @@
   "title": "GDG Cloud Cambridge",
   "relative_url": "/gdg-cloud-cambridge/",
   "url": "https://gdg.community.dev/gdg-cloud-cambridge/"
- },
- {
-  "active": true,
-  "city": "Las Palmas",
-  "country": "ES",
-  "id": 152,
-  "hide_country_info": false,
-  "latitude": 28.1,
-  "logo": {},
-  "longitude": -15.43,
-  "picture": {},
-  "state": "",
-  "title": "GDG Cloud Canarias",
-  "relative_url": "/gdg-cloud-canarias/",
-  "url": "https://gdg.community.dev/gdg-cloud-canarias/"
  },
  {
   "active": true,
@@ -8813,21 +8715,6 @@
  },
  {
   "active": true,
-  "city": "Nürnberg",
-  "country": "DE",
-  "id": 91,
-  "hide_country_info": false,
-  "latitude": 49.45,
-  "logo": {},
-  "longitude": 11.05,
-  "picture": {},
-  "state": "",
-  "title": "GDG Cloud Nuremberg",
-  "relative_url": "/gdg-cloud-nuremberg/",
-  "url": "https://gdg.community.dev/gdg-cloud-nuremberg/"
- },
- {
-  "active": true,
   "city": "Oslo",
   "country": "NO",
   "id": 459,
@@ -9034,21 +8921,6 @@
   "title": "GDG Cloud Vilnius",
   "relative_url": "/gdg-cloud-vilnius/",
   "url": "https://gdg.community.dev/gdg-cloud-vilnius/"
- },
- {
-  "active": true,
-  "city": "Wageningen",
-  "country": "NL",
-  "id": 350,
-  "hide_country_info": false,
-  "latitude": 51.98,
-  "logo": {},
-  "longitude": 5.67,
-  "picture": {},
-  "state": "",
-  "title": "GDG Cloud Wageningen",
-  "relative_url": "/gdg-cloud-wageningen/",
-  "url": "https://gdg.community.dev/gdg-cloud-wageningen/"
  },
  {
   "active": true,
@@ -9385,21 +9257,6 @@
  },
  {
   "active": true,
-  "city": "Córdoba",
-  "country": "ES",
-  "id": 631,
-  "hide_country_info": false,
-  "latitude": 37.88,
-  "logo": {},
-  "longitude": -4.77,
-  "picture": {},
-  "state": "",
-  "title": "GDG Córdoba",
-  "relative_url": "/gdg-cordoba/",
-  "url": "https://gdg.community.dev/gdg-cordoba/"
- },
- {
-  "active": true,
   "city": "Damanhur",
   "country": "EG",
   "id": 145,
@@ -9458,21 +9315,6 @@
  },
  {
   "active": true,
-  "city": "Daugavpils",
-  "country": "LV",
-  "id": 670,
-  "hide_country_info": false,
-  "latitude": 55.88,
-  "logo": {},
-  "longitude": 26.51,
-  "picture": {},
-  "state": "",
-  "title": "GDG Daugavpils",
-  "relative_url": "/gdg-daugavpils/",
-  "url": "https://gdg.community.dev/gdg-daugavpils/"
- },
- {
-  "active": true,
   "city": "al-Mansurah",
   "country": "EG",
   "id": 574,
@@ -9521,21 +9363,6 @@
   "title": "GDG Denizli",
   "relative_url": "/gdg-denizli/",
   "url": "https://gdg.community.dev/gdg-denizli/"
- },
- {
-  "active": true,
-  "city": "Dnipropetrovs'k",
-  "country": "UA",
-  "id": 482,
-  "hide_country_info": false,
-  "latitude": 48.45,
-  "logo": {},
-  "longitude": 35.04,
-  "picture": {},
-  "state": "",
-  "title": "GDG Dnipro",
-  "relative_url": "/gdg-dnipro/",
-  "url": "https://gdg.community.dev/gdg-dnipro/"
  },
  {
   "active": true,
@@ -10922,21 +10749,6 @@
  },
  {
   "active": true,
-  "city": "Kyiv",
-  "country": "UA",
-  "id": 638,
-  "hide_country_info": false,
-  "latitude": 50.44,
-  "logo": {},
-  "longitude": 30.52,
-  "picture": {},
-  "state": "",
-  "title": "GDG Kyiv-Center",
-  "relative_url": "/gdg-kyiv-center/",
-  "url": "https://gdg.community.dev/gdg-kyiv-center/"
- },
- {
-  "active": true,
   "city": "Kütahya",
   "country": "TR",
   "id": 737,
@@ -11118,35 +10930,6 @@
   "title": "GDG Les Rosiers",
   "relative_url": "/gdg-les-rosiers/",
   "url": "https://gdg.community.dev/gdg-les-rosiers/"
- },
- {
-  "active": true,
-  "city": "León",
-  "country": "ES",
-  "id": 213,
-  "hide_country_info": false,
-  "latitude": 42.59,
-  "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdgleon.jpg",
-   "path": "chapter_banners/gdgleon.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/gdgleon.jpg"
-  },
-  "longitude": -5.57,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdgleon-original.jpg",
-   "path": "chapter_banners/gdgleon-original.jpg",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/gdgleon-original.jpg"
-  },
-  "state": "",
-  "title": "GDG León",
-  "relative_url": "/gdg-leon/",
-  "url": "https://gdg.community.dev/gdg-leon/"
  },
  {
   "active": true,
@@ -12545,21 +12328,6 @@
  },
  {
   "active": true,
-  "city": "Passau",
-  "country": "DE",
-  "id": 934,
-  "hide_country_info": false,
-  "latitude": 48.58,
-  "logo": {},
-  "longitude": 13.44,
-  "picture": {},
-  "state": "",
-  "title": "GDG Passau",
-  "relative_url": "/gdg-passau/",
-  "url": "https://gdg.community.dev/gdg-passau/"
- },
- {
-  "active": true,
   "city": "Pescara",
   "country": "IT",
   "id": 354,
@@ -12638,21 +12406,6 @@
   "title": "GDG Pitești",
   "relative_url": "/gdg-pitesti/",
   "url": "https://gdg.community.dev/gdg-pitesti/"
- },
- {
-  "active": true,
-  "city": "Podgorica",
-  "country": "ME",
-  "id": 288,
-  "hide_country_info": false,
-  "latitude": 42.47,
-  "logo": {},
-  "longitude": 19.28,
-  "picture": {},
-  "state": "",
-  "title": "GDG Podgorica",
-  "relative_url": "/gdg-podgorica/",
-  "url": "https://gdg.community.dev/gdg-podgorica/"
  },
  {
   "active": true,
@@ -12815,36 +12568,6 @@
   "title": "GDG Reading & Thames Valley",
   "relative_url": "/gdg-reading-thames-valley/",
   "url": "https://gdg.community.dev/gdg-reading-thames-valley/"
- },
- {
-  "active": true,
-  "city": "Reggio di Calabria",
-  "country": "IT",
-  "id": 593,
-  "hide_country_info": false,
-  "latitude": 38.11,
-  "logo": {},
-  "longitude": 15.64,
-  "picture": {},
-  "state": "RC",
-  "title": "GDG Reggio Calabria",
-  "relative_url": "/gdg-reggio-calabria/",
-  "url": "https://gdg.community.dev/gdg-reggio-calabria/"
- },
- {
-  "active": true,
-  "city": "Reggio nell'Emilia",
-  "country": "IT",
-  "id": 542,
-  "hide_country_info": false,
-  "latitude": 44.73,
-  "logo": {},
-  "longitude": 10.63,
-  "picture": {},
-  "state": "RE",
-  "title": "GDG Reggio Emilia",
-  "relative_url": "/gdg-reggio-emilia/",
-  "url": "https://gdg.community.dev/gdg-reggio-emilia/"
  },
  {
   "active": true,
@@ -13023,21 +12746,6 @@
   "title": "GDG Salalah",
   "relative_url": "/gdg-salalah/",
   "url": "https://gdg.community.dev/gdg-salalah/"
- },
- {
-  "active": true,
-  "city": "Salamanca",
-  "country": "ES",
-  "id": 858,
-  "hide_country_info": false,
-  "latitude": 40.97,
-  "logo": {},
-  "longitude": -5.67,
-  "picture": {},
-  "state": "",
-  "title": "GDG Salamanca",
-  "relative_url": "/gdg-salamanca/",
-  "url": "https://gdg.community.dev/gdg-salamanca/"
  },
  {
   "active": true,
@@ -14125,21 +13833,6 @@
  },
  {
   "active": true,
-  "city": "Uzhhorod",
-  "country": "UA",
-  "id": 473,
-  "hide_country_info": false,
-  "latitude": 48.62,
-  "logo": {},
-  "longitude": 22.31,
-  "picture": {},
-  "state": "",
-  "title": "GDG Uzhhorod",
-  "relative_url": "/gdg-uzhhorod/",
-  "url": "https://gdg.community.dev/gdg-uzhhorod/"
- },
- {
-  "active": true,
   "city": "Valencia",
   "country": "ES",
   "id": 736,
@@ -14270,21 +13963,6 @@
   "title": "GDG Vilnius",
   "relative_url": "/gdg-vilnius/",
   "url": "https://gdg.community.dev/gdg-vilnius/"
- },
- {
-  "active": true,
-  "city": "Vinnytsya",
-  "country": "UA",
-  "id": 125,
-  "hide_country_info": false,
-  "latitude": 49.24,
-  "logo": {},
-  "longitude": 28.49,
-  "picture": {},
-  "state": "",
-  "title": "GDG Vinnytsia",
-  "relative_url": "/gdg-vinnytsia/",
-  "url": "https://gdg.community.dev/gdg-vinnytsia/"
  },
  {
   "active": true,
