@@ -7375,7 +7375,14 @@
   "latitude": 36.73,
   "logo": {},
   "longitude": 9.19,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/51184407_10216829710886318_6251846802278973440_n.jpg",
+   "path": "chapter_banners/51184407_10216829710886318_6251846802278973440_n.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/51184407_10216829710886318_6251846802278973440_n.jpg"
+  },
   "state": "",
   "title": "GDG Beja",
   "relative_url": "/gdg-beja/",
@@ -16613,6 +16620,21 @@
   "title": "GDG Maputo",
   "relative_url": "/gdg-maputo/",
   "url": "https://gdg.community.dev/gdg-maputo/"
+ },
+ {
+  "active": true,
+  "city": "Maradi",
+  "country": "NE",
+  "id": 1268,
+  "hide_country_info": false,
+  "latitude": 13.5009779,
+  "logo": {},
+  "longitude": 7.103639599999999,
+  "picture": {},
+  "state": "Maradi Region",
+  "title": "GDG Maradi",
+  "relative_url": "/gdg-maradi/",
+  "url": "https://gdg.community.dev/gdg-maradi/"
  },
  {
   "active": true,

@@ -7961,7 +7961,14 @@
   "latitude": 41.7151377,
   "logo": {},
   "longitude": 44.827096,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Georgian%2520Technical%2520University%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC Georgian Technical University vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Georgian%2520Technical%2520University%2520vertical%2520color.png"
+  },
   "state": "",
   "title": "Georgia Technical University",
   "relative_url": "/georgia-technical-university/",
@@ -10150,7 +10157,14 @@
   "id": 1174,
   "hide_country_info": false,
   "latitude": 39.9333635,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Middle%2520East%2520Technical%2520University%2520vertical%2520color.png",
+   "path": "chapter_banners/GDSC Middle East Technical University vertical color.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Middle%2520East%2520Technical%2520University%2520vertical%2520color.png"
+  },
   "longitude": 32.8597419,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/1280px-METU_Devrim_Stadium.jpg",
