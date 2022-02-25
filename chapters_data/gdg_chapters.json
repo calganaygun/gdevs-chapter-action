@@ -15124,7 +15124,14 @@
   "latitude": -2.51,
   "logo": {},
   "longitude": 28.84,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/FlutterFestival_Banner_Light_nodate_2560x650.jpg",
+   "path": "chapter_banners/FlutterFestival_Banner_Light_nodate_2560x650.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/FlutterFestival_Banner_Light_nodate_2560x650.jpg"
+  },
   "state": "",
   "title": "GDG Bukavu",
   "relative_url": "/gdg-bukavu/",
@@ -15743,7 +15750,14 @@
   "latitude": 6.33,
   "logo": {},
   "longitude": 7.5,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdg%2520enugu%2520logo.png",
+   "path": "chapter_banners/gdg enugu logo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/gdg%2520enugu%2520logo.png"
+  },
   "state": "",
   "title": "GDG Enugu",
   "relative_url": "/gdg-enugu/",

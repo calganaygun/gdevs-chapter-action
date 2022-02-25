@@ -2337,7 +2337,14 @@
   "latitude": 35.9606384,
   "logo": {},
   "longitude": -83.9207392,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/smokey.jpeg",
+   "path": "chapter_banners/smokey.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/smokey.jpeg"
+  },
   "state": "",
   "title": "The University of Tennessee - Knoxville",
   "relative_url": "/the-university-of-tennessee-knoxville/",
@@ -19402,8 +19409,8 @@
   "title": "École Nationale Polytechnique de Douala",
   "relative_url": "/ecole-nationale-polytechnique-de-douala/",
   "url": "https://gdsc.community.dev/ecole-nationale-polytechnique-de-douala/"
- },
- {
+ }
+] {
   "active": true,
   "city": "Anand",
   "country": "IN",
