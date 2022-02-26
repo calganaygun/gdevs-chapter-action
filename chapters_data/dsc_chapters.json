@@ -19409,8 +19409,8 @@
   "title": "École Nationale Polytechnique de Douala",
   "relative_url": "/ecole-nationale-polytechnique-de-douala/",
   "url": "https://gdsc.community.dev/ecole-nationale-polytechnique-de-douala/"
- }
-] {
+ },
+ {
   "active": true,
   "city": "Anand",
   "country": "IN",
@@ -20815,8 +20815,8 @@
   },
   "state": "",
   "title": "Binus University Malang",
-  "relative_url": "/binus-university-malang-1/",
-  "url": "https://gdsc.community.dev/binus-university-malang-1/"
+  "relative_url": "/binus-university-malang/",
+  "url": "https://gdsc.community.dev/binus-university-malang/"
  },
  {
   "active": true,
@@ -27811,12 +27811,12 @@
   "hide_country_info": false,
   "latitude": 33.6844202,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC-NUST-logo.png",
-   "path": "chapter_banners/DSC-NUST-logo.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520NUST%2520LOGO%2520%25281%2529.png",
+   "path": "chapter_banners/GDSC NUST LOGO (1).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/DSC-NUST-logo.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520NUST%2520LOGO%2520%25281%2529.png"
   },
   "longitude": 73.04788479999999,
   "picture": {
