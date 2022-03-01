@@ -1870,21 +1870,6 @@
  },
  {
   "active": true,
-  "city": "New York",
-  "country": "US",
-  "id": 1267,
-  "hide_country_info": false,
-  "latitude": 40.7127753,
-  "logo": {},
-  "longitude": -74.0059728,
-  "picture": {},
-  "state": "NY",
-  "title": "GDG Flushing",
-  "relative_url": "/gdg-flushing/",
-  "url": "https://gdg.community.dev/gdg-flushing/"
- },
- {
-  "active": true,
   "city": "Fremont",
   "country": "US",
   "id": 546,
@@ -2890,6 +2875,21 @@
   "title": "GDG Provo",
   "relative_url": "/gdg-provo/",
   "url": "https://gdg.community.dev/gdg-provo/"
+ },
+ {
+  "active": true,
+  "city": "New York",
+  "country": "US",
+  "id": 1267,
+  "hide_country_info": false,
+  "latitude": 40.7127753,
+  "logo": {},
+  "longitude": -74.0059728,
+  "picture": {},
+  "state": "NY",
+  "title": "GDG Queens",
+  "relative_url": "/gdg-queens/",
+  "url": "https://gdg.community.dev/gdg-queens/"
  },
  {
   "active": true,
