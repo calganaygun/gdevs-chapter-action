@@ -1855,6 +1855,21 @@
  },
  {
   "active": true,
+  "city": "Toronto",
+  "country": "CA",
+  "id": 1269,
+  "hide_country_info": false,
+  "latitude": 43.653226,
+  "logo": {},
+  "longitude": -79.3831843,
+  "picture": {},
+  "state": "ON",
+  "title": "GDG Etobicoke",
+  "relative_url": "/gdg-etobicoke/",
+  "url": "https://gdg.community.dev/gdg-etobicoke/"
+ },
+ {
+  "active": true,
   "city": "Fargo",
   "country": "US",
   "id": 1178,
