@@ -1862,7 +1862,14 @@
   "latitude": 43.653226,
   "logo": {},
   "longitude": -79.3831843,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/A44AA89B-5CA1-46E0-8131-05A05D338ED5.png",
+   "path": "chapter_banners/A44AA89B-5CA1-46E0-8131-05A05D338ED5.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/A44AA89B-5CA1-46E0-8131-05A05D338ED5.png"
+  },
   "state": "ON",
   "title": "GDG Etobicoke",
   "relative_url": "/gdg-etobicoke/",
@@ -9231,9 +9238,23 @@
   "id": 342,
   "hide_country_info": false,
   "latitude": 40.29,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/logo_gdg_covilha_quad.png",
+   "path": "chapter_banners/logo_gdg_covilha_quad.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/logo_gdg_covilha_quad.png"
+  },
   "longitude": -7.51,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/logo_gdg_covilha.jpg",
+   "path": "chapter_banners/logo_gdg_covilha.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/logo_gdg_covilha.jpg"
+  },
   "state": "",
   "title": "GDG Covilhã",
   "relative_url": "/gdg-covilha/",
