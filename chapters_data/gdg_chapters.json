@@ -5208,7 +5208,14 @@
   "latitude": -7.12,
   "logo": {},
   "longitude": -34.86,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/IMG_4593.JPG",
+   "path": "chapter_banners/IMG_4593.JPG",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/IMG_4593.JPG"
+  },
   "state": "",
   "title": "GDG João Pessoa",
   "relative_url": "/gdg-joao-pessoa/",
