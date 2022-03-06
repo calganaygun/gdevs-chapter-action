@@ -13321,7 +13321,14 @@
   "id": 1767,
   "hide_country_info": false,
   "latitude": 30.4277547,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSCUIZ_logo_4_4.png",
+   "path": "chapter_banners/GDSCUIZ_logo_4_4.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSCUIZ_logo_4_4.png"
+  },
   "longitude": -9.5981072,
   "picture": {},
   "state": "",
@@ -27047,7 +27054,14 @@
   "id": 547,
   "hide_country_info": false,
   "latitude": 24.9936281,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/ncuicon.png",
+   "path": "chapter_banners/ncuicon.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/ncuicon.png"
+  },
   "longitude": 121.3009798,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC00363.JPG",
