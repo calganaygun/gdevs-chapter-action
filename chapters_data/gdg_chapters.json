@@ -3595,6 +3595,21 @@
  },
  {
   "active": true,
+  "city": "Troy",
+  "country": "US",
+  "id": 1272,
+  "hide_country_info": false,
+  "latitude": 31.8087678,
+  "logo": {},
+  "longitude": -85.969951,
+  "picture": {},
+  "state": "AL",
+  "title": "GDG Troy",
+  "relative_url": "/gdg-troy/",
+  "url": "https://gdg.community.dev/gdg-troy/"
+ },
+ {
+  "active": true,
   "city": "Tucson",
   "country": "US",
   "id": 948,
@@ -15741,6 +15756,21 @@
  },
  {
   "active": true,
+  "city": "Egbe",
+  "country": "NG",
+  "id": 1270,
+  "hide_country_info": false,
+  "latitude": 8.2192683,
+  "logo": {},
+  "longitude": 5.5066242,
+  "picture": {},
+  "state": "KG",
+  "title": "GDG Egbe",
+  "relative_url": "/gdg-egbe/",
+  "url": "https://gdg.community.dev/gdg-egbe/"
+ },
+ {
+  "active": true,
   "city": "Eket",
   "country": "NG",
   "id": 38,
@@ -16588,6 +16618,21 @@
   "title": "GDG Lubumbashi",
   "relative_url": "/gdg-lubumbashi/",
   "url": "https://gdg.community.dev/gdg-lubumbashi/"
+ },
+ {
+  "active": true,
+  "city": "Luweero",
+  "country": "UG",
+  "id": 1271,
+  "hide_country_info": false,
+  "latitude": 0.8404086,
+  "logo": {},
+  "longitude": 32.497668,
+  "picture": {},
+  "state": "Central Region",
+  "title": "GDG Luwero",
+  "relative_url": "/gdg-luwero/",
+  "url": "https://gdg.community.dev/gdg-luwero/"
  },
  {
   "active": true,

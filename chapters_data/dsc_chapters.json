@@ -18320,12 +18320,12 @@
   },
   "longitude": 15.827659,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/images%2520%25286%2529_VgnwvAC.png",
-   "path": "chapter_banners/images (6)_VgnwvAC.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/batiment-ULC-Icam.png",
+   "path": "chapter_banners/batiment-ULC-Icam.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/images%2520%25286%2529_VgnwvAC.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/batiment-ULC-Icam.png"
   },
   "state": "",
   "title": "ULC-Icam",
@@ -30718,7 +30718,14 @@
   "latitude": 30.3397809,
   "logo": {},
   "longitude": 76.3868797,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/avca.jpeg",
+   "path": "chapter_banners/avca.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/avca.jpeg"
+  },
   "state": "",
   "title": "Thapar Institute of Engineering and Technology - Patiala",
   "relative_url": "/thapar-institute-of-engineering-and-technology-patiala/",
