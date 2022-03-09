@@ -3602,7 +3602,14 @@
   "latitude": 31.8087678,
   "logo": {},
   "longitude": -85.969951,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/177B5047-CE38-4D66-AFA2-AC56DCFADF71.jpeg",
+   "path": "chapter_banners/177B5047-CE38-4D66-AFA2-AC56DCFADF71.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/177B5047-CE38-4D66-AFA2-AC56DCFADF71.jpeg"
+  },
   "state": "AL",
   "title": "GDG Troy",
   "relative_url": "/gdg-troy/",
@@ -6895,6 +6902,21 @@
   "title": "GDG Aden",
   "relative_url": "/gdg-aden/",
   "url": "https://gdg.community.dev/gdg-aden/"
+ },
+ {
+  "active": true,
+  "city": "Afyonkarahisar",
+  "country": "TR",
+  "id": 1274,
+  "hide_country_info": false,
+  "latitude": 38.7568852,
+  "logo": {},
+  "longitude": 30.5387038,
+  "picture": {},
+  "state": "Afyonkarahisar",
+  "title": "GDG Afyon",
+  "relative_url": "/gdg-afyon/",
+  "url": "https://gdg.community.dev/gdg-afyon/"
  },
  {
   "active": true,
@@ -15987,6 +16009,21 @@
  },
  {
   "active": true,
+  "city": "Hargeisa",
+  "country": "SO",
+  "id": 1276,
+  "hide_country_info": false,
+  "latitude": 9.562389,
+  "logo": {},
+  "longitude": 44.0770134,
+  "picture": {},
+  "state": "Woqooyi Galbeed",
+  "title": "GDG Hargeisa",
+  "relative_url": "/gdg-hargeisa/",
+  "url": "https://gdg.community.dev/gdg-hargeisa/"
+ },
+ {
+  "active": true,
   "city": "Ibadan",
   "country": "NG",
   "id": 851,
@@ -19834,6 +19871,21 @@
   "title": "GDG Kabul",
   "relative_url": "/gdg-kabul/",
   "url": "https://gdg.community.dev/gdg-kabul/"
+ },
+ {
+  "active": true,
+  "city": "Kanpur",
+  "country": "IN",
+  "id": 1275,
+  "hide_country_info": false,
+  "latitude": 26.449923,
+  "logo": {},
+  "longitude": 80.3318736,
+  "picture": {},
+  "state": "UP",
+  "title": "GDG Kanpur",
+  "relative_url": "/gdg-kanpur/",
+  "url": "https://gdg.community.dev/gdg-kanpur/"
  },
  {
   "active": true,

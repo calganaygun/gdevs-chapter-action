@@ -31115,21 +31115,6 @@
  },
  {
   "active": true,
-  "city": "Tokyo",
-  "country": "JP",
-  "id": 1645,
-  "hide_country_info": false,
-  "latitude": 35.6761919,
-  "logo": {},
-  "longitude": 139.6503106,
-  "picture": {},
-  "state": "",
-  "title": "Tokyo Institute of Technology",
-  "relative_url": "/tokyo-institute-of-technology/",
-  "url": "https://gdsc.community.dev/tokyo-institute-of-technology/"
- },
- {
-  "active": true,
   "city": "Hino",
   "country": "JP",
   "id": 1527,
