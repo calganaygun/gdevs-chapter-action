@@ -6595,6 +6595,21 @@
  },
  {
   "active": true,
+  "city": "Tepic",
+  "country": "MX",
+  "id": 1277,
+  "hide_country_info": false,
+  "latitude": 21.5041651,
+  "logo": {},
+  "longitude": -104.8945887,
+  "picture": {},
+  "state": "Nay.",
+  "title": "GDG Tepic",
+  "relative_url": "/gdg-tepic/",
+  "url": "https://gdg.community.dev/gdg-tepic/"
+ },
+ {
+  "active": true,
   "city": "Toledo",
   "country": "BR",
   "id": 468,
