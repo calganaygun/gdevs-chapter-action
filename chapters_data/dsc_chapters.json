@@ -3975,12 +3975,12 @@
   "logo": {},
   "longitude": -49.2648114,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Captura_de_Tela_2021-10-20_a%25CC%2580s_14.12.10.png",
-   "path": "chapter_banners/Captura_de_Tela_2021-10-20_às_14.12.10.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/15522647911_a854481806_k.jpg",
+   "path": "chapter_banners/15522647911_a854481806_k.jpg",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Captura_de_Tela_2021-10-20_a%25CC%2580s_14.12.10.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/15522647911_a854481806_k.jpg"
   },
   "state": "",
   "title": "Federal University of Goiás",
@@ -23060,7 +23060,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_hQTvYIR.png"
   },
   "longitude": 83.6493806,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GMRIT-2.jpg",
+   "path": "chapter_banners/GMRIT-2.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GMRIT-2.jpg"
+  },
   "state": "",
   "title": "GMR Institute of Technology - Razam",
   "relative_url": "/gmr-institute-of-technology-razam/",
