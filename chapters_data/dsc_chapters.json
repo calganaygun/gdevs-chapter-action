@@ -32088,21 +32088,6 @@
  },
  {
   "active": true,
-  "city": "Serdang",
-  "country": "MY",
-  "id": 1737,
-  "hide_country_info": false,
-  "latitude": 28.5469663,
-  "logo": {},
-  "longitude": -81.3793527,
-  "picture": {},
-  "state": "",
-  "title": "Universiti Putra Malaysia",
-  "relative_url": "/universiti-putra-malaysia/",
-  "url": "https://gdsc.community.dev/universiti-putra-malaysia/"
- },
- {
-  "active": true,
   "city": "Georgetown, Penang",
   "country": "MY",
   "id": 403,

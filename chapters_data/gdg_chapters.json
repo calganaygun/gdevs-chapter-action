@@ -18347,6 +18347,21 @@
  },
  {
   "active": true,
+  "city": "Changhua City",
+  "country": "TW",
+  "id": 1278,
+  "hide_country_info": false,
+  "latitude": 24.0889788,
+  "logo": {},
+  "longitude": 120.5566917,
+  "picture": {},
+  "state": "",
+  "title": "GDG Changhua",
+  "relative_url": "/gdg-changhua/",
+  "url": "https://gdg.community.dev/gdg-changhua/"
+ },
+ {
+  "active": true,
   "city": "Changji",
   "country": "CN",
   "id": 616,
