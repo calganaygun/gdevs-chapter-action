@@ -5880,7 +5880,14 @@
   "latitude": 41.3245904,
   "logo": {},
   "longitude": 19.4564686,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202022-03-08%2520at%252010.17.35%2520AM.jpeg",
+   "path": "chapter_banners/WhatsApp Image 2022-03-08 at 10.17.35 AM.jpeg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202022-03-08%2520at%252010.17.35%2520AM.jpeg"
+  },
   "state": "",
   "title": "Aleksander Moisiu University of Durres",
   "relative_url": "/aleksander-moisiu-university-of-durres/",
@@ -19423,8 +19430,8 @@
   "title": "École Nationale Polytechnique de Douala",
   "relative_url": "/ecole-nationale-polytechnique-de-douala/",
   "url": "https://gdsc.community.dev/ecole-nationale-polytechnique-de-douala/"
- },
- {
+ }
+] {
   "active": true,
   "city": "Anand",
   "country": "IN",

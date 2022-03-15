@@ -18354,7 +18354,14 @@
   "latitude": 24.0889788,
   "logo": {},
   "longitude": 120.5566917,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%25E5%25BD%25B0%25E5%258C%2596_GDG%25E5%2584%2580%25E8%25A1%25A8%25E6%259D%25BF%25E5%25B0%2581%25E9%259D%25A2.png",
+   "path": "chapter_banners/GDG彰化_GDG儀表板封面.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%25E5%25BD%25B0%25E5%258C%2596_GDG%25E5%2584%2580%25E8%25A1%25A8%25E6%259D%25BF%25E5%25B0%2581%25E9%259D%25A2.png"
+  },
   "state": "",
   "title": "GDG Changhua",
   "relative_url": "/gdg-changhua/",
@@ -21262,7 +21269,14 @@
   "latitude": 41.3,
   "logo": {},
   "longitude": 69.24,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/2K2A3459.JPG",
+   "path": "chapter_banners/2K2A3459.JPG",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/2K2A3459.JPG"
+  },
   "state": "",
   "title": "GDG Tashkent",
   "relative_url": "/gdg-tashkent/",
