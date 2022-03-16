@@ -2335,7 +2335,14 @@
   "id": 1377,
   "hide_country_info": false,
   "latitude": 35.9606384,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Screen%2520Shot%25202022-03-15%2520at%252010.38.19%2520PM.png",
+   "path": "chapter_banners/Screen Shot 2022-03-15 at 10.38.19 PM.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Screen%2520Shot%25202022-03-15%2520at%252010.38.19%2520PM.png"
+  },
   "longitude": -83.9207392,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/smokey.jpeg",
@@ -19430,8 +19437,8 @@
   "title": "École Nationale Polytechnique de Douala",
   "relative_url": "/ecole-nationale-polytechnique-de-douala/",
   "url": "https://gdsc.community.dev/ecole-nationale-polytechnique-de-douala/"
- }
-] {
+ },
+ {
   "active": true,
   "city": "Anand",
   "country": "IN",

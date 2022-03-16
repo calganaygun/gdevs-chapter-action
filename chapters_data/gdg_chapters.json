@@ -6023,6 +6023,21 @@
  },
  {
   "active": true,
+  "city": "Poços de Caldas",
+  "country": "BR",
+  "id": 1279,
+  "hide_country_info": false,
+  "latitude": -21.7853787,
+  "logo": {},
+  "longitude": -46.5619303,
+  "picture": {},
+  "state": "MG",
+  "title": "GDG Poços de Caldas",
+  "relative_url": "/gdg-pocos-de-caldas/",
+  "url": "https://gdg.community.dev/gdg-pocos-de-caldas/"
+ },
+ {
+  "active": true,
   "city": "Puerto Morelos",
   "country": "MX",
   "id": 1160,
