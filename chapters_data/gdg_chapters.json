@@ -12317,7 +12317,14 @@
   "latitude": 52.03,
   "logo": {},
   "longitude": 8.53,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdgOWLmeetup_pc7aaFv.png",
+   "path": "chapter_banners/gdgOWLmeetup_pc7aaFv.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/gdgOWLmeetup_pc7aaFv.png"
+  },
   "state": "",
   "title": "GDG Ostwestfalen-Lippe",
   "relative_url": "/gdg-ostwestfalen-lippe/",
@@ -19953,9 +19960,23 @@
   "id": 1275,
   "hide_country_info": false,
   "latitude": 26.449923,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG_KanpurLogo.png",
+   "path": "chapter_banners/GDG_KanpurLogo.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG_KanpurLogo.png"
+  },
   "longitude": 80.3318736,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDGKanpur_Banner2.png",
+   "path": "chapter_banners/GDGKanpur_Banner2.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDGKanpur_Banner2.png"
+  },
   "state": "UP",
   "title": "GDG Kanpur",
   "relative_url": "/gdg-kanpur/",
