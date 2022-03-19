@@ -15728,7 +15728,14 @@
   "id": 724,
   "hide_country_info": false,
   "latitude": -0.322865,
-  "logo": {},
+  "logo": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/FlutterFestival_Thumbnail_Dark_1080x1080.jpg",
+   "path": "chapter_banners/FlutterFestival_Thumbnail_Dark_1080x1080.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/FlutterFestival_Thumbnail_Dark_1080x1080.jpg"
+  },
   "longitude": 37.6546274,
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/twitter_gvwYw0b.png",
@@ -21805,12 +21812,12 @@
   "hide_country_info": false,
   "latitude": 9.672948,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_r7GAkoi.png",
-   "path": "chapter_banners/Copy of dsc-ecosystem-profilepicture-linkedin_r7GAkoi.png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Capture_IUp9YaW.JPG",
+   "path": "chapter_banners/Capture_IUp9YaW.JPG",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Copy%2520of%2520dsc-ecosystem-profilepicture-linkedin_r7GAkoi.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Capture_IUp9YaW.JPG"
   },
   "longitude": 123.8730022,
   "picture": {
