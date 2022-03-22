@@ -4296,6 +4296,21 @@
  },
  {
   "active": true,
+  "city": "Chihuahua",
+  "country": "MX",
+  "id": 1281,
+  "hide_country_info": false,
+  "latitude": 28.6329957,
+  "logo": {},
+  "longitude": -106.0691004,
+  "picture": {},
+  "state": "Chih.",
+  "title": "GDG Chihuahua",
+  "relative_url": "/gdg-chihuahua/",
+  "url": "https://gdg.community.dev/gdg-chihuahua/"
+ },
+ {
+  "active": true,
   "city": "Chimbote",
   "country": "PE",
   "id": 182,
@@ -4359,6 +4374,21 @@
   "title": "GDG Cloud Bogotá",
   "relative_url": "/gdg-cloud-bogota/",
   "url": "https://gdg.community.dev/gdg-cloud-bogota/"
+ },
+ {
+  "active": true,
+  "city": "Buenos Aires",
+  "country": "AR",
+  "id": 1280,
+  "hide_country_info": false,
+  "latitude": -34.6036844,
+  "logo": {},
+  "longitude": -58.3815591,
+  "picture": {},
+  "state": "CABA",
+  "title": "GDG Cloud Buenos Aires",
+  "relative_url": "/gdg-cloud-buenos-aires/",
+  "url": "https://gdg.community.dev/gdg-cloud-buenos-aires/"
  },
  {
   "active": true,
@@ -18377,12 +18407,12 @@
   "logo": {},
   "longitude": 120.5566917,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%25E5%25BD%25B0%25E5%258C%2596_GDG%25E5%2584%2580%25E8%25A1%25A8%25E6%259D%25BF%25E5%25B0%2581%25E9%259D%25A2%2520%25282%2529.png",
-   "path": "chapter_banners/GDG彰化_GDG儀表板封面 (2).png",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDG%25E5%25BD%25B0%25E5%258C%2596_%25E5%25B0%2581%25E9%259D%25A2%2520%25281%2529.png",
+   "path": "chapter_banners/GDG彰化_封面 (1).png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%25E5%25BD%25B0%25E5%258C%2596_GDG%25E5%2584%2580%25E8%25A1%25A8%25E6%259D%25BF%25E5%25B0%2581%25E9%259D%25A2%2520%25282%2529.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDG%25E5%25BD%25B0%25E5%258C%2596_%25E5%25B0%2581%25E9%259D%25A2%2520%25281%2529.png"
   },
   "state": "",
   "title": "GDG Changhua",
