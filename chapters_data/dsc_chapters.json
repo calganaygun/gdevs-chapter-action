@@ -19474,22 +19474,15 @@
   "hide_country_info": false,
   "latitude": 22.5645175,
   "logo": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202020-08-25%2520at%25201.47.11%2520PM.jpeg",
-   "path": "chapter_banners/WhatsApp Image 2020-08-25 at 1.47.11 PM.jpeg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520A.%2520D.%2520Patel%2520Institute%2520of%2520Technology%2520vertical%2520color%2520%25282%2529.png",
+   "path": "chapter_banners/GDSC A. D. Patel Institute of Technology vertical color (2).png",
    "thumbnail_width": 400,
    "thumbnail_height": 400,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-dsc/chapter_banners/WhatsApp%2520Image%25202020-08-25%2520at%25201.47.11%2520PM.jpeg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_400,q_auto:good,w_400/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520A.%2520D.%2520Patel%2520Institute%2520of%2520Technology%2520vertical%2520color%2520%25282%2529.png"
   },
   "longitude": 72.928871,
-  "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520A%2520D%2520PATEL%2520INSTITUTE%2520OF%2520TECHNOLOGY%2520Light%2520Vertical-Logo.png",
-   "path": "chapter_banners/DSC A D PATEL INSTITUTE OF TECHNOLOGY Light Vertical-Logo.png",
-   "thumbnail_width": 1280,
-   "thumbnail_height": 720,
-   "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-dsc/chapter_banners/DSC%2520A%2520D%2520PATEL%2520INSTITUTE%2520OF%2520TECHNOLOGY%2520Light%2520Vertical-Logo.png"
-  },
+  "picture": {},
   "state": "",
   "title": "A.D. Patel Institute of Technology - Anand",
   "relative_url": "/ad-patel-institute-of-technology-anand/",
@@ -19522,10 +19515,10 @@
   "picture": {
    "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%2520from%25202020-08-31%252017-33-09.png",
    "path": "chapter_banners/Screenshot from 2020-08-31 17-33-09.png",
-   "thumbnail_width": 200,
-   "thumbnail_height": 200,
+   "thumbnail_width": 1280,
+   "thumbnail_height": 720,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%2520from%25202020-08-31%252017-33-09.png"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_720,q_auto:good,w_1280/v1/gcs/platform-data-dsc/chapter_banners/Screenshot%2520from%25202020-08-31%252017-33-09.png"
   },
   "state": "",
   "title": "ABES Institute of Technology - Ghaziabad",

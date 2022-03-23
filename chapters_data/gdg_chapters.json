@@ -5724,12 +5724,12 @@
   "logo": {},
   "longitude": -56.17,
   "picture": {
-   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/600x200.jpg",
-   "path": "chapter_banners/600x200.jpg",
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/GDGMVDBAnner.png",
+   "path": "chapter_banners/GDGMVDBAnner.png",
    "thumbnail_width": 200,
    "thumbnail_height": 200,
    "thumbnail_format": "auto",
-   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/600x200.jpg"
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/GDGMVDBAnner.png"
   },
   "state": "",
   "title": "GDG Montevideo",
@@ -6844,6 +6844,21 @@
   "title": "GDG Xela",
   "relative_url": "/gdg-xela/",
   "url": "https://gdg.community.dev/gdg-xela/"
+ },
+ {
+  "active": true,
+  "city": "Milan",
+  "country": "IT",
+  "id": 1046,
+  "hide_country_info": false,
+  "latitude": 45.4642035,
+  "logo": {},
+  "longitude": 9.189982,
+  "picture": {},
+  "state": "Lombardy",
+  "title": "Developer Ecosystem - Europe Team",
+  "relative_url": "/developer-ecosystem-europe-team/",
+  "url": "https://gdg.community.dev/developer-ecosystem-europe-team/"
  },
  {
   "active": true,
@@ -18515,6 +18530,21 @@
   "title": "GDG Cloud Ahmedabad",
   "relative_url": "/gdg-cloud-ahmedabad/",
   "url": "https://gdg.community.dev/gdg-cloud-ahmedabad/"
+ },
+ {
+  "active": true,
+  "city": "Auckland",
+  "country": "NZ",
+  "id": 59,
+  "hide_country_info": false,
+  "latitude": -36.85,
+  "logo": {},
+  "longitude": 174.76,
+  "picture": {},
+  "state": "",
+  "title": "GDG Cloud Auckland",
+  "relative_url": "/gdg-cloud-auckland/",
+  "url": "https://gdg.community.dev/gdg-cloud-auckland/"
  },
  {
   "active": true,
