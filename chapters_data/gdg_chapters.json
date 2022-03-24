@@ -4788,6 +4788,21 @@
  },
  {
   "active": true,
+  "city": "Cáceres",
+  "country": "BR",
+  "id": 1283,
+  "hide_country_info": false,
+  "latitude": -16.0664933,
+  "logo": {},
+  "longitude": -57.6845017,
+  "picture": {},
+  "state": "MT",
+  "title": "GDG Cáceres",
+  "relative_url": "/gdg-caceres/",
+  "url": "https://gdg.community.dev/gdg-caceres/"
+ },
+ {
+  "active": true,
   "city": "Córdoba",
   "country": "AR",
   "id": 183,
@@ -10288,7 +10303,14 @@
   "latitude": 36.58,
   "logo": {},
   "longitude": 36.17,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/Resim15.jpg",
+   "path": "chapter_banners/Resim15.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/Resim15.jpg"
+  },
   "state": "",
   "title": "GDG Hatay",
   "relative_url": "/gdg-hatay/",
@@ -19012,6 +19034,21 @@
   "title": "GDG Cloud Mumbai",
   "relative_url": "/gdg-cloud-mumbai/",
   "url": "https://gdg.community.dev/gdg-cloud-mumbai/"
+ },
+ {
+  "active": true,
+  "city": "Mysuru",
+  "country": "IN",
+  "id": 1282,
+  "hide_country_info": false,
+  "latitude": 12.2958104,
+  "logo": {},
+  "longitude": 76.6393805,
+  "picture": {},
+  "state": "KA",
+  "title": "GDG Cloud Mysuru",
+  "relative_url": "/gdg-cloud-mysuru/",
+  "url": "https://gdg.community.dev/gdg-cloud-mysuru/"
  },
  {
   "active": true,
