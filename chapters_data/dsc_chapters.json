@@ -23417,7 +23417,14 @@
    "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/GDSC%2520Government%2520Engineering%2520College%2520-%2520Gandhinagar%2520vertical%2520color_UxGSfK3.png"
   },
   "longitude": 72.63694149999999,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/chapter_banners/header.png",
+   "path": "chapter_banners/header.png",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-dsc/chapter_banners/header.png"
+  },
   "state": "",
   "title": "Government Engineering College - Gandhinagar",
   "relative_url": "/government-engineering-college-gandhinagar/",

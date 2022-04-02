@@ -393,7 +393,14 @@
   "latitude": 28.54,
   "logo": {},
   "longitude": -81.37,
-  "picture": {},
+  "picture": {
+   "url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/chapter_banners/PANO_20191116_094111.vr.jpg",
+   "path": "chapter_banners/PANO_20191116_094111.vr.jpg",
+   "thumbnail_width": 200,
+   "thumbnail_height": 200,
+   "thumbnail_format": "auto",
+   "thumbnail_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fit,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/chapter_banners/PANO_20191116_094111.vr.jpg"
+  },
   "state": "FL",
   "title": "GDG Central Florida",
   "relative_url": "/gdg-central-florida/",
