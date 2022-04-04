@@ -25996,21 +25996,6 @@
  },
  {
   "active": true,
-  "city": "Higashiosaka",
-  "country": "JP",
-  "id": 1888,
-  "hide_country_info": false,
-  "latitude": 34.6792862,
-  "logo": {},
-  "longitude": 135.600851,
-  "picture": {},
-  "state": "",
-  "title": "Kindai University",
-  "relative_url": "/kindai-university/",
-  "url": "https://gdsc.community.dev/kindai-university/"
- },
- {
-  "active": true,
   "city": "Bangkok",
   "country": "TH",
   "id": 494,
