@@ -6471,6 +6471,21 @@
  },
  {
   "active": true,
+  "city": "São João del Rei",
+  "country": "BR",
+  "id": 1287,
+  "hide_country_info": false,
+  "latitude": -21.1362111,
+  "logo": {},
+  "longitude": -44.2576421,
+  "picture": {},
+  "state": "MG",
+  "title": "GDG Sao Joao del Rei",
+  "relative_url": "/gdg-sao-joao-del-rei/",
+  "url": "https://gdg.community.dev/gdg-sao-joao-del-rei/"
+ },
+ {
+  "active": true,
   "city": "Sinop, Mato Grosso",
   "country": "BR",
   "id": 1214,
