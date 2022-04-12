@@ -19042,6 +19042,21 @@
  },
  {
   "active": true,
+  "city": "Kochi",
+  "country": "IN",
+  "id": 1289,
+  "hide_country_info": false,
+  "latitude": 9.9312328,
+  "logo": {},
+  "longitude": 76.26730409999999,
+  "picture": {},
+  "state": "KL",
+  "title": "GDG Cloud Kochi",
+  "relative_url": "/gdg-cloud-kochi/",
+  "url": "https://gdg.community.dev/gdg-cloud-kochi/"
+ },
+ {
+  "active": true,
   "city": "Kolkata",
   "country": "IN",
   "id": 311,
@@ -19664,6 +19679,21 @@
   "title": "GDG Guangzhou",
   "relative_url": "/gdg-guangzhou/",
   "url": "https://gdg.community.dev/gdg-guangzhou/"
+ },
+ {
+  "active": true,
+  "city": "Gurugram",
+  "country": "IN",
+  "id": 1288,
+  "hide_country_info": false,
+  "latitude": 28.4594965,
+  "logo": {},
+  "longitude": 77.0266383,
+  "picture": {},
+  "state": "HR",
+  "title": "GDG Gurugram",
+  "relative_url": "/gdg-gurugram/",
+  "url": "https://gdg.community.dev/gdg-gurugram/"
  },
  {
   "active": true,
