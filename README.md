@@ -1,4 +1,4 @@
-# Google Developers Chapter List Action
+# Google Developers Chapter List Action [STOPPED]
 
 This project fetches [community.dev](https://gdg.community.dev/). Updates [Algolia](https://www.algolia.com/) search indices, automatically creates JSON files of chapter lists.
 
